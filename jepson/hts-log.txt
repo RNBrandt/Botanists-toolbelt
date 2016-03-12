@@ -1,0 +1,29 @@
+HTTrack3.48-21+htsswf+htsjava launched on Fri, 11 Mar 2016 08:42:50 at http://ucjeps.berkeley.edu/IJM_fam_key.html +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe
+(winhttrack -qwC2%Ps2u1%s%uN0%Ip7DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "en, *" http://ucjeps.berkeley.edu/IJM_fam_key.html -O1 "C:\My Web Sites\Jepson" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:42:50	Warning: 	Note: due to ucjeps.berkeley.edu remote robots.txt rules, links beginning with these path will be forbidden: /EFT.html, /efc_browse_tax.html, /cgi-bin/porp_cgi.pl, /cgi-bin/grab_kwid.pl, /cgi-bin/disp_refs.pl, /cgi-bin/display_fb.pl, /cgi-bin/new_detail.pl, /cgi-bin/get_BEX.pl, /cgi-bin/BEX_detail.pl, /cgi-bin/get_bex.pl, /cgi-bin/DT.pl, /cgi-bin/get_consort.pl, /cgi-bin/GTV.pl, /ina/images/, /tjm2/, /people/markos.html, /fna_cal.html, /abis/, /tmp/, /region_page.html, /sci-draft.html, /sci-draft-tree.html, /where_filed.html, /smasch_dist/, /cgi-bin/get_cpn.pl, /cgi-bin/disp_types.pl, /cgi-bin/asq.pl, /cgi-bin/autlook, /cgi-bin/BDB.pl, /cgi-bin/calendar, /cgi-bin/chc_comment.pl, /cgi-bin/chc_test.pl, /cgi-bin/constancea_sub.pl, /cgi-bin/countyrec.pl, /cgi-bin/display_smasch_img.pl, /cgi-bin/disp_types.pl, /cgi-bin/disp_types.tmp, /cgi-bin/draw_jmap.pl, /cgi-bin/ent_comm.pl, /cgi-bin/exg, /cgi-bin/gem.pl, /cgi-bin/genus_to_family, /cgi-bin/get_1994, /cgi-bin/get_chc_bare.pl, /cgi-bin/get_chc.pl, /cgi-bin/get_cn2_hort.pl, /cgi-bin/get_cn2.pl, /cgi-bin/get_cn_hort.pl, /cgi-bin/get_cn.pl, /cgi-bin/get_county_by_tid.pl, /cgi-bin/get_cpn.pl, /cgi-bin/getent, /cgi-bin/get_hort_2.pl, /cgi-bin/get_hort.pl, /cgi-bin/get_htree, /cgi-bin/get_htree2, /cgi-bin/getimage, /cgi-bin/get_key.pl, /cgi-bin/get_pr_image.pl, /cgi-bin/getref, /cgi-bin/getrefs, /cgi-bin/get_sci_tree, /cgi-bin/get_smasch_county_dist.pl, /cgi-bin/get_xw4.pl, /cgi-bin/gft.pl, /cgi-bin/ioc_comm.pl, /cgi-bin/JM_get_list.pl, /cgi-bin/JM_get_u.pl, /cgi-bin/JMmail.pl, /cgi-bin/JM_map.pl, /cgi-bin/JM_subm, /cgi-bin/JM_UD_list.pl, /cgi-bin/LN2C_hort.pl, /cgi-bin/LN2C_nofam, /cgi-bin/LN2C.pl, /cgi-bin/loanform.pl, /cgi-bin/maffi_cgi, /cgi-bin/make_csv.pl, /cgi-bin/make_loan_page.pl, /cgi-bin/new_mac.pl, /cgi-bin/newsp, /cgi-bin/nph-test-cgi, /cgi-bin/page_sub.pl, /cgi-bin/peet_form.pl, /cgi-bin/region_list.pl, /cgi-bin/scancit, /cgi-bin/sean_treat7.pl, /cgi-bin/sean_treat8.pl, /cgi-bin/sean_treat.pl, /cgi-bin/search_AFC.pl, /cgi-bin/search_ferns.pl, /cgi-bin/search_ina.pl, /cgi-bin/searchpub.pl, /cgi-bin/send_pdf.pl, /cgi-bin/slideviewer.cgi, /cgi-bin/sv.pl, /bryolab/ABLS/, /wkshpinfo.html, /jltemp.html, /rlmoe/r-node.html, /rlmoe/cals_addresses.html, /rlmoe/cals_lichen_sites.html, /rlmoe/cals_membership.html, /rlmoe/autsA-Z.html, /rlmoe/catlook.html, /rlmoe/comments.html, /rlmoe/diacritcheck.html, /rlmoe/dump.html, /rlmoe/inathome.html, /rlmoe/index.html, /rlmoe/refs.html, /rlmoe/searchlook.html, /rlmoe/sl.html, /rlmoe/testglos.html, /rlmoe/testtoc.html (see in the options to disable this)
+08:43:07	Warning: 	Link ucjeps.berkeley.edu/jeps/ not scanned (follow robots meta tag)
+08:53:31	Warning: 	Link ucjeps.berkeley.edu/main/collections.html not scanned (follow robots meta tag)
+08:53:45	Warning: 	Link ucjeps.berkeley.edu/main/guidelines.html not scanned (follow robots meta tag)
+08:53:45	Warning: 	Link ucjeps.berkeley.edu/main/volunteer.html not scanned (follow robots meta tag)
+08:53:45	Warning: 	Link ucjeps.berkeley.edu/main/policies.html not scanned (follow robots meta tag)
+08:53:45	Warning: 	Link ucjeps.berkeley.edu/history/ not scanned (follow robots meta tag)
+08:53:45	Warning: 	Link ucjeps.berkeley.edu/main/research/ not scanned (follow robots meta tag)
+08:53:45	Warning: 	Link ucjeps.berkeley.edu/main/research/faculty.html not scanned (follow robots meta tag)
+08:57:36	Warning: 	Link ucjeps.berkeley.edu/main/databases.html not scanned (follow robots meta tag)
+08:57:36	Warning: 	Link ucjeps.berkeley.edu/consortium/ not scanned (follow robots meta tag)
+10:02:47	Warning: 	Link ucjeps.berkeley.edu/db/JPNI.html not scanned (follow robots meta tag)
+10:02:47	Warning: 	Link ucjeps.berkeley.edu/efloras.html not scanned (follow robots meta tag)
+10:04:07	Warning: 	Link ucjeps.berkeley.edu/main/education.html not scanned (follow robots meta tag)
+10:04:37	Warning: 	Link ucjeps.berkeley.edu/main/opportunities.html not scanned (follow robots meta tag)
+10:12:43	Error: 	Exit requested by shell or user
+10:12:43	Error: 	Exit requested by shell or user
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

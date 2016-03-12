@@ -1,0 +1,8 @@
+-qwC2%Ps2u1%s%uN0%Ip7DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "" -%l "en, *" http://ucjeps.berkeley.edu/IJM_fam_key.html -O1 "C:\My Web Sites\Jepson" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe
+File generated automatically on Fri, 11 Mar 2016 08:42:50, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

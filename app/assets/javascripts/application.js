@@ -18,22 +18,56 @@
 //= require_tree .
 
 $(function(){ 
-  
+
 
   $(document).foundation();
-  $('#arrowLeft').click(function(){
-    $('#dataCarousel').animate({'margin-left': '-=1720px'}, 1000);
-    // make an ajax request to root/options/12876876
-    // receive a JSON
-    // json = [{id: 123123123, text: "sdfsdfsdfds"}, {id: 123123123, text: "sdfsdfsdfds"}]
-    // populate the divs using JSON data
 
-
+  $('#dataCarousel').on('click', '#arrowLeft', function(e){
+    e.preventDefault();
+    var optionID = $(this).attr('data-id')
+    
+    //Fade out once complete run ajax
+    $('#panel-left').css('border', '4px dotted #ec5840');
+    $("#dataCarousel").animate({opacity: '0'}, function(){
+      // ajax request starts
+      $.ajax({
+        method: "get",
+        url: "/options/" + optionID
+      })
+      .done(function(data) {
+        console.log(data);
+        $("#dataCarousel").html(data).animate({opacity: '1'});
+      })
+      .fail(function() {
+        console.log("fail")
+      })
+      // ajax request ends      
+    });
+    //Fade outAnimation Complete
   });
 
-  $('#arrowRight').click(function(){
-    $('#dataCarousel').animate({'margin-right': '-=1720px'}, 1000);
-    $('#dataCarousel').show()
+  $('#dataCarousel').on('click', '#arrowRight', function(e){
+    e.preventDefault();
+    var optionID = $(this).attr('data-id')
+    
+    //Fade out once complete run ajax
+    $('#panel-right').css('border', '4px dotted #ec5840');
+    $("#dataCarousel").animate({opacity: '0'}, function(){
+      // ajax request starts
+      $.ajax({
+        method: "get",
+        url: "/options/" + optionID
+      })
+      .done(function(data) {
+        console.log(data);
+        $("#dataCarousel").html(data).animate({opacity: '1'});
+      })
+      .fail(function() {
+        console.log("fail")
+      })
+      // ajax request ends      
+    });
+    //Fade outAnimation Complete
   });
   
 

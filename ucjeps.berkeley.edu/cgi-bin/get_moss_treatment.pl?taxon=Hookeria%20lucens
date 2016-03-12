@@ -1,0 +1,207 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>California Moss eFlora treatment for Hookeria lucens</title>
+<meta name="keywords" content="mosses, bryophytes, moss flora. Dan Norris" >
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript">
+function initialize() {
+  var myOptions = {
+    mapTypeId: google.maps.MapTypeId.TERRAIN
+  }
+
+var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+
+
+  var kmlLayer = new google.maps.KmlLayer("http://herbaria4.herb.berkeley.edu/moss_coords/Hookeria_lucens.kml?25614", { });
+  kmlLayer.setMap(map);
+
+}
+
+function JumpToIt(list) {
+    var newPage = list.options[list.selectedIndex].value
+    if (newPage != "None") {
+        location=newPage
+    }
+}
+
+</script>
+
+<style type="text/css" media="screen">
+    #map_canvas {
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+      float: left;
+      width: 490px;
+      height: 680px;
+      padding: 10px;
+    }
+
+</style>
+</head>
+<body onload="initialize()">
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><title>UC Herbarium: Moss eFlora</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/style_main_tjm2.css" rel="stylesheet" type="text/css">
+</head>
+
+<body class="bodyText">
+
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+      <td colspan="5" align="center" valign="middle">&nbsp;</td>
+    </tr>
+
+  <tr>
+      <td rowspan="4" width="12" align="center" valign="middle"></td>
+      <td rowspan="3" width="120" align="center" valign="middle">
+        <a href="http://ucjeps.berkeley.edu/uc/"><img src="http://ucjeps.berkeley.edu/common/images/logo_uc_80.png" alt="University of California [UC]" width="80" height="79" border="0"></a></td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle"></td>
+    <td rowspan="4" width="12" align="center" valign="middle"></td>
+  </tr>
+    <tr>
+
+    <td align="center" valign="middle"><span class="bannerTitle">University Herbarium</span><br></td>
+  </tr>
+
+    <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu/" class="bannerTagLine">University of California, Berkeley</a></td>
+   </tr>
+
+     <tr>
+     <td colspan="3" align="center"></td>
+
+   </tr>
+     
+   <tr>
+       <td height="8" colspan="5" align="center">&nbsp;</td>
+     </tr>
+   <tr class="bannerBottomBorder">
+     	<td colspan="6" height="3"></td>
+  </tr>
+
+    <tr>
+
+    <td colspan="6"><img src="http://ucjeps.berkeley.edu/common/images/common_spacer.gif" alt="" width="1" height="1" border="0"></td>
+  </tr>
+  </tbody></table>
+  <!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+  <table class="horizMenu" width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+    <td height="21" width="640" align="right">
+
+      <a href="http://ucjeps.berkeley.edu/main/directory.html" class="horizMenuActive">Directory</a>
+  	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="http://ucjeps.berkeley.edu/news/" class="horizMenuActive">News</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="http://ucjeps.berkeley.edu/main/sitemap.html" class="horizMenuActive">Site Map</a>	
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="/" class="horizMenuActive">Home</a>	
+    </td>
+
+<td>
+  </td></tr>
+   <tr>
+       <td colspan="6" bgcolor="#9FBFFF"><img src="http://ucjeps.berkeley.edu/common/images/common_spacer.gif" alt="" width="1" height="1" border="0"></td>
+     </tr>
+ </tbody></table>
+
+
+
+
+
+<table border=0 bgcolor="#eeeeee" cellpadding=10 width="100%">
+<tr>
+<td colspan=2>
+<center>
+       <span class="pageName"><font size="5">California Moss eFlora</font></span>
+</center>
+<a href="/cgi-bin/get_moss_treatment.pl?taxon=Homomallium mexicanum">Previous</a> 
+<font size="2">
+/
+</font>
+<a href="/cgi-bin/get_moss_treatment.pl?taxon=Hygroamblystegium tenax">Next</a>
+  <p class="bodyText"><a href="/CA_moss_eflora/">Home</a> &middot;
+      <a href="/CA_moss_eflora/moss_gl.html">List of Genera</a> &middot;
+      <a href="/CA_moss_eflora/general.html">Key to Keys</a> &middot;
+      <a href="/CA_moss_eflora/moss_appendix.html">Accepted Names</a> &middot;
+      <a href="/CA_moss_eflora/moss_appendix_IV.html">Synonyms</a> &middot;
+      <a href="/CA_moss_eflora/moss_beginner.html">For Beginners</a> &middot;
+See also ....
+  <a href="http://ucjeps.berkeley.edu/IJM_geography.html">Subdivisions of CA</a>
+&nbsp;&mdash;&nbsp;
+  <a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora for CA Vascular Plants</a> 
+&nbsp;&mdash;&nbsp;
+<a href="http://ucjeps.berkeley.edu/cgi-bin/get_bex.pl?county=&source=All&taxon_name=Hookeria lucens">Specimen records</a>
+&nbsp;&mdash;&nbsp;
+<a href="#elev_map">Elevation by latitude plot</a>
+&nbsp;&mdash;&nbsp;
+<a href="http://www.tropicos.org/Name/35163644">Tropicos nomenclature</a>
+&nbsp;&mdash;&nbsp;
+<a href="http://calphotos.berkeley.edu/cgi/img_query?&where-genre=Plant&where-taxon=Hookeria lucens">Cal Photos images</a>
+&nbsp;&mdash;&nbsp;
+<a href="http://www.efloras.org/browse.aspx?flora_id=50&name_str=Hookeria lucens&btnSearch=Search">Bryophyte  Flora of North America</a>
+&nbsp;&mdash;&nbsp;
+<a href="http://scholar.google.com/scholar?hl=en&lr=&q=Hookeria lucens+&btnG=Search">Google Scholar</a>
+</P>
+</td></tr>
+
+<tr><th></th><th><i>Hookeria lucens</i> (Hedwig) J. E. Smith [Hookeriaceae]</th></tr>
+<table align="center" BGCOLOR="#eeeeee" cellspacing=10 width="20%">
+<tr>
+<td align="center"><a href="/cgi-bin/display_map_in_frame.pl?hcode=003d000000&taxon=Hookeria lucens"><img src="http://ucjeps.berkeley.edu/cgi-bin/draw_tiny2.pl?003d000000" border="0" alt="map of distribution"></a></td>
+<td align="center"><a href="http://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0811+3091"><IMG src="http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0811/3091.jpeg" width="200"></a></td>
+<td align="center"><center><img src="http://herbaria4.herb.berkeley.edu/drawings/HoLuNorris10293.gif" border=1 align="center" width="200"> </center></td>
+</tr>
+<tr>
+<td></td><td align="center"><font size="2">photo by Wilson of Coleman 508</font></td><td><font size="2">drawing by Montalvo of Norris 10293</font></td>
+</tr>
+</table>
+<blockquote><P>      Plants in loose tufts or mats, very light whitish green.    Stems to 10 cm long, decumbent to erect, sparingly branched with the branches planar.   Leaves to 4.0 mm, 1.5&ndash;3:1, strongly complanate, ovate to elliptic, gradually contracted to a broadly acute or obtuse apex, loosely imbricate and shrunken when dry, little changed when moist.   Margins plane, short decurrent, entire.   Median cells smooth, to 100 &micro;m wide, 2&ndash;4:1, very thin walled and not pitted.   Alar cells shorter and broader than adjacent laminal cells but otherwise little differentiated.   Some cells near the apex differentiated as a patch or as scattered small groups of abruptly smaller, nearly isodiametric rhizoid initials (nematogons).   Marginal cells often somewhat elongate and forming a poorly defined limbidium.   Costa absent.   Pseudoparaphyllia deltoid to orbicular, strongly overarching the bud.   Axillary hairs 2-celled, to 50 &micro;m with no basal brown cells, not offset from leaf insertion.   Rhizoids from leaf apices light green, short and propaguliferous at distally.   Rhizoids from stem sparse, light green, 10&ndash;14 &micro;m, smooth, fascicled in small groups scattered on ventral surface of prostrate stems. 
+<br>&nbsp;&nbsp;&nbsp;Autoicous.   Perigonia and perichaetia close together near base of ascending stem.   Perichaetial bracts ecostate, acuminate from an ovate base, cells similar to those of vegetative leaves.  Seta 1&ndash;2 cm long, long exserted.   Capsule dark brown, inclined to horizontal, not distorted or sulcate when dry, somewhat strangulate.  Urn to 2.5 mm, 2&ndash;3:1.   Exothecial cells short-rectangular to quadrate, 1&ndash;1.5:1 with thick, red-brown walls, stomata on base of urn.  Operculum long-rostrate, about as long as urn.   Exostome horizontally striate below, lightly papillose above, brown.   Endostome segments lightly papillose, open on keel, about as long as exostome with basal membrane about as high as the segments.   Cilia absent.   Spores smooth to minutely papillose, 10&ndash;16 &micro;m. 
+<P>      This is an abundant moss in areas within the low elevation humid coastal forest of Northern California, extending northward to the  Alaskan archipelago.  I have found it once at moderate elevations in the Klamath Mts.   It is absent from eastern North  America but widespread in Europe, North  Africa and the Middle East.   It may grow in regionally dry sites but its microclimate must be continuously wet as it is not very resistant to dehydration.   It is readily recognized by the characters cited in the description of the genus <i>Hookeria</i>, but one should also look in  California for <i><i>Hookeria acutifolia</i></i> (not yet recorded from the state).   This latter species has acute rather than obtuse leaf apices.  In Washington State, <i>H. acutifolia</i> is rarely present in the same sites as <i>H. lucens</i>. 
+</blockquote>
+<a href="mailto:paul.wilson@csun.edu?subject=Hookeria lucens">Mail a correction to Paul Wilson</a>
+
+<table>
+<tr><td valign="top"><b><a href="/cgi-bin/get_moss_refs.pl?ref=Jamieson1969&ref=Koch1950a&ref=Lawton1971&ref=Lesquereux1868&ref=Watson1880&ref=Howe1897">Literature</a></b></td><td>Jamieson 1969; Koch 1950a; Lawton 1971. Misapplied as <i>Hookeria acutifolia</i> Lesquereux 1868; Watson 1880. As <i>Pterygophyllum lucens</i> Howe 1897.</td></tr> <tr><td valign="top"><b><a href="/cgi-bin/get_moss_refs.pl?ref=Malcolmetal.2009&ref=Lawton1971">Illustrations</b></td><td>Malcolm et al. 2009 p. 223; Lawton 1971.</td></tr> <tr><td valign="top"><b>Bioregions</b></td><td>NW.</td></tr> <tr><td valign="top"><b>Vouchers</b></td><td>Del Norte Co.: Damnation Creek Trail, Del Norte Redwoods State Park, <a href="http://ucjeps.berkeley.edu/cgi-bin/get_bex.pl?collector=Norris&coll_num=10989">Norris & Taranto  10989</a>; Humboldt Co: Emerald Creek at junction with Redwood Creek, Redwood National Park, <a href="http://ucjeps.berkeley.edu/cgi-bin/get_bex.pl?collector=Norris&coll_num=45837">Norris 45837</a>; Mendocino Co.: County Road 409 about 1 mile east of Highway 1 south of Fort Bragg, <a href="http://ucjeps.berkeley.edu/cgi-bin/get_bex.pl?collector=Norris&coll_num=11702">Norris 11702</a> and Marchantia Glen, Jackson State Forest, Bourell 790 (CAS); Siskiyou Co.: Sugar Creek and Sugar Lake west of Callahan, Klamath National Forest, <a href="http://ucjeps.berkeley.edu/cgi-bin/get_bex.pl?collector=Norris&coll_num=57327">Norris 57327</a>.</td></tr>    &middot; 
+</table>
+</td>
+</tr>
+<tr>
+<td>
+
+<!-- <table>
+<tr><td> -->
+<!-- <a href="/cgi-bin/display_map_in_frame.pl?hcode=003d000000&taxon=Hookeria lucens"><img src="http://ucjeps.berkeley.edu/cgi-bin/draw_tiny2.pl?003d000000" border="0" alt="map of distribution"></a> -->
+		<div id="map_canvas"></div>
+<!-- </td>
+		<td> -->
+&nbsp; &nbsp;
+		<a name="elev_map">
+		<img src="http://ucjeps.berkeley.edu/cgi-bin/map_BEX_elev.pl?&taxon_name=Hookeria lucens"> </a>
+		<h3>Elevation by latitude plot for Hookeria lucens<br>&nbsp;&nbsp;&nbsp;in California</h3>
+<!-- </td></tr></table> -->
+
+
+
+</td>
+</tr>
+</table>
+
+Copyright &copy; 2013 Regents of the University of California 
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from the University and Jepson Herbaria.
+<br>
+Generated Fri Mar 11 10:33:46 2016
+
+</body>
+</html>

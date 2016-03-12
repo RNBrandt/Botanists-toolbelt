@@ -1,0 +1,250 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Abronia</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Abronia
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=11537">Abronia alpina
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=11552">Abronia latifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=11554">Abronia maritima
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=53450">Abronia nana var. covillei
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=11560">Abronia pogonantha
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=11561">Abronia turbinata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=11564">Abronia umbellata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81822">Abronia umbellata var. breviflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=75287">Abronia umbellata var. umbellata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=11568">Abronia villosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=53455">Abronia villosa var. aurita
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=53456">Abronia villosa var. villosa
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=8780'><h3>View taxon page for Abronia</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#XM1'">1.</a><a name="XM1."> </a> Stems densely cespitose or in mats &lt; 20 cm wide; montane; perennial herb
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#XM2'">2.</a><a name="XM2."> </a> Inflorescence 1&ndash;5-flowered; plant in mats; leaves cauline, blade &plusmn; round; fruit wing 0 <a href="/cgi-bin/get_IJM.pl?tid=11537">.....&nbsp;A. alpina</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#XM2.">2'</a><a name="XM2'"> </a> Inflorescence >= 6-flowered; plant densely tufted; leaves basal, blade oblong to &plusmn; round; fruit winged <a href="/cgi-bin/get_IJM.pl?tid=53450">.....&nbsp;A. nana var. covillei</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#XM1.">1'</a><a name="XM1'"> </a> Stems elongate, not cespitose, when prostrate in mats >> 25 cm; coastal, desert, or montane; annual or perennial herb
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#XM3'">3.</a><a name="XM3."> </a> Perennial herb; leaf fleshy; perianth limb yellow or wine-red; coastal
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#XM4'">4.</a><a name="XM4."> </a> Leaf blade &plusmn; as long as wide; perianth limb yellow <a href="/cgi-bin/get_IJM.pl?tid=11552">.....&nbsp;A. latifolia</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#XM4.">4'</a><a name="XM4'"> </a> Leaf blade longer than wide; perianth limb wine-red <a href="/cgi-bin/get_IJM.pl?tid=11554">.....&nbsp;A. maritima</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#XM3.">3'</a><a name="XM3'"> </a> Annual (perennial herb); leaf &plusmn; not fleshy; perianth limb white, pink, red, or magenta; coastal or inland
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#XM5'">5.</a><a name="XM5."> </a> Fruit wings thick, hollow, inflated or &plusmn; collapsed and folded together; leaves &plusmn; glabrous (sparsely puberulent); inland, mostly desert <a href="/cgi-bin/get_IJM.pl?tid=11561">.....&nbsp;A. turbinata</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#XM5.">5'</a><a name="XM5'"> </a> Fruit wings thin, solid, rarely 0; leaves hairy to glandular-hairy; coastal or inland, mostly desert
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#XM6'">6.</a><a name="XM6."> </a> Fruit wings 2(3); fruit broadly obcordate, with sinus at top between wings <a href="/cgi-bin/get_IJM.pl?tid=11560">.....&nbsp;A. pogonantha</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#XM6.">6'</a><a name="XM6'"> </a> Fruit wings generally 3&ndash;5 or 0; fruit cordate, obconic, or ovoid, with no sinus at top between wings
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#XM7'">7.</a><a name="XM7."> </a> Fruit body &plusmn; smooth; immediate coast <a href="/cgi-bin/get_IJM.pl?tid=11564">.....&nbsp;A. umbellata</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#XM8'">8.</a><a name="XM8."> </a> Perianth limb light to bright magenta, throat with a cream to light yellow spot; inflorescence sparse, flowers 10&ndash;18; fruit wings angled near tip <a href="/cgi-bin/get_IJM.pl?tid=81822">.....&nbsp;var. breviflora</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#XM8.">8'</a><a name="XM8'"> </a> Perianth limb light to dark magenta, throat with white spot; inflorescence &plusmn; dense, flowers 10&ndash;27; fruit wings broadly rounded near tip <a href="/cgi-bin/get_IJM.pl?tid=75287">.....&nbsp;var. umbellata</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#XM7.">7'</a><a name="XM7'"> </a> Fruit body with generally raised veins (most evident near tip); &plusmn; inland <a href="/cgi-bin/get_IJM.pl?tid=11568">.....&nbsp;A. villosa</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#XM9'">9.</a><a name="XM9."> </a> Perianth tube 2&ndash;3.5 cm, limb (1)1.5&ndash;1.8 cm wide; fruit wings each with 1 prolonged, acute lobe distally <a href="/cgi-bin/get_IJM.pl?tid=53455">.....&nbsp;var. aurita</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#XM9.">9'</a><a name="XM9'"> </a> Perianth tube 1.3&ndash;2 cm, limb 0.6&ndash;1.2(1.5) cm wide; fruit wings each with 0 or 1 shallow, rounded lobe distally <a href="/cgi-bin/get_IJM.pl?tid=53456">.....&nbsp;var. villosa</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

@@ -1,0 +1,2292 @@
+<html>
+<head>
+<Meta NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>UC/JEPS: Consortium Search Results</title>
+<link href="http://ucjeps.berkeley.edu/consortium/style_consortium.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+
+
+
+
+<!-- COMMON HEADER -->
+<table width="100%" class="banner" border="0" cellpadding="0" cellspacing="0">
+  <tr><td width="80" align="center"><a href="/consortium/"><img src="/consortium/images/CCH_logo_02_80.png" width="80" height="82"></a></td>
+  <td>
+        <table class="banner" width="100%" border="0">
+        <tr>
+        <td align="center">Consortium of California Herbaria</td>
+        </tr>
+        <tr><td>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                <td height="21" width="640" align="center">
+                <a href="http://ucjeps.berkeley.edu/consortium/participants.html" class="horizMenuActive">Participants</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/consortium/news.html" class="horizMenuActive">News</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/consortium/" class="horizMenuActive">Search</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/consortium/about.html" class="horizMenuActive">About</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/detail_help.html" class="horizMenuActive">Help</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://give.berkeley.edu/fund/?f=FU1259000" class="horizMenuActive">Donate</a>
+                    </td></tr>
+                </table>
+        </td></tr>
+        </table>
+</td></tr>
+</table>
+<!-- COMMON HEADER ENDS -->
+
+
+
+
+<br />
+<table width="100%" cellpadding="5" class="bodyText"><tr><td>
+<span class="pageName">Search Results</span>
+<span class="pageSubheading"> &mdash; 166 specimen records retrieved (157 records with coordinates)</span>
+<br />
+<span class="bodyText">Results for search: Scientific name=Quercus x alvordiana;  &nbsp;&nbsp;<a href="/cgi-bin/get_cpn.pl?Quercus+x+alvordiana">More information: Jepson Online Interchange</a></span>
+
+<table width="100%" cellpadding="5" class="bodyText"><tr><td width="50%" valign="top">
+<span class="pageSubheading"><br>Mapping Options:</span>
+<br>
+<a href="http://berkeleymapper.berkeley.edu/index.html?ViewResults=tab&tabfile=http://ucjeps.berkeley.edu/BerkeleyMapper/CHC_055824650.txt&configfile=http%3A%2F%2Fucjeps.berkeley.edu%2Fucjeps.xml&sourcename=Consortium+of+California+Herbaria+result+set&maptype=Terrain">BerkeleyMapper with county and bioregion layers</a> <br>
+<a href="http://berkeleymapper.berkeley.edu/index.html?ViewResults=tab&tabfile=http://ucjeps.berkeley.edu/BerkeleyMapper/CHC_055824650.txt&configfile=http%3A%2F%2Fucjeps.berkeley.edu%2Fucjeps_nolayers.xml&sourcename=Consortium+of+California+Herbaria+result">BerkeleyMapper without layers.</a> <br>
+<a href="/cgi-bin/x_to_k.pl?tabfile=http://ucjeps.berkeley.edu/BerkeleyMapper/CHC_055824650.txt"> KML export</a> <br>
+(Note: only records with coordinates are mappable)
+</td>
+
+</span>
+<td width = "50%" valign="top">
+<span class="pageSubheading"><br>Download Options:</span>
+<form method="post" action="/cgi-bin/get_consort.pl">
+
+<a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Quercus X alvordiana&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;check_all=1&amp;SO=0">Select all records</a>
+&middot;
+<a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Quercus X alvordiana&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;georef_only=1">Select records with coordinates</a><br>
+<input type="submit" value="Retrieve selected records as tab-separated list"> <br>
+<input type="checkbox" name="DL" value="UCR">Include annotations and voucher information
+</td></tr>
+</td></tr></table>
+
+<hr>
+<table width="100%" cellpadding="0" cellspacing="0" class="bodyText">
+<tr><td>&nbsp;</td><td>Please cite data retrieved from this page: Data provided by the participants of the Consortium of California Herbaria (ucjeps.berkeley.edu/consortium/).
+</td></tr>
+<tr><td>&nbsp;</td><td>Records are made available under the <a href="http://ucjeps.berkeley.edu/consortium/data_use_terms.html">CCH Data Use Terms</a>.</td></tr>
+</table>
+<hr>
+
+<table width="100%" cellpadding="5" cellspacing="0" class="bodyText">
+<tr><td colspan="11">
+Click on column header to sort data (* sorts by family); click in leftmost checkbox to select record. <a href="http://ucjeps.berkeley.edu/detail_help.html">CCH Help Page</a>.
+<br>
+<a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Quercus X alvordiana&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=1&amp;VTM=0">Turn on yellow flags</a> to show possible range discrepancies.
+<a href="http://ucjeps.berkeley.edu/consortium/about_yellow.html">Read more ... </a>
+</td>
+</tr>
+<tr bgcolor="#cccccc">
+<th></th>
+<th bgcolor=#eeeeee><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Quercus X alvordiana&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=21">?</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Quercus X alvordiana&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=10">Specimen ID</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Quercus X alvordiana&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=0-">Determination</a><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Quercus X alvordiana&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=11"> *</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Quercus X alvordiana&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=1">Collector</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Quercus X alvordiana&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=5">Collection Date</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Quercus X alvordiana&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=3">Collection Number</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Quercus X alvordiana&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=8">County</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Quercus X alvordiana&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=20">Locality</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Quercus X alvordiana&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=9">Elevation in meters</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Quercus X alvordiana&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=25">Feedback</a></th>
+</tr>
+
+
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS1034 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS1034&YF=0">CAS1034</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Alice Eastwood</td>
+<td>10/2 '94</td>
+<td>122</td>
+<td>Kern</td>
+<td>San Emidio Canyon</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS1034">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS1148405 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS1148405&YF=0">CAS1148405</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>E. Neese, E. Painter</td>
+<td>7 October 1996</td>
+<td>HL 2994</td>
+<td>Monterey</td>
+<td>Fort Hunter Liggett (Training Area 27), lower slopes of Bald Mountain, ca. 1.75 air km NNW of summit of Bald Mountain, ca 2.0 air km SW of Quail Top</td>
+<td>490</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS1148405">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS1149330 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS1149330&YF=0">CAS1149330</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>E. Painter, E. Neese</td>
+<td>23 October 1994</td>
+<td>HL 940</td>
+<td>Monterey</td>
+<td>Fort Hunter Liggett (Training Area 24), toward E end of Sam Jones Canyon, ca. 1.3 air km due S of San Antonio River, ca. 2.5 air km WNW of Quail Top, ca. 2.1 road km (1.3 miles) SW of Sam Jones Road bridge over San Antonio River</td>
+<td>300</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS1149330">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS188589 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS188589&YF=0">CAS188589</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John Thomas Howell</td>
+<td>Sept. 6, 1931</td>
+<td>8047B</td>
+<td>San Benito</td>
+<td>N slope near San Benito</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS188589">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS247245 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS247245&YF=0">CAS247245</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Alice Eastwood, John Thomas Howell</td>
+<td>Apr. 29, 1937</td>
+<td>4102</td>
+<td>Kern</td>
+<td>Temblor Range W of McKittnick</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS247245">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS257619 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS257619&YF=0">CAS257619</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Alice Eastwood, John Thomas Howell</td>
+<td>Apr. 19, 1938</td>
+<td>5147</td>
+<td>San Benito</td>
+<td>Griswold Creek</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS257619">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS393817 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS393817&YF=0">CAS393817</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>October 3, 1947</td>
+<td>1613</td>
+<td>Kern</td>
+<td>San Emigdio Canyon, 6.5 miles (by road) above headquarters of San Emigdio Ranch, SW Kern Co.</td>
+<td>1158</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS393817">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS411836 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS411836&YF=0">CAS411836</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John Thomas Howell</td>
+<td>Aug. 7, 1963</td>
+<td>40071</td>
+<td>Monterey</td>
+<td>Mustang Grade between Mustang Summit and San Lorenzo Creek</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS411836">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS83429 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS83429&YF=0">CAS83429</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Alice Eastwood</td>
+<td>April 1, 1915</td>
+<td>4009</td>
+<td>Monterey</td>
+<td>Mansfield Ranch, King City</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS83429">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS83430 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS83430&YF=0">CAS83430</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Alice Eastwood</td>
+<td>April 1, 1915</td>
+<td>4020</td>
+<td>Monterey</td>
+<td>Mansfield Ranch, King City</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS83430">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS83431 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS83431&YF=0">CAS83431</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Alice Eastwood</td>
+<td>April 4, 1915</td>
+<td>4163</td>
+<td>Monterey</td>
+<td>Jolon</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS83431">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DS373986 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?DS373986&YF=0">DS373986</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>October 3, 1947</td>
+<td>1613</td>
+<td>Kern</td>
+<td>San Emigdio Canyon, 6.5 miles (by road) above headquarters of San Emigdio Ranch, SW Kern Co.</td>
+<td>1158</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=DS373986">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DS48800 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?DS48800&YF=0">DS48800</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>W. R. Dudley, F. H. Lamb</td>
+<td>June 24, 1896</td>
+<td>4659</td>
+<td>Ventura</td>
+<td>Mt. Pinos region. Lockwood Creek Canyon</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=DS48800">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=JEPS37325 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?JEPS37325&YF=0">JEPS37325</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>S. C. Lillis</td>
+<td>Sep 1908</td>
+<td></td>
+<td>Fresno</td>
+<td>Rancho Cantua San Carlos Range</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=JEPS37325">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=OBI14275 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI14275&YF=0">OBI14275</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>October 4, 1947</td>
+<td>1622</td>
+<td>Santa Barbara</td>
+<td>Overlooking the Cuyama River, beside hwy 166 ca. .2 mi (by road) W of Wasioja School</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI14275">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=OBI14324 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI14324&YF=0">OBI14324</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>October 3, 1947</td>
+<td>1614</td>
+<td>Kern</td>
+<td>San Emigdio Cyn, ca. 6.5 mi (by road) above headquarters of the San Emigdio Ranch</td>
+<td>1158</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI14324">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=OBI14325 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI14325&YF=0">OBI14325</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>October 3, 1947</td>
+<td>1617</td>
+<td>Kern</td>
+<td>San Emigdio Cyn, ca. 6.5 mi (by road) above headquarters of the San Emigdio Ranch</td>
+<td>1158</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI14325">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=OBI14326 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI14326&YF=0">OBI14326</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Jim Heaston</td>
+<td>November 12, 1961</td>
+<td>408</td>
+<td>San Luis Obispo</td>
+<td>La Panza</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI14326">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=OBI14327 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI14327&YF=0">OBI14327</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Jim Heaston</td>
+<td>November 12, 1961</td>
+<td>401</td>
+<td>San Luis Obispo</td>
+<td>La Panza</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI14327">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=OBI49934 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI49934&YF=0">OBI49934</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>David J. Keil, V. L. Holland</td>
+<td>April 19, 1979</td>
+<td>13042</td>
+<td>Los Angeles</td>
+<td>Tejon Pass area at Fort Tejon along I-5</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI49934">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=OBI49934"><br>Read comments</a> Jun 18  2014
+</td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=OBI78004 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI78004&YF=0">OBI78004</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>E. Painter, E. Neese</td>
+<td>October 23, 1994</td>
+<td>HL940</td>
+<td>Monterey</td>
+<td>Fort Hunter Liggett (Training Area 24), toward E end of Sam Jones Cyn, ca 1.3 air km due S of San Antonio River, ca 2.5 air km WNW of Quail Top, ca 2.1 rd km (1.3 mi) SW of Sam Jones Rd bridge over San Antonio River</td>
+<td>300</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI78004">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=POM181349 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?POM181349&YF=0">POM181349</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. T. Howell</td>
+<td>Sep 6 1931</td>
+<td>8047B</td>
+<td>San Benito</td>
+<td>Near San Benito.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=POM181349">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=POM183400 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?POM183400&YF=0">POM183400</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>L. S. Rose</td>
+<td>Sep 6 1931</td>
+<td>s.n.</td>
+<td>San Benito</td>
+<td>Near San Benito.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=POM183400">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=POM273348 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?POM273348&YF=0">POM273348</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Lyman Benson</td>
+<td>Sep 10 1947</td>
+<td>12818</td>
+<td>Fresno</td>
+<td>8 miles west of Coalinga, Diablo Mt. range; just above the treeless hills at the margin of the San Joaquin Valley.</td>
+<td>793</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=POM273348">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA20131 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA20131&YF=0">RSA20131</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Roxana S. Ferris</td>
+<td>Sep 21 1938</td>
+<td>9680</td>
+<td>Monterey</td>
+<td>Low hills on Jolon Road between Bradley and turn-off to Pleyto and Bryson.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA20131">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA20132 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA20132&YF=0">RSA20132</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Roxana S. Ferris</td>
+<td>Sep 21 1938</td>
+<td>9679</td>
+<td>Monterey</td>
+<td>Low hills on Jolon Road between Bradley and turn-off to Pleyto and Bryson.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA20132">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA201386 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA201386&YF=0">RSA201386</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. T. Howell</td>
+<td>Aug 7 1963</td>
+<td>40071</td>
+<td>Monterey</td>
+<td>Mustang Grade between Mustang Summit and San Lorenzo Creek.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA201386">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA708889 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA708889&YF=0">RSA708889</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>L. M. Moe</td>
+<td>Dec 27 2003</td>
+<td>2421</td>
+<td>Kern</td>
+<td>Plants of Ft. Tejon State Park.</td>
+<td>1006</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA708889">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA715750 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA715750&YF=0">RSA715750</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Scott D. White, Andrea Warniment</td>
+<td>Jul 7 2006</td>
+<td>11626</td>
+<td>Los Angeles</td>
+<td>Gorman area, west of the I-5 Freeway at SR-138 interchange. SE Tehachapi Mts.</td>
+<td>1006</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA715750">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA747103 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA747103&YF=0">RSA747103</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>P. DeVries</td>
+<td>Apr 23 2009</td>
+<td>7354</td>
+<td>Kern</td>
+<td>Western Transverse Range; San Emigdio Mountains Region; Bitter Creek National Wildlife Refuge; 2.25 air miles east southeast of the junction of Cerro Noroeste and Klipstein Cyn Road.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA747103">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA747105 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA747105&YF=0">RSA747105</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>P. DeVries</td>
+<td>Apr 23 2009</td>
+<td>7352</td>
+<td>Kern</td>
+<td>Western Transverse Range; San Emigdio Mountains Region; Bitter Creek National Wildlife Refuge; ca. 2.25 air miles east southeast of the junction of Cerro Noroeste and Klipstein Cyn Rd.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA747105">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA749452 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA749452&YF=0">RSA749452</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>LeRoy Gross</td>
+<td>May 12 2009</td>
+<td>3835</td>
+<td>Kern</td>
+<td>Near west end of the San Emigdio Mountains: Bitter Creek National Wildlife Refuge; North facing headwall of Bitter Creek. North of Cerro Noroeste Road, east of Pelato Peak. Southwest end of Unit #2 of Refuge map. Started near 34.91570N, 119.38533W dropped down along an old dirt road that more or less strarting to turn to a trail. to a flat area with Artemisia tridentata, Atriplex spp. that you can see from the starting point, to 34.92206N, 119.38200W. Collection site close to</td>
+<td>1000</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA749452">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA770078 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA770078&YF=0">RSA770078</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Pam De Vries, Alexandra Morton, Justin Epling</td>
+<td>Oct 21 2010</td>
+<td>7712</td>
+<td>Kern</td>
+<td>Western Transverse Range; San Emigdio Mts.; Bitter Creek National Wildlife Refuge, approx. 4.5 air mile ESE of the intersection of Cerro Noroeste Rd. and Hwy 33. Management unit 2, northwest area</td>
+<td>932</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA770078">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA799159 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA799159&YF=0">RSA799159</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>E. Neese, E. Painter</td>
+<td>Oct 7 1996</td>
+<td>HL2994</td>
+<td>Monterey</td>
+<td>Fort Hunter Liggett (Training Area 27), lower slopes of Bald Mountain, ca. 1.75 air km NNW of summit of Bald Mountain, ca. 2.0 air km SW of Quail Top.</td>
+<td>490</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA799159">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG110786 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG110786&YF=0">SBBG110786</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>E. Neese, E. Painter</td>
+<td>Oct 23 1994</td>
+<td>HL953</td>
+<td>Monterey</td>
+<td>Santa Lucia Mtns: Sam Jones Cyn, ca. 2.5 km S of San Antonio River, ca. 3 km WNW of Quail Top; Ft Hunter Liggett</td>
+<td>340</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG110786">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG116928 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG116928&YF=0">SBBG116928</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>E. Painter, M. Wetherwax</td>
+<td>Mar 9 2000</td>
+<td>CR21a</td>
+<td>Monterey</td>
+<td>Santa Lucia Mtns: near San Antonio Rd, near the jct with tank trail to Ft Hunter Liggett; Camp Roberts</td>
+<td>180</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG116928">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG119168 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG119168&YF=0">SBBG119168</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>M. Wetherwax, E. Painter</td>
+<td>Mar 9 2000</td>
+<td>CR24</td>
+<td>Monterey</td>
+<td>Santa Lucia Mtns: near San Antonio Rd, near the jct with tank trail to Ft Hunter Liggett; Camp Roberts</td>
+<td>240</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG119168">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG119169 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG119169&YF=0">SBBG119169</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>E. Painter, M. Wetherwax</td>
+<td>Mar 9 2000</td>
+<td>CR21c</td>
+<td>Monterey</td>
+<td>Santa Lucia Mtns: near San Antonio Rd, near the jct with tank trail to Ft Hunter Liggett; Camp Roberts</td>
+<td>180</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG119169">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG119170 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG119170&YF=0">SBBG119170</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>E. Painter, M. Wetherwax</td>
+<td>Mar 9 2000</td>
+<td>CR21b</td>
+<td>Monterey</td>
+<td>Santa Lucia Mtns: near San Antonio Rd, near the jct with tank trail to Ft Hunter Liggett; Camp Roberts</td>
+<td>180</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG119170">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG125324 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG125324&YF=0">SBBG125324</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>E. Neese, E. Painter</td>
+<td>May 19 1997</td>
+<td>HL2994</td>
+<td>Monterey</td>
+<td>Santa Lucia Mtns: lower slopes of Bald Mtn, ca. 1.75 km NNW of summit of Bald Mtn, ca. 2 km SW of Quail Top; Ft Hunter Liggett</td>
+<td>490</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG125324">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG125325 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG125325&YF=0">SBBG125325</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>E. Painter, E. Neese</td>
+<td>Oct 23 1994</td>
+<td>HL940</td>
+<td>Monterey</td>
+<td>Santa Lucia Mtns: toward E end of Sam Jones Cyn, ca. 1.3 km S of San Antonio River, ca. 2.5 km WNW of Quail Top, ca. 2.1 rd km SW of Sam Jones Rd bridge over San Antonio River; Ft Hunter Liggett</td>
+<td>300</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG125325">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG125764 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG125764&YF=0">SBBG125764</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>E. Neese, E. Painter</td>
+<td>Oct 23 1994</td>
+<td>HL951</td>
+<td>Monterey</td>
+<td>Santa Lucia Mtns: Sam Jones Cyn, ca. 2.5 km S of San Antonio River, ca. 3 km WNW of Quail Top, ca. 2.7 rd km SW of Sam Jones Rd bridge over San Antonio River; Ft Hunter Liggett</td>
+<td>340</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG125764">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG58985 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG58985&YF=0">SBBG58985</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>W. B. Holt</td>
+<td>Nov 7 1940</td>
+<td>579</td>
+<td>Ventura</td>
+<td>Quatal Cyn</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG58985">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG58989 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG58989&YF=0">SBBG58989</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>R. Hoffmann</td>
+<td>Oct 1 1931</td>
+<td></td>
+<td>Los Angeles</td>
+<td>near Bob's Place, Mint Cyn</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG58989">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD28152 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD28152&YF=0">SD28152</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Carl B. Wolf</td>
+<td>Jul 14, 1931</td>
+<td>3863</td>
+<td>Kern</td>
+<td>San Emigdio Canyon</td>
+<td>822</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD28152">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD71047 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD71047&YF=0">SD71047</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John Thomas Howell</td>
+<td>Aug 07, 1963</td>
+<td>40071</td>
+<td>Monterey</td>
+<td>Mustang Grade between Mustang Summit and San Lorenzo Creek.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD71047">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1093906 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1093906&YF=0">UC1093906</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Herbert L. Mason</td>
+<td>May 20 1927</td>
+<td>3737a</td>
+<td>Los Angeles</td>
+<td>Tejon Pass Sierra Liebre Mountains</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1093906">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1135430 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1135430&YF=0">UC1135430</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>T. M. Hendrix</td>
+<td>Nov 7 1938</td>
+<td>913</td>
+<td>Monterey</td>
+<td>1.1 mi n Hames Valley School; Bradley Quad.</td>
+<td>304</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1135430">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1135454 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1135454&YF=0">UC1135454</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>C. A. Graham</td>
+<td>Dec 17 1937</td>
+<td>207</td>
+<td>Monterey</td>
+<td>King City</td>
+<td>457</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1135454">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1135455 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1135455&YF=0">UC1135455</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>C. A. Graham</td>
+<td>Dec 13 1937</td>
+<td>168</td>
+<td>Monterey</td>
+<td>2.5 mi s Alberto School; King City Quad.</td>
+<td>335</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1135455">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1135473 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1135473&YF=0">UC1135473</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>A. E. Wieslander</td>
+<td>Aug 27 1934</td>
+<td>464</td>
+<td>Kern</td>
+<td>Temblor Range McKittrick Quad.</td>
+<td>792</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1135473">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1135474 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1135474&YF=0">UC1135474</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>A. E. Wieslander</td>
+<td>Aug 27 1934</td>
+<td>465</td>
+<td>Kern</td>
+<td>Temblor Range McKittrick Quad.</td>
+<td>792</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1135474">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1135475 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1135475&YF=0">UC1135475</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>A. E. Wieslander</td>
+<td>Aug 27 1936</td>
+<td>669</td>
+<td>San Luis Obispo</td>
+<td>Head of Temblor Creek McKittrick Quad.</td>
+<td>883</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1135475">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1135476 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1135476&YF=0">UC1135476</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>V. Stackhouse</td>
+<td>Dec 14 1937</td>
+<td>88</td>
+<td>San Luis Obispo</td>
+<td>2.3 mi wsw Nacimiento Ranch (on bank of Nacimiento River); Bradley Quad., Nacimiento River</td>
+<td>198</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1135476">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1135477 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1135477&YF=0">UC1135477</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. E. Sowder</td>
+<td>May 14 1934</td>
+<td>479</td>
+<td>Kern</td>
+<td>Devils Kitchen-San Emigdio Creek Mt. Pinos Quad.</td>
+<td>914</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1135477">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1135478 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1135478&YF=0">UC1135478</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>R. St. John</td>
+<td>Jun 17 1930</td>
+<td>162</td>
+<td>Los Angeles</td>
+<td>1.5 mi nw Red Rock Mt.; Santa Barbara National Forest, Tejon Quad.</td>
+<td>822</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1135478">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1135479 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1135479&YF=0">UC1135479</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>T. M. Hendrix</td>
+<td>May 19 1939</td>
+<td>1046</td>
+<td>San Luis Obispo</td>
+<td>1.9 mi sw Carrizo Ranch; Branch Mt. Quad.</td>
+<td>655</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1135479">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1135480 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1135480&YF=0">UC1135480</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>P. L. Johannsen</td>
+<td>May 26 1937</td>
+<td>1149</td>
+<td>San Luis Obispo</td>
+<td>1.75 mi sw Temblor Ranch; McKittrick Quad.</td>
+<td>914</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1135480">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1135481 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1135481&YF=0">UC1135481</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>A. E. Wieslander</td>
+<td>Aug 27 1936</td>
+<td>668</td>
+<td>San Luis Obispo</td>
+<td>Head of Temblor Creek McKittrick Quad.</td>
+<td>883</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1135481">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1135482 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1135482&YF=0">UC1135482</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>A. D. Gifford</td>
+<td>May 27 1937</td>
+<td>822</td>
+<td>San Luis Obispo</td>
+<td>3.5 mi ene Highland School; Pozo Quad.</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1135482">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1135483 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1135483&YF=0">UC1135483</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>V. Stackhouse</td>
+<td>Dec 1 1937</td>
+<td>84</td>
+<td>Monterey</td>
+<td>1.3 mi nnw Corner of King City Quad.; King City Quad.</td>
+<td>350</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1135483">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1135484 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1135484&YF=0">UC1135484</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>T. M. Hendrix</td>
+<td>Nov 7 1938</td>
+<td>914</td>
+<td>Monterey</td>
+<td>1.1 mi n Hames Valley School; Bradley Quad.</td>
+<td>304</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1135484">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1135485 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1135485&YF=0">UC1135485</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>E. Armstrong</td>
+<td>Apr 1 1934</td>
+<td>1156</td>
+<td>San Luis Obispo</td>
+<td>Rinconada Creek Pozo Quad.</td>
+<td>609</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1135485">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1135486 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1135486&YF=0">UC1135486</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>P. L. Johannsen</td>
+<td>Jun 2 1937</td>
+<td>1187</td>
+<td>San Luis Obispo</td>
+<td>Goat Spring McKittrick Quad.</td>
+<td>914</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1135486">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1135487 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1135487&YF=0">UC1135487</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>A. E. Wieslander</td>
+<td>Aug 20 1936</td>
+<td>655</td>
+<td>Monterey</td>
+<td>Kent Canyon King City Quad.</td>
+<td>182</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1135487">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1135539 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1135539&YF=0">UC1135539</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>A. D. Gifford</td>
+<td>Mar 15 1935</td>
+<td>460</td>
+<td>Los Angeles</td>
+<td>4 mi n Warm Springs; Angeles National Forest, Tejon Quad.</td>
+<td>1523</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1135539">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC444480 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC444480&YF=0">UC444480</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>unknown</td>
+<td>Nov 2 1894</td>
+<td></td>
+<td>Kern</td>
+<td>San Emigdio Canyon</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC444480">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC570375 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC570375&YF=0">UC570375</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Chas. M. Belshaw</td>
+<td>Nov 14 1936</td>
+<td>2729</td>
+<td>Monterey</td>
+<td>4 mi sw Priest Valley School; Inner Coast Range, Mustang Ridge</td>
+<td>518</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC570375">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC580807 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC580807&YF=0">UC580807</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>A. E. Wieslander</td>
+<td>Aug 27 1936</td>
+<td>668</td>
+<td>San Luis Obispo</td>
+<td>Head of Temblor Creek McKittrick Quad.</td>
+<td>883</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC580807">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC729840 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC729840&YF=0">UC729840</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Carl B. Wolf</td>
+<td>Jul 14 1931</td>
+<td></td>
+<td>Los Angeles</td>
+<td>Rancho Santa Ana Botanic Garden</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC729840">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC762326 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC762326&YF=0">UC762326</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>R. F. Hoover</td>
+<td>Oct 9 1938</td>
+<td>3882</td>
+<td>San Benito</td>
+<td>first ridge of Hollister-King City rd, on Hernandez road</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC762326">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC991136 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC991136&YF=0">UC991136</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>Oct 3 1947</td>
+<td>1613</td>
+<td>Kern</td>
+<td>6.5 mi (by road) above headquarters of San Emigdio Ranch (sw Kern County); San Emigdio Canyon</td>
+<td>1158</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC991136">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC991139 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC991139&YF=0">UC991139</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>Oct 3 1947</td>
+<td>1616</td>
+<td>Kern</td>
+<td>6.5 mi (by road) above headquarters of San Emigdio Ranch; San Emigdio Cnayon</td>
+<td>1158</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC991139">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC993307 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC993307&YF=0">UC993307</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>Oct 9 1948</td>
+<td>1900</td>
+<td>San Benito</td>
+<td>7 mi s Panoche (beside road to New Idria)</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC993307">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC993308 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC993308&YF=0">UC993308</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>Oct 9 1948</td>
+<td>1900</td>
+<td>San Benito</td>
+<td>7 mi s Panoche (beside road to New Idria)</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC993308">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC993309 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC993309&YF=0">UC993309</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>Oct 9 1948</td>
+<td>1900</td>
+<td>San Benito</td>
+<td>7 mi s Panoche (beside road to New Idria)</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC993309">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC993310 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC993310&YF=0">UC993310</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>Oct 9 1948</td>
+<td>1900</td>
+<td>San Benito</td>
+<td>7 mi s Panoche (beside road to New Idria)</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC993310">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC993311 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC993311&YF=0">UC993311</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>Oct 9 1948</td>
+<td>1900</td>
+<td>San Benito</td>
+<td>7 mi s Panoche (beside road to New Idria)</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC993311">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC993312 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC993312&YF=0">UC993312</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>Oct 9 1948</td>
+<td>1900</td>
+<td>San Benito</td>
+<td>7 mi s Panoche (beside road to New Idria)</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC993312">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC993313 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC993313&YF=0">UC993313</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>Oct 9 1948</td>
+<td>1900</td>
+<td>San Benito</td>
+<td>7 mi s Panoche (beside road to New Idria)</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC993313">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC993314 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC993314&YF=0">UC993314</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>Oct 9 1948</td>
+<td>1900</td>
+<td>San Benito</td>
+<td>7 mi s Panoche (beside road to New Idria)</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC993314">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC993315 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC993315&YF=0">UC993315</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>Oct 9 1948</td>
+<td>1900</td>
+<td>San Benito</td>
+<td>7 mi s Panoche (beside road to New Idria)</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC993315">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD14434 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD14434&YF=0">UCD14434</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>04 05 1947</td>
+<td>1506</td>
+<td>Fresno</td>
+<td>Highway 198, 8.4 mi. southwest of Coalinga</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD14434">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD14437 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD14437&YF=0">UCD14437</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>04 05 1947</td>
+<td>1509</td>
+<td>Fresno</td>
+<td>Highway 198, 8.4 mi. southwest of Coalinga</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD14437">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD14438 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD14438&YF=0">UCD14438</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>04 05 1947</td>
+<td>1510</td>
+<td>Fresno</td>
+<td>Highway 198, 8.4 mi. southwest of Coalinga</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD14438">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD14441 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD14441&YF=0">UCD14441</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>04 05 1947</td>
+<td>1513</td>
+<td>Fresno</td>
+<td>Highway 198, 11 mi. southwest of Coalinga</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD14441">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD14443 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD14443&YF=0">UCD14443</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>04 05 1947</td>
+<td>1516</td>
+<td>Fresno</td>
+<td>Highway 198, 11 mi. southwest of Coalinga</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD14443">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD14444 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD14444&YF=0">UCD14444</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>04 05 1947</td>
+<td>1517</td>
+<td>Fresno</td>
+<td>Highway 198, 11 mi. southwest of Coalinga</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD14444">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD14447 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD14447&YF=0">UCD14447</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>10 04 1947</td>
+<td>1618</td>
+<td>Santa Barbara</td>
+<td>Highway 166, 0.2 mi. west of Wasioja School (or 34.6 mi., by road, east of Pine Canyon Guard Station)</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD14447">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD14448 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD14448&YF=0">UCD14448</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>10 04 1947</td>
+<td>1619</td>
+<td>Santa Barbara</td>
+<td>Highway 166, 0.2 mi. west of Wasioja School (or 34.6 mi., by road, east of Pine Canyon Guard Station)</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD14448">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD14449 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD14449&YF=0">UCD14449</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>10 04 1947</td>
+<td>1620</td>
+<td>Santa Barbara</td>
+<td>Highway 166, 0.2 mi. west of Wasioja School (or 34.6 mi., by road, east of Pine Canyon Guard Station)</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD14449">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD14450 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD14450&YF=0">UCD14450</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>10 04 1947</td>
+<td>1621</td>
+<td>Santa Barbara</td>
+<td>Highway 166, 0.2 mi. west of Wasioja School (or 34.6 mi., by road, east of Pine Canyon Guard Station)</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD14450">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD14451 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD14451&YF=0">UCD14451</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>10 04 1947</td>
+<td>1622</td>
+<td>Santa Barbara</td>
+<td>Highway 166, 0.2 mi. west of Wasioja School (or 34.6 mi., by road, east of Pine Canyon Guard Station)</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD14451">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45148 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45148&YF=0">UCD45148</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>08 16 1946</td>
+<td>1443A</td>
+<td>Monterey</td>
+<td>(Aff. Q. dumosa Nutt.) Small tree in dense stand; north facing slope beside road from Bradley to Jolon, 14 miles east of Jolon, Monterey County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45148">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45149 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45149&YF=0">UCD45149</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>G. L. Stebbins, Jr.</td>
+<td>01 02 1948</td>
+<td>3902</td>
+<td>San Luis Obispo</td>
+<td>1 mile south of Paso Robles, San Luis Obispo County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45149">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45150 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45150&YF=0">UCD45150</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>10 18 1946</td>
+<td>1465</td>
+<td>Kern</td>
+<td>On steep south-facing slope besides Highway 99, ca. 2 miles northwest of Lebec, Kern County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45150">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45151 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45151&YF=0">UCD45151</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>09 26 1948</td>
+<td>18801</td>
+<td>Los Angeles</td>
+<td>At the bottom of a gentle, north-facing slope, beside Highway 138, 9.6 miles east of Gorman, Los Angeles County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45151">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45152 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45152&YF=0">UCD45152</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>08 16 1946</td>
+<td>1443B</td>
+<td>Monterey</td>
+<td>(Aff. Q. dumosa Nutt). Small tree in dense stand; north-facing slope beside road from Bradley to Jolon, 14 miles east of Jolon, Monterey County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45152">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45153 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45153&YF=0">UCD45153</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>03 01 1941</td>
+<td>200</td>
+<td>Monterey</td>
+<td>(Aff. Q. dumosa Nutt). Ca. 6 miles south of San Lucas, besides road to Lockwood, Monterey County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45153">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45155 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45155&YF=0">UCD45155</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>03 01 1941</td>
+<td>201</td>
+<td>Monterey</td>
+<td>(Aff. Q. dumosa Nutt.) Ca. 6 miles south of San Lucas, beside road to Lockwood, Monterey County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45155">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45156 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45156&YF=0">UCD45156</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John Thomas Howell</td>
+<td>08 07 1963</td>
+<td>40071</td>
+<td>Monterey</td>
+<td>(Aff. Q. dumosa Nutt.) In area of serpentine, Mustang Grade between Mustang Summit and San Lorenzo Creek</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45156">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45157 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45157&YF=0">UCD45157</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Lyman Benson</td>
+<td>09 11 1949</td>
+<td>14190</td>
+<td>Monterey</td>
+<td>Monterey County: 2 miles west of King City in the foothills of the Santa Lucia Mtns., Salinas Valley drainage. Oak Woodland vegetation, north slope 400'</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45157">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45159 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45159&YF=0">UCD45159</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>10 10 1948</td>
+<td>19143</td>
+<td>Monterey</td>
+<td>Ca. 8.8 miles west of Bradley, beside road to Lockwood, Monterey County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45159">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45160 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45160&YF=0">UCD45160</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>10 03 1948</td>
+<td>189124</td>
+<td>Fresno</td>
+<td>Northeast-facing hillslope beside road from Parkfield to Coalinga, 2.6 miles south of Parkfield junction, Fresno County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45160">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45161 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45161&YF=0">UCD45161</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>10 09 1948</td>
+<td>190019</td>
+<td>San Benito</td>
+<td>Beside road to Idria, 7 miles south of Panoche, San Benito County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45161">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45162 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45162&YF=0">UCD45162</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Frederica Bowcutt</td>
+<td>06 17 1987</td>
+<td>1073</td>
+<td>Kern</td>
+<td>Between Grapevine and Lebec about 35 miles of S of Bakersfield. W of Interstate 5 about 0.5 miles on the Frazier Mtn. Quad. In Johnson Canyon. Oak woodland; granite; slope 15; elevation about 3800'</td>
+<td>1158</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45162">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45163 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45163&YF=0">UCD45163</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>09 24 1948</td>
+<td>187215</td>
+<td>Kern</td>
+<td>Above Cameron Creek, 1.4 miles from Highway 466, ca. 9 miles east-southeast of Tehachapi, Kern County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45163">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45165 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45165&YF=0">UCD45165</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>10 09 1948</td>
+<td>19114</td>
+<td>San Benito</td>
+<td>Mountains ca. 8 miles southeast of Idria, San Benito County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45165">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45166 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45166&YF=0">UCD45166</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>10 03 1948</td>
+<td>189215</td>
+<td>Fresno</td>
+<td>Beside road from Parkfield to Coalinga, .8 miles south of Parkfield Junction, Fresno County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45166">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45167 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45167&YF=0">UCD45167</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>09 24 1948</td>
+<td>187218</td>
+<td>Kern</td>
+<td>Above Cameron Creek, 1.4 miles from Highway 466, ca. 9 miles east-southeast of Tehahcapi, Kern County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45167">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45168 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45168&YF=0">UCD45168</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>09 24 1948</td>
+<td>187224</td>
+<td>Kern</td>
+<td>Above Cameron Creek, 1.4 miles from Highway 466, ca. 9 miles east-southeast of Tehachapi, Kern County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45168">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45169 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45169&YF=0">UCD45169</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>09 25 1948</td>
+<td>18732</td>
+<td>Kern</td>
+<td>On southeast-facing hillslope above Oak Creek, 13.8 miles west of Mojave, Kern County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45169">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45170 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45170&YF=0">UCD45170</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>10 02 1948</td>
+<td>188726</td>
+<td>Kern</td>
+<td>Summit of Temblor Range, 15 miles (by road) west of Mc Kittrick, Kern County, Calfornia</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45170">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45171 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45171&YF=0">UCD45171</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>10 03 1948</td>
+<td>189024</td>
+<td>Fresno</td>
+<td>Beside road from Parkfield to Coalinga, 4.2 miles south of Parkfield Junction, Fresno County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45171">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45172 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45172&YF=0">UCD45172</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>10 03 1948</td>
+<td>18914</td>
+<td>Fresno</td>
+<td>Northeast-facing hillslope beside road from Parkfield to Coalinga, 2.6 miles south of Parkfield Junction, Fresno County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45172">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45174 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45174&YF=0">UCD45174</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>10 04 1947</td>
+<td>1626</td>
+<td>Santa Barbara</td>
+<td>On low hillslope overlooking the Cuyama River, 3.1 miles west of Wasioja School, Santa Barbara County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45174">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=UCD45174"><br>Read comments</a> Oct 22  2014
+</td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45175 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45175&YF=0">UCD45175</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>10 18 1946</td>
+<td>1463</td>
+<td>Kern</td>
+<td>On steep southeast-facing slope beside Highway 99, ca.2 miles northwest of Lebec, Kern County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45175">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45177 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45177&YF=0">UCD45177</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>10 04 1947</td>
+<td>1622</td>
+<td>Santa Barbara</td>
+<td>North-facing slope overlooking the Cuyama River, beside Highway 166, ca. .2 mile west of Wasioja School, Santa Barbara County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45177">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=UCD45177"><br>Read comments</a> Oct 22  2014
+</td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45178 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45178&YF=0">UCD45178</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Ernest C. Twisselmann</td>
+<td>06 03 1963</td>
+<td>8293</td>
+<td>Kern</td>
+<td>Kern County: San Emigdio Range and the Mt. Pinos Region. San Emigdio Range. Neasons Flat. Douglas oak-california juniper association. Shandon, California</td>
+<td>975</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45178">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45179 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45179&YF=0">UCD45179</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>10 10 1948</td>
+<td>191422</td>
+<td>Monterey</td>
+<td>North-facing slope, on light-colored shale, forming a rather close chaparral; ca. 8.8 miles west of Bradley, beside road to Lockwood, Monteret County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45179">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45180 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45180&YF=0">UCD45180</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>10 10 1948</td>
+<td>191914</td>
+<td>Monterey</td>
+<td>On a flat, beside road to Jamesburg, 13.3 miles (by road) west of Greenfield, Monterey County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45180">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45182 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45182&YF=0">UCD45182</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Ted Swiecki</td>
+<td>10 03 1992</td>
+<td>s.n.</td>
+<td>Monterey</td>
+<td>About Lake San Antonio, Monterey County</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45182">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45184 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45184&YF=0">UCD45184</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>04 05 1947</td>
+<td>1513</td>
+<td>Fresno</td>
+<td>Highway 198, 11 mi. southwest of Coalinga</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45184">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45185 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45185&YF=0">UCD45185</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>10 04 1947</td>
+<td>1619</td>
+<td>Santa Barbara</td>
+<td>Highway 166, 0.2 mi. west of Wasioja School (or 34.6 mi., by road, east of Pine Canyon Guard Station); north- to northeast-facing hillslope overlooking the Cuyaman River</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45185">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=UCD45185"><br>Read comments</a> Oct 22  2014
+</td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45186 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45186&YF=0">UCD45186</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>09 26 1948</td>
+<td>18812</td>
+<td>Kern</td>
+<td>On hillslope in San Emigdio Canyon, 7 miles (by road) aove headquarters of San Emigdio Ranch, Kern County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45186">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45187 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45187&YF=0">UCD45187</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>D. Q. Cavagnaro</td>
+<td>09 15 1963</td>
+<td>58</td>
+<td>Monterey</td>
+<td>Elevation 1400 feet, 10 miles northwest of Arroyo Seco, Monterey County, California</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45187">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45188 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45188&YF=0">UCD45188</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>D. Q. Cavagnaro</td>
+<td>09 16 1963</td>
+<td>66F</td>
+<td>Monterey</td>
+<td>Elevation 1200 feet; 1 mile northeast of Arroyo Seco (between campground and junction with Carmel Valley Road), Monterey County, California</td>
+<td>365</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45188">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45189 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45189&YF=0">UCD45189</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>D. Q. Cavagnaro</td>
+<td>09 15 1963</td>
+<td>61</td>
+<td>Monterey</td>
+<td>Elevation 1400 feet; 10 miles northwest of Arroyo Seco, Monterey County, California</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45189">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45190 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45190&YF=0">UCD45190</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>D. Q. Cavagnaro</td>
+<td>09 15 1963</td>
+<td>60</td>
+<td>Monterey</td>
+<td>Notheast-facing side of valley, elevation 1400 feet; 10 miles northwest of Arroyo Seco, Monterey County, California</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45190">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45191 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45191&YF=0">UCD45191</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>D. Q. Cavagnaro</td>
+<td>09 15 1963</td>
+<td>54</td>
+<td>Monterey</td>
+<td>Elevation 1600 feet; 11 miles northwest of Arroyo Seco, Monterey County, California</td>
+<td>487</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45191">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45192 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45192&YF=0">UCD45192</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>D. Q. Cavagnaro</td>
+<td>09 19 1963</td>
+<td>228</td>
+<td>San Benito</td>
+<td>Elevation 1500 feet; State Highway 25, 5 miles southeast of Pinnacles National Monument junction, San Benito County, California</td>
+<td>457</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45192">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45193 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45193&YF=0">UCD45193</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>D. Q. Cavagnaro</td>
+<td>09 15 1963</td>
+<td>56</td>
+<td>Monterey</td>
+<td>Elevation 1400 feet; 10 miles northwest of Arroyo Seco, Monteret County, California</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45193">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45196 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45196&YF=0">UCD45196</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Herbert L. Mason</td>
+<td>05 29 1927</td>
+<td>3737a</td>
+<td>Los Angeles</td>
+<td>Tejon Pass, Sierra Liebre Mts</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45196">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD45197 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45197&YF=0">UCD45197</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>D. Q. Cavagnaro</td>
+<td>09 15 1963</td>
+<td>49</td>
+<td>Monterey</td>
+<td>20 miles northwest of Arroyo Seco, Monteret County, California</td>
+<td>548</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45197">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD47724 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD47724&YF=0">UCD47724</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>A. C. Sanders, Mark Elvin</td>
+<td>06 20 2002</td>
+<td>25208</td>
+<td>Los Angeles</td>
+<td>NE end of Santa Susana Mtns.: Newhall Ranch, hills southwest and west of Magic Mountain amusement park, within 1 mile of park (Newhall 7.5', Q.:34&deg; 24.5'N, 118&deg; 35'W). Alt: 366-457 m/ 1200-1500 ft</td>
+<td>365-457</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD47724">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR127630 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR127630&YF=0">UCR127630</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>A. C. Sanders, Mark Elvin</td>
+<td>Jun 20 2002</td>
+<td>25208</td>
+<td>Los Angeles</td>
+<td>NE end of Santa Susana Mtns. Newhall Ranch, hills southwest and west of Magic Mountain amusement park, within 1 mile of park</td>
+<td>366</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR127630">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR169406 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR169406&YF=0">UCR169406</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Randall T. Schuh, Cassis, Schwartz, Weirauch, Wyniger, Forero</td>
+<td>May 21 2004</td>
+<td>17-105</td>
+<td>Kern</td>
+<td>Mojave Desert S of Tehachapi at junction of Tehachapi Willow Springs Road and Oak Creek Road, Site L17</td>
+<td>1235</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR169406">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR169498 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR169498&YF=0">UCR169498</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Randall T. Schuh, Cassis, Schwartz, Weirauch, Wyniger, Forero</td>
+<td>May 22 2004</td>
+<td>21-122</td>
+<td>Kern</td>
+<td>Southern Sierra Nevada Mtns east of Caliente on Caliente Creek Road, Twin Oaks, Site L21</td>
+<td>836</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR169498">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR219893 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR219893&YF=0">UCR219893</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Pam De Vries</td>
+<td>Apr 23 2009</td>
+<td>7354</td>
+<td>Kern</td>
+<td>Western Transverse Range; San Emigdio Mountains Region Bitter Creek National Wildlife Refuge; c. 2.25 air miles east southeast of the junction of Cerro Noroeste and Klipstein Canyon roads</td>
+<td>946</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR219893">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR252166 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR252166&YF=0">UCR252166</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Elizabeth Neese, Elizabeth Painter</td>
+<td>Oct 23 1994</td>
+<td>HL951</td>
+<td>Monterey</td>
+<td>South Coast Range Fort Hunter Liggett Training Areas 24, 27, Sam Jones Canyon, c. 2.5 air km due south of San Antonio River, c. 3.0 air km west-northwest of Quail Top, c. 2.7 road km (1.7 mi) southwest of Sam Jones Road Bridge over San Antonio River</td>
+<td>340</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR252166">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR27077 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR27077&YF=0">UCR27077</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>A. C. Sanders</td>
+<td>Oct 11 1981</td>
+<td>2379</td>
+<td>Monterey</td>
+<td>Along Paloma Creek, c. 4 mi. north of the junction of Carmel Valley Road (G-16) and Arroyo Seco Road, on Carmel Valley Road; c. 12 mi. (airline) NW of Greenfield</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR27077">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR27079 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR27079&YF=0">UCR27079</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>A. C. Sanders</td>
+<td>Oct 11 1981</td>
+<td>2380</td>
+<td>Monterey</td>
+<td>Along Paloma Creek, c. 4 mi. north of the junction of Carmel Valley Road (G-16) and Arroyo Seco Road, on Carmel Valley Road; c. 12 mi. (airline) NW of Greenfield</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR27079">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB25272 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB25272&YF=0">UCSB25272</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Richard Broder</td>
+<td>03/20/1960</td>
+<td>243</td>
+<td>Kern</td>
+<td>Temblor Range, on road from Simmler to McKittrick, 4.6 miles E of San Luis Obispo-Kern county line</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB25272">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB27884 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB27884&YF=0">UCSB27884</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Robert Lloyd</td>
+<td>03/24/1959</td>
+<td>90</td>
+<td>Los Angeles</td>
+<td>At Oak Flats Fire Station, 10 mi. north of Castaic, on U.S. Hwy. 99, Tehachapi Mts.</td>
+<td>822</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB27884">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB27889 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB27889&YF=0">UCSB27889</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Robert Lloyd</td>
+<td>03/24/1959</td>
+<td>89</td>
+<td>Los Angeles</td>
+<td>At Oak Flats Fire Station, 10 mi. north of Castaic, on U.S. Hwy. 99, Tehachapi Mts.</td>
+<td>822</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB27889">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB27890 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB27890&YF=0">UCSB27890</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>N. F.</td>
+<td>10/31/1959</td>
+<td>5122</td>
+<td>Kern</td>
+<td>6.5 miles west of Tehachapi on Hwy. U.S. 466, Tehachapi Mts.</td>
+<td>1036</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB27890">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB27900 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB27900&YF=0">UCSB27900</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Robert Lloyd</td>
+<td>03/24/1959</td>
+<td>92</td>
+<td>Los Angeles</td>
+<td>At Oak Flats Fire Station, 10 mi. north of Castaic, on U.S. Hwy. 99, Tehachapi Mts.</td>
+<td>822</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB27900">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB27935 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB27935&YF=0">UCSB27935</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Robert Lloyd</td>
+<td>03/24/1959</td>
+<td>104</td>
+<td>Kern</td>
+<td>One-half mile north of Lebec, on west side of U.S. Hwy 99, San Emidgio Mts.</td>
+<td>1066</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB27935">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB27991 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB27991&YF=0">UCSB27991</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Robert Lloyd</td>
+<td>03/24/1959</td>
+<td>93</td>
+<td>Los Angeles</td>
+<td>At Oak Flats Fire Station, 10 mi. north of Castaic, Calif, on U.S. Hwy. 99, Tehachapi Mts.</td>
+<td>822</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB27991">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB28129 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB28129&YF=0">UCSB28129</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Robert Lloyd</td>
+<td>03/24/1959</td>
+<td>103</td>
+<td>Kern</td>
+<td>one-half mile north of Lebec, on west side of U.S. Hwy.99, San Emigdio Mts.</td>
+<td>1066</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB28129">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB28156 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB28156&YF=0">UCSB28156</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Robert Lloyd</td>
+<td>03/24/1959</td>
+<td>86</td>
+<td>Los Angeles</td>
+<td>At Oak Flats Fire Station, 10 mi. north of Castaic, on U.S. Hwy. 99, Tehachapi Mts.</td>
+<td>822</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB28156">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB34814 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB34814&YF=0">UCSB34814</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Robert Lloyd</td>
+<td>03/24/1959</td>
+<td>96</td>
+<td>Kern</td>
+<td>one-half mile north of Lebec, Calif, on west side of U.S. Hwy. 99; San Emigdio Mts.</td>
+<td>1066</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB34814">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB34816 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB34816&YF=0">UCSB34816</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Robert Lloyd</td>
+<td>03/24/1959</td>
+<td>98</td>
+<td>Kern</td>
+<td>One-half mile north of Lebec, on west side of U.S. Hwy. 99, San Emidgio Mts.</td>
+<td>1066</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB34816">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB34817 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB34817&YF=0">UCSB34817</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Robert Lloyd</td>
+<td>03/24/1959</td>
+<td>102</td>
+<td>Kern</td>
+<td>One-half mile north of Lebec, on west side of U.S. Hwy. 99, San Emidgio Mts.</td>
+<td>1066</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB34817">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB34824 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB34824&YF=0">UCSB34824</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Robert Lloyd</td>
+<td>03/24/1959</td>
+<td>107</td>
+<td>Kern</td>
+<td>One-half mile north of Lebec, on west side of U.S. Hwy. 99, San Emidgio Mts.</td>
+<td>1066</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB34824">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB34875 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB34875&YF=0">UCSB34875</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Robert Lloyd</td>
+<td>03/24/1959</td>
+<td>99</td>
+<td>Kern</td>
+<td>One-half mile north of Lebec, on west side of U.S. Hwy. 99, San Emidgio Mts.</td>
+<td>1066</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB34875">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB34877 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB34877&YF=0">UCSB34877</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Robert Lloyd</td>
+<td>03/24/1959</td>
+<td>106</td>
+<td>Kern</td>
+<td>One-half mile north of Lebec, on west side of U.S. Hwy. 99, San Emidgio Mts.</td>
+<td>1066</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB34877">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=DS170743 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?DS170743&YF=0">DS170743</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>Milo S. Baker</td>
+<td>Jan. 1, 1924</td>
+<td>2334a</td>
+<td>San Luis Obispo</td>
+<td>near San Miguel</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=DS170743">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=OBI14273 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI14273&YF=0">OBI14273</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>G. L. Stebbins, Jr,</td>
+<td>January 2, 1948</td>
+<td>3902</td>
+<td>San Luis Obispo</td>
+<td>One mi S of Paso Robles</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI14273">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=OBI34880 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI34880&YF=0">OBI34880</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>David J. Keil, Dirk Walters</td>
+<td>April 5, 1980</td>
+<td>13746</td>
+<td>San Luis Obispo</td>
+<td>Ca. 28 mi E of Santa Maria on hwy 166 and N on Chimineas Ranch Rd</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI34880">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=SBBG58986 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG58986&YF=0">SBBG58986</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>W. B. Holt</td>
+<td>Oct 29 1939</td>
+<td>434</td>
+<td>Santa Barbara</td>
+<td>near Cuyama School in Cottonwood Cyn [ambiguous locality]</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG58986">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UC455265 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC455265&YF=0">UC455265</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>I. J. Condit</td>
+<td>Mar 30 1910</td>
+<td></td>
+<td>San Luis Obispo</td>
+<td>canyon behind Painted Rock; Carisa Plains</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC455265">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UCD14446 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD14446&YF=0">UCD14446</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>04 05 1947</td>
+<td>1536-1539</td>
+<td>Monterey</td>
+<td>12.6 mi. south-southwest of San Lucas on the road to Lockwood</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD14446">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UCD45154 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45154&YF=0">UCD45154</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>John M. Tucker</td>
+<td>10 05 1941</td>
+<td>417</td>
+<td>Monterey</td>
+<td>(Aff. Q. dumosa Nutt). West side of Big Creek Canyon, 1/2 mile northwest of Univesity of California Hastings Reserve, Monterey County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45154">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UCD45173 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45173&YF=0">UCD45173</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>J. M. Tucker</td>
+<td>04 04 1947</td>
+<td>1501</td>
+<td>San Benito</td>
+<td>East-facing hillslope beside Highway 25 ca. 4 miles southeast of San Benioto County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45173">Comment</a> </td>
+</tr>
+<!-- Quercus X alvordiana --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UCD45176 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD45176&YF=0">UCD45176</a>&nbsp;</td>
+<td>Quercus X alvordiana</td>
+<td>S. C. Lillis</td>
+<td>09 01 1908</td>
+<td>s.n.</td>
+<td>Fresno</td>
+<td>San Carlos Range, Fresno County, California</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD45176">Comment</a> </td>
+</tr>
+</table></form>
+
+<!-- Footer begins -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="18" bgcolor="9090AA"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  <tr>
+    <td height="20"><span class="copyrightText">&nbsp;&nbsp;Copyright &copy; 2010 Regents of the University of California &mdash; Database extract updated 2/17/2016 
+</span>
+
+
+
+  </tr>
+</table>
+<!-- Footer ends -->
+
+
+0.02 processing seconds
+
+<!-- <a href="/cgi-bin/clone_coords.pl?/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Quercus X alvordiana&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0">Clone coords view</a>-->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1304595-1";
+urchinTracker();
+</script>
+</body></html>

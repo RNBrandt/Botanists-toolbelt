@@ -1,0 +1,47 @@
+<html>
+<head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<title>Results of INA query</title>
+<Meta NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+
+<link href="http://ucjeps.berkeley.edu/common/styles/style_workshop.css" rel="stylesheet" type="text/css" />
+<Meta Name="keywords" Content="
+Algae,
+University herbarium,
+Berkeley,
+Marine Botany,
+Indian Ocean,
+California Flora,
+Seaweeds,
+Phycological Documentation"
+>
+</head>
+<body> 
+<h3>
+<a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological Documentation:</>
+<a href="/CPD/"><FONT size="+2" COLOR="#ff0000">I</FONT>ndex <FONT size="+2" COLOR="#ff0000">N</FONT>ominum <FONT size="+2" COLOR="#ff0000">A</FONT>lgarum</a>
+</h3>
+<hr>
+The INA is a card file and online reporting system maintained at the
+<a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">
+Silva Center for Phycological Documentation
+</a>
+of the University Herbarium, University of California, Berkeley. It contains nearly 200,000 names of algae (in the broad sense).
+The BPU is a card file containing bibliographic references pertaining to algal taxonomy.
+<P>
+<form action="/cgi-bin/search_ina.pl">
+<input type="text" length="20" name="lookfor">
+<input type="submit" value="search INA">
+</form>
+<a href="/cgi-bin/search_ina.pl?lookfor=Binghamiopsis&xl=1">Tabular display</a>
+<H2>Results from INA database</H2>
+<OL>
+<LI><A HREF="/cgi-bin/porp_cgi.pl?512035">BINGHAMIOPSIS I.K. Lee, J.A. West &amp; M.H. Hommersand</a> image
+ <LI><A HREF="/cgi-bin/porp_cgi.pl?512036">BINGHAMIOPSIS I.K. Lee, J.A. West &amp; M.H. Hommersand</a> image
+ <LI><A HREF="/cgi-bin/porp_cgi.pl?102097">BINGHAMIOPSIS I.K. Lee, J.A. West, &amp; M.H. Hommersand</a> 
+ <LI><A HREF="/cgi-bin/porp_cgi.pl?514436">Binghamiopsis caespitosa I.K. Lee, J.A. West &amp; M.H. Hommersand</a> image
+ <LI><A HREF="/cgi-bin/porp_cgi.pl?514437">Binghamiopsis caespitosa I.K. Lee, J.A. West &amp; M.H. Hommersand</a> image
+ <LI><A HREF="/cgi-bin/porp_cgi.pl?102096">Binghamiopsis caespitosa I.K. Lee, J.A. West, &amp; M.H. Hommersand</a> 
+
+</OL>

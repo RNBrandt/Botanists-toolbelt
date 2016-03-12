@@ -1,0 +1,237 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Cerastium</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Cerastium
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49810">Cerastium arvense subsp. strictum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18654">Cerastium beeringianum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18665">Cerastium dichotomum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18666">Cerastium diffusum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49818">Cerastium fontanum subsp. vulgare
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18675">Cerastium glomeratum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18630">Cerastium viride
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=10429'><h3>View taxon page for Cerastium</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#OH1'">1.</a><a name="OH1."> </a> Annual (or appearing so); stems generally all flowering, ascending to erect
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#OH2'">2.</a><a name="OH2."> </a> Calyx 8.5&ndash;12 mm; fruit 14&ndash;22 mm; seeds 0.9&ndash;1.1 mm <a href="/cgi-bin/get_IJM.pl?tid=18665">.....&nbsp;C. dichotomum</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#OH2.">2'</a><a name="OH2'"> </a> Calyx 3&ndash;7 mm; fruit 3.5&ndash;11 mm; seeds &plusmn; 0.4&ndash;1 mm
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#OH3'">3.</a><a name="OH3."> </a> Upper bracts scarious-margined; scarious margin of most outer sepals 0.2&ndash;0.6 mm wide <a href="/cgi-bin/get_IJM.pl?tid=49818">.....&nbsp;C. fontanum subsp. vulgare</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#OH3.">3'</a><a name="OH3'"> </a> Upper bracts not scarious (rarely with minute scarious tip); scarious margin of most outer sepals &lt; 0.1 mm wide
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OH4'">4.</a><a name="OH4."> </a> Flower parts 4(5); sepals with 0 hairs exceeding tip; bracts not scarious or rarely with minute scarious tip; pedicels in fruit generally > sepals <a href="/cgi-bin/get_IJM.pl?tid=18666">.....&nbsp;[C. diffusum]</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OH4.">4'</a><a name="OH4'"> </a> Flower parts 5; sepals with some hairs exceeding tip by 0.2&ndash;0.8 mm; bracts not scarious; pedicels in fruit (except lowest) &lt; sepals <a href="/cgi-bin/get_IJM.pl?tid=18675">.....&nbsp;C. glomeratum</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#OH1.">1'</a><a name="OH1'"> </a> Perennial herb; stems both non-flowering (mat-forming) and flowering (&plusmn; erect)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#OH5'">5.</a><a name="OH5."> </a> Petals 1.5 mm &lt; to 0.5 mm > sepals <a href="/cgi-bin/get_IJM.pl?tid=49818">.....&nbsp;C. fontanum subsp. vulgare</a> (2)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#OH5.">5'</a><a name="OH5'"> </a> Petals &plusmn; 1.2&ndash;6 mm > sepals
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#OH6'">6.</a><a name="OH6."> </a> Leaves not clustered in flower stem axils; petals 1.2&ndash;2.8 mm > sepals; fruit 5.5&ndash;8.5 mm; seeds 0.7&ndash;0.8 mm; 2900&ndash;4300 m <a href="/cgi-bin/get_IJM.pl?tid=18654">.....&nbsp;C. beeringianum</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#OH6.">6'</a><a name="OH6'"> </a> Leaves clustered in flower stem axils, especially below; petals 3&ndash;6 mm > sepals; fruit (7.5) 9&ndash;16 mm; seeds &plusmn; 1&ndash;1.5 mm; &lt; 2500 m
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OH7'">7.</a><a name="OH7."> </a> Stems 5&ndash;20(30) cm; petals 7.5&ndash;9 mm; sepals 4.2&ndash;6(7) mm <a href="/cgi-bin/get_IJM.pl?tid=49810">.....&nbsp;C. arvense subsp. strictum</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OH7.">7'</a><a name="OH7'"> </a> Stems 15&ndash;45 cm; petals 10&ndash;15 mm; sepals 6&ndash;9 mm <a href="/cgi-bin/get_IJM.pl?tid=18630">.....&nbsp;C. viride</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

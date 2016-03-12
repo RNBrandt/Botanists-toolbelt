@@ -1,0 +1,267 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Cylindropuntia</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Cylindropuntia
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80391">Cylindropuntia acanthocarpa var. acanthocarpa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80393">Cylindropuntia bigelovii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80394">Cylindropuntia californica
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80401">Cylindropuntia californica var. californica
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=87443">Cylindropuntia californica var. parkeri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=99695">Cylindropuntia chuckwallensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80395">Cylindropuntia echinocarpa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80396">Cylindropuntia fosbergii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80397">Cylindropuntia ganderi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=88946">Cylindropuntia munzii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80398">Cylindropuntia prolifera
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80399">Cylindropuntia ramosissima
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80400">Cylindropuntia wolfii
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=68351'><h3>View taxon page for Cylindropuntia</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#NM1'">1.</a><a name="NM1."> </a> Fruit generally spineless or occasionally with few thin, deciduous spines, generally fleshy to leathery in age, occasionally slow-drying
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#NM2'">2.</a><a name="NM2."> </a> Fruit generally bearing flowers; perianth purple-red <a href="/cgi-bin/get_IJM.pl?tid=80398">.....&nbsp;C. prolifera</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#NM2.">2'</a><a name="NM2'"> </a> Fruit not bearing flowers; perianth white to yellow, green, or red-brown
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#NM3'">3.</a><a name="NM3."> </a> Terminal stem segment > 3 &times; longer than wide
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#NM4'">4.</a><a name="NM4."> </a> Stem decumbent to erect, spines appearing sparse, spines of stem areoles generally &plusmn; equal, tubercles generally &lt; 20 mm, oval; coastal, &lt; 250 m <a href="/cgi-bin/get_IJM.pl?tid=80401">.....&nbsp;C. californica var. californica</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#NM4.">4'</a><a name="NM4'"> </a> Stem erect, spines rather dense or if appearing sparse then tubercles generally > 20 mm, elliptic to elongate, spines of stem areoles generally with 1&ndash;3 longer central; inland, generally > 700 m <a href="/cgi-bin/get_IJM.pl?tid=87443">.....&nbsp;C. californica var. parkeri</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#NM3.">3'</a><a name="NM3'"> </a> Terminal stem segment generally &lt; 3 &times; longer than wide
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#NM5'">5.</a><a name="NM5."> </a> Tubercle length &plusmn; = width <a href="/cgi-bin/get_IJM.pl?tid=80393">.....&nbsp;C. bigelovii</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#NM5.">5'</a><a name="NM5'"> </a> Tubercle length &plusmn; 2 &times; width
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#NM6'">6.</a><a name="NM6."> </a> Spines 7&ndash;10 per tubercle; fruit &lt; 2.5 cm; seed 0 or irregularly shaped, &lt; 3 mm <a href="/cgi-bin/get_IJM.pl?tid=80396">.....&nbsp;C. fosbergii</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#NM6.">6'</a><a name="NM6'"> </a> Spines 9&ndash;16 per tubercle; fruit 2.5&ndash;3.5 cm; seed &plusmn; spheric, &plusmn; 3 mm <a href="/cgi-bin/get_IJM.pl?tid=88946">.....&nbsp;C. munzii</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#NM1.">1'</a><a name="NM1'"> </a> Fruit generally spiny, generally dry at maturity
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#NM7'">7.</a><a name="NM7."> </a> Stem &lt; 1 cm diam, tubercle generally &lt; 1 mm high <a href="/cgi-bin/get_IJM.pl?tid=80399">.....&nbsp;C. ramosissima</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#NM7.">7'</a><a name="NM7'"> </a> Stem > 1.5 cm diam, tubercle > 3 mm high
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#NM8'">8.</a><a name="NM8."> </a> Terminal stem segment generally &lt; 1 dm, tubercle length &lt; 2 &times; width
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#NM9'">9.</a><a name="NM9."> </a> Generally erect shrubs with 1 to few ascending to erect main trunks, distance between trunk nodes (main branches) generally >= 10 cm, with 1&ndash;2 branches per trunk node; inner perianth parts yellow-green; filaments green to pale yellow; styles pale yellow-green <a href="/cgi-bin/get_IJM.pl?tid=80395">.....&nbsp;C. echinocarpa</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#NM9.">9'</a><a name="NM9'"> </a> Generally low shrubs with several decumbent to ascending main trunks, distance between trunk nodes generally &lt; 5 cm, with >= 3 branches per trunk node; inner perianth parts pale to dark pink-purple, occasionally pale yellow-green; filaments generally tinged pink-purple; style generally tinged pale to dark pink-purple <a href="/cgi-bin/get_IJM.pl?tid=99695">.....&nbsp;C. chuckwallensis</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#NM8.">8'</a><a name="NM8'"> </a> Terminal stem segment generally > 1 dm, tubercle length > 3 &times; width
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#NM10'">10.</a><a name="NM10."> </a> Stem generally branched only distally; trunk generally 1; inner perianth parts generally yellow <a href="/cgi-bin/get_IJM.pl?tid=80391">.....&nbsp;C. acanthocarpa var. acanthocarpa</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#NM10.">10'</a><a name="NM10'"> </a> Stem generally branched near base; trunks several to many; inner perianth parts yellow-green, yellow, bronze, to red
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#NM11'">11.</a><a name="NM11."> </a> Filaments red to magenta; perianth parts yellow, bronze, to red; e Sonoran Desert (extreme se San Diego Co., sw Imperial Co.) <a href="/cgi-bin/get_IJM.pl?tid=80400">.....&nbsp;C. wolfii</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#NM11.">11'</a><a name="NM11'"> </a> Filaments green to yellow; perianth parts yellow to yellow-green; sw San Joaquin Valley (Cuyama Valley), s Outer South Coast Ranges (Cuyama River Canyon), s South Coast, Peninsular Ranges, Sonoran Desert
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#NM12'">12.</a><a name="NM12."> </a> Stem decumbent to erect, spines appearing sparse, tubercles generally &lt; 20 mm, oval; coastal, &lt; 250 m <a href="/cgi-bin/get_IJM.pl?tid=80401">.....&nbsp;C. californica var. californica</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#NM12.">12'</a><a name="NM12'"> </a> Stem erect, spines rather dense or if appearing sparse then tubercles generally > 20 mm, elliptic to elongate; inland, generally > 250 m
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#NM13'">13.</a><a name="NM13."> </a> Spines generally not prominent, not obscuring young stem segments; stem segments 14&ndash;43 cm, tubercles 16&ndash;35 mm <a href="/cgi-bin/get_IJM.pl?tid=87443">.....&nbsp;C. californica var. parkeri</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#NM13.">13'</a><a name="NM13'"> </a> Spines prominent, obscuring young stem segments; stem segments 10&ndash;26 cm, tubercles 11&ndash;25 mm <a href="/cgi-bin/get_IJM.pl?tid=80397">.....&nbsp;C. ganderi</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

@@ -1,0 +1,2405 @@
+<html>
+<head>
+<Meta NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>UC/JEPS: Consortium Search Results</title>
+<link href="http://ucjeps.berkeley.edu/consortium/style_consortium.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+
+
+
+
+<!-- COMMON HEADER -->
+<table width="100%" class="banner" border="0" cellpadding="0" cellspacing="0">
+  <tr><td width="80" align="center"><a href="/consortium/"><img src="/consortium/images/CCH_logo_02_80.png" width="80" height="82"></a></td>
+  <td>
+        <table class="banner" width="100%" border="0">
+        <tr>
+        <td align="center">Consortium of California Herbaria</td>
+        </tr>
+        <tr><td>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                <td height="21" width="640" align="center">
+                <a href="http://ucjeps.berkeley.edu/consortium/participants.html" class="horizMenuActive">Participants</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/consortium/news.html" class="horizMenuActive">News</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/consortium/" class="horizMenuActive">Search</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/consortium/about.html" class="horizMenuActive">About</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/detail_help.html" class="horizMenuActive">Help</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://give.berkeley.edu/fund/?f=FU1259000" class="horizMenuActive">Donate</a>
+                    </td></tr>
+                </table>
+        </td></tr>
+        </table>
+</td></tr>
+</table>
+<!-- COMMON HEADER ENDS -->
+
+
+
+
+<br />
+<table width="100%" cellpadding="5" class="bodyText"><tr><td>
+<span class="pageName">Search Results</span>
+<span class="pageSubheading"> &mdash; 175 specimen records retrieved (159 records with coordinates)</span>
+<br />
+<span class="bodyText">Results for search: Locality=Forester;  &nbsp;&nbsp;</span>
+
+<table width="100%" cellpadding="5" class="bodyText"><tr><td width="50%" valign="top">
+<span class="pageSubheading"><br>Mapping Options:</span>
+<br>
+<a href="http://berkeleymapper.berkeley.edu/index.html?ViewResults=tab&tabfile=http://ucjeps.berkeley.edu/BerkeleyMapper/CHC_056824664.txt&configfile=http%3A%2F%2Fucjeps.berkeley.edu%2Fucjeps.xml&sourcename=Consortium+of+California+Herbaria+result+set&maptype=Terrain">BerkeleyMapper with county and bioregion layers</a> <br>
+<a href="http://berkeleymapper.berkeley.edu/index.html?ViewResults=tab&tabfile=http://ucjeps.berkeley.edu/BerkeleyMapper/CHC_056824664.txt&configfile=http%3A%2F%2Fucjeps.berkeley.edu%2Fucjeps_nolayers.xml&sourcename=Consortium+of+California+Herbaria+result">BerkeleyMapper without layers.</a> <br>
+<a href="/cgi-bin/x_to_k.pl?tabfile=http://ucjeps.berkeley.edu/BerkeleyMapper/CHC_056824664.txt"> KML export</a> <br>
+(Note: only records with coordinates are mappable)
+</td>
+
+</span>
+<td width = "50%" valign="top">
+<span class="pageSubheading"><br>Download Options:</span>
+<form method="post" action="/cgi-bin/get_consort.pl">
+
+<a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=Forester&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;check_all=1&amp;SO=0">Select all records</a>
+&middot;
+<a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=Forester&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;georef_only=1">Select records with coordinates</a><br>
+<input type="submit" value="Retrieve selected records as tab-separated list"> <br>
+<input type="checkbox" name="DL" value="UCR">Include annotations and voucher information
+</td></tr>
+</td></tr></table>
+
+<hr>
+<table width="100%" cellpadding="0" cellspacing="0" class="bodyText">
+<tr><td>&nbsp;</td><td>Please cite data retrieved from this page: Data provided by the participants of the Consortium of California Herbaria (ucjeps.berkeley.edu/consortium/).
+</td></tr>
+<tr><td>&nbsp;</td><td>Records are made available under the <a href="http://ucjeps.berkeley.edu/consortium/data_use_terms.html">CCH Data Use Terms</a>.</td></tr>
+</table>
+<hr>
+
+<table width="100%" cellpadding="5" cellspacing="0" class="bodyText">
+<tr><td colspan="11">
+Click on column header to sort data (* sorts by family); click in leftmost checkbox to select record. <a href="http://ucjeps.berkeley.edu/detail_help.html">CCH Help Page</a>.
+<br>
+<a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=Forester&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=1&amp;VTM=0">Turn on yellow flags</a> to show possible range discrepancies.
+<a href="http://ucjeps.berkeley.edu/consortium/about_yellow.html">Read more ... </a>
+</td>
+</tr>
+<tr bgcolor="#cccccc">
+<th></th>
+<th bgcolor=#eeeeee><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=Forester&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=21">?</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=Forester&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=10">Specimen ID</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=Forester&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=0-">Determination</a><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=Forester&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=11"> *</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=Forester&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=1">Collector</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=Forester&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=5">Collection Date</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=Forester&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=3">Collection Number</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=Forester&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=8">County</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=Forester&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=20">Locality</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=Forester&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=9">Elevation in meters</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=Forester&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=25">Feedback</a></th>
+</tr>
+
+
+<!-- Adenostoma fasciculatum --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA654072 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA654072&YF=0">RSA654072</a>&nbsp;</td>
+<td>Adenostoma fasciculatum</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>735</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA654072">Comment</a> </td>
+</tr>
+<!-- Andropogon virginicus --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CDA31477 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CDA31477&YF=0">CDA31477</a>&nbsp;</td>
+<td>Andropogon virginicus</td>
+<td>Cliff Hulbert</td>
+<td>Oct 27 1957</td>
+<td></td>
+<td>Placer</td>
+<td>Auburn, Ranch of Edward Forester (Rt. , Box 1218)</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CDA31477">Comment</a> </td>
+</tr>
+<!-- Antennaria media --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=CAS897030 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS897030&YF=0">CAS897030</a>&nbsp;</td>
+<td>Antennaria media</td>
+<td>Joseph Keefe</td>
+<td>19 August 1973</td>
+<td>14183</td>
+<td>Tulare</td>
+<td>John Muir Trail, southwest slope of Center Peak, 2 miles north of Forester Pass, Kings Canyon National Park</td>
+<td>3413</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS897030">Comment</a> </td>
+</tr>
+<!-- Antennaria pulchella --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS898179 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS898179&YF=0">CAS898179</a>&nbsp;</td>
+<td>Antennaria pulchella</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14217</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 KM north Forester Pass, Kings Canyon National Park</td>
+<td>3657</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS898179">Comment</a> </td>
+</tr>
+<!-- Arabis platysperma --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=RSA667934 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA667934&YF=0">RSA667934</a>&nbsp;</td>
+<td>Arabis platysperma</td>
+<td>Joseph M. Keefe</td>
+<td>Aug 19 1973</td>
+<td>14184</td>
+<td>Tulare</td>
+<td>Along John Juir Trail, SW slope of Center Peak, 2 miles N of Forester Pass, Kings Canyon National Park.</td>
+<td>3415</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA667934">Comment</a> </td>
+</tr>
+<!-- Avena barbata --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653463 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653463&YF=0">RSA653463</a>&nbsp;</td>
+<td>Avena barbata</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>4 25 2000</td>
+<td>756</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy.</td>
+<td>487</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653463">Comment</a> </td>
+</tr>
+<!-- Avena barbata --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SFV22134 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SFV22134&YF=0">SFV22134</a>&nbsp;</td>
+<td>Avena barbata</td>
+<td>V. Soza, E. Edwards, L. Gross, B. O'Brien</td>
+<td>Apr 25 2000</td>
+<td>756</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains South side of Verdugo Mountains. Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mountainway. Open, south-southwest-facing, rocky slope below trail along ridgetop.</td>
+<td>488</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SFV22134">Comment</a> </td>
+</tr>
+<!-- Avena barbata --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR198397 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR198397&YF=0">UCR198397</a>&nbsp;</td>
+<td>Avena barbata</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>756</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains south side, above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>488</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR198397">Comment</a> </td>
+</tr>
+<!-- Barbarea orthoceras --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS882962 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS882962&YF=0">CAS882962</a>&nbsp;</td>
+<td>Barbarea orthoceras</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14185</td>
+<td>Tulare</td>
+<td>Kings Canyon National Park. John Muir Trail 2 miles north of Forester Pass.</td>
+<td>3430</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS882962">Comment</a> </td>
+</tr>
+<!-- Boechera howellii --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=CAS887302 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS887302&YF=0">CAS887302</a>&nbsp;</td>
+<td>Boechera howellii</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14218</td>
+<td>Tulare</td>
+<td>Kings Canyon National Park. 1 km. north Forester Pass.</td>
+<td>3657</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS887302">Comment</a> </td>
+</tr>
+<!-- Boechera howellii --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=CAS887304 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS887304&YF=0">CAS887304</a>&nbsp;</td>
+<td>Boechera howellii</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14184</td>
+<td>Tulare</td>
+<td>Kings Canyon National Park. 2 miles north of Forester Pass. Along John Muir Trail, southwest slope of Center Peak.</td>
+<td>3413</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS887304">Comment</a> </td>
+</tr>
+<!-- Brassica geniculata --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR194753 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR194753&YF=0">UCR194753</a>&nbsp;</td>
+<td>Brassica geniculata</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>738</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains Verdugo Mountains, south side, above Burbank. Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR194753">Comment</a> </td>
+</tr>
+<!-- Brassica nigra --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA654075 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA654075&YF=0">RSA654075</a>&nbsp;</td>
+<td>Brassica nigra</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>738</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA654075">Comment</a> </td>
+</tr>
+<!-- Brickellia nevinii --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653462 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653462&YF=0">RSA653462</a>&nbsp;</td>
+<td>Brickellia nevinii</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>757</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy.</td>
+<td>487</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653462">Comment</a> </td>
+</tr>
+<!-- Brickellia nevinii --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SFV22136 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SFV22136&YF=0">SFV22136</a>&nbsp;</td>
+<td>Brickellia nevinii</td>
+<td>V. Soza, E. Edwards, L. Gross, B. O'Brien</td>
+<td>Apr 25 2000</td>
+<td>757</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains South side of Verdugo Mountains. Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mountainway. Open, south-southwest-facing, rocky slope below trail along ridgetop.</td>
+<td>488</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SFV22136">Comment</a> </td>
+</tr>
+<!-- Brickellia nevinii --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR200128 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR200128&YF=0">UCR200128</a>&nbsp;</td>
+<td>Brickellia nevinii</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>757</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains south side, above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>488</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR200128">Comment</a> </td>
+</tr>
+<!-- Bromus madritensis subsp. rubens --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR194762 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR194762&YF=0">UCR194762</a>&nbsp;</td>
+<td>Bromus madritensis subsp. rubens</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>731</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains Verdugo Mountains, south side, above Burbank. Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR194762">Comment</a> </td>
+</tr>
+<!-- Bromus rubens --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA654069 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA654069&YF=0">RSA654069</a>&nbsp;</td>
+<td>Bromus rubens</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>4 25 2000</td>
+<td>731</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA654069">Comment</a> </td>
+</tr>
+<!-- Calandrinia breweri --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653839 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653839&YF=0">RSA653839</a>&nbsp;</td>
+<td>Calandrinia breweri</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>770</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34&deg; 12' 28.5'' N 118&deg; 17' 44.8'' W T2N R14W S/2, SE/4 sec. 36.</td>
+<td>518</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653839">Comment</a> </td>
+</tr>
+<!-- Calandrinia breweri --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR200124 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR200124&YF=0">UCR200124</a>&nbsp;</td>
+<td>Calandrinia breweri</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>770</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains south side, above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>518</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR200124">Comment</a> </td>
+</tr>
+<!-- Calystegia macrostegia subsp. intermedia --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653471 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653471&YF=0">RSA653471</a>&nbsp;</td>
+<td>Calystegia macrostegia subsp. intermedia</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>748</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34&deg; 12' 17.5'' N 118&deg; 17' 46.1'' W T1N R14W N/2, NE/4 sec. 1.</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653471">Comment</a> </td>
+</tr>
+<!-- Calystegia macrostegia subsp. intermedia --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR194737 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR194737&YF=0">UCR194737</a>&nbsp;</td>
+<td>Calystegia macrostegia subsp. intermedia</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>748</td>
+<td>Los Angeles</td>
+<td>Transverse Range: Verdugo Mountains Verdugo Mountains, south side, above Burbank. Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motortway</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR194737">Comment</a> </td>
+</tr>
+<!-- Camissonia californica --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA654077 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA654077&YF=0">RSA654077</a>&nbsp;</td>
+<td>Camissonia californica</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>740</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34&deg; 12' 12.6'' N 118&deg; 17' 45.2'' W T1N R14W N/2, NE/4 sec. 1.</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA654077">Comment</a> </td>
+</tr>
+<!-- Camissonia californica --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR194763 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR194763&YF=0">UCR194763</a>&nbsp;</td>
+<td>Camissonia californica</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>740</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains Verdugo Mountains, south side, above Burbank. Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR194763">Comment</a> </td>
+</tr>
+<!-- Carex breweri --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS845778 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS845778&YF=0">CAS845778</a>&nbsp;</td>
+<td>Carex breweri</td>
+<td>Joseph M. Keefe</td>
+<td>12, Aug. 1973</td>
+<td>14224</td>
+<td>Tulare</td>
+<td>Kings Canyon National Park. Johun Muir Trail, 1 KM north Forester Pass.</td>
+<td>3657</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS845778">Comment</a> </td>
+</tr>
+<!-- Carex breweri --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA667942 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA667942&YF=0">RSA667942</a>&nbsp;</td>
+<td>Carex breweri</td>
+<td>Joseph M. Keefe</td>
+<td>8 12 1973</td>
+<td>14224</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 km north Forester Pass, Kings Canyon National Park.</td>
+<td>3659</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA667942">Comment</a> </td>
+</tr>
+<!-- Carex helleri --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS831749 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS831749&YF=0">CAS831749</a>&nbsp;</td>
+<td>Carex helleri</td>
+<td>Joseph M. Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14187</td>
+<td>Tulare</td>
+<td>Kings Canyon National Park. 2 miles north of Forester Park. Along John Muir Trail, southwest of slope of Center Peak.</td>
+<td>3413</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS831749">Comment</a> </td>
+</tr>
+<!-- Carex helleri --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS831750 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS831750&YF=0">CAS831750</a>&nbsp;</td>
+<td>Carex helleri</td>
+<td>Joseph M. Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14193</td>
+<td>Tulare</td>
+<td>Kings Canyon National Park. Southwest slope of Center Peak. John Muir Trail, 2 miles north of Forester Pass.</td>
+<td>3430</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS831750">Comment</a> </td>
+</tr>
+<!-- Carex helleri --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS831755 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS831755&YF=0">CAS831755</a>&nbsp;</td>
+<td>Carex helleri</td>
+<td>Joseph M. Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14222</td>
+<td>Tulare</td>
+<td>Kings Canyon National Park. John Muir Trail, 1 km north Forester Pass.</td>
+<td>3657</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS831755">Comment</a> </td>
+</tr>
+<!-- Carex helleri --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS831756 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS831756&YF=0">CAS831756</a>&nbsp;</td>
+<td>Carex helleri</td>
+<td>Joseph M. Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14225</td>
+<td>Tulare</td>
+<td>Kings Canyon National Park. John Muir Trail, 1 km north Forester Pass.</td>
+<td>3657</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS831756">Comment</a> </td>
+</tr>
+<!-- Carex helleri --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA667943 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA667943&YF=0">RSA667943</a>&nbsp;</td>
+<td>Carex helleri</td>
+<td>Joseph M. Keefe</td>
+<td>8 19 1973</td>
+<td>14225</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 km north Forester Pass; Kings Canyon National Park.</td>
+<td>3659</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA667943">Comment</a> </td>
+</tr>
+<!-- Carex helleri --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA667944 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA667944&YF=0">RSA667944</a>&nbsp;</td>
+<td>Carex helleri</td>
+<td>Joseph M. Keefe</td>
+<td>8 19 1973</td>
+<td>14222</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 km north Forester Pass; Kings Canyon National Park.</td>
+<td>3659</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA667944">Comment</a> </td>
+</tr>
+<!-- Carex orestera --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=CAS858950 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS858950&YF=0">CAS858950</a>&nbsp;</td>
+<td>Carex orestera</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14196</td>
+<td>Tulare</td>
+<td>Along John Muir Trail, 2 miles north of Forester Pass, Kings Canyon National Park Elev. given as 11200 ft</td>
+<td>3430</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS858950">Comment</a> </td>
+</tr>
+<!-- Carex proposita --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS863881 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS863881&YF=0">CAS863881</a>&nbsp;</td>
+<td>Carex proposita</td>
+<td>Joseph M. Keefe</td>
+<td>19 August 1973</td>
+<td>14192</td>
+<td>Tulare</td>
+<td>John Muir Trail, SW slope of center Peak, 2 mi N of Forester Pass. Kings Canyon National Park.</td>
+<td>3413</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS863881">Comment</a> </td>
+</tr>
+<!-- Carex spectabilis --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=CAS859016 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS859016&YF=0">CAS859016</a>&nbsp;</td>
+<td>Carex spectabilis</td>
+<td>Joseph M. Keefe</td>
+<td>19 August 1973</td>
+<td>14186</td>
+<td>Tulare</td>
+<td>Along John Muir Trail, SW slope of Center Peak, 2 mi N of Forester Pass. Kings Canyon National Park.</td>
+<td>3413</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS859016">Comment</a> </td>
+</tr>
+<!-- Carex spectabilis --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=CAS859017 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS859017&YF=0">CAS859017</a>&nbsp;</td>
+<td>Carex spectabilis</td>
+<td>Joseph M. Keefe</td>
+<td>19 August 1973</td>
+<td>14190</td>
+<td>Tulare</td>
+<td>Along John Muir Trail, SW slope of Center Peak, 2 mi N of Forester Pass. Kings Canyon National Park.</td>
+<td>3413</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS859017">Comment</a> </td>
+</tr>
+<!-- Carex spectabilis --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=CAS859018 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS859018&YF=0">CAS859018</a>&nbsp;</td>
+<td>Carex spectabilis</td>
+<td>Joseph M. Keefe</td>
+<td>19 August 1973</td>
+<td>14191</td>
+<td>Tulare</td>
+<td>Along John Muir Trail, SW slope of Center Peak, 2 mi N of Forester Pass. Kings Canyon National Park.</td>
+<td>3413</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS859018">Comment</a> </td>
+</tr>
+<!-- Carex subnigricans --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS845774 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS845774&YF=0">CAS845774</a>&nbsp;</td>
+<td>Carex subnigricans</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14219</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 KM north Forester Pass, Kings Canyon National Park</td>
+<td>3657</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS845774">Comment</a> </td>
+</tr>
+<!-- Carex subnigricans --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA667947 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA667947&YF=0">RSA667947</a>&nbsp;</td>
+<td>Carex subnigricans</td>
+<td>Joseph M. Keefe</td>
+<td>8 19 1973</td>
+<td>14219</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 km north Forester Pass; Kings Canyon National Park.</td>
+<td>3659</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA667947">Comment</a> </td>
+</tr>
+<!-- Caulanthus heterophyllus --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SFV22146 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SFV22146&YF=0">SFV22146</a>&nbsp;</td>
+<td>Caulanthus heterophyllus</td>
+<td>V. Soza, E. Edwards, L. Gross, B. O'Brien</td>
+<td>Apr 25 2000</td>
+<td>771</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains South side of Verdugo Mountains. Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mountainway. Alongside trail along south-southwest-facing slope.</td>
+<td>518</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SFV22146">Comment</a> </td>
+</tr>
+<!-- Caulanthus heterophyllus var. pseudosimulans --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653838 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653838&YF=0">RSA653838</a>&nbsp;</td>
+<td>Caulanthus heterophyllus var. pseudosimulans</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>771</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34&deg; 12' 28.5'' N 118&deg; 17' 44.8'' W T2N R14W S/2, SE/4 sec. 36.</td>
+<td>518</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653838">Comment</a> </td>
+</tr>
+<!-- Caulanthus heterophyllus var. pseudosimulans --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR200134 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR200134&YF=0">UCR200134</a>&nbsp;</td>
+<td>Caulanthus heterophyllus var. pseudosimulans</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>771</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains south side, above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>518</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR200134">Comment</a> </td>
+</tr>
+<!-- Ceanothus crassifolius --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653845 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653845&YF=0">RSA653845</a>&nbsp;</td>
+<td>Ceanothus crassifolius</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>764</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy.</td>
+<td>487</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653845">Comment</a> </td>
+</tr>
+<!-- Ceanothus crassifolius --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SFV22142 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SFV22142&YF=0">SFV22142</a>&nbsp;</td>
+<td>Ceanothus crassifolius</td>
+<td>V. Soza, E. Edwards, L. Gross, B. O'Brien</td>
+<td>Apr 25 2000</td>
+<td>764</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains South side of Verdugo Mountains. Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mountainway. Open, west-northwest-facing slope below trail along ridgetop.</td>
+<td>488</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SFV22142">Comment</a> </td>
+</tr>
+<!-- Ceanothus crassifolius --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR198398 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR198398&YF=0">UCR198398</a>&nbsp;</td>
+<td>Ceanothus crassifolius</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>764</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains south side, above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>488</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR198398">Comment</a> </td>
+</tr>
+<!-- Chaenactis glabriuscula var. glabriuscula --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA654071 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA654071&YF=0">RSA654071</a>&nbsp;</td>
+<td>Chaenactis glabriuscula var. glabriuscula</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>734</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA654071">Comment</a> </td>
+</tr>
+<!-- Chaenactis glabriuscula var. glabriuscula --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR194748 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR194748&YF=0">UCR194748</a>&nbsp;</td>
+<td>Chaenactis glabriuscula var. glabriuscula</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>734</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains Verdugo Mountains, south side, above Burbank. Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR194748">Comment</a> </td>
+</tr>
+<!-- Chamaesyce melanadenia --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653467 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653467&YF=0">RSA653467</a>&nbsp;</td>
+<td>Chamaesyce melanadenia</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>752</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34&deg; 12' 21.9'' N 118&deg; 17' 48.4'' W T1N R14W N/2, NE/4 sec. 1; T2N R14W SE/4, SE/4</td>
+<td>457</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653467">Comment</a> </td>
+</tr>
+<!-- Chamaesyce melanadenia --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SFV21797 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SFV21797&YF=0">SFV21797</a>&nbsp;</td>
+<td>Chamaesyce melanadenia</td>
+<td>V. Soza, E. Edwards, L. Gross, B. O'Brien</td>
+<td>Apr 25 2000</td>
+<td>752</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains South side of Verdugo Mountains. Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mountainway. East-southeast-facing, open, disturbed slope below trail along ridgetop.</td>
+<td>457</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SFV21797">Comment</a> </td>
+</tr>
+<!-- Chamaesyce melanadenia --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1922289 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1922289&YF=0">UC1922289</a>&nbsp;</td>
+<td>Chamaesyce melanadenia</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>04 25 2000</td>
+<td>752</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains region; Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34deg 12' 21.9'' N 118deg 17' 48.4'' W T1N R14W N/2, NE/4 sec. 1; T2N R14W SE/4, SE/4</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1922289">Comment</a> </td>
+</tr>
+<!-- Chamaesyce melanadenia --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=SBBG121253 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG121253&YF=0">SBBG121253</a>&nbsp;</td>
+<td>Chamaesyce melanadenia</td>
+<td>V. Soza, E. Edwards, L. Gross, B. O'Brien</td>
+<td>Apr 25 2000</td>
+<td>752</td>
+<td>Los Angeles</td>
+<td>Wildwood Cyn, W of Wildwood Cyn Rd, trail along ridgetop to Forester Grove, Radio Towers and Verdugo Mtwy</td>
+<td>457</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG121253">Comment</a> </td>
+</tr>
+<!-- Cryptantha intermedia --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA654078 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA654078&YF=0">RSA654078</a>&nbsp;</td>
+<td>Cryptantha intermedia</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>741</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA654078">Comment</a> </td>
+</tr>
+<!-- Cryptantha intermedia --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR194741 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR194741&YF=0">UCR194741</a>&nbsp;</td>
+<td>Cryptantha intermedia</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>741</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains Verdugo Mountains, south side, above Burbank. Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR194741">Comment</a> </td>
+</tr>
+<!-- Cryptantha micromeres --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653843 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653843&YF=0">RSA653843</a>&nbsp;</td>
+<td>Cryptantha micromeres</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>767</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34&deg; 12' 28.5'' N 118&deg; 17' 44.8'' W T2N R14W S/2, SE/4 sec. 36.</td>
+<td>518</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653843">Comment</a> </td>
+</tr>
+<!-- Cryptantha micromeres --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SFV22144 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SFV22144&YF=0">SFV22144</a>&nbsp;</td>
+<td>Cryptantha micromeres</td>
+<td>V. Soza, E. Edwards, L. Gross, B. O'Brien</td>
+<td>Apr 25 2000</td>
+<td>767</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains South side of Verdugo Mountains. Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mountainway. Along trail on ridgetop of northwest-facing slope.</td>
+<td>518</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SFV22144">Comment</a> </td>
+</tr>
+<!-- Cryptantha nubigena --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA667939 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA667939&YF=0">RSA667939</a>&nbsp;</td>
+<td>Cryptantha nubigena</td>
+<td>Joseph M. Keefe</td>
+<td>Aug 19 1973</td>
+<td>14226</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 km north Forester Pass; Kings Canyon National Park.</td>
+<td>3659</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA667939">Comment</a> </td>
+</tr>
+<!-- Dichelostemma capitatum --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR197210 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR197210&YF=0">UCR197210</a>&nbsp;</td>
+<td>Dichelostemma capitatum</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>751</td>
+<td>Los Angeles</td>
+<td>Transverse Range: Verdugo Mountains Verdugo Mountains, south side, above Burbank. Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motortway</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR197210">Comment</a> </td>
+</tr>
+<!-- Dichelostemma capitatum subsp. capitatum --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653468 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653468&YF=0">RSA653468</a>&nbsp;</td>
+<td>Dichelostemma capitatum subsp. capitatum</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>4 25 2000</td>
+<td>751</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy.</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653468">Comment</a> </td>
+</tr>
+<!-- Dodecatheon alpinum --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS864052 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS864052&YF=0">CAS864052</a>&nbsp;</td>
+<td>Dodecatheon alpinum</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1974</td>
+<td>14198</td>
+<td>Tulare</td>
+<td>John Muir Trail, 2 miles north of Forester Pass, Kings Canyon National Park Elev. given as 11,200 feet</td>
+<td>3430</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS864052">Comment</a> </td>
+</tr>
+<!-- Draba breweri --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS870087 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS870087&YF=0">CAS870087</a>&nbsp;</td>
+<td>Draba breweri</td>
+<td>Joseph Keefe</td>
+<td>19 August 1973</td>
+<td>14274</td>
+<td>Tulare</td>
+<td>Sequoia National Park. 2 km south of Forester Pass. West of Diamond Mesa, John Muir Trail.</td>
+<td>3657</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS870087">Comment</a> </td>
+</tr>
+<!-- Draba longisquamosa --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS869242 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS869242&YF=0">CAS869242</a>&nbsp;</td>
+<td>Draba longisquamosa</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14227</td>
+<td>Tulare</td>
+<td>Kings Canyon National Park. John Muir Trail, 1 km north of Forester Pass.</td>
+<td>3657</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS869242">Comment</a> </td>
+</tr>
+<!-- Draba longisquamosa --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DS266455 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?DS266455&YF=0">DS266455</a>&nbsp;</td>
+<td>Draba longisquamosa</td>
+<td>Reid Venable Moran</td>
+<td>July 13, 1939</td>
+<td>473</td>
+<td>Tulare</td>
+<td>Foresters Pass.</td>
+<td>3992</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=DS266455">Comment</a> </td>
+</tr>
+<!-- Draba longisquamosa --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA667935 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA667935&YF=0">RSA667935</a>&nbsp;</td>
+<td>Draba longisquamosa</td>
+<td>Joseph M. Keefe</td>
+<td>Aug 19 1973</td>
+<td>14227</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 km north Forester Pass; Kings Canyon National Park.</td>
+<td>3659</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA667935">Comment</a> </td>
+</tr>
+<!-- Emmenanthe penduliflora var. penduliflora --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653850 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653850&YF=0">RSA653850</a>&nbsp;</td>
+<td>Emmenanthe penduliflora var. penduliflora</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>759</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy.</td>
+<td>487</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653850">Comment</a> </td>
+</tr>
+<!-- Emmenanthe penduliflora var. penduliflora --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA654081 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA654081&YF=0">RSA654081</a>&nbsp;</td>
+<td>Emmenanthe penduliflora var. penduliflora</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>744</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34&deg; 12' 16'' N 118&deg; 17' 46.4'' W T1N R14W N/2, NE/4 sec. 1.</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA654081">Comment</a> </td>
+</tr>
+<!-- Emmenanthe penduliflora var. penduliflora --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SFV22138 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SFV22138&YF=0">SFV22138</a>&nbsp;</td>
+<td>Emmenanthe penduliflora var. penduliflora</td>
+<td>V. Soza, E. Edwards, L. Gross, B. O'Brien</td>
+<td>Apr 25 2000</td>
+<td>759</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains South side of Verdugo Mountains. Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mountainway. Open, west-northwest-facing slope below trail along ridgetop.</td>
+<td>488</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SFV22138">Comment</a> </td>
+</tr>
+<!-- Emmenanthe penduliflora var. penduliflora --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR200136 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR200136&YF=0">UCR200136</a>&nbsp;</td>
+<td>Emmenanthe penduliflora var. penduliflora</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>759</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains south side, above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>488</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR200136">Comment</a> </td>
+</tr>
+<!-- Epilobium obcordatum --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA669970 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA669970&YF=0">RSA669970</a>&nbsp;</td>
+<td>Epilobium obcordatum</td>
+<td>Joseph M. Keefe</td>
+<td>Aug 19 1973</td>
+<td>14228</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 km north Forester Pass; Kings Canyon National Park.</td>
+<td>3659</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA669970">Comment</a> </td>
+</tr>
+<!-- Eriogonum nudum var. scapigerum --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS588062 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS588062&YF=0">CAS588062</a>&nbsp;</td>
+<td>Eriogonum nudum var. scapigerum</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14229</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 km north Forester Pass, Kings Canyon National Park</td>
+<td>3657</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS588062">Comment</a> </td>
+</tr>
+<!-- Eriogonum nudum var. scapigerum --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA667938 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA667938&YF=0">RSA667938</a>&nbsp;</td>
+<td>Eriogonum nudum var. scapigerum</td>
+<td>Joseph M. Keefe</td>
+<td>Aug 19 1973</td>
+<td>14229</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 km north Forester Pass; Kings Canyon National Park.</td>
+<td>3659</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA667938">Comment</a> </td>
+</tr>
+<!-- Eriogonum ovalifolium var. nivale --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS588087 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS588087&YF=0">CAS588087</a>&nbsp;</td>
+<td>Eriogonum ovalifolium var. nivale</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14230</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 km north Forester Pass, Kings Canyon National Park</td>
+<td>3657</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS588087">Comment</a> </td>
+</tr>
+<!-- Eriogonum ovalifolium var. nivale --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA667933 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA667933&YF=0">RSA667933</a>&nbsp;</td>
+<td>Eriogonum ovalifolium var. nivale</td>
+<td>Joseph M. Keefe</td>
+<td>Aug 19 1973</td>
+<td>14230</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 km north Forester Pass; Kings Canyon National Park.</td>
+<td>3659</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA667933">Comment</a> </td>
+</tr>
+<!-- Eriophyllum pringlei --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=DS567469 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?DS567469&YF=0">DS567469</a>&nbsp;</td>
+<td>Eriophyllum pringlei</td>
+<td>Robert E. Jr. Cox</td>
+<td>June, 1947</td>
+<td>s.n.</td>
+<td>Tulare</td>
+<td>Foresters Pass, Kings County National Park, Tulare-Inyo County Line</td>
+<td>4023</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=DS567469">Comment</a> </td>
+</tr>
+<!-- Erodium cicutarium --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA654076 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA654076&YF=0">RSA654076</a>&nbsp;</td>
+<td>Erodium cicutarium</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>739</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA654076">Comment</a> </td>
+</tr>
+<!-- Erodium cicutarium --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR194752 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR194752&YF=0">UCR194752</a>&nbsp;</td>
+<td>Erodium cicutarium</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>739</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains Verdugo Mountains, south side, above Burbank. Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR194752">Comment</a> </td>
+</tr>
+<!-- Erysimum perenne --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS881524 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS881524&YF=0">CAS881524</a>&nbsp;</td>
+<td>Erysimum perenne</td>
+<td>Joseph M. Keefe</td>
+<td>19 August 1973</td>
+<td>14199</td>
+<td>Tulare</td>
+<td>Kings Canyon National Park. Along John Muir Trail, 2 miles north of Forester Pass.</td>
+<td>3430</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS881524">Comment</a> </td>
+</tr>
+<!-- Erysimum perenne --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS881525 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS881525&YF=0">CAS881525</a>&nbsp;</td>
+<td>Erysimum perenne</td>
+<td>Joseph M. Keefe</td>
+<td>19 August 1973</td>
+<td>14231</td>
+<td>Tulare</td>
+<td>Kings Canyon National Park. Along John Muir Trail, 1 km north of Forester Pass.</td>
+<td>3657</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS881525">Comment</a> </td>
+</tr>
+<!-- Eucrypta chrysanthemifolia var. chrysanthemifolia --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653847 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653847&YF=0">RSA653847</a>&nbsp;</td>
+<td>Eucrypta chrysanthemifolia var. chrysanthemifolia</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>762</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy.</td>
+<td>487</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653847">Comment</a> </td>
+</tr>
+<!-- Eucrypta chrysanthemifolia var. chrysanthemifolia --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SFV22141 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SFV22141&YF=0">SFV22141</a>&nbsp;</td>
+<td>Eucrypta chrysanthemifolia var. chrysanthemifolia</td>
+<td>V. Soza, E. Edwards, L. Gross, B. O'Brien</td>
+<td>Apr 25 2000</td>
+<td>762</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains South side of Verdugo Mountains. Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mountainway. Open, west-northwest-facing slope below trail along ridgetop.</td>
+<td>488</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SFV22141">Comment</a> </td>
+</tr>
+<!-- Eucrypta chrysanthemifolia var. chrysanthemifolia --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR200127 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR200127&YF=0">UCR200127</a>&nbsp;</td>
+<td>Eucrypta chrysanthemifolia var. chrysanthemifolia</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>762</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains south side, above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>488</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR200127">Comment</a> </td>
+</tr>
+<!-- Euphorbia melanadenia --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR197209 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR197209&YF=0">UCR197209</a>&nbsp;</td>
+<td>Euphorbia melanadenia</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>752</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains south side, above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>457</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR197209">Comment</a> </td>
+</tr>
+<!-- Festuca brachyphylla subsp. breviculmis --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS617587 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS617587&YF=0">CAS617587</a>&nbsp;</td>
+<td>Festuca brachyphylla subsp. breviculmis</td>
+<td>Joseph Keefe</td>
+<td>19 August 1973</td>
+<td>14243</td>
+<td>Tulare</td>
+<td>Summit Forester Pass, Sequoia National Park</td>
+<td>4023</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS617587">Comment</a> </td>
+</tr>
+<!-- Festuca myuros var. myuros --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR194757 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR194757&YF=0">UCR194757</a>&nbsp;</td>
+<td>Festuca myuros var. myuros</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>732</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains Verdugo Mountains, south side, above Burbank. Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR194757">Comment</a> </td>
+</tr>
+<!-- Festuca myuros var. myuros --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR200135 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR200135&YF=0">UCR200135</a>&nbsp;</td>
+<td>Festuca myuros var. myuros</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>769B</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains south side, above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>518</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR200135">Comment</a> </td>
+</tr>
+<!-- Festuca saximontana --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS617586 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS617586&YF=0">CAS617586</a>&nbsp;</td>
+<td>Festuca saximontana</td>
+<td>Joseph Keefe</td>
+<td>Aug. 19, 1973</td>
+<td>14243A</td>
+<td>Tulare</td>
+<td>Summit Forester Pass</td>
+<td>4023</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS617586">Comment</a> </td>
+</tr>
+<!-- Filago californica --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA654079 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA654079&YF=0">RSA654079</a>&nbsp;</td>
+<td>Filago californica</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>742</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34&deg; 12' 16'' N 118&deg; 17' 46.4'' W T1N R14W N/2, NE/4 sec. 1.</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA654079">Comment</a> </td>
+</tr>
+<!-- Gilia capitata subsp. abrotanifolia --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653851 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653851&YF=0">RSA653851</a>&nbsp;</td>
+<td>Gilia capitata subsp. abrotanifolia</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>758</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy.</td>
+<td>487</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653851">Comment</a> </td>
+</tr>
+<!-- Gilia capitata subsp. abrotanifolia --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SFV22137 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SFV22137&YF=0">SFV22137</a>&nbsp;</td>
+<td>Gilia capitata subsp. abrotanifolia</td>
+<td>V. Soza, E. Edwards, L. Gross, B. O'Brien</td>
+<td>Apr 25 2000</td>
+<td>758</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains South side of Verdugo Mountains. Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mountainway. Open, west-northwest-facing slope below trail along ridgetop.</td>
+<td>488</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SFV22137">Comment</a> </td>
+</tr>
+<!-- Gilia capitata subsp. abrotanifolia --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1922306 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1922306&YF=0">UC1922306</a>&nbsp;</td>
+<td>Gilia capitata subsp. abrotanifolia</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>04 25 2000</td>
+<td>758</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains region; Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34deg 12' 23.9'' N 118deg 17' 45.9'' W T1N R14W N/2, NE/4 sec. 1; T2N R14W SE/4, SE/4</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1922306">Comment</a> </td>
+</tr>
+<!-- Gilia capitata subsp. abrotanifolia --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR200115 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR200115&YF=0">UCR200115</a>&nbsp;</td>
+<td>Gilia capitata subsp. abrotanifolia</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>758</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains south side, above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>488</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR200115">Comment</a> </td>
+</tr>
+<!-- Heuchera rubescens --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS893398 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS893398&YF=0">CAS893398</a>&nbsp;</td>
+<td>Heuchera rubescens</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14233</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 KM north Forester Pass, Kings Canyon</td>
+<td>3657</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS893398">Comment</a> </td>
+</tr>
+<!-- Hulsea algida --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1051677 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1051677&YF=0">UC1051677</a>&nbsp;</td>
+<td>Hulsea algida</td>
+<td>Peter Kamb</td>
+<td>Jul 1 1950</td>
+<td>1894</td>
+<td>Tulare</td>
+<td>on trail about 3/4 mi n Forester Pass (head of canyon); Bubbs Creek Canyon</td>
+<td>3748</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1051677">Comment</a> </td>
+</tr>
+<!-- Hulsea algida --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB10274 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB10274&YF=0">UCSB10274</a>&nbsp;</td>
+<td>Hulsea algida</td>
+<td>Peter Kamb</td>
+<td>07/01/1950</td>
+<td>1894</td>
+<td>Tulare</td>
+<td>Head of Bubbs Creek Canyon on trail about 3/4 mile north of Forester Pass, kings Canyon Nat'l Park</td>
+<td>3749</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB10274">Comment</a> </td>
+</tr>
+<!-- Ivesia pygmaea --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS868228 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS868228&YF=0">CAS868228</a>&nbsp;</td>
+<td>Ivesia pygmaea</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14202</td>
+<td>Tulare</td>
+<td>John Muir Trail, 2 miles north of Forester Pass, Kings Canyon National Park Elev. given as 11,200 feet</td>
+<td>3430</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS868228">Comment</a> </td>
+</tr>
+<!-- Ivesia pygmaea --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DS266481 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?DS266481&YF=0">DS266481</a>&nbsp;</td>
+<td>Ivesia pygmaea</td>
+<td>Reid V. Moran</td>
+<td>July 13, 1939</td>
+<td>472</td>
+<td>Tulare</td>
+<td>Foresters Pass</td>
+<td>3992</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=DS266481">Comment</a> </td>
+</tr>
+<!-- Koeleria pyramidata --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS613908 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS613908&YF=0">CAS613908</a>&nbsp;</td>
+<td>Koeleria pyramidata</td>
+<td>Joseph Keefe</td>
+<td>19 August 1973</td>
+<td>14200</td>
+<td>Tulare</td>
+<td>Along John Muir Trail, southwest slope of Center Peak, 2 miles north of Forester Pass, Kings Canyon National Park, Sierra Nevada Elev. given as 11200 ft</td>
+<td>3430</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS613908">Comment</a> </td>
+</tr>
+<!-- Lepidium virginicum var. pubescens --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA654080 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA654080&YF=0">RSA654080</a>&nbsp;</td>
+<td>Lepidium virginicum var. pubescens</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>743</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34&deg; 12' 16'' N 118&deg; 17' 46.4'' W T1N R14W N/2, NE/4 sec. 1.</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA654080">Comment</a> </td>
+</tr>
+<!-- Leptosiphon oblanceolatus --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS402890 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS402890&YF=0">CAS402890</a>&nbsp;</td>
+<td>Leptosiphon oblanceolatus</td>
+<td>Peter Kamb</td>
+<td>2 July 1950</td>
+<td>1895</td>
+<td>Tulare</td>
+<td>Tyndall Creek basin west of Tyndall Creek, just below fork to Forester Pass area</td>
+<td>3505</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS402890">Comment</a> </td>
+</tr>
+<!-- Lewisia pygmaea --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS826202 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS826202&YF=0">CAS826202</a>&nbsp;</td>
+<td>Lewisia pygmaea</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14235</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 KM north of Forester Pass, Kings Canyon National Park.</td>
+<td>3657</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS826202">Comment</a> </td>
+</tr>
+<!-- Lewisia pygmaea --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA667937 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA667937&YF=0">RSA667937</a>&nbsp;</td>
+<td>Lewisia pygmaea</td>
+<td>Joseph M. Keefe</td>
+<td>Aug 19 1973</td>
+<td>14235</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 km north Forester Pass; Kings Canyon National Park.</td>
+<td>3659</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA667937">Comment</a> </td>
+</tr>
+<!-- Lewisia pygmaea --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=CAS826059 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS826059&YF=0">CAS826059</a>&nbsp;</td>
+<td>Lewisia pygmaea</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1974</td>
+<td>14205</td>
+<td>Tulare</td>
+<td>John Muir Trail, 2 miles north of Forester Pass. Elev. given as 11200 ft.</td>
+<td>3430</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS826059">Comment</a> </td>
+</tr>
+<!-- Linanthus oblanceolatus --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1051664 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1051664&YF=0">UC1051664</a>&nbsp;</td>
+<td>Linanthus oblanceolatus</td>
+<td>Peter Kamb</td>
+<td>Jul 2 1950</td>
+<td>1895</td>
+<td>Tulare</td>
+<td>w of Tyndall Creek (Tyndall Creek basin, just below fork to Forester Pass area)</td>
+<td>3505</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1051664">Comment</a> </td>
+</tr>
+<!-- Lupinus hirsutissimus --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653465 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653465&YF=0">RSA653465</a>&nbsp;</td>
+<td>Lupinus hirsutissimus</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>754</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34&deg; 12' 21.9'' N 118&deg; 17' 48.4'' W T1N R14W N/2, NE/4 sec. 1; T2N R14W SE/4, SE/4</td>
+<td>457</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653465">Comment</a> </td>
+</tr>
+<!-- Lupinus hirsutissimus --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR197208 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR197208&YF=0">UCR197208</a>&nbsp;</td>
+<td>Lupinus hirsutissimus</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>754</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains south side, above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>457</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR197208">Comment</a> </td>
+</tr>
+<!-- Lupinus sparsiflorus --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA654083 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA654083&YF=0">RSA654083</a>&nbsp;</td>
+<td>Lupinus sparsiflorus</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>746</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34&deg; 12' 17.5'' N 118&deg; 17' 46.1'' W T1N R14W N/2, NE/4 sec. 1.</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA654083">Comment</a> </td>
+</tr>
+<!-- Lupinus sparsiflorus --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1922288 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1922288&YF=0">UC1922288</a>&nbsp;</td>
+<td>Lupinus sparsiflorus</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>04 25 2000</td>
+<td>746</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains region; Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34deg 12' 17.5'' N 118deg 17' 46.1'' W T1N R14W N/2, NE/4 sec. 1. Elev. 1400 Feet.</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1922288">Comment</a> </td>
+</tr>
+<!-- Lupinus sparsiflorus --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR194739 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR194739&YF=0">UCR194739</a>&nbsp;</td>
+<td>Lupinus sparsiflorus</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>746</td>
+<td>Los Angeles</td>
+<td>Transverse Range: Verdugo Mountains Verdugo Mountains, south side, above Burbank. Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motortway</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR194739">Comment</a> </td>
+</tr>
+<!-- Lupinus sparsiflorus --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=SBBG121252 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG121252&YF=0">SBBG121252</a>&nbsp;</td>
+<td>Lupinus sparsiflorus</td>
+<td>V. Soza, E. Edwards, L. Gross, B. O'Brien</td>
+<td>Apr 25 2000</td>
+<td>746</td>
+<td>Los Angeles</td>
+<td>above Burbank, Wildwood Cyn, W of Wildwood Cyn Rd; trail along ridgetop to Forester Grove, Radio Towers and Verdugo Mtwy</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG121252">Comment</a> </td>
+</tr>
+<!-- Lupinus truncatus --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653470 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653470&YF=0">RSA653470</a>&nbsp;</td>
+<td>Lupinus truncatus</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>749</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34&deg; 12' 17.5'' N 118&deg; 17' 46.1'' W T1N R14W N/2, NE/4 sec. 1.</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653470">Comment</a> </td>
+</tr>
+<!-- Lupinus truncatus --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR194736 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR194736&YF=0">UCR194736</a>&nbsp;</td>
+<td>Lupinus truncatus</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>749</td>
+<td>Los Angeles</td>
+<td>Transverse Range: Verdugo Mountains Verdugo Mountains, south side, above Burbank. Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motortway</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR194736">Comment</a> </td>
+</tr>
+<!-- Luzula orestera --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS871758 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS871758&YF=0">CAS871758</a>&nbsp;</td>
+<td>Luzula orestera</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14220</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 km north Forester Pass, Kings Canyon National Park</td>
+<td>3657</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS871758">Comment</a> </td>
+</tr>
+<!-- Luzula orestera --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA667945 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA667945&YF=0">RSA667945</a>&nbsp;</td>
+<td>Luzula orestera</td>
+<td>Joseph M. Keefe</td>
+<td>8 19 1973</td>
+<td>14220</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 km north Forester Pass; Kings Canyon National Park.</td>
+<td>3659</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA667945">Comment</a> </td>
+</tr>
+<!-- Luzula spicata --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA667946 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA667946&YF=0">RSA667946</a>&nbsp;</td>
+<td>Luzula spicata</td>
+<td>Joseph M. Keefe</td>
+<td>8 19 1973</td>
+<td>14223</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 km north Forester Pass; Kings Canyon National Park.</td>
+<td>3659</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA667946">Comment</a> </td>
+</tr>
+<!-- Marah macrocarpa var. macrocarpa --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA654074 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA654074&YF=0">RSA654074</a>&nbsp;</td>
+<td>Marah macrocarpa var. macrocarpa</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>737</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34&deg; 12' 12.6'' N 118&deg; 17' 45.2'' W T1N R14W N/2, NE/4 sec. 1.</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA654074">Comment</a> </td>
+</tr>
+<!-- Microseris douglasii subsp. douglasii --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=IRVC20789 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?IRVC20789&YF=0">IRVC20789</a>&nbsp;</td>
+<td>Microseris douglasii subsp. douglasii</td>
+<td>Fred M. Roberts, S. L. Fritzke</td>
+<td>Apr 3 1982</td>
+<td>472</td>
+<td>Orange</td>
+<td>Dana Point: hills .0 km N Dana Hills HS, 1.9 km W Marco Forester Jr HS. Southern Coastal</td>
+<td>100</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=IRVC20789">Comment</a> </td>
+</tr>
+<!-- Mirabilis laevis --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR194738 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR194738&YF=0">UCR194738</a>&nbsp;</td>
+<td>Mirabilis laevis</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>747</td>
+<td>Los Angeles</td>
+<td>Transverse Range: Verdugo Mountains Verdugo Mountains, south side, above Burbank. Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motortway</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR194738">Comment</a> </td>
+</tr>
+<!-- Mirabilis laevis var. crassifolia --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA654084 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA654084&YF=0">RSA654084</a>&nbsp;</td>
+<td>Mirabilis laevis var. crassifolia</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>747</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34&deg; 12' 17.5'' N 118&deg; 17' 46.1'' W T1N R14W N/2, NE/4 sec. 1.</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA654084">Comment</a> </td>
+</tr>
+<!-- Oxyria digyna --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=CAS580499 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS580499&YF=0">CAS580499</a>&nbsp;</td>
+<td>Oxyria digyna</td>
+<td>Joseph Keefe</td>
+<td>19 August 1973</td>
+<td>14206</td>
+<td>Tulare</td>
+<td>John Muir Trail, southwest of Center Peak, 2 miles north of Forester Pass, Kings Canyon National Park</td>
+<td>3413</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS580499">Comment</a> </td>
+</tr>
+<!-- Pentagramma triangularis subsp. triangularis --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653844 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653844&YF=0">RSA653844</a>&nbsp;</td>
+<td>Pentagramma triangularis subsp. triangularis</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>4 25 2000</td>
+<td>766</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy.</td>
+<td>518</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653844">Comment</a> </td>
+</tr>
+<!-- Pentagramma triangularis subsp. triangularis --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR200126 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR200126&YF=0">UCR200126</a>&nbsp;</td>
+<td>Pentagramma triangularis subsp. triangularis</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>766</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains south side, above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>518</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR200126">Comment</a> </td>
+</tr>
+<!-- Phacelia cicutaria var. hispida --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653464 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653464&YF=0">RSA653464</a>&nbsp;</td>
+<td>Phacelia cicutaria var. hispida</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>755</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy.</td>
+<td>487</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653464">Comment</a> </td>
+</tr>
+<!-- Phacelia cicutaria var. hispida --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SFV22135 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SFV22135&YF=0">SFV22135</a>&nbsp;</td>
+<td>Phacelia cicutaria var. hispida</td>
+<td>V. Soza, E. Edwards, L. Gross, B. O'Brien</td>
+<td>Apr 25 2000</td>
+<td>755</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains South side of Verdugo Mountains. Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mountainway. Open, south-southwest-facing, rocky slope below trail along ridgetop.</td>
+<td>488</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SFV22135">Comment</a> </td>
+</tr>
+<!-- Phacelia cicutaria var. hispida --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1922307 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1922307&YF=0">UC1922307</a>&nbsp;</td>
+<td>Phacelia cicutaria var. hispida</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>04 25 2000</td>
+<td>755</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains region; Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34deg 12' 23.9'' N 118deg 17' 45.9'' W T1N R14W N/2, NE/4 sec. 1; T2N R14W SE/4, SE/4</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1922307">Comment</a> </td>
+</tr>
+<!-- Phacelia cicutaria var. hispida --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR197207 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR197207&YF=0">UCR197207</a>&nbsp;</td>
+<td>Phacelia cicutaria var. hispida</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>755</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains south side, above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>488</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR197207">Comment</a> </td>
+</tr>
+<!-- Phacelia minor --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653469 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653469&YF=0">RSA653469</a>&nbsp;</td>
+<td>Phacelia minor</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>750</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34&deg; 12' 17.5'' N 118&deg; 17' 46.1'' W T1N R14W N/2, NE/4 sec. 1.</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653469">Comment</a> </td>
+</tr>
+<!-- Phacelia minor --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SFV21794 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SFV21794&YF=0">SFV21794</a>&nbsp;</td>
+<td>Phacelia minor</td>
+<td>V. Soza, E. Edwards, L. Gross, B. O'Brien</td>
+<td>Apr 25 2000</td>
+<td>750</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains South side of Verdugo Mountains. Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mountainway. South-southwest-facing slope below trail along ridgetop.</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SFV21794">Comment</a> </td>
+</tr>
+<!-- Phacelia minor --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR197205 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR197205&YF=0">UCR197205</a>&nbsp;</td>
+<td>Phacelia minor</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>750</td>
+<td>Los Angeles</td>
+<td>Transverse Range: Verdugo Mountains Verdugo Mountains, south side, above Burbank. Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motortway</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR197205">Comment</a> </td>
+</tr>
+<!-- Poa secunda subsp. secunda --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653846 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653846&YF=0">RSA653846</a>&nbsp;</td>
+<td>Poa secunda subsp. secunda</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>4 25 2000</td>
+<td>763</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy.</td>
+<td>487</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653846">Comment</a> </td>
+</tr>
+<!-- Polemonium eximium --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1051647 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1051647&YF=0">UC1051647</a>&nbsp;</td>
+<td>Polemonium eximium</td>
+<td>Peter Kamb</td>
+<td>1 July 1950</td>
+<td>1893</td>
+<td>Tulare</td>
+<td>on trail about 3/4 mi n Forester Pass (head of Bubbs Creek Canyon, Kings Canyon Nat'l Park); Kings Canyon Natl Park, Bubbs Creek Canyon, Forester Pass</td>
+<td>3748</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1051647">Comment</a> </td>
+</tr>
+<!-- Polemonium eximium --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1051648 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1051648&YF=0">UC1051648</a>&nbsp;</td>
+<td>Polemonium eximium</td>
+<td>Peter Kamb</td>
+<td>1 July 1950</td>
+<td>1892</td>
+<td>Tulare</td>
+<td>on trail about 3/4 mi n Forester Pass (head of Bubbs Creek Canyon); n of Forester Pass, Bubbs Creek Canyon</td>
+<td>3748</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1051648">Comment</a> </td>
+</tr>
+<!-- Polygonum polygaloides subsp. kelloggii --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=CAS649945 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS649945&YF=0">CAS649945</a>&nbsp;</td>
+<td>Polygonum polygaloides subsp. kelloggii</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14216</td>
+<td>Tulare</td>
+<td>John Muir Trail, 2 miles north of Forester Pass. Elev. given as 11,200 ft.</td>
+<td>3430</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS649945">Comment</a> </td>
+</tr>
+<!-- Potentilla gracilis --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=JEPS59375 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?JEPS59375&YF=0">JEPS59375</a>&nbsp;</td>
+<td>Potentilla gracilis</td>
+<td>Ezra Brainerd and Viola B. Baird</td>
+<td>Jul 7 1915</td>
+<td>123</td>
+<td>Placer</td>
+<td>Squaw Valley near forester's house; Sierra Nevada Mts., Squaw Valley</td>
+<td>1920</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=JEPS59375">Comment</a> </td>
+</tr>
+<!-- Primula suffrutescens --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS863371 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS863371&YF=0">CAS863371</a>&nbsp;</td>
+<td>Primula suffrutescens</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14236</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 km north of Forester Pass, Kings Canyon National Park</td>
+<td>3657</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS863371">Comment</a> </td>
+</tr>
+<!-- Pterostegia drymarioides --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA654082 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA654082&YF=0">RSA654082</a>&nbsp;</td>
+<td>Pterostegia drymarioides</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>745</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34&deg; 12' 16'' N 118&deg; 17' 46.4'' W T1N R14W N/2, NE/4 sec. 1.</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA654082">Comment</a> </td>
+</tr>
+<!-- Pterostegia drymarioides --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR194740 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR194740&YF=0">UCR194740</a>&nbsp;</td>
+<td>Pterostegia drymarioides</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>745</td>
+<td>Los Angeles</td>
+<td>Transverse Range: Verdugo Mountains Verdugo Mountains, south side, above Burbank. Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motortway</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR194740">Comment</a> </td>
+</tr>
+<!-- Rafinesquia californica --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA654068 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA654068&YF=0">RSA654068</a>&nbsp;</td>
+<td>Rafinesquia californica</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>730</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA654068">Comment</a> </td>
+</tr>
+<!-- Rafinesquia californica --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR194761 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR194761&YF=0">UCR194761</a>&nbsp;</td>
+<td>Rafinesquia californica</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>730</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains Verdugo Mountains, south side, above Burbank. Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR194761">Comment</a> </td>
+</tr>
+<!-- Ranunculus eschscholtzii --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA667940 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA667940&YF=0">RSA667940</a>&nbsp;</td>
+<td>Ranunculus eschscholtzii</td>
+<td>Joseph M. Keefe</td>
+<td>Aug 19 1973</td>
+<td>14237</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 km north Forester Pass; Kings Canyon National Park.</td>
+<td>3659</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA667940">Comment</a> </td>
+</tr>
+<!-- Rhamnus ilicifolia --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653466 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653466&YF=0">RSA653466</a>&nbsp;</td>
+<td>Rhamnus ilicifolia</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>753</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34&deg; 12' 21.9'' N 118&deg; 17' 48.4'' W T1N R14W N/2, NE/4 sec. 1; T2N R14W SE/4, SE/4</td>
+<td>457</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653466">Comment</a> </td>
+</tr>
+<!-- Rhamnus ilicifolia --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SFV22133 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SFV22133&YF=0">SFV22133</a>&nbsp;</td>
+<td>Rhamnus ilicifolia</td>
+<td>V. Soza, E. Edwards, L. Gross, B. O'Brien</td>
+<td>Apr 25 2000</td>
+<td>753</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains South side of Verdugo Mountains. Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mountainway. Alongside trail on south-southwest-facing ridgetop.</td>
+<td>457</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SFV22133">Comment</a> </td>
+</tr>
+<!-- Rhamnus ilicifolia --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR197206 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR197206&YF=0">UCR197206</a>&nbsp;</td>
+<td>Rhamnus ilicifolia</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>753</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains south side, above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>457</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR197206">Comment</a> </td>
+</tr>
+<!-- Ribes montigenum --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS891286 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS891286&YF=0">CAS891286</a>&nbsp;</td>
+<td>Ribes montigenum</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14209</td>
+<td>Tulare</td>
+<td>John Muir Trail, 2 miles N of Forester Pass, Kings Canyon National Park</td>
+<td>3430</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS891286">Comment</a> </td>
+</tr>
+<!-- Ribes montigenum --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA667936 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA667936&YF=0">RSA667936</a>&nbsp;</td>
+<td>Ribes montigenum</td>
+<td>Joseph M. Keefe</td>
+<td>Aug 19 1973</td>
+<td>14209</td>
+<td>Tulare</td>
+<td>John Muir Trail, 2 miles north of Forester Pass, Kings Canyon National Park.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA667936">Comment</a> </td>
+</tr>
+<!-- Rumex paucifolius --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS649197 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS649197&YF=0">CAS649197</a>&nbsp;</td>
+<td>Rumex paucifolius</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14210</td>
+<td>Tulare</td>
+<td>John Muir Trail, 2 miles north of Forester Pass.</td>
+<td>3430</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS649197">Comment</a> </td>
+</tr>
+<!-- Salix anglorum --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=SJSU10124 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SJSU10124&YF=0">SJSU10124</a>&nbsp;</td>
+<td>Salix anglorum</td>
+<td>Bennett</td>
+<td>8/7/1964</td>
+<td>73</td>
+<td>Tulare</td>
+<td>Bubbs Cr by John Muir Trail below Forester Pass, Kings Canyon National Park</td>
+<td>3626</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SJSU10124">Comment</a> </td>
+</tr>
+<!-- Salix arctica --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS815931 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS815931&YF=0">CAS815931</a>&nbsp;</td>
+<td>Salix arctica</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14215</td>
+<td>Tulare</td>
+<td>John Muir Trail, 2 miles north of Forester Pass, Kings Canyon National Park Elev. given as 11,200 feet</td>
+<td>3430</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS815931">Comment</a> </td>
+</tr>
+<!-- Salix petrophila --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SJSU2954 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SJSU2954&YF=0">SJSU2954</a>&nbsp;</td>
+<td>Salix petrophila</td>
+<td>Peter Kamb</td>
+<td>7/2/1950</td>
+<td>1896B</td>
+<td>Tulare</td>
+<td>Tyndall Cr Basin, E of Tyndall Cr at fork of Forester Pass area</td>
+<td>3505</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SJSU2954">Comment</a> </td>
+</tr>
+<!-- Salix petrophila --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SJSU2955 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SJSU2955&YF=0">SJSU2955</a>&nbsp;</td>
+<td>Salix petrophila</td>
+<td>Peter Kamb</td>
+<td>7/2/1950</td>
+<td>1896A</td>
+<td>Tulare</td>
+<td>Tyndall Cr Basin, E of Tyndall Cr at fork of Forester Pass area</td>
+<td>3505</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SJSU2955">Comment</a> </td>
+</tr>
+<!-- Salvia columbariae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653848 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653848&YF=0">RSA653848</a>&nbsp;</td>
+<td>Salvia columbariae</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>761</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy.</td>
+<td>487</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653848">Comment</a> </td>
+</tr>
+<!-- Salvia columbariae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SFV22140 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SFV22140&YF=0">SFV22140</a>&nbsp;</td>
+<td>Salvia columbariae</td>
+<td>V. Soza, E. Edwards, L. Gross, B. O'Brien</td>
+<td>Apr 25 2000</td>
+<td>761</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains South side of Verdugo Mountains. Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mountainway. Open, west-northwest-facing slope below trail along ridgetop.</td>
+<td>488</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SFV22140">Comment</a> </td>
+</tr>
+<!-- Salvia columbariae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1922290 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1922290&YF=0">UC1922290</a>&nbsp;</td>
+<td>Salvia columbariae</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>04 25 2000</td>
+<td>761</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains region; Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34deg 12' 23.9'' N 118deg 17' 45.9'' W T1N R14W N/2, NE/4 sec. 1; T2N R14W SE/4, SE/4</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1922290">Comment</a> </td>
+</tr>
+<!-- Salvia mellifera --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA654073 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA654073&YF=0">RSA654073</a>&nbsp;</td>
+<td>Salvia mellifera</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>736</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA654073">Comment</a> </td>
+</tr>
+<!-- Salvia mellifera --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR194747 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR194747&YF=0">UCR194747</a>&nbsp;</td>
+<td>Salvia mellifera</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>736</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains Verdugo Mountains, south side, above Burbank. Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR194747">Comment</a> </td>
+</tr>
+<!-- Senecio fremontii --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA667931 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA667931&YF=0">RSA667931</a>&nbsp;</td>
+<td>Senecio fremontii</td>
+<td>Joseph M. Keefe</td>
+<td>Aug 19 1973</td>
+<td>14238</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 km north Forester Pass; Kings Canyon National Park.</td>
+<td>3659</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA667931">Comment</a> </td>
+</tr>
+<!-- Senecio fremontii var. fremontii --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS891722 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS891722&YF=0">CAS891722</a>&nbsp;</td>
+<td>Senecio fremontii var. fremontii</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14238</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 KM north Forester Pass, Kings Canyon National Park</td>
+<td>3657</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS891722">Comment</a> </td>
+</tr>
+<!-- Senecio vulgaris --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653842 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653842&YF=0">RSA653842</a>&nbsp;</td>
+<td>Senecio vulgaris</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>768</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34&deg; 12' 28.5'' N 118&deg; 17' 44.8'' W T2N R14W S/2, SE/4 sec. 36.</td>
+<td>518</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653842">Comment</a> </td>
+</tr>
+<!-- Senecio vulgaris --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SFV22145 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SFV22145&YF=0">SFV22145</a>&nbsp;</td>
+<td>Senecio vulgaris</td>
+<td>V. Soza, E. Edwards, L. Gross, B. O'Brien</td>
+<td>Apr 25 2000</td>
+<td>768</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains South side of Verdugo Mountains. Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mountainway. Alongside trail along south-southwest-facing ridgetop.</td>
+<td>518</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SFV22145">Comment</a> </td>
+</tr>
+<!-- Senecio vulgaris --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR200125 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR200125&YF=0">UCR200125</a>&nbsp;</td>
+<td>Senecio vulgaris</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>768</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains south side, above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>518</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR200125">Comment</a> </td>
+</tr>
+<!-- Silene sargentii --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS884224 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS884224&YF=0">CAS884224</a>&nbsp;</td>
+<td>Silene sargentii</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14240</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 KM north of Forester Pass, Kings Canyon National Park</td>
+<td>3657</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS884224">Comment</a> </td>
+</tr>
+<!-- Silene sargentii --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA667932 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA667932&YF=0">RSA667932</a>&nbsp;</td>
+<td>Silene sargentii</td>
+<td>Joseph M. Keefe</td>
+<td>Aug 19 1973</td>
+<td>14240</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 km north Forester Pass; Kings Canyon National Park.</td>
+<td>3659</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA667932">Comment</a> </td>
+</tr>
+<!-- Sisymbrium orientale --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653837 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653837&YF=0">RSA653837</a>&nbsp;</td>
+<td>Sisymbrium orientale</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>772</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34&deg; 12' 28.5'' N 118&deg; 17' 44.8'' W T2N R14W S/2, SE/4 sec. 36.</td>
+<td>518</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653837">Comment</a> </td>
+</tr>
+<!-- Solanum xanti --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR200116 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR200116&YF=0">UCR200116</a>&nbsp;</td>
+<td>Solanum xanti</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>765</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains south side, above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>518</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR200116">Comment</a> </td>
+</tr>
+<!-- Solanum xanti var. intermedium --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA656926 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA656926&YF=0">RSA656926</a>&nbsp;</td>
+<td>Solanum xanti var. intermedium</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>765</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34&deg; 12' 28.5'' N 118&deg; 17' 44.8'' W T2N R14W S/2, SE/4 sec. 36.</td>
+<td>518</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA656926">Comment</a> </td>
+</tr>
+<!-- Thysanocarpus laciniatus --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653849 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653849&YF=0">RSA653849</a>&nbsp;</td>
+<td>Thysanocarpus laciniatus</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>760</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy.</td>
+<td>487</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653849">Comment</a> </td>
+</tr>
+<!-- Thysanocarpus laciniatus --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SFV22139 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SFV22139&YF=0">SFV22139</a>&nbsp;</td>
+<td>Thysanocarpus laciniatus</td>
+<td>V. Soza, E. Edwards, L. Gross, B. O'Brien</td>
+<td>Apr 25 2000</td>
+<td>760</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains South side of Verdugo Mountains. Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mountainway. Open, west-northwest-facing slope below trail along ridgetop.</td>
+<td>488</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SFV22139">Comment</a> </td>
+</tr>
+<!-- Thysanocarpus laciniatus --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1922308 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1922308&YF=0">UC1922308</a>&nbsp;</td>
+<td>Thysanocarpus laciniatus</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>04 25 2000</td>
+<td>760</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains region; Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34deg 12' 23.9'' N 118deg 17' 45.9'' W T1N R14W N/2, NE/4 sec. 1; T2N R14W SE/4, SE/4</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1922308">Comment</a> </td>
+</tr>
+<!-- Thysanocarpus laciniatus --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR200123 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR200123&YF=0">UCR200123</a>&nbsp;</td>
+<td>Thysanocarpus laciniatus</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>760</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains south side, above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>488</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR200123">Comment</a> </td>
+</tr>
+<!-- Trisetum spicatum --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS613724 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS613724&YF=0">CAS613724</a>&nbsp;</td>
+<td>Trisetum spicatum</td>
+<td>Joseph Keefe</td>
+<td>19 Aug. 1973</td>
+<td>14232</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 km north Forester Pass, Kings Canyon National Park</td>
+<td>3657</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS613724">Comment</a> </td>
+</tr>
+<!-- Trisetum spicatum var. congdonii --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA667941 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA667941&YF=0">RSA667941</a>&nbsp;</td>
+<td>Trisetum spicatum var. congdonii</td>
+<td>Joseph M. Keefe</td>
+<td>8 19 1973</td>
+<td>14232</td>
+<td>Tulare</td>
+<td>John Muir Trail, 1 km north Forester Pass; Kings Canyon National Park.</td>
+<td>3659</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA667941">Comment</a> </td>
+</tr>
+<!-- Vulpia myuros var. hirsuta --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653841 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653841&YF=0">RSA653841</a>&nbsp;</td>
+<td>Vulpia myuros var. hirsuta</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>4 25 2000</td>
+<td>769-A</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy.</td>
+<td>518</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653841">Comment</a> </td>
+</tr>
+<!-- Vulpia myuros var. myuros --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA653840 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA653840&YF=0">RSA653840</a>&nbsp;</td>
+<td>Vulpia myuros var. myuros</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>4 25 2000</td>
+<td>769b</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy.</td>
+<td>518</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA653840">Comment</a> </td>
+</tr>
+<!-- Vulpia myuros var. myuros --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA654038 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA654038&YF=0">RSA654038</a>&nbsp;</td>
+<td>Vulpia myuros var. myuros</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>4 25 2000</td>
+<td>732</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA654038">Comment</a> </td>
+</tr>
+<!-- Xylococcus bicolor --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA654070 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA654070&YF=0">RSA654070</a>&nbsp;</td>
+<td>Xylococcus bicolor</td>
+<td>Valerie L. Soza, Eileen Edwards, LeRoy Gross, Bart O&iacute;Brien</td>
+<td>Apr 25 2000</td>
+<td>733</td>
+<td>Los Angeles</td>
+<td>Verdugo Mountains, south side: Above Burbank, Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Mtwy. Near 34&deg; 12' 12.6'' N 118&deg; 17' 45.2'' W T1N R14W N/2, NE/4 sec. 1.</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA654070">Comment</a> </td>
+</tr>
+<!-- Xylococcus bicolor --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1922287 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1922287&YF=0">UC1922287</a>&nbsp;</td>
+<td>Xylococcus bicolor</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>733</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains; Verdugo Mountains, south side, above Burbank. Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1922287">Comment</a> </td>
+</tr>
+<!-- Xylococcus bicolor --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR194749 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR194749&YF=0">UCR194749</a>&nbsp;</td>
+<td>Xylococcus bicolor</td>
+<td>Valerie Soza, Eileen Edwards, LeRoy Gross, Bart O'Brien</td>
+<td>Apr 25 2000</td>
+<td>733</td>
+<td>Los Angeles</td>
+<td>Transverse Ranges; Verdugo Mountains Verdugo Mountains, south side, above Burbank. Wildwood Canyon, west of Wildwood Canyon Road. Trail along ridgetop to Forester Grove, Radio Towers, and Verdugo Motorway</td>
+<td>427</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR194749">Comment</a> </td>
+</tr>
+</table></form>
+
+<!-- Footer begins -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="18" bgcolor="9090AA"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  <tr>
+    <td height="20"><span class="copyrightText">&nbsp;&nbsp;Copyright &copy; 2010 Regents of the University of California &mdash; Database extract updated 2/17/2016 
+</span>
+
+
+
+  </tr>
+</table>
+<!-- Footer ends -->
+
+
+0.03 processing seconds
+
+<!-- <a href="/cgi-bin/clone_coords.pl?/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=Forester&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0">Clone coords view</a>-->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1304595-1";
+urchinTracker();
+</script>
+</body></html>

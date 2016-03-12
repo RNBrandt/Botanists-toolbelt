@@ -1,0 +1,230 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Search</title>
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<!-- Google analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+      <td colspan="5" align="center" valign="middle">&nbsp;</td>
+    </tr>
+
+  <tr>
+      <td rowspan="4" width="12" align="center" valign="middle"></td>
+      <td rowspan="3" width="120" align="center" valign="middle">
+        <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/logo_jeps_80.png" alt="Jepson Herbarium (JEPS)" width="80" height="79" border="0" /></a></td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle"></td>
+    <td rowspan="4" width="12" align="center" valign="middle"></td>
+  </tr>
+    <tr>
+
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+    <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+   </tr>
+
+     <tr>
+     <td colspan="3" align="center"></td>
+
+   </tr>
+     
+   <tr>
+       <td height="8" colspan="5" align="center">&nbsp;</td>
+     </tr>
+   <tr class="bannerBottomBorder">
+     	<td colspan="6" height="3"></td>
+  </tr>
+
+    <tr>
+
+    <td colspan="6"><img src="http://ucjeps.berkeley.edu/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  </table>
+<!-- End banner -->
+
+<!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+            	<li><a href="http://ucjeps.berkeley.edu/images/">UC/JEPS Image Collection</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+<table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora:</a> Search page</span>
+		<br>
+			<span class="pageAuthorLine">
+				<a href="http://ucjeps.berkeley.edu/IJM_fam_key.html">Key to families</a>
+				<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+			</span>	  
+		</td>
+	</tr>
+</table>
+
+<table align="center" width="100%"><tr><td>
+&nbsp;
+</td>
+<td width=90%">
+<!--eFlora index-->
+<span class="pageAuthorLine">Index to accepted names and synonyms:</span><br>
+| 	<a href="eflora_index.php?index=A">A</a> | 
+	<a href="eflora_index.php?index=B">B</a> | 
+	<a href="eflora_index.php?index=C">C</a> | 
+	<a href="eflora_index.php?index=D">D</a> | 
+	<a href="eflora_index.php?index=E">E</a> | 
+	<a href="eflora_index.php?index=F">F</a> | 
+	<a href="eflora_index.php?index=G">G</a> | 
+	<a href="eflora_index.php?index=H">H</a> | 
+	<a href="eflora_index.php?index=I">I</a> | 
+	<a href="eflora_index.php?index=J">J</a> | 
+	<a href="eflora_index.php?index=K">K</a> | 
+	<a href="eflora_index.php?index=L">L</a> | 
+	<a href="eflora_index.php?index=M">M</a> | 
+	<a href="eflora_index.php?index=N">N</a> | 
+	<a href="eflora_index.php?index=O">O</a> | 
+	<a href="eflora_index.php?index=P">P</a> | 
+	<a href="eflora_index.php?index=Q">Q</a> | 
+	<a href="eflora_index.php?index=R">R</a> | 
+	<a href="eflora_index.php?index=S">S</a> | 
+	<a href="eflora_index.php?index=T">T</a> | 
+	<a href="eflora_index.php?index=U">U</a> | 
+	<a href="eflora_index.php?index=V">V</a> | 
+	<a href="eflora_index.php?index=W">W</a> | 
+	<a href="eflora_index.php?index=X">X</a> | 
+	<a href="eflora_index.php?index=Y">Y</a> | 
+	<a href="eflora_index.php?index=Z">Z</a> |
+<hr width="10%">
+</td>
+
+<td align="right">
+&nbsp;
+</td></tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+<form action="search_eflora.php" method="POST">
+<b>Scientific Name<br></b>		<input type="text" id="query_text" name="query"></input>
+		<input type="submit" value="Submit Name" />
+</form>
+
+<p class="bodyText">Index Page: N<p><div class="eFloraTable"><table border="1"><tr><td>Scientific Name</td><td>Common Name</td><td></td></tr><tr><td><a href="eflora_display.php?tid=9741">Najas</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9741">&#x21b3;&nbsp;&nbsp;Key to Najas</td><td></td><td></td><tr><td><a href="eflora_display.php?tid=34350">Najas flexilis</a></td><td>SLENDER WATER-NYMPH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34352">Najas gracillima</a></td><td>THREAD-LEAVED WATER-NYMPH</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=34353">Najas graminea</a></td><td>RICE-FIELD WATER-NYMPH</td><td>Agricultural weed</td><tr><td><a href="eflora_display.php?tid=80549">Najas guadalupensis subsp. guadalupensis</a></td><td>COMMON WATER-NYMPH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34357">Najas marina</a></td><td>HOLLY-LEAVED WATER-NYMPH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=9653">Nama</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9653">&#x21b3;&nbsp;&nbsp;Key to Nama</td><td>PURPLE MAT</td><td></td><tr><td><a href="eflora_display.php?tid=34367">Nama aretioides</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=76691">Nama aretioides var. californica</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=62247">Nama aretioides var. multiflora</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=100465">Nama californica</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34371">Nama demissa</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=62248">Nama demissa var. covillei</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=62249">Nama demissa var. demissa</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=62249">Nama demissa var. deserti</a><br>(Under Nama demissa var. demissa)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=34372">Nama densa</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=62251">Nama densa var. densa</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=62252">Nama densa var. parviflora</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34373">Nama depressa</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=76692">Nama dichotoma var. dichotoma</a></td><td>FORKED PURPLE MAT</td><td>Native</td><tr><td><a href="eflora_display.php?tid=62255">Nama hispida var. revoluta</a><br>(Under Nama hispida var. spathulata)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=62255">Nama hispida var. spathulata</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=91899">Nama lobbii</a><br>(Under Eriodictyon lobbii)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=9653">Nama lobbii</a><br>(Under Nama)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=34383">Nama pusilla</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=37555">Nama racemosum</a><br>(Under Phacelia racemosa)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=34385">Nama rothrockii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34387">Nama stenocarpa</a></td><td>MUD NAMA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=23466">Nama systyla</a><br>(Under Draperia systyla)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=9543">Narcissus</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9543">&#x21b3;&nbsp;&nbsp;Key to Narcissus</td><td></td><td></td><tr><td><a href="eflora_display.php?tid=9543">Narcissus papyraceus</a><br>(Under Narcissus)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=34403">Narcissus pseudonarcissus</a></td><td>DAFFODIL</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=34404">Narcissus tazetta</a></td><td>PAPER WHITE</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=93787">Nartheciaceae</a></td><td>BOG ASPHODEL FAMILY</td><td></td><tr><td><a href="eflora_display.php?tid=9544">Narthecium</a></td><td>BOG ASPHODEL</td><td></td><tr><td><a href="eflora_display.php?tid=34411">Narthecium californicum</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=45640">Nassella cernua</a><br>(Under Stipa cernua)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=91919">Nassella formicara</a><br>(Under Stipa manicata)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=91919">Nassella formicarum</a><br>(Under Stipa manicata)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=45641">Nassella lepida</a><br>(Under Stipa lepida)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=45641">Nassella lepida var. lepida</a><br>(Under Stipa lepida)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=91919">Nassella manicata</a><br>(Under Stipa manicata)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=45644">Nassella pulchra</a><br>(Under Stipa pulchra)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=11182">Nassella tenuissima</a><br>(Under Stipa)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=11182">Nassella viridula</a><br>(Under Stipa)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=68913">Nasturtium</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=68913">&#x21b3;&nbsp;&nbsp;Key to Nasturtium</td><td></td><td></td><tr><td><a href="eflora_display.php?tid=34432">Nasturtium gambelii</a></td><td>GAMBEL'S WATER CRESS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34435">Nasturtium officinale</a></td><td>WATER CRESS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=8874">Navarretia</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=8874">&#x21b3;&nbsp;&nbsp;Key to Navarretia</td><td>NAVARRETIA</td><td></td><tr><td><a href="eflora_display.php?tid=34444">Navarretia atractyloides</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=51670">Navarretia bakeri</a><br>(Under Navarretia leucocephala subsp. bakeri)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=34445">Navarretia breweri</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=81180">Navarretia capillaris</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34446">Navarretia cotulifolia</a></td><td>COTULA NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34447">Navarretia divaricata</a></td><td>MOUNTAIN NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=51661">Navarretia divaricata subsp. divaricata</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=51662">Navarretia divaricata subsp. vividior</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34448">Navarretia eriocephala</a></td><td>HOARY NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34449">Navarretia filicaulis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34450">Navarretia fossalis</a></td><td>SPREADING NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=88836">Navarretia gowenii</a></td><td>LIME RIDGE NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34451">Navarretia hamata</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34444">Navarretia hamata subsp. foliacea</a><br>(Under Navarretia atractyloides)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=51664">Navarretia hamata subsp. hamata</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=51665">Navarretia hamata subsp. leptantha</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=51666">Navarretia hamata subsp. parviloba</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34453">Navarretia heterandra</a></td><td>TEHAMA NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34454">Navarretia heterodoxa</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34473">Navarretia heterodoxa subsp. rosulata</a><br>(Under Navarretia rosulata)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=34455">Navarretia intertexta</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34455">Navarretia intertexta subsp. intertexta</a><br>(Under Navarretia intertexta)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=98885">Navarretia intertexta subsp. intertexta</a><br>(Under Navarretia paradoxiclara)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=98884">Navarretia intertexta subsp. intertexta</a><br>(Under Navarretia paradoxinota)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=34456">Navarretia intertexta subsp. propinqua</a><br>(Under Navarretia propinqua)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=8874">Navarretia intertexta subsp. propinqua</a><br>(Under Navarretia)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=34472">Navarretia jaredii</a><br>(Under Navarretia mitracarpa)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=34459">Navarretia jepsonii</a></td><td>JEPSON'S NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=81095">Navarretia leptalea</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=81098">Navarretia leptalea subsp. bicolor</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=81096">Navarretia leptalea subsp. leptalea</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34460">Navarretia leucocephala</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=51670">Navarretia leucocephala subsp. bakeri</a></td><td>BAKER'S NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=51671">Navarretia leucocephala subsp. leucocephala</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=51672">Navarretia leucocephala subsp. minima</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=51673">Navarretia leucocephala subsp. pauciflora</a></td><td>FEW-FLOWERED NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=51674">Navarretia leucocephala subsp. plieantha</a></td><td>MANY-FLOWERED NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=93862">Navarretia linearifolia</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=93864">Navarretia linearifolia subsp. linearifolia</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=93863">Navarretia linearifolia subsp. pinnatisecta</a></td><td>PINNATE-LEAVED NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34465">Navarretia mellita</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=51672">Navarretia minima</a><br>(Under Navarretia leucocephala subsp. minima)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=34472">Navarretia mitracarpa</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34472">Navarretia mitracarpa subsp. jaredii</a><br>(Under Navarretia mitracarpa)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=34466">Navarretia myersii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=80208">Navarretia myersii subsp. deminuta</a></td><td>SMALL PINCUSHION NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=80209">Navarretia myersii subsp. myersii</a></td><td>PINCUSHION NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34467">Navarretia nigelliformis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=51676">Navarretia nigelliformis subsp. nigelliformis</a></td><td>ADOBE NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=51677">Navarretia nigelliformis subsp. radians</a></td><td>SHINING NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=51677">Navarretia nigelliformis var. radians</a><br>(Under Navarretia nigelliformis subsp. radians)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=89051">Navarretia ojaiensis</a></td><td>OJAI NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=98885">Navarretia paradoxiclara</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=98884">Navarretia paradoxinota</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=51673">Navarretia pauciflora</a><br>(Under Navarretia leucocephala subsp. pauciflora)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=34468">Navarretia peninsularis</a></td><td>BAJA NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=51674">Navarretia plieantha</a><br>(Under Navarretia leucocephala subsp. plieantha)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=34469">Navarretia prolifera</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=51678">Navarretia prolifera subsp. lutea</a></td><td>YELLOW BUR NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=51679">Navarretia prolifera subsp. prolifera</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34456">Navarretia propinqua</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34470">Navarretia prostrata</a></td><td>PROSTRATE VERNAL POOL NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34471">Navarretia pubescens</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34473">Navarretia rosulata</a></td><td>MARIN COUNTY NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34474">Navarretia setiloba</a></td><td>PIUTE MOUNTAINS NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=80960">Navarretia sinistra</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=93863">Navarretia sinistra subsp. pinnatisecta</a><br>(Under Navarretia linearifolia subsp. pinnatisecta)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=8874">Navarretia sinistra subsp. pinnatisecta</a><br>(Under Navarretia)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=93862">Navarretia sinistra subsp. sinistra</a><br>(Under Navarretia linearifolia)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=93864">Navarretia sinistra subsp. sinistra</a><br>(Under Navarretia linearifolia subsp. linearifolia)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=80960">Navarretia sinistra subsp. sinistra</a><br>(Under Navarretia sinistra)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=34475">Navarretia squarrosa</a></td><td>SKUNKWEED</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34476">Navarretia subuligera</a></td><td>AWL-LEAVED NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34477">Navarretia tagetina</a></td><td>MARIGOLD NAVARRETIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34478">Navarretia viscidula</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34478">Navarretia viscidula subsp. purpurea</a><br>(Under Navarretia viscidula)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=11219">Nemacaulis</a></td><td>COTTONHEADS</td><td></td><tr><td><a href="eflora_display.php?tid=34502">Nemacaulis denudata</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=34502">&#x21b3;&nbsp;&nbsp;Key to Nemacaulis denudata</td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=62268">Nemacaulis denudata var. denudata</a></td><td>COAST WOOLLY-HEADS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=62269">Nemacaulis denudata var. gracilis</a></td><td>SLENDER COTTONHEADS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=62268">Nemacaulis nuttallii</a><br>(Under Nemacaulis denudata var. denudata)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=10293">Nemacladus</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=10293">&#x21b3;&nbsp;&nbsp;Key to Nemacladus</td><td></td><td></td><tr><td><a href="eflora_display.php?tid=34512">Nemacladus adenophorus</a><br>(Under Nemacladus rubescens)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=89052">Nemacladus calcaratus</a></td><td>CHIMNEY CREEK NEMACLADUS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=89053">Nemacladus californicus</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34503">Nemacladus capillaris</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34504">Nemacladus glanduliferus</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34504">Nemacladus glanduliferus var. glanduliferus</a><br>(Under Nemacladus glanduliferus)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=88823">Nemacladus glanduliferus var. orientalis</a><br>(Under Nemacladus orientalis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=34505">Nemacladus gracilis</a></td><td>SLENDER NEMACLADUS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34506">Nemacladus interior</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34507">Nemacladus longiflorus</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=62272">Nemacladus longiflorus var. breviflorus</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=62273">Nemacladus longiflorus var. longiflorus</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34508">Nemacladus montanus</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=88823">Nemacladus orientalis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34509">Nemacladus pinnatifidus</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34510">Nemacladus ramosissimus</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34511">Nemacladus rigidus</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34512">Nemacladus rubescens</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34512">Nemacladus rubescens var. rubescens</a><br>(Under Nemacladus rubescens)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=89056">Nemacladus rubescens var. tenuis</a><br>(Under Nemacladus tenuis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=89228">Nemacladus rubescens var. tenuis</a><br>(Under Nemacladus tenuis var. tenuis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=34513">Nemacladus secundiflorus</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=89054">Nemacladus secundiflorus var. robbinsii</a></td><td>ROBBINS' NEMACLADUS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=89055">Nemacladus secundiflorus var. secundiflorus</a></td><td>LARGE-FLOWERED NEMACLADUS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34514">Nemacladus sigmoideus</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=89056">Nemacladus tenuis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=89227">Nemacladus tenuis var. aliformis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=89228">Nemacladus tenuis var. tenuis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34515">Nemacladus twisselmannii</a></td><td>TWISSELMANN'S NEMACLADUS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=9654">Nemophila</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9654">&#x21b3;&nbsp;&nbsp;Key to Nemophila</td><td></td><td></td><tr><td><a href="eflora_display.php?tid=34538">Nemophila breviflora</a></td><td>GREAT BASIN NEMOPHILA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=62290">Nemophila fremontii</a><br>(Under Nemophila pulchella var. fremontii)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=34539">Nemophila heterophylla</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34541">Nemophila maculata</a></td><td>FIVESPOT</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34542">Nemophila menziesii</a></td><td>BABY BLUE-EYES</td><td>Native</td><tr><td><a href="eflora_display.php?tid=62279">Nemophila menziesii var. atomaria</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=62280">Nemophila menziesii var. integrifolia</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=62285">Nemophila menziesii var. menziesii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34543">Nemophila parviflora</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=62287">Nemophila parviflora var. austiniae</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=62288">Nemophila parviflora var. parviflora</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=62289">Nemophila parviflora var. quercifolia</a></td><td>OAK-LEAVED NEMOPHILA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34544">Nemophila pedunculata</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34546">Nemophila pulchella</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=62290">Nemophila pulchella var. fremontii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=62291">Nemophila pulchella var. gracilis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=62292">Nemophila pulchella var. pulchella</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34547">Nemophila spatulata</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=13566">Neogaerrhinum filipes</a><br>(Under Antirrhinum filipes)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=13568">Neogaerrhinum strictum</a><br>(Under Antirrhinum kelloggii)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=91930">Neoholmgrenia</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=91931">Neoholmgrenia andina</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29939">Neokochia americana</a><br>(Under Kochia americana)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29941">Neokochia californica</a><br>(Under Kochia californica)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=43803">Neolloydia johnsonii</a><br>(Under Sclerocactus johnsonii)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=11120">Neostapfia</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=34576">Neostapfia colusana</a></td><td>COLUSA GRASS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=9472">Nepeta</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=34581">Nepeta cataria</a></td><td>CATNIP</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=10250">Nerium</a></td><td>OLEANDER</td><td></td><tr><td><a href="eflora_display.php?tid=34616">Nerium oleander</a></td><td>COMMON OLEANDER</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=82475">Nestotus</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=82477">Nestotus stenophyllus</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=11247">Neviusia</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=69861">Neviusia cliftonii</a></td><td>SHASTA SNOW-WREATH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=223">Neyraudia arundinacea</a><br>(Under Poaceae (Gramineae))</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=11456">Nicandra</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=34638">Nicandra physalodes</a></td><td>APPLE OF PERU, SHOO-FLY PLANT</td><td>Waif</td><tr><td><a href="eflora_display.php?tid=534">Nicolletia</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=4189">Nicolletia occidentalis</a></td><td>HOLE-IN-THE-SAND PLANT</td><td>Native</td><tr><td><a href="eflora_display.php?tid=11457">Nicotiana</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=11457">&#x21b3;&nbsp;&nbsp;Key to Nicotiana</td><td>TOBACCO</td><td></td><tr><td><a href="eflora_display.php?tid=62312">Nicotiana acuminata var. multiflora</a></td><td></td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=34655">Nicotiana alata</a><br>(Under Nicotiana sylvestris)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=34644">Nicotiana attenuata</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34649">Nicotiana bigelovii</a><br>(Under Nicotiana quadrivalvis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=34649">Nicotiana bigelovii var. wallacei</a><br>(Under Nicotiana quadrivalvis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=34645">Nicotiana clevelandii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34646">Nicotiana glauca</a></td><td>TREE TOBACCO</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=28027">Nicotiana nana</a><br>(Under Hesperochiron californicus)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=77305">Nicotiana obtusifolia</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34649">Nicotiana quadrivalvis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34649">Nicotiana quadrivalvis var. bigelovii</a><br>(Under Nicotiana quadrivalvis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=34649">Nicotiana quadrivalvis var. quadrivalvis</a><br>(Under Nicotiana quadrivalvis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=34655">Nicotiana sylvestris</a></td><td></td><td>Waif</td><tr><td><a href="eflora_display.php?tid=77305">Nicotiana trigonophylla</a><br>(Under Nicotiana obtusifolia)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=38040">Nicotiana trigonophylla</a><br>(Under Physalis acutifolia)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=93788">Nitrariaceae</a></td><td>NITRARIA FAMILY</td><td></td><tr><td><a href="eflora_display.php?tid=11503">Nitrophila</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=11503">&#x21b3;&nbsp;&nbsp;Key to Nitrophila</td><td></td><td></td><tr><td><a href="eflora_display.php?tid=34674">Nitrophila mohavensis</a></td><td>AMARGOSA NITROPHILA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34675">Nitrophila occidentalis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=68948">Noccaea</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=82485">Noccaea fendleri</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=82485">&#x21b3;&nbsp;&nbsp;Key to Noccaea fendleri</td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=89058">Noccaea fendleri subsp. californica</a></td><td>KNEELAND PRAIRIE PENNYCRESS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=89060">Noccaea fendleri subsp. glauca</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=89060">Noccaea glauca</a><br>(Under Noccaea fendleri subsp. glauca)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=82485">Noccaea montana</a><br>(Under Noccaea fendleri)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=8943">Nolina</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=8943">&#x21b3;&nbsp;&nbsp;Key to Nolina</td><td>BEARGRASS</td><td></td><tr><td><a href="eflora_display.php?tid=34681">Nolina bigelovii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=77595">Nolina cismontana</a></td><td>CHAPARRAL NOLINA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34687">Nolina interrata</a></td><td>DEHESA NOLINA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34682">Nolina parryi</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=34682">Nolina parryi subsp. wolfii</a><br>(Under Nolina parryi)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=535">Nothocalais</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=535">&#x21b3;&nbsp;&nbsp;Key to Nothocalais</td><td>FALSE-DANDELION</td><td></td><tr><td><a href="eflora_display.php?tid=4190">Nothocalais alpestris</a></td><td>ALPINE LAKE FALSE-DANDELION</td><td>Native</td><tr><td><a href="eflora_display.php?tid=4199">Nothocalais troximoides</a></td><td>SAGEBRUSH FALSE-DANDELION</td><td>Native</td><tr><td><a href="eflora_display.php?tid=11389">Nothochelone</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=34705">Nothochelone nemorosa</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=10418">Notholaena</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=34721">Notholaena californica</a></td><td>CALIFORNIA CLOAK-FERN</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34721">Notholaena californica subsp. californica</a><br>(Under Notholaena californica)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=34721">Notholaena californica subsp. leucophylla</a><br>(Under Notholaena californica)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=34721">Notholaena candida var. accessita</a><br>(Under Notholaena californica)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=14137">Notholaena jonesii</a><br>(Under Argyrochosma jonesii)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=49272">Notholaena limitanea</a><br>(Under Argyrochosma limitanea subsp. limitanea)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=88864">Notholithocarpus</a></td><td>TAN OAK, TANBARK OAK</td><td></td><tr><td><a href="eflora_display.php?tid=89061">Notholithocarpus densiflorus</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=89061">&#x21b3;&nbsp;&nbsp;Key to Notholithocarpus densiflorus</td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=91776">Notholithocarpus densiflorus var. densiflorus</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=91777">Notholithocarpus densiflorus var. echinoides</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=9545">Nothoscordum</a></td><td>FALSE GARLIC</td><td></td><tr><td><a href="eflora_display.php?tid=55181">Nothoscordum aureum</a><br>(Under Bloomeria crocea var. aurea)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=34732">Nothoscordum borbonicum</a><br>(Under Nothoscordum gracile)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=34732">Nothoscordum gracile</a></td><td></td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=34732">Nothoscordum inodorum</a><br>(Under Nothoscordum gracile)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=8796">Nuphar</a></td><td>COW-LILY, YELLOW POND-LILY</td><td></td><tr><td><a href="eflora_display.php?tid=34748">Nuphar lutea subsp. polysepala</a><br>(Under Nuphar polysepala)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=34748">Nuphar polysepala</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=11390">Nuttallanthus</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=34756">Nuttallanthus texanus</a></td><td>BLUE TOADFLAX</td><td>Native</td><tr><td><a href="eflora_display.php?tid=34900">Nuttallia cerasiformis</a><br>(Under Oemleria cerasiformis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=202">Nyctaginaceae</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=202">&#x21b3;&nbsp;&nbsp;Key to Nyctaginaceae</td><td>FOUR O'CLOCK FAMILY</td><td></td><tr><td><a href="eflora_display.php?tid=25305">Nyctelea micrantha</a><br>(Under Eucrypta micrantha)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25305">Nyctelea pinetorum</a><br>(Under Eucrypta micrantha)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=58929">Nyctelea torreyi</a><br>(Under Eucrypta chrysanthemifolia var. bipinnatifida)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=8797">Nymphaea</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=8797">&#x21b3;&nbsp;&nbsp;Key to Nymphaea</td><td>WATERLILY, WATER-NYMPH</td><td></td><tr><td><a href="eflora_display.php?tid=34797">Nymphaea mexicana</a></td><td>YELLOW or BANANA WATERLILY</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=34798">Nymphaea odorata</a></td><td>FRAGRANT or WHITE WATERLILY</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=34798">Nymphaea odorata subsp. odorata</a><br>(Under Nymphaea odorata)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=34748">Nymphaea polysepala</a><br>(Under Nuphar polysepala)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=203">Nymphaeaceae</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=203">&#x21b3;&nbsp;&nbsp;Key to Nymphaeaceae</td><td>WATERLILY FAMILY</td><td></td><tr><td><a href="eflora_display.php?tid=8829">Nymphoides</a></td><td>FLOATING-HEART</td><td></td><tr><td><a href="eflora_display.php?tid=34809">Nymphoides peltata</a></td><td>WATER FRINGE</td><td>Naturalized</td></table></div><br>
+<a href="mailto:interchange@lists.berkeley.edu"><span class="feedbackLink">Feedback/Contact<span></a><br>
+</td>
+</tr>
+</table>
+
+
+
+<!--Begin footer-->
+<table width="100%" id="footer">
+  <tr>
+    <td height="18" class="banner"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  <tr>
+    <td height="20"><span class="copyrightText"><a href="http://ucjeps.berkeley.edu/main/copyright.html"> Copyright</a> &copy; 2016  Regents of the University of California
+<br>We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.</span></td>
+  </tr>
+</table>
+<!--End footer-->

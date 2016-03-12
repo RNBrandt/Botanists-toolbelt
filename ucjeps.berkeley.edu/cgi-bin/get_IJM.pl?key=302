@@ -1,0 +1,282 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Agoseris</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Agoseris
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=776">Agoseris apargioides
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=6310">Agoseris apargioides var. apargioides
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=6311">Agoseris apargioides var. eastwoodiae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=6327">Agoseris apargioides var. maritima
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=6312">Agoseris aurantiaca var. aurantiaca
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=6318">Agoseris glauca var. glauca
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=791">Agoseris grandiflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=79217">Agoseris grandiflora var. grandiflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=82047">Agoseris grandiflora var. leptophylla
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=794">Agoseris heterophylla
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=6324">Agoseris heterophylla var. cryptopleura
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=6323">Agoseris heterophylla var. heterophylla
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=777">Agoseris hirsuta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=790">Agoseris monticola
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=789">Agoseris parviflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=797">Agoseris retrorsa
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=302'><h3>View taxon page for Agoseris</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#ET1'">1.</a><a name="ET1."> </a> Annual from slender taproot; stem often leafy above base; involucre 10&ndash;25 mm in fruit; outer fruits sometimes wavy-ribbed (or inflated and ribless) <a href="/cgi-bin/get_IJM.pl?tid=794">.....&nbsp;A. heterophylla</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#ET2'">2.</a><a name="ET2."> </a> Ligule 10&ndash;15 mm, much exceeding involucre; anthers 2&ndash;4 mm; leaf lobes generally 3&ndash;5 pairs <a href="/cgi-bin/get_IJM.pl?tid=6324">.....&nbsp;var. cryptopleura</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#ET2.">2'</a><a name="ET2'"> </a> Ligule 2&ndash;6 mm, &plusmn; equaling involucre; anthers 1&ndash;1.5 mm; leaf lobes generally 2&ndash;3 pairs <a href="/cgi-bin/get_IJM.pl?tid=6323">.....&nbsp;var. heterophylla</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#ET1.">1'</a><a name="ET1'"> </a> Perennial herb from stout taproot, generally with caudex; stem generally not or obscurely leafy above base; involucre 10&ndash;60 mm in fruit; outer fruits generally straight-ribbed
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#ET3'">3.</a><a name="ET3."> </a> Corolla orange, pink, or &plusmn; red, generally drying &plusmn; purple
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ET4'">4.</a><a name="ET4."> </a> Involucre not glandular-hairy; petiole generally &plusmn; purple <a href="/cgi-bin/get_IJM.pl?tid=6312">.....&nbsp;A. aurantiaca var. aurantiaca</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ET4.">4'</a><a name="ET4'"> </a> Involucre &plusmn; glandular-hairy; petiole generally not purple <a href="/cgi-bin/get_IJM.pl?tid=93846">.....&nbsp;A. &times;elata</a> (2)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#ET3.">3'</a><a name="ET3'"> </a> Corolla yellow, outer generally &plusmn; purple abaxially, drying &plusmn; white but purple still evident
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ET5'">5.</a><a name="ET5."> </a> Fruit beak stout, &lt;&lt; body; inner phyllaries generally not elongating in fruit
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ET6'">6.</a><a name="ET6."> </a> Peduncle generally 5&ndash;20 cm, &plusmn; glandular-hairy, base generally &plusmn; glandular-woolly; leaf blade generally 2&ndash;10 cm, generally toothed or lobed (entire), lobes generally 2(+) pairs, &plusmn; divergent, proximal lobes angled towards leaf base, distal angled towards leaf tip or spreading; plant generally decumbent or prostrate <a href="/cgi-bin/get_IJM.pl?tid=790">.....&nbsp;A. monticola</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ET6.">6'</a><a name="ET6'"> </a> Peduncle generally 20&ndash;60 cm, &plusmn; glabrous or sparsely to densely hairy, hairs glandular or not; leaf blade generally 3&ndash;30 cm, entire, toothed, or lobed, lobes (if present) generally > 2 pairs, spreading or all angled in same direction; plant erect to spreading or petioles decumbent
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ET7'">7.</a><a name="ET7."> </a> Leaves glabrous and glaucous to densely hairy, entire or few-toothed or -lobed; peduncle generally hairy or &plusmn; glabrous in age except distally; phyllaries in 3&ndash;4 series, outer generally rosy-purple except margin, generally &plusmn; glandular-hairy <a href="/cgi-bin/get_IJM.pl?tid=77674">.....&nbsp;A. &times;dasycarpa</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ET7.">7'</a><a name="ET7'"> </a> Leaves &plusmn; glabrous, &plusmn; glaucous, generally &plusmn; entire or weakly few-toothed; peduncle generally glabrous, occasionally sparsely hairy distally; phyllaries in 2&ndash;3 series, outer green or &plusmn; rosy-purple, generally purple-spotted, generally &plusmn; glabrous proximally (weakly ciliate), hairs glandless <a href="/cgi-bin/get_IJM.pl?tid=6318">.....&nbsp;A. glauca var. glauca</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ET5.">5'</a><a name="ET5'"> </a> Fruit beak &plusmn; slender, (&lt; 1)1&ndash;4 &times; body; inner phyllaries &plusmn; elongating with fruit
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ET8'">8.</a><a name="ET8."> </a> Fruit beak 10&ndash;25 mm, (&lt; 3)3&ndash;4 &times; body; leaves generally pinnately lobed or toothed (entire)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ET9'">9.</a><a name="ET9."> </a> Ligule 6&ndash;15 mm, tube 10&ndash;20 mm; anthers 2&ndash;5 mm; pappus generally 15&ndash;20 mm, bristles in 4&ndash;6 series; leaf lobes generally angled toward leaf base; fruit body tip &plusmn; truncate, not tapered to beak <a href="/cgi-bin/get_IJM.pl?tid=797">.....&nbsp;A. retrorsa</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ET9.">9'</a><a name="ET9'"> </a> Ligule 3&ndash;7 mm, tube 4&ndash;7 mm; anthers 1&ndash;3 mm; pappus 7&ndash;15 mm, bristles in 2&ndash;3 series; leaf lobes generally angled toward leaf tip or spreading; fruit body tip &plusmn; abruptly tapered to beak <a href="/cgi-bin/get_IJM.pl?tid=791">.....&nbsp;A. grandiflora</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ET10'">10.</a><a name="ET10."> </a> Plant &plusmn; robust; leaves (&plusmn; entire) toothed to pinnately lobed, generally >= 10 mm wide except lobes; leaf lobes &plusmn; lanceolate to oblanceolate; flowers generally 150&ndash;500; phyllaries green or generally rosy-purple, rarely purple-spotted, outer often exceeding inner at flower <a href="/cgi-bin/get_IJM.pl?tid=79217">.....&nbsp;var. grandiflora</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ET10.">10'</a><a name="ET10'"> </a> Plant &plusmn; slender; leaves pinnately lobed (toothed), generally 2&ndash;4 mm wide except lobes; leaf lobes thread-like to lance-linear; flowers generally &lt; 100; phyllaries generally rosy-purple and often purple-spotted, outer &plusmn; = or sometimes exceeding inner at flower <a href="/cgi-bin/get_IJM.pl?tid=82047">.....&nbsp;var. leptophylla</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ET8.">8'</a><a name="ET8'"> </a> Fruit beak &lt;= 10 mm, (&lt; 1)1&ndash;3 &times; body; leaves entire to pinnately lobed
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ET11'">11.</a><a name="ET11."> </a> Fruit body 5&ndash;10 mm; corolla tube 6&ndash;15 mm, rarely shorter; pappus 9&ndash;20 mm
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ET12'">12.</a><a name="ET12."> </a> Leaf lobes generally angled toward leaf base or spreading; ligule 10&ndash;20 mm, exceeding involucre; fruit beak (&lt; 1)1&ndash;2 &times; body <a href="/cgi-bin/get_IJM.pl?tid=789">.....&nbsp;A. parviflora</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ET12.">12'</a><a name="ET12'"> </a> Leaf lobes generally angled toward leaf tip or spreading; ligule 5&ndash;10(+) mm, generally &plusmn; equaling (exceeding) involucre; fruit beak generally = body
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ET13'">13.</a><a name="ET13."> </a> Involucre not glandular-hairy; petiole generally &plusmn; purple <a href="/cgi-bin/get_IJM.pl?tid=6312">.....&nbsp;A. aurantiaca var. aurantiaca</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ET13.">13'</a><a name="ET13'"> </a> Involucre &plusmn; glandular-hairy; petiole generally not purple <a href="/cgi-bin/get_IJM.pl?tid=93846">.....&nbsp;A. &times;elata</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ET11.">11'</a><a name="ET11'"> </a> Fruit body 3&ndash;5 mm; corolla tube 2&ndash;6 mm; pappus 4&ndash;10 mm
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ET14'">14.</a><a name="ET14."> </a> Leaves generally pinnately lobed (toothed); leaf lobes generally 5&ndash;7(+) pairs, 2&deg; lobe occasionally 1; plant generally erect, leaves all basal; &plusmn; inland in &plusmn; fine-textured soils &mdash; North Coast Ranges, Sacramento Valley, Central Western California <a href="/cgi-bin/get_IJM.pl?tid=777">.....&nbsp;A. hirsuta</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ET14.">14'</a><a name="ET14'"> </a> Leaves entire to pinnately lobed; leaf lobes if present generally 3&ndash;5(+) pairs, thread-like to &plusmn; spoon-shaped, 2&deg; lobe generally 0; plant generally decumbent to &plusmn; erect, leafy stem present and &plusmn; buried by drifting sand, or leafy stem 0; coastal dunes and sand hills <a href="/cgi-bin/get_IJM.pl?tid=776">.....&nbsp;A. apargioides</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ET15'">15.</a><a name="ET15."> </a> Ligule 3&ndash;6 mm, not or scarcely exceeding phyllaries; anthers 1.5&ndash;2.5 mm; head glabrous or hairs generally white-opaque, glandless &mdash; n North Coast (Humboldt Bay n) <a href="/cgi-bin/get_IJM.pl?tid=6327">.....&nbsp;var. maritima</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ET15.">15'</a><a name="ET15'"> </a> Ligule 8&ndash;16 mm, exceeding phyllaries; anthers 3.5&ndash;4.5 mm; head glabrous or hairs generally white- or yellow-translucent, glandular
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ET16'">16.</a><a name="ET16."> </a> Plant generally glabrous to &plusmn; densely hairy, hairs &plusmn; white; leaf blade generally 1&ndash;15 mm wide except lobes, linear to oblanceolate, lobes if present thread-like to &plusmn; lanceolate (spoon-shaped) &mdash; Central Coast (San Francisco s to Cambria) <a href="/cgi-bin/get_IJM.pl?tid=6310">.....&nbsp;var. apargioides</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ET16.">16'</a><a name="ET16'"> </a> Plant generally densely hairy, hairs &plusmn; yellow; leaf blade generally 15&ndash;30 mm wide except lobes, blade and lobes oblanceolate to &plusmn; spoon-shaped &mdash; c&s North Coast, n Central Coast (Point Reyes n to Mendocino) <a href="/cgi-bin/get_IJM.pl?tid=6311">.....&nbsp;var. eastwoodiae</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

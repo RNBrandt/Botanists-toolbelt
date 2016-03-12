@@ -1,0 +1,254 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Calyptridium</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Calyptridium
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=95389">Calyptridium arizonicum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16845">Calyptridium monandrum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16846">Calyptridium monospermum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16847">Calyptridium parryi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55522">Calyptridium parryi var. hesseae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55523">Calyptridium parryi var. nevadense
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=75401">Calyptridium parryi var. parryi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16848">Calyptridium pulchellum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16849">Calyptridium pygmaeum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16850">Calyptridium quadripetalum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16851">Calyptridium roseum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16852">Calyptridium umbellatum
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=68199'><h3>View taxon page for Calyptridium</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#XA1'">1.</a><a name="XA1."> </a> Perennial herb; style thread-like, 2&ndash;4 mm, exserted
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#XA2'">2.</a><a name="XA2."> </a> Inflorescence >= 2 per rosette; cauline leaves generally present; petals rose to white <a href="/cgi-bin/get_IJM.pl?tid=16846">.....&nbsp;C. monospermum</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#XA2.">2'</a><a name="XA2'"> </a> Inflorescence generally 1 per rosette; cauline leaves generally 0; petals white <a href="/cgi-bin/get_IJM.pl?tid=16852">.....&nbsp;C. umbellatum</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#XA1.">1'</a><a name="XA1'"> </a> Annual; style thread-like or not, generally &lt; 2 mm, generally included
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#XA3'">3.</a><a name="XA3."> </a> Style 1&ndash;2 mm; seeds 1&ndash;3, 0.7&ndash;0.9 mm; c Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=16848">.....&nbsp;C. pulchellum</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#XA3.">3'</a><a name="XA3'"> </a> Style &lt; 0.5 mm; seeds >= 4, 0.4&ndash;0.8 mm; widespread, including e slope High Sierra Nevada (for <I>C. roseum</I>) but otherwise excluding c Sierra Nevada (except <I>Calyptridium pygmaeum</I> is in c&s High Sierra Nevada)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#XA4'">4.</a><a name="XA4."> </a> Seed &lt; 0.5 mm, papillae generally 0 or marginal; pedicel 1&ndash;3 mm, slender
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#XA5'">5.</a><a name="XA5."> </a> Petals 4; stamens generally 3 <a href="/cgi-bin/get_IJM.pl?tid=16849">.....&nbsp;C. pygmaeum</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#XA5.">5'</a><a name="XA5'"> </a> Petals 2; stamen 1 <a href="/cgi-bin/get_IJM.pl?tid=16851">.....&nbsp;C. roseum</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#XA4.">4'</a><a name="XA4'"> </a> Seed >= 0.5 mm, papillae marginal or throughout (except 0 in <I>Calyptridium arizonicum</I>); pedicel &lt; 2 mm, thickened (slender, 1&ndash;2 mm in <I>Calyptridium quadripetalum</I>)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#XA6'">6.</a><a name="XA6."> </a> Petals generally 3; stamen 1; fruit oblong to linear; seeds 4&ndash;10, generally from base to above middle of fruit, often in &plusmn; 1 row <a href="/cgi-bin/get_IJM.pl?tid=16845">.....&nbsp;C. monandrum</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#XA6.">6'</a><a name="XA6'"> </a> Petals 4; stamens 1&ndash;3; fruit widely ovate or lanceolate to elliptic or oblong; seeds 5&ndash;many, generally from base to middle of fruit, not in &plusmn; 1 row
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#XA7'">7.</a><a name="XA7."> </a> Seed papillae coarse, generally throughout; basal leaves generally persistent in fruit; flowers deciduous in fruit; sepals scarious throughout <a href="/cgi-bin/get_IJM.pl?tid=16850">.....&nbsp;C. quadripetalum</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#XA7.">7'</a><a name="XA7'"> </a> Seed papillae 0 or &plusmn; fine, throughout or marginal; basal leaves generally withering in fruit; flowers persistent in fruit to not; sepals generally scarious on margin or becoming scarious throughout
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#XA8'">8.</a><a name="XA8."> </a> Seed 0.7&ndash;0.8 mm, papillae 0; fruit 6&ndash;7 mm; w Sonoran Desert <a href="/cgi-bin/get_IJM.pl?tid=95389">.....&nbsp;C. arizonicum</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#XA8.">8'</a><a name="XA8'"> </a> Seed generally 0.5&ndash;0.7 mm, papillae throughout or marginal; fruit &lt; 6 mm; sw San Francisco Bay Area, n South Coast Ranges, s Outer South Coast Ranges, Transverse Ranges, San Jacinto Mountains, East of Sierra Nevada, Desert Mountains <a href="/cgi-bin/get_IJM.pl?tid=16847">.....&nbsp;C. parryi</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#XA9'">9.</a><a name="XA9."> </a> Seed papillae throughout; s Outer South Coast Ranges, Transverse Ranges, San Jacinto Mountains <a href="/cgi-bin/get_IJM.pl?tid=75401">.....&nbsp;var. parryi</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#XA9.">9'</a><a name="XA9'"> </a> Seed papillae marginal; sw San Francisco Bay Area, n South Coast Ranges, East of Sierra Nevada, Desert Mountains
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#XA10'">10.</a><a name="XA10."> </a> Seed 0.5&ndash;0.6 mm; sepals ovate, with generally narrowly scarious margin; 600&ndash;1050 m, sw San Francisco Bay Area, n South Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=55522">.....&nbsp;var. hesseae</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#XA10.">10'</a><a name="XA10'"> </a> Seed 0.6&ndash;0.7 mm; sepals ovate to reniform, with widely scarious margin or scarious throughout; 1500&ndash;2990 m, East of Sierra Nevada, Desert Mountains <a href="/cgi-bin/get_IJM.pl?tid=55523">.....&nbsp;var. nevadense</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

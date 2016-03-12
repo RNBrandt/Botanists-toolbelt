@@ -1,0 +1,616 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Boechera</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Boechera
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81781">Boechera acutina
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81867">Boechera arcuata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81759">Boechera bodiensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81747">Boechera breweri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85519">Boechera breweri subsp. breweri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=90400">Boechera breweri subsp. shastaensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85626">Boechera calderi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81590">Boechera californica
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85475">Boechera cobrensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81756">Boechera constancei
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85474">Boechera covillei
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81757">Boechera davidsonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85473">Boechera depauperata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85539">Boechera dispar
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15785">Boechera divaricarpa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85472">Boechera elkoensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85538">Boechera evadens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91727">Boechera glaucovalvula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91728">Boechera hoffmannii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81767">Boechera howellii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85471">Boechera inyoensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85470">Boechera johnstonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91729">Boechera koehleri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15795">Boechera lemmonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85469">Boechera lincolnensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85468">Boechera lyallii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81764">Boechera parishii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85456">Boechera pauciflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85466">Boechera paupercula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91275">Boechera peirsonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15798">Boechera pendulina
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85624">Boechera pendulocarpa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15799">Boechera perennans
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85460">Boechera pinetorum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91730">Boechera pinzliae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81763">Boechera platysperma
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85459">Boechera pratincola
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81778">Boechera puberula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15800">Boechera pulchra
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91731">Boechera pygmaea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81780">Boechera rectissima
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81765">Boechera repanda
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15793">Boechera retrofracta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85457">Boechera rigidissima
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81769">Boechera rollei
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81761">Boechera rubicundula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85540">Boechera serpenticola
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91276">Boechera shevockii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81768">Boechera shockleyi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81758">Boechera sparsiflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85455">Boechera stricta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85442">Boechera subpinnatifida
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85441">Boechera suffrutescens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85440">Boechera tiehmii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85439">Boechera tularensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85542">Boechera ultraalsa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81760">Boechera xylopoda
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81004">Boechera yorkii
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=68135'><h3>View taxon page for Boechera</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#MK1'">1.</a><a name="MK1."> </a> Fruit, generally ovary hairy
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#MK2'">2.</a><a name="MK2."> </a> Fruit pedicel &lt; 2.5 mm; petals &plusmn; yellow to brick-red <a href="/cgi-bin/get_IJM.pl?tid=81004">.....&nbsp;B. yorkii</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#MK2.">2'</a><a name="MK2'"> </a> Fruit pedicel > 2.5 mm; petals purple, lavender, or white
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MK3'">3.</a><a name="MK3."> </a> Fruit pedicel base generally abruptly recurved; fruit generally appressed to inflorescence axis
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MK4'">4.</a><a name="MK4."> </a> Stems elevated above ground surface on woody base; petals 9&ndash;16 mm; fruit 2.5&ndash;4 mm wide; seeds 1.7&ndash;2.8 mm <a href="/cgi-bin/get_IJM.pl?tid=15800">.....&nbsp;B. pulchra</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MK4.">4'</a><a name="MK4'"> </a> Stems from &plusmn; ground surface, from non-woody caudex; petals 4&ndash;8 mm; fruit 0.9&ndash;1.8 mm wide; seeds 1&ndash;1.4 mm <a href="/cgi-bin/get_IJM.pl?tid=15793">.....&nbsp;B. retrofracta</a> (3)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MK3.">3'</a><a name="MK3'"> </a> Fruit pedicel base not abruptly recurved; fruit generally not appressed to inflorescence axis
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MK5'">5.</a><a name="MK5."> </a> Proximal stems with simple and 2-rayed hairs only
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MK6'">6.</a><a name="MK6."> </a> Fruit pedicel with branched hairs only <a href="/cgi-bin/get_IJM.pl?tid=81867">.....&nbsp;B. arcuata</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MK6.">6'</a><a name="MK6'"> </a> Fruit pedicel with generally simple hairs <a href="/cgi-bin/get_IJM.pl?tid=85519">.....&nbsp;B. breweri subsp. breweri</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MK5.">5'</a><a name="MK5'"> </a> Proximal stems with at least some 3&ndash;12-rayed hairs
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MK7'">7.</a><a name="MK7."> </a> Petals generally &lt; 9 mm
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK8'">8.</a><a name="MK8."> </a> Stem proximally with 7&ndash;12-rayed hairs; seeds 1&ndash;1.3 mm, generally in 2 rows <a href="/cgi-bin/get_IJM.pl?tid=81768">.....&nbsp;B. shockleyi</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK8.">8'</a><a name="MK8'"> </a> Stem proximally with generally 3&ndash;7-rayed hairs; seeds 1.4&ndash;6 mm, in 1 row
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK9'">9.</a><a name="MK9."> </a> Basal leaves > 6 mm wide; fruit erect to ascending; seeds 2.5&ndash;6 mm, wing 0.7&ndash;1.8 mm wide <a href="/cgi-bin/get_IJM.pl?tid=81765">.....&nbsp;B. repanda</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK9.">9'</a><a name="MK9'"> </a> Basal leaves &lt; 6 mm wide; fruit horizontal to pendent (appressed); seeds 1.4&ndash;2.5 mm, wing 0.05&ndash;0.3 mm wide
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK10'">10.</a><a name="MK10."> </a> Style &lt; 0.2 mm; basal leaves generally dentate; fruit 1.9&ndash;2.2 mm wide; seeds 1.4&ndash;1.8 mm <a href="/cgi-bin/get_IJM.pl?tid=81778">.....&nbsp;B. puberula</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK10.">10'</a><a name="MK10'"> </a> Style 1.5&ndash;2 mm; basal leaves entire; fruit 2.5&ndash;3 mm wide; seeds 2&ndash;2.5 mm <a href="/cgi-bin/get_IJM.pl?tid=85540">.....&nbsp;B. serpenticola</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MK7.">7'</a><a name="MK7'"> </a> Petals generally > 9 mm
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK11'">11.</a><a name="MK11."> </a> At least some basal leaves prominently dentate to &plusmn; pinnately lobed; style 0.5&ndash;1 mm; ovules &lt; 60 <a href="/cgi-bin/get_IJM.pl?tid=85442">.....&nbsp;B. subpinnatifida</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK11.">11'</a><a name="MK11'"> </a> Basal leaves generally entire; style generally &lt; 0.5 mm; ovules > 60
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK12'">12.</a><a name="MK12."> </a> Basal leaves 1&ndash;2 mm wide; inflorescence 7&ndash;15-flowered; fruit pedicel generally ascending near base, recurved near tip <a href="/cgi-bin/get_IJM.pl?tid=85469">.....&nbsp;B. lincolnensis</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK12.">12'</a><a name="MK12'"> </a> Basal leaves 3&ndash;13 mm wide; inflorescence > 15-flowered; fruit pedicel descending or horizontal near base
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK13'">13.</a><a name="MK13."> </a> Fruit generally > 7 cm, sparsely hairy throughout; seeds 1.7&ndash;2 mm, generally in 1 row <a href="/cgi-bin/get_IJM.pl?tid=81590">.....&nbsp;B. californica</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK13.">13'</a><a name="MK13'"> </a> Fruit generally &lt; 7 cm, hairy on distal 2/3, glabrous near base; seeds 2&ndash;2.5 mm, generally irregularly in 2 rows <a href="/cgi-bin/get_IJM.pl?tid=81760">.....&nbsp;B. xylopoda</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#MK1.">1'</a><a name="MK1'"> </a> Fruit, ovary glabrous
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#MK14'">14.</a><a name="MK14."> </a> Cauline leaf base not lobed
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MK15'">15.</a><a name="MK15."> </a> Style > 2.2 mm
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MK16'">16.</a><a name="MK16."> </a> Petals &plusmn; white, 6&ndash;8 mm; fruit pendent, 4&ndash;7.5 cm <a href="/cgi-bin/get_IJM.pl?tid=81756">.....&nbsp;B. constancei</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MK16.">16'</a><a name="MK16'"> </a> Petals lavender to purple, 8&ndash;13 mm; fruit ascending, 1.5&ndash;2.5 cm <a href="/cgi-bin/get_IJM.pl?tid=81764">.....&nbsp;B. parishii</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MK15.">15'</a><a name="MK15'"> </a> Style &lt; 2.2 mm
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MK17'">17.</a><a name="MK17."> </a> Basal leaves glabrous or hairs simple only
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MK18'">18.</a><a name="MK18."> </a> Leaf margins with minute simple hairs; petals 4&ndash;5 mm <a href="/cgi-bin/get_IJM.pl?tid=91276">.....&nbsp;B. shevockii</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MK18.">18'</a><a name="MK18'"> </a> Leaves glabrous; petals 6&ndash;10 mm
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK19'">19.</a><a name="MK19."> </a> Caudex with crowded, persistent leaf bases; fruit ascending, not appressed to inflorescence axis; seeds in 1 row <a href="/cgi-bin/get_IJM.pl?tid=81757">.....&nbsp;B. davidsonii</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK19.">19'</a><a name="MK19'"> </a> Caudex without crowded, persistent leaf bases; fruit erect, appressed to inflorescence axis; seeds generally in 2 rows <a href="/cgi-bin/get_IJM.pl?tid=85468">.....&nbsp;B. lyallii</a> (3)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MK17.">17'</a><a name="MK17'"> </a> Basal leaves with at least some branched hairs
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MK20'">20.</a><a name="MK20."> </a> Plant generally glabrous throughout except margins of basal leaves
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK21'">21.</a><a name="MK21."> </a> Fruit generally > 3 mm wide; seeds 3&ndash;6 mm
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK22'">22.</a><a name="MK22."> </a> Margins of basal leaves with some 3&ndash;4-rayed hairs; ovules 18&ndash;30; pollen spheric <a href="/cgi-bin/get_IJM.pl?tid=85474">.....&nbsp;B. covillei</a> (3)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK22.">22'</a><a name="MK22'"> </a> Margins of basal leaves with simple and 2-rayed hairs; ovules 10&ndash;20; pollen ellipsoid <a href="/cgi-bin/get_IJM.pl?tid=81767">.....&nbsp;B. howellii</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK21.">21'</a><a name="MK21'"> </a> Fruit generally &lt; 3 mm wide; seeds 1.5&ndash;2.2 mm
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK23'">23.</a><a name="MK23."> </a> Petals 6&ndash;8.5 mm; fruit pedicel erect; seeds generally in 2 rows <a href="/cgi-bin/get_IJM.pl?tid=85468">.....&nbsp;B. lyallii</a> (3)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK23.">23'</a><a name="MK23'"> </a> Petals 4&ndash;5 mm; fruit pedicel ascending; seeds in 1 row <a href="/cgi-bin/get_IJM.pl?tid=85440">.....&nbsp;B. tiehmii</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MK20.">20'</a><a name="MK20'"> </a> Plant at least hairy on surfaces of basal leaves, generally throughout pl
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK24'">24.</a><a name="MK24."> </a> Fruit pendent or descending
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK25'">25.</a><a name="MK25."> </a> Fruit 5&ndash;8 mm wide; seeds 5&ndash;6 mm <a href="/cgi-bin/get_IJM.pl?tid=91727">.....&nbsp;B. glaucovalvula</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK25.">25'</a><a name="MK25'"> </a> Fruit &lt; 3 mm wide; seeds &lt; 2 mm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK26'">26.</a><a name="MK26."> </a> Fruit pedicel base generally abruptly recurved; fruit reflexed, generally appressed to inflorescence axis; cauline leaves 15&ndash;40; inflorescence generally > 15-flowered <a href="/cgi-bin/get_IJM.pl?tid=15793">.....&nbsp;B. retrofracta</a> (3)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK26.">26'</a><a name="MK26'"> </a> Fruit pedicel base not abruptly recurved; fruit wide-pendent, not appressed to inflorescence axis; cauline leaves 2&ndash;17; inflorescence &lt; 15-flowered
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MK27'">27.</a><a name="MK27."> </a> Surfaces of basal leaves with simple and 2-rayed hairs <a href="/cgi-bin/get_IJM.pl?tid=15798">.....&nbsp;B. pendulina</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MK27.">27'</a><a name="MK27'"> </a> Surfaces of basal leaves with 4&ndash;8-rayed hairs <a href="/cgi-bin/get_IJM.pl?tid=85624">.....&nbsp;B. pendulocarpa</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK24.">24'</a><a name="MK24'"> </a> Fruit erect, ascending, or horizontal
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK28'">28.</a><a name="MK28."> </a> Inflorescence 1-sided in fruit <a href="/cgi-bin/get_IJM.pl?tid=15795">.....&nbsp;B. lemmonii</a> (3)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK28.">28'</a><a name="MK28'"> </a> Inflorescence not 1-sided in fruit
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK29'">29.</a><a name="MK29."> </a> Basal leaves generally wavy-margined to dentate, generally > 10 mm wide <a href="/cgi-bin/get_IJM.pl?tid=81765">.....&nbsp;B. repanda</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK29.">29'</a><a name="MK29'"> </a> Basal leaves entire, generally &lt; 10 mm wide
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MK30'">30.</a><a name="MK30."> </a> Proximal stems with simple and branched hairs
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MK31'">31.</a><a name="MK31."> </a> Petals lavender to purple; fruit 1.3&ndash;2 mm wide; ovules 24&ndash;40 <a href="/cgi-bin/get_IJM.pl?tid=85466">.....&nbsp;B. paupercula</a> (2)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MK31.">31'</a><a name="MK31'"> </a> Petals white; fruit 4&ndash;5 mm wide; ovules 8&ndash;12 <a href="/cgi-bin/get_IJM.pl?tid=91731">.....&nbsp;B. pygmaea</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MK30.">30'</a><a name="MK30'"> </a> Proximal stems with branched hairs only
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MK32'">32.</a><a name="MK32."> </a> Surfaces of basal leaves with at least some 8&ndash;14-rayed hairs
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#MK33'">33.</a><a name="MK33."> </a> Petals 5&ndash;6 mm; style &lt; 0.5 mm <a href="/cgi-bin/get_IJM.pl?tid=85539">.....&nbsp;B. dispar</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#MK33.">33'</a><a name="MK33'"> </a> Petals 9&ndash;14 mm; style 0.7&ndash;2 mm <a href="/cgi-bin/get_IJM.pl?tid=85470">.....&nbsp;B. johnstonii</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MK32.">32'</a><a name="MK32'"> </a> Surfaces of basal leaves with 2&ndash;7-rayed hairs only
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#MK34'">34.</a><a name="MK34."> </a> Fruit 3&ndash;5.5 mm wide; seeds 3&ndash;8 mm, wing 0.8&ndash;2.5 mm wide
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#MK35'">35.</a><a name="MK35."> </a> Basal leaves with short-stalked hairs generally 0.1&ndash;0.25 mm; fruit edges wavy, constricted between seeds <a href="/cgi-bin/get_IJM.pl?tid=81763">.....&nbsp;B. platysperma</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#MK35.">35'</a><a name="MK35'"> </a> Basal leaves with long-stalked hairs generally 0.25&ndash;0.5 mm; fruit edge not wavy or constricted between seeds <a href="/cgi-bin/get_IJM.pl?tid=85542">.....&nbsp;B. ultraalsa</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#MK34.">34'</a><a name="MK34'"> </a> Fruit 2&ndash;3.2 mm wide; seeds 2.5&ndash;3.5 mm, wing 0.2&ndash;0.9 mm wide
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#MK36'">36.</a><a name="MK36."> </a> Sepals glabrous; basal leaves 2&ndash;6 mm wide, with generally sessile hairs; fruit erect-ascending, generally appressed to inflorescence axis <a href="/cgi-bin/get_IJM.pl?tid=85472">.....&nbsp;B. elkoensis</a> (2)
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#MK36.">36'</a><a name="MK36'"> </a> Sepals sparsely hairy; basal leaves 1&ndash;3 mm wide, with stalked hairs; fruit ascending, not appressed to inflorescence axis <a href="/cgi-bin/get_IJM.pl?tid=91730">.....&nbsp;B. pinzliae</a> (2)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#MK14.">14'</a><a name="MK14'"> </a> Cauline leaf base lobed
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MK37'">37.</a><a name="MK37."> </a> Stems glabrous proximally
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MK38'">38.</a><a name="MK38."> </a> Fruit erect, generally appressed to inflorescence axis
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MK39'">39.</a><a name="MK39."> </a> Basal leaves with sessile 2-rayed mixed with 3- or 4-rayed hairs <a href="/cgi-bin/get_IJM.pl?tid=85626">.....&nbsp;B. calderi</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MK39.">39'</a><a name="MK39'"> </a> Basal leaves with either sessile 2-rayed or short-stalked 2&ndash;6-rayed hairs, or occasionally glabrous
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK40'">40.</a><a name="MK40."> </a> Petals white, occasionally pale lavender in age; cauline leaves 6&ndash;52; surfaces or margins of basal leaves with sessile 2 rayed hairs, occasionally glabrous <a href="/cgi-bin/get_IJM.pl?tid=85455">.....&nbsp;B. stricta</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK40.">40'</a><a name="MK40'"> </a> Petals lavender to purple; cauline leaves 1&ndash;7; surfaces of basal leaves glabrous, margins with simple and short-stalked, branched hairs, occasionally glabrous
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK41'">41.</a><a name="MK41."> </a> Ovules generally &lt; 30; seed in 1 row, > 3 mm, wing 1&ndash;1.5 mm wide <a href="/cgi-bin/get_IJM.pl?tid=85474">.....&nbsp;B. covillei</a> (3)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK41.">41'</a><a name="MK41'"> </a> Ovules generally > 30; seed generally in 2 rows, &lt; 3 mm, wing 0.3&ndash;0.5 mm wide <a href="/cgi-bin/get_IJM.pl?tid=85468">.....&nbsp;B. lyallii</a> (3)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MK38.">38'</a><a name="MK38'"> </a> Fruit reflexed, pendent, horizontal, or ascending (&plusmn; erect), generally not appressed to inflorescence axis except generally when reflexed
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MK42'">42.</a><a name="MK42."> </a> Fruit pendent to strongly reflexed
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK43'">43.</a><a name="MK43."> </a> Stems arising at ground level, generally lacking woody bases; surfaces of basal leaves with some simple hairs; inflorescence generally > 12-flowered <a href="/cgi-bin/get_IJM.pl?tid=81780">.....&nbsp;B. rectissima</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK43.">43'</a><a name="MK43'"> </a> Stems elevated above ground level on woody base; surfaces of basal leaves lacking simple hairs, generally glabrous; inflorescence generally &lt; 12-flowered
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK44'">44.</a><a name="MK44."> </a> Petals 8&ndash;11 mm, &plusmn; white; fruit 2.5&ndash;3.5 mm wide; inflorescence 3&ndash;7-flowered <a href="/cgi-bin/get_IJM.pl?tid=81769">.....&nbsp;B. rollei</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK44.">44'</a><a name="MK44'"> </a> Petals 4.5&ndash;6 mm, &plusmn; purple or rose at least near tip; fruit 3&ndash;6 mm wide; inflorescence 6&ndash;12-flowered <a href="/cgi-bin/get_IJM.pl?tid=85441">.....&nbsp;B. suffrutescens</a> (3)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MK42.">42'</a><a name="MK42'"> </a> Fruit ascending to horizontal or &plusmn; descending (&plusmn; erect)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK45'">45.</a><a name="MK45."> </a> Cauline leaves > 14; seeds in 2 rows; fruit 6&ndash;10 cm; Channel Islands <a href="/cgi-bin/get_IJM.pl?tid=91728">.....&nbsp;B. hoffmannii</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK45.">45'</a><a name="MK45'"> </a> Cauline leaves &lt; 14; seeds in 1 row; fruit generally &lt; 6 cm; montane habitats on mainland
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK46'">46.</a><a name="MK46."> </a> Fruit > 2.9 mm wide; seeds 3&ndash;6 mm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK47'">47.</a><a name="MK47."> </a> Margins of basal leaves with some 3&ndash;4-rayed hairs; ovules 18&ndash;30; pollen spheric <a href="/cgi-bin/get_IJM.pl?tid=85474">.....&nbsp;B. covillei</a> (3)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK47.">47'</a><a name="MK47'"> </a> Margins of basal leaves with simple and 2-rayed hairs; ovules 10&ndash;20; pollen ellipsoid <a href="/cgi-bin/get_IJM.pl?tid=81767">.....&nbsp;B. howellii</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK46.">46'</a><a name="MK46'"> </a> Fruit &lt; 2.9 mm wide; seeds 1&ndash;2.2 mm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK48'">48.</a><a name="MK48."> </a> Inflorescence 1-sided in fruit <a href="/cgi-bin/get_IJM.pl?tid=15795">.....&nbsp;B. lemmonii</a> (3)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK48.">48'</a><a name="MK48'"> </a> Inflorescence not 1-sided in fruit
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MK49'">49.</a><a name="MK49."> </a> Surfaces, margins of basal leaves with 4&ndash;7-rayed hairs; ovules 56&ndash;80; pollen spheric <a href="/cgi-bin/get_IJM.pl?tid=91275">.....&nbsp;B. peirsonii</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MK49.">49'</a><a name="MK49'"> </a> Surfaces of basal leaves glabrous, margins with simple and 2&ndash;3-rayed hairs; ovules 14&ndash;22; pollen ellipsoid <a href="/cgi-bin/get_IJM.pl?tid=85440">.....&nbsp;B. tiehmii</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MK37.">37'</a><a name="MK37'"> </a> Stems hairy proximally
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MK50'">50.</a><a name="MK50."> </a> Fruit descending, pendent, or strongly reflexed
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MK51'">51.</a><a name="MK51."> </a> Fruit pedicel base generally abruptly recurved
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK52'">52.</a><a name="MK52."> </a> Fruit > 2.7 mm wide; ovules 20&ndash;30; inflorescence 6&ndash;12-flowered <a href="/cgi-bin/get_IJM.pl?tid=85441">.....&nbsp;B. suffrutescens</a> (3)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK52.">52'</a><a name="MK52'"> </a> Fruit &lt; 2.7 mm wide; ovules 46&ndash;126; inflorescence generally > 12-flowered
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK53'">53.</a><a name="MK53."> </a> Stem proximally with branched hairs only <a href="/cgi-bin/get_IJM.pl?tid=15793">.....&nbsp;B. retrofracta</a> (3)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK53.">53'</a><a name="MK53'"> </a> Stem proximally with simple and branched hairs, or simple hairs only
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK54'">54.</a><a name="MK54."> </a> Stem proximally with simple and branched hairs; petals 4&ndash;6 mm <a href="/cgi-bin/get_IJM.pl?tid=85460">.....&nbsp;B. pinetorum</a> (3)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK54.">54'</a><a name="MK54'"> </a> Stem proximally with simple hairs only; petals 3&ndash;4 mm <a href="/cgi-bin/get_IJM.pl?tid=81780">.....&nbsp;B. rectissima</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MK51.">51'</a><a name="MK51'"> </a> Fruit pedicel base &plusmn; recurved or straight
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK55'">55.</a><a name="MK55."> </a> Fruit pedicel hairy
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK56'">56.</a><a name="MK56."> </a> Stem proximally with simple and branched hairs, or simple hairs only
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK57'">57.</a><a name="MK57."> </a> Petals generally > 8 mm, purple to magenta; stems elevated above ground level on woody caudex with crowded, persistent leaf bases; pollen ellipsoid <a href="/cgi-bin/get_IJM.pl?tid=91729">.....&nbsp;B. koehleri</a> (3)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK57.">57'</a><a name="MK57'"> </a> Petals generally &lt; 8 mm, lavender to white; stems from &plusmn; ground level, generally lacking woody caudex and crowded, persistent leaf bases; pollen spheric
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MK58'">58.</a><a name="MK58."> </a> Fruit spreading-descending; fruit pedicel with many 2&ndash;3-rayed hairs <a href="/cgi-bin/get_IJM.pl?tid=85456">.....&nbsp;B. pauciflora</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MK58.">58'</a><a name="MK58'"> </a> Fruit reflexed to &plusmn; appressed; fruit pedicel with few simple and 2-rayed hairs only, occasionally glabrous <a href="/cgi-bin/get_IJM.pl?tid=85460">.....&nbsp;B. pinetorum</a> (3)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK56.">56'</a><a name="MK56'"> </a> Stem proximally with branched hairs only
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK59'">59.</a><a name="MK59."> </a> Petals generally > 9 mm; fruit generally > 6 cm <a href="/cgi-bin/get_IJM.pl?tid=81590">.....&nbsp;B. californica</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK59.">59'</a><a name="MK59'"> </a> Petals generally &lt; 9 mm; fruit generally &lt; 6 cm
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MK60'">60.</a><a name="MK60."> </a> Surfaces of basal leaves with hairs 0.1&ndash;0.2 mm; seed wing 0.25&ndash;0.5 mm wide; ovules 34&ndash;64; pollen ellipsoid <a href="/cgi-bin/get_IJM.pl?tid=85475">.....&nbsp;B. cobrensis</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MK60.">60'</a><a name="MK60'"> </a> Surfaces of basal leaves with hairs 0.2&ndash;0.7 mm; seed wing &lt; 0.25 mm wide; ovules 74&ndash;134; pollen spheric <a href="/cgi-bin/get_IJM.pl?tid=85471">.....&nbsp;B. inyoensis</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK55.">55'</a><a name="MK55'"> </a> Fruit pedicel glabrous (sparsely hairy)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK61'">61.</a><a name="MK61."> </a> Petals generally > 8 mm, purple to magenta; caudex woody, leaf bases crowded, persistent <a href="/cgi-bin/get_IJM.pl?tid=91729">.....&nbsp;B. koehleri</a> (3)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK61.">61'</a><a name="MK61'"> </a> Petals generally &lt; 8 mm, white to lavender (rose-purple); caudex woody or not, crowded-persistent leaf bases 0
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK62'">62.</a><a name="MK62."> </a> Fruit > 2.7 mm wide; seed wing > 0.7 mm wide; stems elevated above ground surface on woody caudex <a href="/cgi-bin/get_IJM.pl?tid=85441">.....&nbsp;B. suffrutescens</a> (3)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK62.">62'</a><a name="MK62'"> </a> Fruit &lt; 2.7 mm wide; seed wing &lt; 0.7 mm wide; stems generally not elevated above ground surface on woody caudex
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MK63'">63.</a><a name="MK63."> </a> Fruit reflexed to &plusmn; appressed; pollen spheric; Klamath Ranges, Cascade Range, Sierra Nevada
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MK64'">64.</a><a name="MK64."> </a> Stem proximally with stalked, 2&ndash;5-rayed hairs; seeds 1.5&ndash;1.8 mm <a href="/cgi-bin/get_IJM.pl?tid=85460">.....&nbsp;B. pinetorum</a> (3)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MK64.">64'</a><a name="MK64'"> </a> Stem proximally with &plusmn; sessile, 2-rayed hairs; seeds 2&ndash;2.5 mm <a href="/cgi-bin/get_IJM.pl?tid=85439">.....&nbsp;B. tularensis</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MK63.">63'</a><a name="MK63'"> </a> Fruit wide-pendent to spreading-descending, not appressed; pollen ellipsoid; Southwestern California, Great Basin Floristic Province, D
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MK65'">65.</a><a name="MK65."> </a> Stem proximally generally simple-hairy; seeds in 2 rows <a href="/cgi-bin/get_IJM.pl?tid=15798">.....&nbsp;B. pendulina</a> (2)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MK65.">65'</a><a name="MK65'"> </a> Stem proximally generally branched-hairy; seeds in 1 row
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#MK66'">66.</a><a name="MK66."> </a> Basal leaves dentate; stem proximally with 2&ndash;5-rayed hairs <a href="/cgi-bin/get_IJM.pl?tid=15799">.....&nbsp;B. perennans</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#MK66.">66'</a><a name="MK66'"> </a> Basal leaves entire; stem proximally with 4&ndash;10-rayed hairs <a href="/cgi-bin/get_IJM.pl?tid=85475">.....&nbsp;B. cobrensis</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MK50.">50'</a><a name="MK50'"> </a> Fruit erect, ascending, or horizontal (pendent)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MK67'">67.</a><a name="MK67."> </a> Leaf hairs &plusmn; sessile, branches generally appressed; sepals generally glabrous
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK68'">68.</a><a name="MK68."> </a> Basal leaves with branched hairs 2-rayed only; petals white, occasionally pale lavender in age; pollen ellipsoid <a href="/cgi-bin/get_IJM.pl?tid=85455">.....&nbsp;B. stricta</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK68.">68'</a><a name="MK68'"> </a> Basal leaves with some 3&ndash;4-rayed hairs; petals purple to lavender (&plusmn; white); pollen spheric
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK69'">69.</a><a name="MK69."> </a> Fruit erect to ascending, generally appressed to inflorescence axis
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK70'">70.</a><a name="MK70."> </a> Cauline leaves 3&ndash;6; seeds 2.5&ndash;3.5 mm <a href="/cgi-bin/get_IJM.pl?tid=85472">.....&nbsp;B. elkoensis</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK70.">70'</a><a name="MK70'"> </a> Cauline leaves > 6; seeds 1.4&ndash;2 mm <a href="/cgi-bin/get_IJM.pl?tid=85459">.....&nbsp;B. pratincola</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK69.">69'</a><a name="MK69'"> </a> Fruit spreading-ascending to horizontal, not appressed to axis
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK71'">71.</a><a name="MK71."> </a> Cauline leaves generally > 10; fruit 1.7&ndash;2.5 mm wide; seeds 1.4&ndash;2 mm <a href="/cgi-bin/get_IJM.pl?tid=15785">.....&nbsp;B. divaricarpa</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK71.">71'</a><a name="MK71'"> </a> Cauline leaves generally &lt; 10; fruit 2.5&ndash;3.5 mm wide; seeds 2.5&ndash;3.2 mm <a href="/cgi-bin/get_IJM.pl?tid=85457">.....&nbsp;B. rigidissima</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MK67.">67'</a><a name="MK67'"> </a> Leaf hairs stalked, branches not appressed; sepals generally hairy
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK72'">72.</a><a name="MK72."> </a> Stem proximally with some simple hairs
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK73'">73.</a><a name="MK73."> </a> Fruit erect, appressed to inflorescence axis; ovules 24&ndash;40 <a href="/cgi-bin/get_IJM.pl?tid=85466">.....&nbsp;B. paupercula</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK73.">73'</a><a name="MK73'"> </a> Fruit ascending to horizontal, not appressed to inflorescence axis; ovules > 40
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK74'">74.</a><a name="MK74."> </a> Fruit pedicel hairs 2&ndash;4-rayed only
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MK75'">75.</a><a name="MK75."> </a> Fruit 1.2&ndash;1.5 mm wide, ovules 46&ndash;52; leaf surface hairs &lt; 0.3 mm <a href="/cgi-bin/get_IJM.pl?tid=85538">.....&nbsp;B. evadens</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MK75.">75'</a><a name="MK75'"> </a> Fruit 1.5&ndash;2.2 mm wide, ovules 80&ndash;250; leaf surface hairs >= 0.3 mm
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MK76'">76.</a><a name="MK76."> </a> Petals 9&ndash;14 mm, purple; fruit pedicel generally > 10 mm; pollen ellipsoid <a href="/cgi-bin/get_IJM.pl?tid=81867">.....&nbsp;B. arcuata</a> (2)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MK76.">76'</a><a name="MK76'"> </a> Petals 5&ndash;8 mm, lavender to &plusmn; white; fruit pedicel generally &lt; 10 mm; pollen spheric <a href="/cgi-bin/get_IJM.pl?tid=85456">.....&nbsp;B. pauciflora</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK74.">74'</a><a name="MK74'"> </a> Fruit pedicel glabrous or with simple, occasionally some 2-rayed hairs
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MK77'">77.</a><a name="MK77."> </a> Basal leaves generally &lt;= 3 mm wide; caudex woody, with crowded, persistent leaf bases <a href="/cgi-bin/get_IJM.pl?tid=91729">.....&nbsp;B. koehleri</a> (3)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MK77.">77'</a><a name="MK77'"> </a> Basal leaves generally > 3 mm wide; caudex woody or not, crowded-persistent leaf bases 0
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MK78'">78.</a><a name="MK78."> </a> Distal cauline leaves glabrous, occasionally ciliate; cauline leaf basal lobes generally > 3 mm; Northwestern California, Cascade Range, East of Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=81758">.....&nbsp;B. sparsiflora</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MK78.">78'</a><a name="MK78'"> </a> Distal cauline leaves hairy; cauline leaf basal lobes generally &lt; 3 mm; widespread
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#MK79'">79.</a><a name="MK79."> </a> Stem proximally with some 3 rayed, 0.1&ndash;0.5 mm hairs <a href="/cgi-bin/get_IJM.pl?tid=81761">.....&nbsp;B. rubicundula</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#MK79.">79'</a><a name="MK79'"> </a> Stem proximally with simple and 2-rayed hairs only (all simple), 0.4&ndash;1 mm <a href="/cgi-bin/get_IJM.pl?tid=81747">.....&nbsp;B. breweri</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#MK80'">80.</a><a name="MK80."> </a> Stem 0.6&ndash;2 dm; fruit pedicel generally &lt; 9 mm, hairy <a href="/cgi-bin/get_IJM.pl?tid=85519">.....&nbsp;subsp. breweri</a> (2)
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#MK80.">80'</a><a name="MK80'"> </a> Stem 1.8&ndash;4.5 dm; fruit pedicel generally > 9 mm, glabrous or hairs few, scattered <a href="/cgi-bin/get_IJM.pl?tid=90400">.....&nbsp;subsp. shastaensis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MK72.">72'</a><a name="MK72'"> </a> Stem proximally with branched hairs only
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK81'">81.</a><a name="MK81."> </a> Inflorescence 1-sided in fruit <a href="/cgi-bin/get_IJM.pl?tid=15795">.....&nbsp;B. lemmonii</a> (3)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MK81.">81'</a><a name="MK81'"> </a> Inflorescence not 1-sided in fruit
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK82'">82.</a><a name="MK82."> </a> Stem proximally with at least some 2&ndash;3-rayed hairs
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MK83'">83.</a><a name="MK83."> </a> Petals 8&ndash;10 mm; inflorescence 30&ndash;70-flowered; pollen ellipsoid; Channel Islands <a href="/cgi-bin/get_IJM.pl?tid=91728">.....&nbsp;B. hoffmannii</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MK83.">83'</a><a name="MK83'"> </a> Petals 4&ndash;7 mm; inflorescence 5&ndash;25-flowered; pollen spheric; mainland montane areas
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MK84'">84.</a><a name="MK84."> </a> Petals white or lavender; fruit &lt; 1.9 mm wide; Klamath Ranges <a href="/cgi-bin/get_IJM.pl?tid=81781">.....&nbsp;B. acutina</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MK84.">84'</a><a name="MK84'"> </a> Petals purple; fruit > 1.9 mm wide; San Bernardino Mountains, White and Inyo Mountains
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#MK85'">85.</a><a name="MK85."> </a> Inflorescence 12&ndash;25-flowered; stem proximally with hairs 0.4&ndash;0.6 mm only; seeds 1&ndash;1.5 mm; San Bernardino Mountains <a href="/cgi-bin/get_IJM.pl?tid=91275">.....&nbsp;B. peirsonii</a> (2)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#MK85.">85'</a><a name="MK85'"> </a> Inflorescence 5&ndash;8-flowered; stem proximally with hairs 0.05&ndash;0.2 mm only; seeds 2.5&ndash;3.5 mm; White and Inyo Mountains <a href="/cgi-bin/get_IJM.pl?tid=91730">.....&nbsp;B. pinzliae</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MK82.">82'</a><a name="MK82'"> </a> Stem proximally with 4&ndash;12-rayed hairs only
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MK86'">86.</a><a name="MK86."> </a> Petals 3&ndash;5 mm
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MK87'">87.</a><a name="MK87."> </a> Stems > 1.5 dm; fruit 4&ndash;6.2 cm; ovules 48&ndash;68 <a href="/cgi-bin/get_IJM.pl?tid=81759">.....&nbsp;B. bodiensis</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MK87.">87'</a><a name="MK87'"> </a> Stems generally &lt; 1.5 dm; fruit 1.7&ndash;4.5 cm; ovules 32&ndash;44 <a href="/cgi-bin/get_IJM.pl?tid=85473">.....&nbsp;B. depauperata</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MK86.">86'</a><a name="MK86'"> </a> Petals 5&ndash;9 mm
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MK88'">88.</a><a name="MK88."> </a> Style 1.5&ndash;2 mm; ovules 20&ndash;24 <a href="/cgi-bin/get_IJM.pl?tid=85540">.....&nbsp;B. serpenticola</a> (2)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MK88.">88'</a><a name="MK88'"> </a> Style &lt; 0.7 mm; ovules 74&ndash;190
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#MK89'">89.</a><a name="MK89."> </a> Petals 1.2&ndash;2 mm wide; surfaces of basal leaves with hairs 0.2&ndash;0.7 mm; seeds 1.7&ndash;2 mm; pollen spheric <a href="/cgi-bin/get_IJM.pl?tid=85471">.....&nbsp;B. inyoensis</a> (2)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#MK89.">89'</a><a name="MK89'"> </a> Petals 0.8&ndash;1.2 mm wide; surfaces of basal leaves with hairs 0.1&ndash;0.2 mm; seeds 1&ndash;1.3 mm; pollen ellipsoid <a href="/cgi-bin/get_IJM.pl?tid=81768">.....&nbsp;B. shockleyi</a> (2)</blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

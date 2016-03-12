@@ -1,0 +1,340 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<head>
+<title>California Seaweed eFlora: Front Page</title> 
+<meta name="keywords">
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css">
+</head>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript">
+function initialize() {
+  var myOptions = {
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  }
+
+  var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+
+var pmlLayer = new google.maps.KmlLayer("http://herbaria4.herb.berkeley.edu/swl.kml?33639", { });
+  pmlLayer.setMap(map);
+
+
+}
+
+function JumpToIt(list) {
+    var newPage = list.options[list.selectedIndex].value
+    if (newPage != "None") {
+        location=newPage
+    }
+}
+</script>
+
+<style type="text/css" media="screen">
+    #map_canvas {
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+      float: left;
+      width: 467px;
+      height: 445px;
+      padding: 10px;
+    }
+	.inat-widget {
+		font-family: Georgia, serif;
+		font-size: smaller;
+		padding: 10px;
+		line-height: 1;
+	}
+	.inat-widget a img {
+		border:none;
+	}
+
+</style>
+<body onLoad="initialize()">
+
+<!-- Begin banner -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/uc/"><img src="http://ucjeps.berkeley.edu/common/images/uclogo_250.png" alt="University Herbarium (UC)" width="100" height="100" border="0" /></a></td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The University Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/uc/" class="logoText">University&nbsp;Herbarium</a></td>
+    <td height="14" align="center"></td>
+    <td align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>
+  
+<!-- End banner -->
+
+<!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+            	<li><a href="http://ucjeps.berkeley.edu/images/">UC/JEPS Image Collection</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+<!-- End of horizontal menu -->
+
+<center>
+<p>
+       <span class="pageName"><font size="5">California Seaweeds: Our upcoming eFlora</font></span></p>
+<p>
+</p></center>
+
+
+
+
+<table align="center" width="100%">
+<tbody><tr>
+<!--<td align="center"><a href="/cgi-bin/get_moss_treatment.pl?taxon=Campylopus%20introflexus"><img border="1" src="Campylopus_introflexus.jpeg" alt="Campylopus introflexus" height="190"></a></td>
+<td ><a href="/cgi-bin/get_moss_treatment.pl?taxon=Bartramia%20ithyphylla"><img src="BartramiaIthyphylla.jpeg" alt="Bartramia ithyphlla" height="190"></a></td>-->
+<td align="center"><img src="http://ucjeps.berkeley.edu/common/images/pelagophycus.jpg" alt="Pelagophycus porra seaweed photograph" height="190"></td>
+<!--<td ><a href="/cgi-bin/get_moss_treatment.pl?taxon=Fontinalis%20hypnoides"><img src="Fontinalis_hypnoides.jpeg" alt="Fontinalis hypnoides, photo John C. Game" height="190"></a></td>
+<td ><a href="/cgi-bin/get_moss_treatment.pl?taxon=Hookeria%20lucens"><img src="Hookeria_lucens.jpeg" alt="Hookeria lucens" height="190"></a></td>-->
+</tr>
+<tr>
+<!--<td align="center"><em>Campylopus introflexus</em></td>
+<td aligh="center"><div align="center"><em>Bartramia ithyphylla</em> </div>
+  </div></td>-->
+<td aligh="center"><div align="center"><em>Pelagophycus porra</em>
+<br>Photo credit: Ron McPeak
+</div>
+  </div></td>
+<!--<td aligh="center"><div align="center"><em>Fontinalis hypnoides</em></div>
+  </div></td>
+<td aligh="center"><div align="center"><em>Hookeria lucens</em></div>
+  </div></td>-->
+</tr>
+</tbody></table>
+<table border="0">
+<tbody><tr>
+<td>
+  <p class="pageSubheading">
+  <a href="#plan">Our Plan</a><br>
+      <a href="#objectives">Key Objectives</a><br>
+      <a href="#history">History of UC and the Silva Center</a> </p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<table>
+<tr>
+    <td valign="top">
+    
+<h4 class="pageMajorHeading"><a id="plan"></a>Our Plan</h4> 
+<span class="bodyText">
+We are designing and will soon host our <em>California Seaweed eFlora</em>, a web-based update of Abbott &amp; Hollenberg (1976) <em>Marine Algae of California</em>. The website will include:
+<ul>
+<li>Current <strong>nomenclature</strong>, with references and links to the http://ucjeps.berkeley.edu/INA.html and http://ucjeps.berkeley.edu/INA.html</li>
+<li><strong>New taxa</strong>, with detailed information on <strong>non-native species</strong></li>
+<li>Complete <strong>synonymies</strong> to enable the interpretation of older literature and species lists</li>
+<li>Voucher-based range <strong>maps</strong></li>
+<li>Focus on <strong>field identification</strong>, with field photos, scans of specimens and illustrated key characters</li>
+<li>Information on whether a species can be confidently identified</li>
+<li>Notes on taxa that need <strong>new, critical study</strong></li>
+<li>Links to genetic data <strong>(DNA sequences)</strong> in GenBank</li>
+</ul>
+</span>
+<br><br>
+<center>	<table>
+    <tr>
+    <td><a href="https://ucjeps.cspace.berkeley.edu/ucjeps_project/public/publicsearch/?majorgroup=Algae&displayType=list&maxresults=1000"><img height="200px" src="http://ucjeps.berkeley.edu/common/images/UC651624thumb.jpg"></a><br><br>
+    <center><a href="https://ucjeps.cspace.berkeley.edu/ucjeps_project/public/publicsearch/?majorgroup=Algae&displayType=list&maxresults=1000">Portal to our <br>specimen database</a></center>
+    </td>
+    <td width="150px">
+    </td>
+    <td><a href="http://ucjeps.berkeley.edu/californiaseaweeds.html"><img height="200px" src="http://ucjeps.berkeley.edu/common/images/MAC.png"></a><br><br>
+    <center><a href="http://ucjeps.berkeley.edu/californiaseaweeds.html">Updates to <em>Marine <br>Algae of California</em></a></center>
+    </td>
+    </tr>
+    </table>
+   </center>
+     
+</td>
+<td valign="top" width="467px" style="padding-left:25px">
+<h4 class="pageMajorHeading">Type Localities of California Seaweeds</h4> 
+<div id="map_canvas" style="padding:25px"></div>
+
+<br>Click on markers for name and to link to the <em>Index Nominum Algarum</em>
+<br><a href="http://herbaria4.herb.berkeley.edu/SWL_map.html">View full map</a>
+</td>
+</tr>
+</table>
+<hr>
+<table>
+<tr>
+<td>
+<h4 class="pageMajorHeading"><a id="objectives"></a>Key Objectives</h4> 
+<span class="bodyText">
+
+<li><strong>Understanding the consequences of global climate change and anthropogenic alteration of the marine environment</strong> </li>
+
+<p>The California coastal environment has suffered from the consequences of rapid population growth: alteration or degradation as the result of development, pollution, overfishing, oil drilling, mariculture and global marine transportation.  Habitats for seaweeds, especially in southern California, are vastly different than they were 100 years ago. </p>
+<p>We know that biological consequences of global climate changes in the Pacific marine environment will be broad-reaching.  Species ranges will expand or contract, depending on physiological tolerances and capacities to adapt to new conditions.  Shifts in geographic ranges have proceeded more rapidly in marine vs. terrestrial systems, with a high potential for community-level changes. The majority of non-native seaweed species reported from California have been discovered in the last 40 years, suggesting a link between climate change and species spread, yet many of these are under the radar of managers and policy makers.</p>
+
+<li><strong>Updating taxonomic concepts and biogeography</strong> </li>
+
+<p>Our understanding of the California's seaweed flora has changed dramatically since the publication of Marine Algae of California (1976). New collections and new techniques, including culture studies, electron microscopy and DNA sequencing, have contributed to a revolution in algal taxonomy during the last three decades.</p>
+<p>Since 1976, 105 taxa have been added to the flora and 300 names have changed.  Many taxonomic problems at the genus and species level need to be acknowledged and solved; strategic molecular investigations are critical.  Our most common species can be the most difficult to identify with confidence; new field and lab characters, with detailed illustrations, are required as aids.  Geographic range data must be updated based on comparisons of historical and recent collections. </p>
+
+<li><strong>Fostering education</strong> </li>
+<p>There is a pressing need for assistance in identifying California seaweeds.  Only a handful of specialists focus on the Pacific coast flora.  Fewer courses that include seaweed identification are available as faculty compositions change in our colleges and universities.  Seaweed courses at marine labs are languishing.  Educators at all levels as well as dedicated amateurs and coastal managers need a reliable, well-illustrated and accessible reference for identifying, understanding and appreciating our seaweed flora. </p>
+</span>
+<hr>
+<h4 class="pageMajorHeading"><a id="history"></a>History of the University Herbarium and the Silva Center for Phycological Documentation</h4> 
+<span class="bodyText">
+<img src="http://ucjeps.berkeley.edu/common/images/setchell.gif" alt="photo of W.A. Setchell in a library" height="200px" style="float:right; padding-left:20px">
+<p>UC has emphasized marine algae from its inception, primarily due to the interests of its founder, W.A. Setchell, who specialized in several groups of seaweeds and in marine biogeography.  As a result of Setchell's efforts and those of his successors, G.F. Papenfuss and P.C. Silva, UC's seaweed collection is exemplary.  Over the years, it has developed an emphasis on Pacific Coast algae, beginning with Setchell's unrealized goal of producing a seaweed flora of the Pacific Coast.</p>
+<p>When Setchell arrived in 1895, he inherited a small collection of seaweeds collected by Marshall Avery Howe from Monterey Bay. Setchell collected extensively with the help of amateurs and the collections grew in size and geographic scope.  Setchell procured a large number of type specimens and established contacts worldwide.  His students, including Nathaniel Lyon Gardner, became well known phycologists.  One of Setchell's earliest accomplishments was the <em>Phycotheca Boreali-Americana</em>, the Algae of North America.  This 46 volume set of exsiccatae, including many type specimens, was distributed in 80 sets to major institutions and represents one of the most important historical collections in North America (<a href="http://ucjeps.berkeley.edu/ina/pba/pba_main.html">http://ucjeps.berkeley.edu/ina/pba/pba_main.html</a>).</p>
+<p>George F. Papenfuss succeeded Setchell as Curator of Algae and brought with him extensive collections from South Africa and Hawaii. He added collections from east Africa resulting from an expedition funded by the National Science Foundation in the 1960's. Papenfuss supervised 14 dissertations on the morphology and taxonomy of marine algae, maintaining UC's eminence in phycology. Paul C. Silva came to Berkeley in 1948 as a graduate student and returned as Curator of Algae in 1960. He collected extensively on the Pacific coast of North America.</p>
+<p>UC has ~180,000 seaweed specimens with ~50,000 from California.  The collections represent voucher material for regionally and internationally important studies and include approximately 2000 type specimens.  With the recent addition of 40,000 specimens from the Los Angeles County Museum (including those formerly housed at the Allan Hancock Foundation) plus many gifts from orphaned collections, our holdings of California seaweeds are extraordinary.</p>
+<img src="http://ucjeps.berkeley.edu/common/images/PCS.jpg" alt="bust photograph of Paul Silva" height="200px" style="float:right; padding-left:20px">
+<p>The <a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological Documentation</a> was established in 2004 with a generous endowment gift from Paul C. Silva, Curator Emeritus of Algae.  The primary mission of the Center is to develop, maintain, and promulgate documentation in the field of algal systematics.  Its heart is the Index Nominum Algarum (INA) and Bibliographia Phycologica Universalis (BPU), card files available in electronic formats (<a href="http://ucjeps.berkeley.edu/INA.html">http://ucjeps.berkeley.edu/INA.html</a>).  The INA contains nearly 200,000 names of algae (in the broad sense); the BPU contains bibliographic references pertaining to algal taxonomy.</p>
+</span></td></tr></tbody></table>
+
+<!-- Begin footer --> 
+<table width="100%" border="0" cellpadding="0" cellspacing="0" id="footer">
+  <tr>
+    <td height="18" class="banner"><img src="/common/images/common_spacer.gif" 
+		  alt="" width="1" height="1" border="0" /></td>
+    <td height="18" class="banner"><img src="/common/images/common_spacer.gif" 
+		  alt="" width="1" height="1" border="0" /></td>
+  </tr>
+
+  <tr>
+    <td height="20" width="50%" valign="top"><!--<span class="copyrightText">-->&nbsp;&nbsp;
+		  <a href="http://ucjeps.berkeley.edu/main/copyright.html">Copyright</a> 
+			&copy; 2016 Regents of the University of California 
+            <br /> &nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/termsofuse.html">Terms of Use</a> &mdash;  Page last updated December 15, 2014
+    <!--</span>--></td>
+    <td valign="top"><a class="normalLink" href="http://ucjeps.berkeley.edu/main/directory.html">Contact Us</a>
+    <br />(510) 642-2465
+    <br />University of California, Berkeley
+    <br />University and Jepson Herbaria
+    <br />1001 Valley Life Sciences Building #2465
+    <br />Berkeley, CA 94720-2465
+    <br />USA
+    
+    </td>
+    
+
+  </tr>
+
+</table>
+<!-- End footer -->
+</body></html>
+

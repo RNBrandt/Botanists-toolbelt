@@ -1,0 +1,278 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Ambrosia</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Ambrosia
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=803">Ambrosia acanthicarpa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=804">Ambrosia ambrosioides
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=805">Ambrosia artemisiifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=812">Ambrosia chamissonis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=814">Ambrosia chenopodiifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=815">Ambrosia confertiflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=823">Ambrosia dumosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=824">Ambrosia eriocentra
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=828">Ambrosia ilicifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80421">Ambrosia monogyra
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12969">Ambrosia psilostachya
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=832">Ambrosia pumila
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80422">Ambrosia salsola
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80425">Ambrosia salsola var. pentalepis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80424">Ambrosia salsola var. salsola
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=835">Ambrosia trifida
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=306'><h3>View taxon page for Ambrosia</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#EU1'">1.</a><a name="EU1."> </a> Leaf blade linear to thread-like or lobes thread-like; free palea tips of bur becoming flat, membranous, wings
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#EU2'">2.</a><a name="EU2."> </a> Wings of bur 0.5&ndash;2 mm wide
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#EU3'">3.</a><a name="EU3."> </a> Wings of bur in 1 whorl, &plusmn; acute to widely obtuse; leaves lobed or generally entire, abaxially generally glabrous; flowers fall <a href="/cgi-bin/get_IJM.pl?tid=80421">.....&nbsp;A. monogyra</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#EU3.">3'</a><a name="EU3'"> </a> Wings of bur spiraled, spine-tipped; leaves generally lobed, abaxially strigose; flowers spring <a href="/cgi-bin/get_IJM.pl?tid=93859">.....&nbsp;[A. &times;platyspina]</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#EU2.">2'</a><a name="EU2'"> </a> Wings of bur 2.5&ndash;8 mm wide &mdash; flowers in spring <a href="/cgi-bin/get_IJM.pl?tid=80422">.....&nbsp;A. salsola</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#EU4'">4.</a><a name="EU4."> </a> Wings generally 5&ndash;9, generally 2.5&ndash;4 mm, 2.5&ndash;5 mm wide, spreading from bur body in &plusmn; 1 central whorl-like spiral; pistillate head phyllary generally 1, obovate, transparent <a href="/cgi-bin/get_IJM.pl?tid=80425">.....&nbsp;var. pentalepis</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#EU4.">4'</a><a name="EU4'"> </a> Wings generally 10&ndash;13, generally 3.5&ndash;5.5 mm, 3.5&ndash;6.5(8) mm wide, spiraled around bur body, spreading or ascending and enwrapping bur; pistillate head phyllaries generally several, ovate, green or transparent, &plusmn; hairy <a href="/cgi-bin/get_IJM.pl?tid=80424">.....&nbsp;var. salsola</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#EU1.">1'</a><a name="EU1'"> </a> Leaf blade linear to round, variously toothed or lobed; free palea tips of burs knob-like or spiny, or not evident
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#EU5'">5.</a><a name="EU5."> </a> Shrub &mdash; stems persisting 2+ seasons
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#EU6'">6.</a><a name="EU6."> </a> Bur spines straight, flat or round in &times;-section
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#EU7'">7.</a><a name="EU7."> </a> Leaf blade 1&ndash;3 &times; pinnately lobed or divided; bur puberulent <a href="/cgi-bin/get_IJM.pl?tid=823">.....&nbsp;A. dumosa</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#EU7.">7'</a><a name="EU7'"> </a> Leaf blade coarsely toothed or pinnately lobed; bur densely long-soft-hairy <a href="/cgi-bin/get_IJM.pl?tid=824">.....&nbsp;A. eriocentra</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#EU6.">6'</a><a name="EU6'"> </a> Bur spines hooked, round in &times;-section
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#EU8'">8.</a><a name="EU8."> </a> Cauline leaves sessile, &plusmn; clasping, spine-tipped and spiny-dentate <a href="/cgi-bin/get_IJM.pl?tid=828">.....&nbsp;A. ilicifolia</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#EU8.">8'</a><a name="EU8'"> </a> Cauline leaves petioled, generally toothed or lobed but not spiny
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#EU9'">9.</a><a name="EU9."> </a> Leaf blades lance-triangular, (3)5&ndash;20 cm; bur ellipsoid, body finely glandular <a href="/cgi-bin/get_IJM.pl?tid=804">.....&nbsp;A. ambrosioides</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#EU9.">9'</a><a name="EU9'"> </a> Leaf blades &plusmn; ovate, 1&ndash;3 cm; bur &plusmn; spheric, body densely woolly <a href="/cgi-bin/get_IJM.pl?tid=814">.....&nbsp;A. chenopodiifolia</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#EU5.">5'</a><a name="EU5'"> </a> Annual or perennial herb
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#EU10'">10.</a><a name="EU10."> </a> Annual from slender taproot
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#EU11'">11.</a><a name="EU11."> </a> Leaf blade unlobed or palmately 3&ndash;5-lobed <a href="/cgi-bin/get_IJM.pl?tid=835">.....&nbsp;[A. trifida]</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#EU11.">11'</a><a name="EU11'"> </a> Leaf blade 1&ndash;4 &times; pinnately lobed or divided
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#EU12'">12.</a><a name="EU12."> </a> Bur spines 0&ndash;30, spiraled, sharply pointed; distal staminate phyllary tips &plusmn; black-lined <a href="/cgi-bin/get_IJM.pl?tid=803">.....&nbsp;A. acanthicarpa</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#EU12.">12'</a><a name="EU12'"> </a> Bur spines 4&ndash;12, in &plusmn; 1 whorl below beak, generally blunt; staminate phyllary tips uniformly green <a href="/cgi-bin/get_IJM.pl?tid=805">.....&nbsp;A. artemisiifolia</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#EU10.">10'</a><a name="EU10'"> </a> Perennial herb from rhizome-like roots or taprooted caudex
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#EU13'">13.</a><a name="EU13."> </a> Bur spines many, spiraled
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#EU14'">14.</a><a name="EU14."> </a> Stems forming mat on coastal dunes; bur 5&ndash;10 mm; spines straight <a href="/cgi-bin/get_IJM.pl?tid=812">.....&nbsp;A. chamissonis</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#EU14.">14'</a><a name="EU14'"> </a> Stems erect; bur 2&ndash;5 mm; spines hooked <a href="/cgi-bin/get_IJM.pl?tid=815">.....&nbsp;A. confertiflora</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#EU13.">13'</a><a name="EU13'"> </a> Bur spines 0&ndash;few, generally on distal 1/2
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#EU15'">15.</a><a name="EU15."> </a> Leaf coarsely toothed or generally 1&ndash;2 &times; pinnately lobed or divided; plant generally 3&ndash;20 dm <a href="/cgi-bin/get_IJM.pl?tid=12969">.....&nbsp;A. psilostachya</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#EU15.">15'</a><a name="EU15'"> </a> Leaf 2&ndash;4-pinnately divided into many minute segments; plant generally 1&ndash;3.5 dm <a href="/cgi-bin/get_IJM.pl?tid=832">.....&nbsp;A. pumila</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

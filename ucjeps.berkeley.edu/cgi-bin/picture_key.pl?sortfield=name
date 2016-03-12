@@ -1,0 +1,538 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>PRNS QUILT</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/style_main_tjm2.css" rel="stylesheet" type="text/css" />
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.thumbnail {
+        background: #000;
+        width: 265px;
+        height: 265px;
+        line-height: 265px;
+        text-align: center;
+}
+
+.thumbnail::after {
+        content: ".";
+    visibility: hidden;
+}
+
+.thumbnail img {
+        vertical-align: middle;
+}
+
+</style>
+
+
+</head><body>
+
+
+<!-- Begin banner -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/uc/"><img src="http://ucjeps.berkeley.edu/common/images/uclogo_250.png" alt="University Herbarium (UC)" width="100" height="100" border="0" /></a></td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The University and Jepson Herbaria</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/uc/" class="logoText">University&nbsp;Herbarium</a></td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>
+<!-- End banner -->
+
+<!-- Begin horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora/">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <!--<li><a href="#">Friends of the Jepson Herbarium</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+<!-- End horizontal menu -->
+
+<div style=text-align:center>
+<a href="http://ucjeps.berkeley.edu/CPD/algal_research.html"><H3>Silva Center for Phycological Documentation, UC Berkeley</H3></a>
+</div>
+<P>
+  
+<table bgcolor="black" style="border-collapse: collapse">
+<tr><th><h3><font color="#58A9DA">Common Seaweeds<br>of Point Reyes<br>National Seashore</font></h3></th><td colspan=4><img src=http://herbaria4.herb.berkeley.edu/SW_images/PR_Scene.jpg></td></tr>
+<tr bgcolor=white><td colspan=5><font color="black">
+<br>
+<b>You can sort these photos in three ways to help you identify what you see:</b>
+<br>
+<b>Name:</b>  The scientific name consists of a genus and species.
+<br>
+<b>Tide level:</b> High: Near the top of the intertidal zone that is exposed except at the highest tides; Middle: The broad swath exposed by most low tides; Low: Exposed only at low tide. 
+<br>
+<b>Color:</b> Arranged by their color in the field, from golden > green > brown > red > pink.
+<form action="/cgi-bin/picture_key.pl">
+<select name="sortfield">
+Sort images by:
+<option value = name SELECTED>Name <option value = level>Tide level <option value = color>Color
+</select>
+<input type=submit name=sort_submit value="Sort">
+</form>
+</font>
+Hover on the photo for brief description.  Click for more photos and information from the UC Berkeley Herbarium. 
+</td></tr>
+<tr>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Clusters of cartilaginous, dichotomous branches, often with conspicuous bumps; growing on rock, often emerging from sand" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Ahnfeltiopsis_linearis_PtReyes.jpg&name=Ahnfeltiopsis linearis"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Ahnfeltiopsis_linearis_PtReyes.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Ahnfeltiopsis linearis</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Long thick blade with conspicuous flat midrib; smaller lateral blades at base of mature blades; hanging from rocks or in patches" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Alaria_marginata_1_PtBon_RLM.jpg&name=Alaria marginata"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Alaria_marginata_1_PtBon_RLM.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Alaria marginata</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Golden branches with short often hollow cylindrical lateral branches (&ldquo;bottle brush&rdquo;) arising from a rough golden crust; lateral branch diameter variable, from fine to thick; growing in patches" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Analipus_BP_1000.jpg&name=Analipus japonicus"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Analipus_BP_1000.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Analipus japonicus</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Dark red hairlike filaments; often dried on rock" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Bangia_PtBon_RLM.jpg&name=Bangia"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Bangia_PtBon_RLM.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Bangia</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Patches of tiny green tubes or blades; growing in upper intertidal spray zone" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Blidingia_minima_PTReyes.jpg&name=Blidingia minima"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Blidingia_minima_PTReyes.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Blidingia minima</i></td></tr>
+</table>
+</td>
+</tr>
+<tr><td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Pink hard rectangular segments with fan-shaped, often white, tips; in pools and channels" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Calliarthron_PtReyes.jpg&name=Calliarthron tuberculosum"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Calliarthron_PtReyes.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Calliarthron tuberculosum</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Dark brownish soft wooly branches; growing on rock and other seaweeds" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Callithamnion_pikeanum_3_PtA.jpg&name=Callithamnion pikeanum"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Callithamnion_pikeanum_3_PtA.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Callithamnion pikeanum</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Patches of narrow brownish red flattened branches with sharply pointed lateral branches; growing on rock" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Chondracanthus_canaliculata_BP.jpg&name=Chondracanthus canaliculatus"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Chondracanthus_canaliculata_BP.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Chondracanthus canaliculatus</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Grass green spongy cushions composed of fine branched filaments; on rock and in shallow pools" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Cladophora_columbiana_PtReyes.jpg&name=Cladophora columbiana"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Cladophora_columbiana_PtReyes.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Cladophora columbiana</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Dark blackish green cylindrical branches, dichotomously branched; on rock or in pools" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Codium_fragile_1_PtReyes.jpg&name=Codium fragile subsp. californicum"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Codium_fragile_1_PtReyes.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Codium fragile subsp. californicum</i></td></tr>
+</table>
+</td>
+</tr>
+<tr><td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Dark green, firm, slippery, folded cushions; on rock, often associated with sand" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Codium_setchellii_PtReyes.jpg&name=Codium setchellii"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Codium_setchellii_PtReyes.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Codium setchellii</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Golden irregularly wrinkled, hollow sacs; texture is crisp, not juicy; growing on rock or other seaweeds" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Colpomenia_bullosa_PtBon_1.jpg&name=Colpomenia bullosa"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Colpomenia_bullosa_PtBon_1.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Colpomenia bullosa</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Dark red cups, often split, on short stipes; in deeper water and low intertidal" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Constantinea_topside_BP.jpg&name=Constantinea simplex"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Constantinea_topside_BP.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Constantinea simplex</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Pink to grey hard cylindrical tiny segments linked together in fan or brushlike axes; in pools and channels" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Corallina_vancouveriensis_1_PtA.jpg&name=Corallina vancouveriensis"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Corallina_vancouveriensis_1_PtA.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Corallina vancouveriensis</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Clusters of red to red-orange translucent blades with ruffled margins; on rock and mussels" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Cryptopleura_lobulifera_1_SR.jpg&name=Cryptopleura lobulifera"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Cryptopleura_lobulifera_1_SR.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Cryptopleura lobulifera</i></td></tr>
+</table>
+</td>
+</tr>
+<tr><td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Flat red or rosy translucent blades with densely ruffled margins; conspicuous veins near base; on rock in pools and channels" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Cryptopleura_ruprechtiana_PtReyes.jpg&name=Cryptopleura ruprechtiana"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Cryptopleura_ruprechtiana_PtReyes.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Cryptopleura ruprechtiana</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Clusters of blackish brown cylindrical branches with pointed tips; each branch very narrow at base; growing on rock" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Cryptosiphonia_woodii_SMC.jpg&name=Cryptosiphonia woodii"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Cryptosiphonia_woodii_SMC.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Cryptosiphonia woodii</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Soft rubbery maroon tubes with branches; on vertical rock surfaces, very high" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Cumagloia_andersonii_SMC.jpg&name=Cumagloia andersonii"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Cumagloia_andersonii_SMC.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Cumagloia andersonii</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Clusters of thick maroon blades, often sickle-shaped; growing on rock" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Dilsea_californica_1_PtA.jpg&name=Dilsea californica"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Dilsea_californica_1_PtA.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Dilsea californica</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Large golden brown straps fringed with lateral branches; growing in surge channels or hanging from rocks" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Egregia_PtReyes.jpg&name=Egregia menziesii"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Egregia_PtReyes.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Egregia menziesii</i></td></tr>
+</table>
+</td>
+</tr>
+<tr><td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Thick tufts of tiny brown branches, each with pointed spines; &ldquo;brillo pad&rdquo;; growing on rock and mussels" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Endocladia_PtReyes.jpg&name=Endocladia muricata"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Endocladia_PtReyes.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Endocladia muricata</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Red to orange-red flat blades with conspicuous midrib; &ldquo;red feathers&rdquo;; growing in pools and channels" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Erythrophyllum_delesserioides_BH.jpg&name=Erythrophyllum delesserioides"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Erythrophyllum_delesserioides_BH.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Erythrophyllum delesserioides</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Clusters of red to orange-red blades with thickened middle region and irregular margins; growing on rock and in pools" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Farlowia_compressa_2_BP.jpg&name=Farlowia compressa"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Farlowia_compressa_2_BP.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Farlowia compressa</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Dark red to orange-red narrow blades with squared off tips; growing on rock and in pools" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Farlowia_mollis_1_SMC.jpg&name=Farlowia mollis"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Farlowia_mollis_1_SMC.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Farlowia mollis</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Greenish-olive flat branches with dichotomous, swollen tips; often growing with Silvetia" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Fucus_distichus_PtReyes.jpg&name=Fucus distichus"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Fucus_distichus_PtReyes.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Fucus distichus</i></td></tr>
+</table>
+</td>
+</tr>
+<tr><td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Clusters of tiny dark red branches, each with tiny lateral branches that grow out and up, like an elbow; growing on rock" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Gelidium_coulteri_habit_FAR.jpg&name=Gelidium coulteri"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Gelidium_coulteri_habit_FAR.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Gelidium coulteri</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Reddish to yellowish elongate sacs filled with seawater; growing on rock on flats or in shallow pools" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Halosaccion_glandiforme_dry_Bol_PtReyes.jpg&name=Halosaccion glandiforme"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Halosaccion_glandiforme_dry_Bol_PtReyes.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Halosaccion glandiforme</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Clusters of red-orange, flat translucent blades with veins; growing in pools and channels" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Hymenena_flabelligera_2_PtA.jpg&name=Hymenena flabelligera"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Hymenena_flabelligera_2_PtA.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Hymenena flabelligera</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Large palmately divided blade on long stiff stipe; hanging from rocks in areas exposed to surf; can form extensive stands" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Laminaria_setchellii_PtBon_RLM.jpg&name=Laminaria setchellii"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Laminaria_setchellii_PtBon_RLM.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Laminaria setchellii</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Narrow blades with long stipes, growing from common holdfast; in patches, often associated with sand" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Laminaria_sinclairii_PtReyes.jpg&name=Laminaria sinclairii"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Laminaria_sinclairii_PtReyes.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Laminaria sinclairii</i></td></tr>
+</table>
+</td>
+</tr>
+<tr><td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Golden globular cushions; soft and juicy; growing on other seaweeds" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Leathesia_marina_PtBonita.jpg&name=Leathesia marina"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Leathesia_marina_PtBonita.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Leathesia marina</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Clusters of dark blackish-brownish blades, narrow or wide, covered with many rough bumps on the upper surface (&ldquo;cat's tongue&rdquo;); also forms extensive thick maroon crust on rock; growing on rock" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Mastocarpus_blade_crust_1_PB.jpg&name=Mastocarpus"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Mastocarpus_blade_crust_1_PB.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Mastocarpus</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Clusters of greenish rubbery blades, often with embedded bumps containing spores; growing on horizontal or vertical rock" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Mazzaella_flaccida_PtReyes.jpg&name=Mazzaella flaccida"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Mazzaella_flaccida_PtReyes.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Mazzaella flaccida</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Clusters of brownish rubbery blades, sometimes with embedded bumps of various sizes; growing on rock" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Mazzaella_oregona_2_PtA.jpg&name=Mazzaella oregona"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Mazzaella_oregona_2_PtA.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Mazzaella oregona</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Clusters of maroon, often iridescent, rubbery blades; growing on rock, in pools and channels" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Mazzaella_splendens_PtReyes.jpg&name=Mazzaella splendens"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Mazzaella_splendens_PtReyes.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Mazzaella splendens</i></td></tr>
+</table>
+</td>
+</tr>
+<tr><td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Clusters of brownish-red branches curved at the tips; growing on rock" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Microcladia_borealis_PtA.jpg&name=Microcladia borealis"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Microcladia_borealis_PtA.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Microcladia borealis</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Patches of greenish to brownish branches with hollow, swollen juicy tips; growing on rock" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Neogastroclonium_subarticulatum_close_PtReyes_RLM.jpg&name=Neogastroclonium subarticulatum"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Neogastroclonium_subarticulatum_close_PtReyes_RLM.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Neogastroclonium subarticulatum</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Patches, often extensive, of blackish branches; young branches are radially branched, older are tight and twisted; growing on horizontal rock" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Neorhodomela_larix_PtReyes.jpg&name=Neorhodomela larix"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Neorhodomela_larix_PtReyes.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Neorhodomela larix</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Long golden brown stipe with bulb, with many long flat blades, at one end; often in drift or bobbing offshore; grows in subtidal forests offshore; juveniles sometimes in low pools" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Nereocystis_SMC.jpg&name=Nereocystis luetkeana"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Nereocystis_SMC.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Nereocystis luetkeana</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Clusters of fine brownish branches, with tufts of short pointed branches; growing on rock" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Odonthalia_floccosa_PtA.jpg&name=Odonthalia floccosa"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Odonthalia_floccosa_PtA.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Odonthalia floccosa</i></td></tr>
+</table>
+</td>
+</tr>
+<tr><td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Clusters of flattened reddish branches with lobed margins; growing on rock" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Osmundea_spectabilis_2_PtReyes.jpg&name=Osmundea spectabilis"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Osmundea_spectabilis_2_PtReyes.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Osmundea spectabilis</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Clusters of olive short, narrow, flattened branches with yellowish swollen tips; often the highest rockweed, but may occur with Fucus and Silvetia" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Pelvetiopsis_1_SMC.jpg&name=Pelvetiopsis limitata"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Pelvetiopsis_1_SMC.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Pelvetiopsis limitata</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Dark brown wrinkled/folded soft cushions, sometimes extensive; growing on vertical faces of shaded rocks" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Petrospongium_rugosum_PtReyes.jpg&name=Petrospongium rugosum"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Petrospongium_rugosum_PtReyes.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Petrospongium rugosum</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Clusters of maroon or red flat tough blades with many lateral blades; growing in pools and channels" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Prionitis_lanceolata_1_PtA.jpg&name=Prionitis lanceolata"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Prionitis_lanceolata_1_PtA.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Prionitis lanceolata</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Clusters of red slippery blades, often with short lateral blades; growing in deeper pools and channels" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Prionitis_sternbergii_ALC.jpg&name=Prionitis sternbergii"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Prionitis_sternbergii_ALC.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Prionitis sternbergii</i></td></tr>
+</table>
+</td>
+</tr>
+<tr><td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Tufts of greenish-brownish thin, translucent sheets that are stretchy when wet; growing on rock; sometimes dried and crispy" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Pyropia_perforata_PtA.jpg&name=Pyropia perforata"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Pyropia_perforata_PtA.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Pyropia perforata</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Clusters of red cylindrical branches, with many cylindrical pointed branches; succulent texture; growing on rock" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Sarcodiotheca_gaudichaudii_PtBon_RLM.jpg&name=Sarcodiotheca gaudichaudii"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Sarcodiotheca_gaudichaudii_PtBon_RLM.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Sarcodiotheca gaudichaudii</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Dark brown branches with small leaf-like branches and tiny round floats; growing in pools; often associated with sand" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Sargassum_muticum_habit.jpg&name=Sargassum muticum"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Sargassum_muticum_habit.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Sargassum muticum</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Olive to yellowish long, narrow branches, slightly compressed, with long swollen tips; often found with Fucus" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Silvetia_compressa_PtReyes.jpg&name=Silvetia compressa"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Silvetia_compressa_PtReyes.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Silvetia compressa</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Small dark red translucent blades growing from tiny cushions on surf grass; growing on surf grass" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Smithora_naiadum_CASE.jpg&name=Smithora naiadum"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Smithora_naiadum_CASE.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Smithora naiadum</i></td></tr>
+</table>
+</td>
+</tr>
+<tr><td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Large zig-zag flattened axes at base, with lacy branched axes and branches with peas-in-a-pod floats; in deeper water and low intertidal" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Stephanocystis_osmundacea_CAM.jpg&name=Stephanocystis osmundacea"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Stephanocystis_osmundacea_CAM.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Stephanocystis osmundacea</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Grass green rosettes of thin translucent sheets; on rock, shells" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Ulva_californica_1_PtA.jpg&name=Ulva californica"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Ulva_californica_1_PtA.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Ulva californica</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Long grass green translucent blades with narrow bases; on rock, other seaweeds, mussels" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Ulva_linza_1_PtReyes.jpg&name=Ulva linza"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Ulva_linza_1_PtReyes.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Ulva linza</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Grass green translucent sheets with broad bases; on rock, in pools" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Ulva_lobata_1_PtA.jpg&name=Ulva lobata"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Ulva_lobata_1_PtA.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Ulva lobata</i></td></tr>
+</table>
+</td>
+<td style="text-align:center; vertical-align:bottom; max-width:265px; min-width:265px; max-height:265px; min-height:265px; width:265px; height:265px;">
+<table style=" width:100%; height:100%; text-align:center; vertical-align:middle; z-index: 9999; border-collapse: collapse">
+<tr><td class="thumbnail" title ="Deep green hairlike filaments; usually dried to rock" style="vertical-align:bottom" bgcolor=Black ><a href="/cgi-bin/picture_BU.pl?image=Urospora_PtReyes.jpg&name=Urospora"><img src="http://herbaria4.herb.berkeley.edu/SW_images/Urospora_PtReyes.jpg"></a></td></tr>
+<tr><td bgcolor=white><i>Urospora</i></td></tr>
+</table>
+</td>
+</tr>
+<tr></table>Acknowledgments:
+<br>
+Kathy Ann Miller surveyed seaweeds at Point Reyes in 2014, took most of the photos and provided text and annotations.  She thanks Richard Moe for working with her to design this website and Richard Moe and Bob Case for contributing photos.  
+<br>
+Contact: kathyannmiller  at berkeley.edu
+</body></html>

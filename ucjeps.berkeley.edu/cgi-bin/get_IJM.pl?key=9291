@@ -1,0 +1,980 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Astragalus</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Astragalus
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54612">Astragalus accidens var. hendersonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14661">Astragalus acutirostris
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14667">Astragalus agnicidus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14668">Astragalus agrestis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14672">Astragalus albens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54615">Astragalus allochrous var. playanus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14686">Astragalus andersonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15132">Astragalus anxius
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54626">Astragalus argophyllus var. argophyllus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14696">Astragalus aridus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14702">Astragalus asymmetricus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54636">Astragalus atratus var. mensanus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14707">Astragalus austiniae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14719">Astragalus bernardinus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14721">Astragalus bicristatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14728">Astragalus bolanderi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14731">Astragalus brauntonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14733">Astragalus breweri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14734">Astragalus californicus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54654">Astragalus calycosus var. calycosus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54658">Astragalus canadensis var. brevidens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14744">Astragalus casei
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14756">Astragalus cicer
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14757">Astragalus cimae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54670">Astragalus cimae var. cimae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54671">Astragalus cimae var. sufflatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14758">Astragalus claranus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14759">Astragalus clevelandii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14761">Astragalus coccineus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14767">Astragalus congdonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14781">Astragalus crotalariae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14782">Astragalus curtipes
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54696">Astragalus curvicarpus var. curvicarpus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14789">Astragalus deanei
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14800">Astragalus didymocarpus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54711">Astragalus didymocarpus var. didymocarpus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54713">Astragalus didymocarpus var. dispermus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54714">Astragalus didymocarpus var. milesianus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54715">Astragalus didymocarpus var. obispoensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14806">Astragalus douglasii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54719">Astragalus douglasii var. douglasii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54721">Astragalus douglasii var. parishii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54722">Astragalus douglasii var. perstrictus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14821">Astragalus ertterae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14830">Astragalus filipes
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14839">Astragalus funereus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14840">Astragalus gambelianus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54745">Astragalus geyeri var. geyeri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14843">Astragalus gibbsii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14846">Astragalus gilmanii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=77434">Astragalus hornii var. hornii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54761">Astragalus insularis var. harwoodii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14871">Astragalus inversus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14872">Astragalus inyoensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14873">Astragalus iodanthus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54762">Astragalus iodanthus var. diaphanoides
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54764">Astragalus iodanthus var. iodanthus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14876">Astragalus jaegerianus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14878">Astragalus johannis-howellii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14879">Astragalus kentrophyta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54769">Astragalus kentrophyta var. danaus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54771">Astragalus kentrophyta var. elatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54775">Astragalus kentrophyta var. tegetarius
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54777">Astragalus kentrophyta var. ungulatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14886">Astragalus layneae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14888">Astragalus lemmonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14889">Astragalus lentiformis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14890">Astragalus lentiginosus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54778">Astragalus lentiginosus var. albifolius
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54780">Astragalus lentiginosus var. antonius
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54782">Astragalus lentiginosus var. borreganus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54784">Astragalus lentiginosus var. chartaceus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54786">Astragalus lentiginosus var. coachellae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54792">Astragalus lentiginosus var. floribundus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54793">Astragalus lentiginosus var. fremontii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54795">Astragalus lentiginosus var. idriensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54796">Astragalus lentiginosus var. ineptus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54798">Astragalus lentiginosus var. kernensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54801">Astragalus lentiginosus var. lentiginosus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54804">Astragalus lentiginosus var. micans
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54805">Astragalus lentiginosus var. nigricalycis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54809">Astragalus lentiginosus var. piscinensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54811">Astragalus lentiginosus var. salinus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54816">Astragalus lentiginosus var. semotus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54817">Astragalus lentiginosus var. sesquimetralis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54818">Astragalus lentiginosus var. sierrae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54820">Astragalus lentiginosus var. variabilis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14905">Astragalus leucolobus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14915">Astragalus macrodon
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54832">Astragalus magdalenae var. peirsonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14919">Astragalus malacus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14925">Astragalus miguelensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54837">Astragalus minthorniae var. villosus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14934">Astragalus mohavensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54853">Astragalus mohavensis var. hemigyrus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54854">Astragalus mohavensis var. mohavensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14943">Astragalus monoensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14953">Astragalus nevinii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54871">Astragalus newberryi var. newberryi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14959">Astragalus nutans
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14962">Astragalus nuttallianus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54872">Astragalus nuttallianus var. austrinus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54873">Astragalus nuttallianus var. cedrosensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54874">Astragalus nuttallianus var. imperfectus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14964">Astragalus nuttallii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54881">Astragalus nuttallii var. nuttallii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54882">Astragalus nuttallii var. virgatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14969">Astragalus obscurus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14972">Astragalus oocarpus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14973">Astragalus oophorus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54885">Astragalus oophorus var. lavinii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54887">Astragalus oophorus var. oophorus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14976">Astragalus oxyphysus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14977">Astragalus pachypus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54888">Astragalus pachypus var. jaegeri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54889">Astragalus pachypus var. pachypus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14978">Astragalus palmeri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14980">Astragalus panamintensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14984">Astragalus pauperculus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=14999">Astragalus platytropis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15003">Astragalus pomonensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15007">Astragalus preussii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54898">Astragalus preussii var. laxiflorus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54899">Astragalus preussii var. preussii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15010">Astragalus pseudiodanthus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15014">Astragalus pulsiferae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=82301">Astragalus pulsiferae var. coronensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54902">Astragalus pulsiferae var. pulsiferae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54903">Astragalus pulsiferae var. suksdorfii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15016">Astragalus purshii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54908">Astragalus purshii var. lagopinus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54909">Astragalus purshii var. lectulus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54912">Astragalus purshii var. purshii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54914">Astragalus purshii var. tinctus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15025">Astragalus pycnostachyus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54916">Astragalus pycnostachyus var. lanosissimus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54917">Astragalus pycnostachyus var. pycnostachyus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15028">Astragalus rattanii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54921">Astragalus rattanii var. jepsonianus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54922">Astragalus rattanii var. rattanii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15029">Astragalus ravenii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15046">Astragalus sabulonum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15054">Astragalus sepultipes
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54936">Astragalus serenoi var. shockleyi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15062">Astragalus shevockii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15080">Astragalus subvestitus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15084">Astragalus tener
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54949">Astragalus tener var. ferrisiae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54950">Astragalus tener var. tener
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54951">Astragalus tener var. titi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54953">Astragalus tephrodes var. brachylobus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15092">Astragalus tidestromii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15097">Astragalus traskiae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15098">Astragalus tricarinatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15099">Astragalus trichopodus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54960">Astragalus trichopodus var. lonchus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54961">Astragalus trichopodus var. phoxus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54962">Astragalus trichopodus var. trichopodus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15109">Astragalus umbraticus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15118">Astragalus webberi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15121">Astragalus whitneyi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54969">Astragalus whitneyi var. confusus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54970">Astragalus whitneyi var. lenophyllus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54971">Astragalus whitneyi var. siskiyouensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54973">Astragalus whitneyi var. whitneyi
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=9291'><h3>View taxon page for Astragalus</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#RR1'">1.</a><a name="RR1."> </a> Corolla bright red, banner 35&ndash;41 mm; calyx 18&ndash;24 mm; fruit 25&ndash;40 mm, densely woolly <a href="/cgi-bin/get_IJM.pl?tid=14761">.....&nbsp;A. coccineus</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#RR1.">1'</a><a name="RR1'"> </a> Corolla not red, banner &lt; 35 mm; calyx &lt; 18 mm; fruit often &lt; 25 mm, often not woolly
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#RR2'">2.</a><a name="RR2."> </a> Leaflet &plusmn; 1 mm wide, generally spine-tipped; raceme 1&ndash;3-flowered, &plusmn; included in axil; peduncle inconspicuous or 0; flower, fruit generally 3&ndash;10 mm <a href="/cgi-bin/get_IJM.pl?tid=14879">.....&nbsp;A. kentrophyta</a> varieties.
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#RR2.">2'</a><a name="RR2'"> </a> Leaflet generally > 1 mm wide, not spine-tipped; raceme often > 3-flowered, well exserted from axil; peduncle conspicuous; flower 3&ndash;30 mm, fruit 2&ndash;60 mm
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#RR3'">3.</a><a name="RR3."> </a> Plant generally of California Floristic Province (also Warner Mountains, adjacent Great Basin Floristic Province, D) <a href="#Group1">.....&nbsp;Group 1</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#RR3.">3'</a><a name="RR3'"> </a> Plant generally of Great Basin Floristic Province, Desert, or both, occasionally adjacent California Floristic Province
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RR4'">4.</a><a name="RR4."> </a> Plant generally of Desert <a href="#Group2">.....&nbsp;Group 2</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RR4.">4'</a><a name="RR4'"> </a> Plant generally of Great Basin Floristic Province <a href="#Group3">.....&nbsp;Group 3</a></blockquote><blockquote><h3><a name=Group1>Group 1</a>:</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#RT1'">1.</a><a name="RT1."> </a> Annual
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#RT2'">2.</a><a name="RT2."> </a> Banner generally 2.5&ndash;3.3 mm; flowers early dense, ascending, then spaced, reflexed; fruit reflexed, 2.8&ndash;4.2 mm, width > depth &mdash; fruits overlapped, ovate or &plusmn; round in top view <a href="/cgi-bin/get_IJM.pl?tid=14840">.....&nbsp;A. gambelianus</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#RT2.">2'</a><a name="RT2'"> </a> Banner generally > 3 mm; flowers remaining dense, erect if banner &plusmn; 3 mm, otherwise erect, spreading, or reflexed; fruit erect to pendent, generally > 4 mm, if not then width &plusmn; = to or &lt;&lt; depth
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#RT3'">3.</a><a name="RT3."> </a> Flower, fruit generally strongly ascending or spreading, in dense, oblong or &plusmn; spheric, head-like racemes; fruit 2&ndash;4 or >> 4 mm, 1&ndash;2-chambered, not or 2-lobed in &times;-section
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RT4'">4.</a><a name="RT4."> </a> Corolla white-lavender to purple; fruit 2&ndash;4 mm, 2-chambered, 2-lobed in &times;-section <a href="/cgi-bin/get_IJM.pl?tid=14800">.....&nbsp;A. didymocarpus</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RT4.">4'</a><a name="RT4'"> </a> Corolla generally white; fruit >> 4 m, 1-chambered, generally unlobed in &times;-section <a href="/cgi-bin/get_IJM.pl?tid=77434">.....&nbsp;A. hornii var. hornii</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#RT3.">3'</a><a name="RT3'"> </a> Flower, fruit often ascending early, then spreading or reflexed, often in loose racemes; fruit > 4 mm, generally unlobed in &times;-section, 1&ndash;2-chambered
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RT5'">5.</a><a name="RT5."> </a> Inflorescence 10&ndash;40-flowered; fruit inflated, papery, 1-chambered, 4&ndash;17 mm wide, sides generally strongly convex <a href="/cgi-bin/get_IJM.pl?tid=14978">.....&nbsp;A. palmeri</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RT5.">5'</a><a name="RT5'"> </a> Inflorescence 2&ndash;14-flowered; fruit not inflated, &plusmn; 2-chambered, &lt;= 4 mm wide, sides parallel or &plusmn; convex
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RT6'">6.</a><a name="RT6."> </a> Plant silvery-canescent; local, Cushenbury Canyon (ne San Bernardino Mountains, adjacent Mojave Desert) <a href="/cgi-bin/get_IJM.pl?tid=14672">.....&nbsp;A. albens</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RT6.">6'</a><a name="RT6'"> </a> Plant &plusmn; green, &plusmn; hairy; widespread, not Cushenbury Canyon
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RT7'">7.</a><a name="RT7."> </a> Fruit body 5&ndash;10 mm, tapered to spine-like or hooked beak &plusmn; = body; ovules 2&ndash;6; fruit in head- or umbel-like racemes <a href="/cgi-bin/get_IJM.pl?tid=14733">.....&nbsp;A. breweri</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RT7.">7'</a><a name="RT7'"> </a> Fruit body > 10 mm or beak &lt; 1/4 body; ovules 5&ndash;20; fruit in head- or umbel-like racemes or not
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RT8'">8.</a><a name="RT8."> </a> Keel > wings; fruit base stalk-like, receptacle with peg-like extension (evident after fruit drop) <a href="/cgi-bin/get_IJM.pl?tid=14758">.....&nbsp;A. claranus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RT8.">8'</a><a name="RT8'"> </a> Keel &lt;&lt; wings; fruit base &plusmn; stalk-like or not, receptacle without peg-like extension
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RT9'">9.</a><a name="RT9."> </a> Inflorescence 2&ndash;7-flowered, open, axis in fruit 7&ndash;20 mm; fruit &plusmn; purple or &plusmn; purple-mottled <a href="/cgi-bin/get_IJM.pl?tid=14984">.....&nbsp;A. pauperculus</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RT9.">9'</a><a name="RT9'"> </a> Inflorescence 2&ndash;12-flowered, &plusmn; dense, axis in fruit 1&ndash;8 mm; fruit pale yellow or black
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RT10'">10.</a><a name="RT10."> </a> Fruit on erect peduncle; seeds pitted; North Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=15028">.....&nbsp;A. rattanii</a> varieties.
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RT10.">10'</a><a name="RT10'"> </a> Fruit on spreading or reflexed peduncle; seeds smooth; Great Central Valley, Central Coast, San Francisco Bay Area, South Coast <a href="/cgi-bin/get_IJM.pl?tid=15084">.....&nbsp;A. tener</a> varieties.
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#RT1.">1'</a><a name="RT1'"> </a> Perennial herb
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#RT11'">11.</a><a name="RT11."> </a> Hairs branched; corolla cream or green-white (tinged dull purple); fruit erect; n Great Basin Floristic Province, adjacent California Floristic Province <a href="/cgi-bin/get_IJM.pl?tid=54658">.....&nbsp;A. canadensis var. brevidens</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#RT11.">11'</a><a name="RT11'"> </a> Hairs simple; corolla often pink-purple, white, or yellow; fruit erect to reflexed; generally not n Great Basin Floristic Province, adjacent California Floristic Province
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#RT12'">12.</a><a name="RT12."> </a> Calyx 10&ndash;12 mm, base with pouch adaxially; flowers reflexed &mdash; petals dull yellow; fruit hanging from stalk-like base; n High Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=14843">.....&nbsp;A. gibbsii</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#RT12.">12'</a><a name="RT12'"> </a> Calyx generally &lt; 10 mm, base generally without pouch; flowers ascending or spreading if calyx > 10 mm
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RT13'">13.</a><a name="RT13."> </a> Terminal leaflet not or &plusmn; jointed to midrib, joint unlike that of lateral leaflets; lateral leaflets often reduced or 0, spaces between generally >> 1.5 &times; leaflet width; leaves few, sparse
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RT14'">14.</a><a name="RT14."> </a> Calyx 8&ndash;10 mm; corolla &plusmn; white; fruit &plusmn; 4-sided <a href="/cgi-bin/get_IJM.pl?tid=14721">.....&nbsp;A. bicristatus</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RT14.">14'</a><a name="RT14'"> </a> Calyx 4&ndash;5 mm; corolla red-pink and yellow; fruit 2-sided <a href="/cgi-bin/get_IJM.pl?tid=14871">.....&nbsp;A. inversus</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RT13.">13'</a><a name="RT13'"> </a> Terminal leaflet jointed to midrib, joint like that of lateral leaflets; lateral leaflets present, spaces between rarely > 1.5 &times; leaflet width; leaves generally many, not sparse
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RT15'">15.</a><a name="RT15."> </a> Plant tufted or matted; stem &lt; 15 cm (generally much shorter), from crown at surface; flowers strongly ascending, plant hairs dense
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RT16'">16.</a><a name="RT16."> </a> Banner, wings hairy on outside; fruit 5&ndash;7 mm, &plusmn; included in calyx <a href="/cgi-bin/get_IJM.pl?tid=14707">.....&nbsp;A. austiniae</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RT16.">16'</a><a name="RT16'"> </a> Banner, wings glabrous on outside; fruit >= 7 mm, well exserted from calyx
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RT17'">17.</a><a name="RT17."> </a> Calyx 4&ndash;6 mm; fruit 3-sided in &times;-section, generally &lt; 4 mm wide; hairs of stem, leaf sparse, &plusmn; straight, generally &lt; 0.5 mm <a href="/cgi-bin/get_IJM.pl?tid=14969">.....&nbsp;A. obscurus</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RT17.">17'</a><a name="RT17'"> </a> Calyx 6&ndash;14 mm; fruit &plusmn; round or 2-lobed in &times;-section, generally > 4 mm wide; hairs of stem, leaf dense, curly, often > 0.5 mm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RT18'">18.</a><a name="RT18."> </a> Fruit hairs generally > 1.5 mm, hiding surface <a href="/cgi-bin/get_IJM.pl?tid=15016">.....&nbsp;A. purshii</a> varieties.
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RT18.">18'</a><a name="RT18'"> </a> Fruit hairs generally &lt;&lt;, rarely > 1 mm, hiding surface or not
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RT19'">19.</a><a name="RT19."> </a> Petals &plusmn; white with some lilac, banner 11&ndash;13.3 mm; fruit 8&ndash;15 mm; leaflets 7&ndash;13 <a href="/cgi-bin/get_IJM.pl?tid=15080">.....&nbsp;A. subvestitus</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RT19.">19'</a><a name="RT19'"> </a> Petals pink-purple, banner 16&ndash;18.5 mm; fruit 13&ndash;25 mm; leaflets 7&ndash;19 <a href="/cgi-bin/get_IJM.pl?tid=14905">.....&nbsp;A. leucolobus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RT15.">15'</a><a name="RT15'"> </a> Plant generally open; stem generally > 15 cm, generally from crown at or below surface; flowers in age spreading or reflexed, plant hairs sparse, or both, if plant tufted or matted
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RT20'">20.</a><a name="RT20."> </a> Lower stipules fused around stem into sheath or low and &plusmn; inconspicuous
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RT21'">21.</a><a name="RT21."> </a> Leaflets of at least some leaves > 22; petals &plusmn; white or cream
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RT22'">22.</a><a name="RT22."> </a> Banner 7&ndash;10 mm; fruit 6&ndash;11 mm, beak long, hooked <a href="/cgi-bin/get_IJM.pl?tid=15025">.....&nbsp;A. pycnostachyus</a> varieties.
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RT22.">22'</a><a name="RT22'"> </a> Banner 10&ndash;19 mm; fruit often > 11 mm, beak not long, not hooked
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RT23'">23.</a><a name="RT23."> </a> Plant gray-white-woolly; stipules finely tomentose; Channel Islands <a href="/cgi-bin/get_IJM.pl?tid=14925">.....&nbsp;A. miguelensis</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RT23.">23'</a><a name="RT23'"> </a> Plant &plusmn; green even if hairy; stipules generally glabrous or sparsely hairy or densely strigose; Channel Islands or mainland
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RT24'">24.</a><a name="RT24."> </a> Fruit base not stalk-like; stems not more densely hairy than leaves; generally coastal <a href="/cgi-bin/get_IJM.pl?tid=14964">.....&nbsp;A. nuttallii</a> varieties.
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RT24.">24'</a><a name="RT24'"> </a> Fruit base stalk-like; stems more densely hairy than leaves or not; often non-coastal
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RT25'">25.</a><a name="RT25."> </a> Flowers early spreading, then reflexed; stalk-like fruit base 5&ndash;40 mm, &plusmn; strigose
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RT26'">26.</a><a name="RT26."> </a> Stalk-like fruit base 14&ndash;40 mm <a href="/cgi-bin/get_IJM.pl?tid=14702">.....&nbsp;A. asymmetricus</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RT26.">26'</a><a name="RT26'"> </a> Stalk-like fruit base 5&ndash;17 mm <a href="/cgi-bin/get_IJM.pl?tid=15099">.....&nbsp;A. trichopodus</a> varieties (2)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RT25.">25'</a><a name="RT25'"> </a> Flowers early ascending or spreading, then often reflexed; stalk-like fruit base 2&ndash;12 mm, glabrous, strigose, or shaggy
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RT27'">27.</a><a name="RT27."> </a> Stalk of ovary with hairs minute, dense, &plusmn; wavy, &plusmn; ascending; lower stipules densely shaggy or not; keel >= 13 mm <a href="/cgi-bin/get_IJM.pl?tid=14976">.....&nbsp;A. oxyphysus</a> (2)
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RT27.">27'</a><a name="RT27'"> </a> Stalk of ovary glabrous or sparsely strigose; lower stipules &plusmn; glabrous or sparsely shaggy; keel &lt; 13 mm
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#RT28'">28.</a><a name="RT28."> </a> Stalk-like fruit base 5&ndash;12 mm, jointed at base; fruit &plusmn; 2-lobed in &times;-section, 2-chambered; High Cascade Range, High Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=14728">.....&nbsp;A. bolanderi</a> (2)
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#RT28.">28'</a><a name="RT28'"> </a> Stalk-like fruit base 2&ndash;6 mm, jointed at top; fruit &plusmn; round in &times;-section, 1-chambered; s Central Coast, w South Coast Ranges, n Channel Islands <a href="/cgi-bin/get_IJM.pl?tid=14782">.....&nbsp;A. curtipes</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RT21.">21'</a><a name="RT21'"> </a> Leaflets generally &lt; 22; petals white, pale yellow, cream, &plusmn; pink, or &plusmn; purple
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RT29'">29.</a><a name="RT29."> </a> Stalk-like fruit base >= 2 mm
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RT30'">30.</a><a name="RT30."> </a> Fruit &plusmn; narrowly oblong in side view, compressed side-to-side, hairy
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RT31'">31.</a><a name="RT31."> </a> Calyx tube 5.2&ndash;7 mm, hairs &plusmn; spreading; fruit body 27&ndash;43 mm <a href="/cgi-bin/get_IJM.pl?tid=14734">.....&nbsp;A. californicus</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RT31.">31'</a><a name="RT31'"> </a> Calyx tube 3&ndash;3.5 mm, hairs &plusmn; appressed; fruit body 17&ndash;30 mm <a href="/cgi-bin/get_IJM.pl?tid=14830">.....&nbsp;A. filipes</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RT30.">30'</a><a name="RT30'"> </a> Fruit widely oblong, ovate, or &plusmn; round in side view, swollen, often glabrous
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RT32'">32.</a><a name="RT32."> </a> Fruit bladdery, thinly papery <a href="/cgi-bin/get_IJM.pl?tid=15121">.....&nbsp;A. whitneyi</a> varieties.
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RT32.">32'</a><a name="RT32'"> </a> Fruit swollen, often &plusmn; inflated, but not bladdery, not thinly papery
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RT33'">33.</a><a name="RT33."> </a> Fruit body stiffly leathery or &plusmn; woody when dry, &plusmn; pendent on a downcurved stalk-like base, 1-chambered <a href="/cgi-bin/get_IJM.pl?tid=14721">.....&nbsp;A. bicristatus</a> (2)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RT33.">33'</a><a name="RT33'"> </a> Fruit body stiff-papery when dry, erect or &plusmn; spreading &mdash; at angle on ascending to &plusmn; reflexed stalk-like base, 2-chambered <a href="/cgi-bin/get_IJM.pl?tid=14728">.....&nbsp;A. bolanderi</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RT29.">29'</a><a name="RT29'"> </a> Stalk-like fruit base 0 or &lt; 2 mm
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RT34'">34.</a><a name="RT34."> </a> Calyx 8&ndash;13 mm; banner 14&ndash;19 mm
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RT35'">35.</a><a name="RT35."> </a> Flowers spreading, 10&ndash;30 per inflorescence <a href="/cgi-bin/get_IJM.pl?tid=15054">.....&nbsp;A. sepultipes</a> (2)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RT35.">35'</a><a name="RT35'"> </a> Flowers ascending to &plusmn; spreading, 6&ndash;14 per inflorescence <a href="/cgi-bin/get_IJM.pl?tid=15118">.....&nbsp;A. webberi</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RT34.">34'</a><a name="RT34'"> </a> Calyx generally &lt; 9 mm; banner generally 5&ndash;12(14) mm, except in <I>Astragalus cicer</I>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RT36'">36.</a><a name="RT36."> </a> Stem 1&ndash;10 cm, from crown below surface; fruit swollen but not bladdery, walls stiff-papery or leathery
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RT37'">37.</a><a name="RT37."> </a> Inflorescence 7&ndash;17-flowered; peduncle &plusmn; stout, hairs spreading; s High Sierra Nevada, n Tehachapi Mountain Area, 1750&ndash;1900 m <a href="/cgi-bin/get_IJM.pl?tid=14821">.....&nbsp;A. ertterae</a> (2)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RT37.">37'</a><a name="RT37'"> </a> Inflorescence 2&ndash;8-flowered; peduncle &plusmn; thread-like, hairs appressed; s High Sierra Nevada, 3400&ndash;3450 m <a href="/cgi-bin/get_IJM.pl?tid=15029">.....&nbsp;A. ravenii</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RT36.">36'</a><a name="RT36'"> </a> Stem > 10 cm, generally from crown at surface (1&ndash;35 cm if from crown below surface); fruit bladdery, walls thinly papery, or fruit swollen, walls stiff-papery or leathery
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RT38'">38.</a><a name="RT38."> </a> Fruit 1-chambered; crown below surface (except <I>Astragalus pulsiferae var. coronensis</I>)
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RT39'">39.</a><a name="RT39."> </a> Stem &plusmn; prostrate; fruit bladdery, not 3-sided proximally, blunt at both ends, 10&ndash;20 mm <a href="/cgi-bin/get_IJM.pl?tid=15014">.....&nbsp;A. pulsiferae</a> varieties.
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RT39.">39'</a><a name="RT39'"> </a> Stem decumbent to ascending; fruit narrow, &plusmn; 3-sided proximally, tapered at both ends, 13&ndash;31 mm <a href="/cgi-bin/get_IJM.pl?tid=15062">.....&nbsp;A. shevockii</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RT38.">38'</a><a name="RT38'"> </a> Fruit 2-chambered; crown generally at surface
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RT40'">40.</a><a name="RT40."> </a> Fruit ascending or spreading, widely ovate or &plusmn; spheric, inflated <a href="/cgi-bin/get_IJM.pl?tid=14756">.....&nbsp;A. cicer</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RT40.">40'</a><a name="RT40'"> </a> Fruit spreading, bent or curved downward, or pendent, &plusmn; lenticular, oblong, or linear-oblong to narrowly lanceolate, inflated or not
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#RT41'">41.</a><a name="RT41."> </a> Inflorescence 12&ndash;26-flowered; fruit 10&ndash;18 mm <a href="/cgi-bin/get_IJM.pl?tid=14686">.....&nbsp;A. andersonii</a>
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#RT41.">41'</a><a name="RT41'"> </a> Inflorescence 5&ndash;10-flowered; fruit 5&ndash;9 mm <a href="/cgi-bin/get_IJM.pl?tid=14889">.....&nbsp;A. lentiformis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RT20.">20'</a><a name="RT20'"> </a> Lower stipules not fused around stem into sheath or sometimes lowest 1&ndash;3 pairs fused into a sheath around stem but ruptured early and seemingly not fused
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RT42'">42.</a><a name="RT42."> </a> Stalk-like fruit base > 3 mm; corolla white to yellow
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RT43'">43.</a><a name="RT43."> </a> Plant of islands (San Nicolas, Santa Barbara, San Clemente islands), fruit &plusmn; 2-chambered, not bladdery &mdash; lower side of fruit grooved; leaves soft-hairy
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RT44'">44.</a><a name="RT44."> </a> Banner 10.6&ndash;12.7 mm; ovary, fruit glabrous <a href="/cgi-bin/get_IJM.pl?tid=14953">.....&nbsp;A. nevinii</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RT44.">44'</a><a name="RT44'"> </a> Banner 14.2&ndash;17.5 mm; ovary, fruit hairy <a href="/cgi-bin/get_IJM.pl?tid=15097">.....&nbsp;A. traskiae</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RT43.">43'</a><a name="RT43'"> </a> Plant of mainland, if of islands then fruit 1-chambered, bladdery
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RT45'">45.</a><a name="RT45."> </a> Fls, fruits strongly ascending; leaflets linear or linear-oblong, adaxially silvery-strigose, abaxially less densely strigose, &plusmn; green or &plusmn; gray; leaves few, sparse &mdash; plant bushy, stems wiry <a href="/cgi-bin/get_IJM.pl?tid=14977">.....&nbsp;A. pachypus</a> varieties.
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RT45.">45'</a><a name="RT45'"> </a> Fls, fruits spreading to reflexed; leaflets linear to widely obovate, both sides &plusmn; green or &plusmn; gray-strigose; leaves many, not sparse
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RT46'">46.</a><a name="RT46."> </a> Inflorescence 7&ndash;15-flowered; fruit fleshy; Klamath Ranges, Cascade Range Foothills <a href="/cgi-bin/get_IJM.pl?tid=54612">.....&nbsp;A. accidens var. hendersonii</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RT46.">46'</a><a name="RT46'"> </a> Inflorescence generally 10&ndash;65-flowered; fruit papery; not Klamath Ranges, Cascade Range Foothills
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RT47'">47.</a><a name="RT47."> </a> Stalk-like fruit base spreading-, wavy-hairy <a href="/cgi-bin/get_IJM.pl?tid=14976">.....&nbsp;A. oxyphysus</a> (2)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RT47.">47'</a><a name="RT47'"> </a> Stalk-like fruit base strigose or &plusmn; glabrous
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RT48'">48.</a><a name="RT48."> </a> Leaflets generally 9&ndash;19; fruit compressed side-to-side <a href="/cgi-bin/get_IJM.pl?tid=14830">.....&nbsp;A. filipes</a> (2)
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RT48.">48'</a><a name="RT48'"> </a> Leaflets 15&ndash;39; fruit compressed side-to-side to swollen, bladdery <a href="/cgi-bin/get_IJM.pl?tid=15099">.....&nbsp;A. trichopodus</a> varieties (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RT42.">42'</a><a name="RT42'"> </a> Stalk-like fruit base 0 or &lt; 3 mm; corolla white or cream to yellow, &plusmn; pink, or &plusmn; purple, tinged red-brown or not
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RT49'">49.</a><a name="RT49."> </a> Leaflets 5&ndash;9; plant silvery; Cushenbury Canyon (ne San Bernardino Mountains, adjacent Mojave Desert) <a href="/cgi-bin/get_IJM.pl?tid=14672">.....&nbsp;A. albens</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RT49.">49'</a><a name="RT49'"> </a> Leaflets generally > 9; plants often green; Cushenbury Canyon, elsewhere
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RT50'">50.</a><a name="RT50."> </a> Fruit 4&ndash;7 mm, generally 2-chambered; calyx 3&ndash;4 mm; banner 4&ndash;7 mm
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RT51'">51.</a><a name="RT51."> </a> Stem 3&ndash;10 dm; flowers reflexed, 20&ndash;100 per inflorescence <a href="/cgi-bin/get_IJM.pl?tid=14759">.....&nbsp;A. clevelandii</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RT51.">51'</a><a name="RT51'"> </a> Stem 1&ndash;4(5) dm; flowers ascending, 2&ndash;13 per inflorescence <a href="/cgi-bin/get_IJM.pl?tid=14888">.....&nbsp;A. lemmonii</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RT50.">50'</a><a name="RT50'"> </a> Fruit 6.5&ndash;60 mm, 2- or often 1-chambered; calyx 4&ndash;13 mm; banner generally > 7 mm
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RT52'">52.</a><a name="RT52."> </a> Fruit bladdery, walls generally thinly papery
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RT53'">53.</a><a name="RT53."> </a> Middle of fruit 2-chambered, beak compressed side-to-side, triangular in side view, 1-chambered; banner recurved 30&ndash;50&deg; <a href="/cgi-bin/get_IJM.pl?tid=14890">.....&nbsp;A. lentiginosus</a> varieties (2)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RT53.">53'</a><a name="RT53'"> </a> Middle of fruit 1-chambered, beak often not or &plusmn; compressed side-to-side, not triangular in side view, 2-chambered or not; banner recurved 40&ndash;90&deg;, often > 60&deg;
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RT54'">54.</a><a name="RT54."> </a> Fls, fruits crowded in head-like clusters 2.5&ndash;3.5 cm wide; fruit 12&ndash;18 mm, ascending, hairs &plusmn; spreading <a href="/cgi-bin/get_IJM.pl?tid=77434">.....&nbsp;A. hornii var. hornii</a> (2)
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RT54.">54'</a><a name="RT54'"> </a> Fls, fruits, if crowded, in clusters > 3.5 cm wide; fruit generally > 18 mm, often spreading, hairs ascending or &plusmn; appressed or 0 in age
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#RT55'">55.</a><a name="RT55."> </a> Banner generally > 11 mm, recurved &plusmn; 40&ndash;45&deg;; leaflets often > 25 (see also <I>Astragalus macrodon</I>, at 57.)
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#RT56'">56.</a><a name="RT56."> </a> Leaflets 19&ndash;29, not clearly smaller from leaf base to tip; leaflet midrib prominently raised abaxially; ovules 29&ndash;40; 250&ndash;300 m; Peninsular Ranges (sw San Diego Co.) <a href="/cgi-bin/get_IJM.pl?tid=14789">.....&nbsp;A. deanei</a>
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#RT56.">56'</a><a name="RT56'"> </a> Leaflets 25&ndash;41, clearly, gradually smaller from leaf base to tip; leaflet midrib not prominently raised abaxially; ovules 34&ndash;55; 50&ndash;700 m; s Outer South Coast Ranges, South Coast, Peninsular Ranges, nw Baja California <a href="/cgi-bin/get_IJM.pl?tid=15003">.....&nbsp;A. pomonensis</a>
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#RT55.">55'</a><a name="RT55'"> </a> Banner generally &lt; 11 mm, recurved 60&ndash;90&deg;; leaflets generally &lt; 25 (see also <I>Astragalus deanei</I>, at 56.)
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#RT57'">57.</a><a name="RT57."> </a> Leaf, fruit minutely strigose or in age glabrous; leaflet margin, midrib green; calyx lobes 0.7&ndash;2.6 mm; ovules 51&ndash;71; s Sierra Nevada, Tehachapi Mountain Area, Great Central Valley, Central Western California, Southwestern California <a href="/cgi-bin/get_IJM.pl?tid=14806">.....&nbsp;A. douglasii</a> varieties.
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#RT57.">57'</a><a name="RT57'"> </a> Leaf, fruit hairs &plusmn; sparse to dense, &plusmn; ascending or spreading to &plusmn; incurved; leaflet margin, midrib generally purple; calyx lobes 2.5&ndash;4.3 mm; ovules 29&ndash;52; c&s South Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=14915">.....&nbsp;A. macrodon</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RT52.">52'</a><a name="RT52'"> </a> Fruit narrow or swollen, &plusmn; bladdery or inflated, walls stiff-papery, leathery, or woody
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RT58'">58.</a><a name="RT58."> </a> Stem 3.5&ndash;10 cm, spreading-hairy, from crown below surface; s High Sierra Nevada, n Tehachapi Mountain Area <a href="/cgi-bin/get_IJM.pl?tid=14821">.....&nbsp;A. ertterae</a> (2)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RT58.">58'</a><a name="RT58'"> </a> Stem generally > 10 cm, ascending- or appressed-strigose or &plusmn; glabrous, generally from crown at surface; s High Sierra Nevada, n Tehachapi Mountain Area, elsewhere
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RT59'">59.</a><a name="RT59."> </a> Stem erect to widely ascending, 60&ndash;150 cm; sw Southwestern California
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#RT60'">60.</a><a name="RT60."> </a> Flower reflexed; corolla dull lilac; fruit reflexed, deciduous, &lt; 10 mm, densely wavy-hairy <a href="/cgi-bin/get_IJM.pl?tid=14731">.....&nbsp;A. brauntonii</a>
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#RT60.">60'</a><a name="RT60'"> </a> Flower widely ascending; corolla cream; fruit erect, persistent, 15&ndash;25 mm, &plusmn; glabrous <a href="/cgi-bin/get_IJM.pl?tid=14972">.....&nbsp;A. oocarpus</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RT59.">59'</a><a name="RT59'"> </a> Stem decumbent to erect, 30&ndash;90 cm; widespread, including sw Southwestern California
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#RT61'">61.</a><a name="RT61."> </a> Fruit 1-chambered, thickly papery, &plusmn; strongly inflated; flowers spreading; corolla often pink-purple (or cream); w edge Sonoran Desert, adjacent foothills of San Bernardino Mountains, Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=14978">.....&nbsp;A. palmeri</a> (2)
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#RT61.">61'</a><a name="RT61'"> </a> Fruit &plusmn; 2-chambered, at least in middle, thinly papery to stiffly leathery or woody, linear to swollen or &plusmn; bladdery-inflated; flowers ascending to reflexed; corolla white, cream or pink-purple; widespread (including places at 61.)
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#RT62'">62.</a><a name="RT62."> </a> Beak of fruit triangular in side view, compressed strongly side-to-side, 1-chambered; fruit > 5 mm wide, swollen, both sutures &plusmn; sunken; corolla &plusmn; purple or &plusmn; white <a href="/cgi-bin/get_IJM.pl?tid=14890">.....&nbsp;A. lentiginosus</a> varieties (2)
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#RT62.">62'</a><a name="RT62'"> </a> Beak of fruit acuminate to &plusmn; triangular in side view, generally not compressed strongly, generally 2-chambered; fruit generally &lt; 5 mm wide, &plusmn; 3-sided, lower suture generally sunken, upper raised; corolla pale to dark lilac, pink- or green-white, or &plusmn; white
+
+<P class="keyText" style="padding-left : 98 ;"><a href="#RT63'">63.</a><a name="RT63."> </a> Fruit, ovary glabrous
+
+<P class="keyText" style="padding-left : 105 ;"><a href="#RT64'">64.</a><a name="RT64."> </a> Plant &plusmn; glabrous; fruit body 14&ndash;24 mm, spreading or reflexed; Klamath Ranges, Outer North Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=15109">.....&nbsp;A. umbraticus</a>
+
+<P class="keyText" style="padding-left : 105 ;"><a href="#RT64.">64'</a><a name="RT64'"> </a> Plant minutely strigose, especially above; fruit body 20&ndash;42 mm, ascending; San Bernardino Mountains, Desert Mountains
+
+<P class="keyText" style="padding-left : 112 ;"><a href="#RT65'">65.</a><a name="RT65."> </a> Leaflets 7&ndash;19; banner 7&ndash;10.2 mm; calyx tube 2.7&ndash;4.1 mm <a href="/cgi-bin/get_IJM.pl?tid=14719">.....&nbsp;A. bernardinus</a>
+
+<P class="keyText" style="padding-left : 112 ;"><a href="#RT65.">65'</a><a name="RT65'"> </a> Leaflets 17&ndash;27; banner 12.6&ndash;15.7 mm; calyx tube 4.1&ndash;5 mm <a href="/cgi-bin/get_IJM.pl?tid=15098">.....&nbsp;A. tricarinatus</a>
+
+<P class="keyText" style="padding-left : 98 ;"><a href="#RT63.">63'</a><a name="RT63'"> </a> Fruit, ovary hairy
+
+<P class="keyText" style="padding-left : 105 ;"><a href="#RT66'">66.</a><a name="RT66."> </a> Flowers generally 3&ndash;14 per inflorescence, ascending; fruit erect; stem 5&ndash;15 cm; se Klamath Ranges, Cascade Range (also Modoc Plateau) <a href="/cgi-bin/get_IJM.pl?tid=14969">.....&nbsp;A. obscurus</a> (2)
+
+<P class="keyText" style="padding-left : 105 ;"><a href="#RT66.">66'</a><a name="RT66'"> </a> Flowers generally (8)10&ndash;40 per inflorescence, spreading or reflexed; fruit ascending or reflexed; stem > 15 cm; East of Sierra Nevada, Sierra Nevada Foothills, Outer North Coast Ranges
+
+<P class="keyText" style="padding-left : 112 ;"><a href="#RT67'">67.</a><a name="RT67."> </a> Plant &plusmn; glabrous, especially at base, &plusmn; green; calyx 6.5&ndash;9 mm; corolla white; Outer North Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=14667">.....&nbsp;A. agnicidus</a>
+
+<P class="keyText" style="padding-left : 112 ;"><a href="#RT67.">67'</a><a name="RT67'"> </a> Plant hairy, gray to silver; calyx &plusmn; 5&ndash;13 mm; corolla pink- to lilac-white, wing tips &plusmn; white, or &plusmn; cream; c&s Sierra Nevada Foothills, e edge High Sierra Nevada, East of Sierra Nevada
+
+<P class="keyText" style="padding-left : 119 ;"><a href="#RT68'">68.</a><a name="RT68."> </a> Herbage silvery-silky, hairs appressed; calyx 8.5&ndash;13 mm; corolla pink- to lilac-white, wing tips &plusmn; white; e edge High Sierra Nevada, East of Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=15054">.....&nbsp;A. sepultipes</a> (2)
+
+<P class="keyText" style="padding-left : 119 ;"><a href="#RT68.">68'</a><a name="RT68'"> </a> Herbage gray-hairy, hairs &plusmn; spreading; calyx 5&ndash;8 mm; corolla &plusmn; cream; c&s Sierra Nevada Foothills <a href="/cgi-bin/get_IJM.pl?tid=14767">.....&nbsp;A. congdonii</a></blockquote><blockquote><h3><a name=Group2>Group 2</a>:</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#RV1'">1.</a><a name="RV1."> </a> Terminal leaflet generally not jointed to midrib, if jointed, &plusmn; so and unlike that of lateral leaflet; lateral leaflets often reduced or 0, spaces between generally >> 1.5 &times; leaflet width; leaves few, sparse
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#RV2'">2.</a><a name="RV2."> </a> Banner 10&ndash;14.2 mm; leaflets 3&ndash;13; fruit half-ovate to &plusmn; spheric, bladdery <a href="/cgi-bin/get_IJM.pl?tid=54832">.....&nbsp;A. magdalenae var. peirsonii</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#RV2.">2'</a><a name="RV2'"> </a> Banner 17&ndash;26 mm; leaflets 5&ndash;11; fruit plump-oblong, not bladdery <a href="/cgi-bin/get_IJM.pl?tid=54936">.....&nbsp;A. serenoi var. shockleyi</a> (2)
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#RV1.">1'</a><a name="RV1'"> </a> Terminal leaflet jointed to midrib, generally like that of lateral leaflet; lateral leaflets present, spaces between rarely > 1.5 &times; leaflet width; leaves generally many, not sparse
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#RV3'">3.</a><a name="RV3."> </a> Hairs dense, branched; leaflets 1&ndash;7, crowded near leaf tip <a href="/cgi-bin/get_IJM.pl?tid=54654">.....&nbsp;A. calycosus var. calycosus</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#RV3.">3'</a><a name="RV3'"> </a> Hairs 0 to dense, simple; leaflets often > 7, generally not crowded near leaf tip
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#RV4'">4.</a><a name="RV4."> </a> Annual, or flowering 1st year and appearing so
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RV5'">5.</a><a name="RV5."> </a> Flower, fruit strongly ascending to erect, in dense, head-like racemes; fruit &plusmn; spheric, 2&ndash;4 mm <a href="/cgi-bin/get_IJM.pl?tid=14800">.....&nbsp;A. didymocarpus</a> varieties.
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RV5.">5'</a><a name="RV5'"> </a> Flower, fruit &plusmn; spreading to ascending or reflexed, in often open racemes; fruit linear to &plusmn; ovate-inflated, > 4 mm
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RV6'">6.</a><a name="RV6."> </a> Keel 10&ndash;21 mm
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RV7'">7.</a><a name="RV7."> </a> Plant densely shaggy-hairy; stem generally &lt;&lt; 7 cm, &plusmn; prostrate, often &plusmn; 0; fruit 1-chambered <a href="/cgi-bin/get_IJM.pl?tid=15092">.....&nbsp;A. tidestromii</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RV7.">7'</a><a name="RV7'"> </a> Plant &plusmn; glabrous to strigose; stem > 9 cm, prostrate to erect; fruit 1- or 2-chambered
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RV8'">8.</a><a name="RV8."> </a> Keel 17&ndash;21 mm; fruit 1-chambered <a href="/cgi-bin/get_IJM.pl?tid=14781">.....&nbsp;A. crotalariae</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RV8.">8'</a><a name="RV8'"> </a> Keel 10&ndash;13 mm; fruit 2-chambered at middle <a href="/cgi-bin/get_IJM.pl?tid=14890">.....&nbsp;A. lentiginosus</a> varieties (4)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RV6.">6'</a><a name="RV6'"> </a> Keel 2&ndash;10.5 mm
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RV9'">9.</a><a name="RV9."> </a> Fruit bladdery, walls thinly papery, translucent
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RV10'">10.</a><a name="RV10."> </a> Inflorescence generally 10&ndash;35-flowered
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RV11'">11.</a><a name="RV11."> </a> Leaflets generally 15&ndash;33; fruit 1-chambered <a href="/cgi-bin/get_IJM.pl?tid=77434">.....&nbsp;A. hornii var. hornii</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RV11.">11'</a><a name="RV11'"> </a> Leaflets generally 11&ndash;27; fruit 2-chambered below beak <a href="/cgi-bin/get_IJM.pl?tid=14890">.....&nbsp;A. lentiginosus</a> varieties (4)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RV10.">10'</a><a name="RV10'"> </a> Inflorescence generally 2&ndash;10-flowered
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RV12'">12.</a><a name="RV12."> </a> Corolla &plusmn; white; leaflets 11&ndash;19; upper suture of fruit convex; ovules 13&ndash;21 <a href="/cgi-bin/get_IJM.pl?tid=54615">.....&nbsp;A. allochrous var. playanus</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RV12.">12'</a><a name="RV12'"> </a> Corolla &plusmn; purple; leaflets 7&ndash;19; upper suture of fruit straight or convex; ovules 7&ndash;24
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RV13'">13.</a><a name="RV13."> </a> Keel 4.8&ndash;6 mm; leaflets generally 11&ndash;19; upper suture of fruit much less convex than lower; ovules 7&ndash;14 <a href="/cgi-bin/get_IJM.pl?tid=54761">.....&nbsp;A. insularis var. harwoodii</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RV13.">13'</a><a name="RV13'"> </a> Keel 5.9&ndash;6.6 mm; leaflets generally 7&ndash;13; upper suture of fruit &plusmn; equally convex as lower; ovules 19&ndash;24 <a href="/cgi-bin/get_IJM.pl?tid=14959">.....&nbsp;A. nutans</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RV9.">9'</a><a name="RV9'"> </a> Fruit linear to incurved or swollen, &plusmn; inflated, walls papery, &plusmn; translucent, or leathery
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RV14'">14.</a><a name="RV14."> </a> Inflorescence 20&ndash;40-flowered <a href="/cgi-bin/get_IJM.pl?tid=14978">.....&nbsp;A. palmeri</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RV14.">14'</a><a name="RV14'"> </a> Inflorescence &lt; 20-flowered
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RV15'">15.</a><a name="RV15."> </a> Fruit 1-chambered, swollen, half-ovate or -elliptic in side view, &plusmn; ovate or round in &times;-section
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RV16'">16.</a><a name="RV16."> </a> Plant, fruit hairs appressed, &plusmn; straight, &plusmn; obscuring surface; ovules 3&ndash;7 <a href="/cgi-bin/get_IJM.pl?tid=14696">.....&nbsp;A. aridus</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RV16.">16'</a><a name="RV16'"> </a> Plant, fruit hairs ascending or spreading, &plusmn; wavy, not obscuring surface; ovules 10&ndash;19 <a href="/cgi-bin/get_IJM.pl?tid=15046">.....&nbsp;A. sabulonum</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RV15.">15'</a><a name="RV15'"> </a> Fruit 2-, rarely 1-chambered, then often &plusmn; linear, curved, &plusmn; 2- or 3-sided in &times;-section
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RV17'">17.</a><a name="RV17."> </a> Leaflets adaxially sparsely hairy; inflorescence 1&ndash;6-flowered; keel &lt; 6 mm; fruit diam often &lt; 3 mm
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RV18'">18.</a><a name="RV18."> </a> Leaflets of upper leaves generally blunt, notched at tip; fruit early-deciduous, maturing pale brown <a href="/cgi-bin/get_IJM.pl?tid=14661">.....&nbsp;A. acutirostris</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RV18.">18'</a><a name="RV18'"> </a> Leaflets of upper leaves generally acute at tip; fruit persistent, maturing dark brown or &plusmn; black <a href="/cgi-bin/get_IJM.pl?tid=14962">.....&nbsp;A. nuttallianus</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RV17.">17'</a><a name="RV17'"> </a> Leaflets adaxially silvery-canescent; inflorescence 3&ndash;16-flowered; keel > 6 mm; fruit diam often > 3 mm
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RV19'">19.</a><a name="RV19."> </a> Fruit 10&ndash;18 mm, 2.8&ndash;3.5 mm wide, incurved, &plusmn; 3-sided; ovules 8&ndash;11; Cushenbury Canyon (ne San Bernardino Mountains, adjacent Mojave Desert) <a href="/cgi-bin/get_IJM.pl?tid=14672">.....&nbsp;A. albens</a> (2)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RV19.">19'</a><a name="RV19'"> </a> Fruit 13&ndash;32 mm, 3.5&ndash;8.5 mm wide, straight, &plusmn; 2-sided, or incurved, &plusmn; 3-sided; ovules 20&ndash;30; widespread in Mojave Desert <a href="/cgi-bin/get_IJM.pl?tid=14934">.....&nbsp;A. mohavensis</a> varieties (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#RV4.">4'</a><a name="RV4'"> </a> Perennial herb
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RV20'">20.</a><a name="RV20."> </a> Fruit, generally ovary, glabrous (<I>Astragalus douglasii</I>, <I>Astragalus nutans</I>, under 20', glabrous or not)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RV21'">21.</a><a name="RV21."> </a> Leaflet hairs 0 or few, restricted to margins, midrib on 1 or both surfaces; fruit base stalk-like
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RV22'">22.</a><a name="RV22."> </a> Flowers early ascending, then reflexed or not; keel 9.5&ndash;10.6 mm; fruit &plusmn; ascending to spreading, &plusmn; 2-chambered <a href="/cgi-bin/get_IJM.pl?tid=14757">.....&nbsp;A. cimae</a> varieties.
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RV22.">22'</a><a name="RV22'"> </a> Flowers strongly ascending; keel 11&ndash;19 mm; fruit erect, 1-chambered <a href="/cgi-bin/get_IJM.pl?tid=15007">.....&nbsp;A. preussii</a> varieties (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RV21.">21'</a><a name="RV21'"> </a> Leaflet hairs &plusmn; throughout 1 or both surfaces; fruit base stalk-like or not
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RV23'">23.</a><a name="RV23."> </a> Keel 6&ndash;9.4 mm; fruit 2-chambered, at least at middle
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RV24'">24.</a><a name="RV24."> </a> Plant often coarse, leafy, generally in open areas; stem not wiry; stalk-like fruit base 0 &mdash; fruit swollen, beak compressed side-to-side, triangular in side view, 1-chambered <a href="/cgi-bin/get_IJM.pl?tid=14890">.....&nbsp;A. lentiginosus</a> varieties (4)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RV24.">24'</a><a name="RV24'"> </a> Plant slender, sparsely leafy, often in shelter of shrubs; stem &plusmn; wiry; stalk-like fruit base 1&ndash;5 mm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RV25'">25.</a><a name="RV25."> </a> Flowers 10&ndash;25 per inflorescence, ascending; fruit ascending, 3-sided <a href="/cgi-bin/get_IJM.pl?tid=14719">.....&nbsp;A. bernardinus</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RV25.">25'</a><a name="RV25'"> </a> Flowers 5&ndash;15 per inflorescence, early ascending, then reflexed; fruit pendent, &plusmn; 2-sided <a href="/cgi-bin/get_IJM.pl?tid=14876">.....&nbsp;A. jaegerianus</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RV23.">23'</a><a name="RV23'"> </a> Keel 9.7&ndash;19 mm; fruit 1- or 2-chambered
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RV26'">26.</a><a name="RV26."> </a> Calyx glabrous; banner recurved &plusmn; 85&deg;; fruit bladdery, 1-chambered, base stalk-like <a href="/cgi-bin/get_IJM.pl?tid=54887">.....&nbsp;A. oophorus var. oophorus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RV26.">26'</a><a name="RV26'"> </a> Calyx strigose; banner recurved &lt; 50&deg;; fruit ovate or narrow, not bladdery, &plusmn; 2-chambered, base stalk-like or not
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RV27'">27.</a><a name="RV27."> </a> Corolla pink-purple; leaflets narrow, adaxially often paler than abaxially (silvery vs &plusmn; green); fruit erect, stalk-like base 0; n Inyo Co. <a href="/cgi-bin/get_IJM.pl?tid=54936">.....&nbsp;A. serenoi var. shockleyi</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RV27.">27'</a><a name="RV27'"> </a> Corolla white or cream to lemon yellow; leaflets narrow or wide, adaxially not paler than adaxially; fruit ascending to pendent, stalk-like base 1&ndash;10 mm; west or southwest edge of D
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RV28'">28.</a><a name="RV28."> </a> Banner 15&ndash;22 mm; fruit 15&ndash;27 mm, swollen, &plusmn; compressed side-to-side; leaflets > 17 or not <a href="/cgi-bin/get_IJM.pl?tid=14977">.....&nbsp;A. pachypus</a> varieties.
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RV28.">28'</a><a name="RV28'"> </a> Banner 12.6&ndash;15.7 mm; fruit 24&ndash;42 mm, &plusmn; linear, 3-sided; leaflets 17&ndash;27 <a href="/cgi-bin/get_IJM.pl?tid=15098">.....&nbsp;A. tricarinatus</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RV20.">20'</a><a name="RV20'"> </a> Fruit, ovary with at least some hairs (<I>Astragalus douglasii</I>, <I>Astragalus nutans</I> glabrous or not)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RV29'">29.</a><a name="RV29."> </a> Plant woolly- or wavy-hairy; stems &lt; 9 cm, generally densely tufted
+
+<P class="keyText" style="padding-left : 10 ; color:blue"><font color="blue">29a. Leaflets > 21, at least on some leaves; inflorescence 10&ndash;35-flowered; southwestern Utah, Arizona, very near California <a href="/cgi-bin/get_IJM.pl?tid=54953">.....&nbsp;A. tephrodes var. brachylobus</a></font>
+
+<P class="keyText" style="padding-left : 10 ; color:blue"><font color="blue">29a' Leaflets &lt;= 21 (rarely to 23 in <I>Astragalus layneae</I>); inflorescence often &lt; 10-flowered (10&ndash;45-flowered in <I>Astragalus layneae</I>); widespread</font>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RV30'">30.</a><a name="RV30."> </a> Keel 18&ndash;28 mm; fruit 1-chambered, densely white-hairy
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RV31'">31.</a><a name="RV31."> </a> Calyx with more black than white hairs; fruit 25&ndash;50 mm; leaf bases not notably persistent on crown; ne Desert Mountains (e of Death Valley) <a href="/cgi-bin/get_IJM.pl?tid=14839">.....&nbsp;A. funereus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RV31.">31'</a><a name="RV31'"> </a> Calyx generally with more white than black hairs; fruit 13&ndash;28 mm; leaf bases persistent on crown; widespread, including Desert Mountains <a href="/cgi-bin/get_IJM.pl?tid=54871">.....&nbsp;A. newberryi var. newberryi</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RV30.">30'</a><a name="RV30'"> </a> Keel generally &lt; 20 mm; fruit 2-chambered if densely white-hairy
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RV32'">32.</a><a name="RV32."> </a> Inflorescence 10&ndash;45-flowered; corolla 2-colored, &plusmn; white with keel tip, wing tips, and sometimes banner tip &plusmn; purple; fruit hairs spreading &mdash; plants from deep rhizomes (&plusmn; stemless plants of <I>Astragalus minthorniae</I> will key out here; see 36.) <a href="/cgi-bin/get_IJM.pl?tid=14886">.....&nbsp;A. layneae</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RV32.">32'</a><a name="RV32'"> </a> Inflorescence 3&ndash;16-flowered; corolla pink-purple or &plusmn; 2-colored (&plusmn; as at 33.); fruit hairs spreading or not
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RV33'">33.</a><a name="RV33."> </a> Keel 11.5&ndash;20.8 mm; petals pink-purple; fruit often &plusmn; 2-chambered, hairs spreading or not <a href="/cgi-bin/get_IJM.pl?tid=54914">.....&nbsp;A. purshii var. tinctus</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RV33.">33'</a><a name="RV33'"> </a> Keel 10&ndash;12 mm; petals &plusmn; white, tinged dull purple; fruit 1-chambered, hairs generally appressed <a href="/cgi-bin/get_IJM.pl?tid=15092">.....&nbsp;A. tidestromii</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RV29.">29'</a><a name="RV29'"> </a> Plant hairy to &plusmn; glabrous; stems generally > 9 cm (if &lt; 9 cm, plant generally not woolly- or wavy-hairy except sometimes in <I>Astragalus layneae</I>), tufted or not
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RV34'">34.</a><a name="RV34."> </a> Stem &lt;= 16 cm, from rhizome well below surface; corolla 2-colored, &plusmn; white with keel tip, wing tips, and sometimes banner tip &plusmn; purple <a href="/cgi-bin/get_IJM.pl?tid=14886">.....&nbsp;A. layneae</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RV34.">34'</a><a name="RV34'"> </a> Stem often > 15 cm, from crown at or &plusmn; below surface; corolla 1- or 2-colored (as at 35.).
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RV35'">35.</a><a name="RV35."> </a> Leaflet hairs 0 or few on margins, midrib on 1 or both sides; stalk-like fruit base 0 or 2&ndash;7 mm <a href="/cgi-bin/get_IJM.pl?tid=15007">.....&nbsp;A. preussii</a> varieties (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RV35.">35'</a><a name="RV35'"> </a> Leaflet hairs >= few, &plusmn; throughout 1 or both sides; stalk-like fruit base 0 or &lt; 3 mm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RV36'">36.</a><a name="RV36."> </a> Stem, leaf hairs &plusmn; spreading, curly or not, 0.8&ndash;1.5 mm; fruit shaggy-hairy, &plusmn; erect <a href="/cgi-bin/get_IJM.pl?tid=54837">.....&nbsp;A. minthorniae var. villosus</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RV36.">36'</a><a name="RV36'"> </a> Stem, leaf hairs appressed, not curly, if spreading then &lt; 0.8 mm; fruit often strigose or silky-canescent, erect to reflexed or pendent
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RV37'">37.</a><a name="RV37."> </a> Stem slender, wiry, incurved, generally &lt; 15 cm; petioles persistent, wiry; inflorescence 1&ndash;4-flowered &mdash; plants of limestone, resembling an unkempt nest <a href="/cgi-bin/get_IJM.pl?tid=14980">.....&nbsp;A. panamintensis</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RV37.">37'</a><a name="RV37'"> </a> Stem slender or coarse, if wiry then not incurved, often > 15 cm; petioles deciduous, not wiry; inflorescence often > 4-flowered
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RV38'">38.</a><a name="RV38."> </a> Petals dingy white at least at base, dull lilac on margins or tips; wings &plusmn; twisted, tips shortly fringed or notched; fruit pendent, &plusmn; compressed side-to-side, 2-chambered <a href="/cgi-bin/get_IJM.pl?tid=54636">.....&nbsp;A. atratus var. mensanus</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RV38.">38'</a><a name="RV38'"> </a> Petals pale yellow or white to &plusmn; purple; wings plane or curved, tips not fringed, not notched; fruit erect to reflexed, &plusmn; 3-sided or round in &times;-section, sometimes plump and widely grooved on upper side, 1- or 2-chambered
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RV39'">39.</a><a name="RV39."> </a> Fruit 2-chambered in middle, beak often 1-chambered; banner recurved 30&ndash;50&deg;
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RV40'">40.</a><a name="RV40."> </a> Leaflets generally > 11; fruit in &times;-section &plusmn; round, upper suture generally &plusmn; sunken in a wide channel; plant generally robust &mdash; fruit beak widely triangular, 1-chambered <a href="/cgi-bin/get_IJM.pl?tid=14890">.....&nbsp;A. lentiginosus</a> varieties (4)
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RV40.">40'</a><a name="RV40'"> </a> Leaflets 3&ndash;11; fruit &plusmn; 2- or 3-sided, upper suture raised; plant robust or delicate
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#RV41'">41.</a><a name="RV41."> </a> Fruit 10&ndash;18 mm, 2.8&ndash;3.5 mm wide, incurved, &plusmn; 3-sided; ovules 8&ndash;11; Cushenbury Canyon (ne San Bernardino Mountains, adjacent Mojave Desert) <a href="/cgi-bin/get_IJM.pl?tid=14672">.....&nbsp;A. albens</a> (2)
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#RV41.">41'</a><a name="RV41'"> </a> Fruit 13&ndash;32 mm, 3.5&ndash;8.5 mm wide, straight, &plusmn; 2-sided, or incurved, &plusmn; 3-sided; ovules 20&ndash;30; widespread in Mojave Desert <a href="/cgi-bin/get_IJM.pl?tid=14934">.....&nbsp;A. mohavensis</a> varieties (2)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RV39.">39'</a><a name="RV39'"> </a> Fruit 1-chambered; banner recurved 45&ndash;90&deg;
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RV42'">42.</a><a name="RV42."> </a> Of the following, all true: most leaves with > 19 leaflets; fruit bladdery; inflorescence generally > 12-flowered <a href="/cgi-bin/get_IJM.pl?tid=14806">.....&nbsp;A. douglasii</a> varieties.
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RV42.">42'</a><a name="RV42'"> </a> Of the following, 1 true: most leaves with &lt;&lt; 19 leaflets; fruit swollen but not bladdery; inflorescence &lt; 12-flowered
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#RV43'">43.</a><a name="RV43."> </a> Banner > 11 mm; calyx generally > 7 mm; fruit stiff-papery or leathery
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#RV44'">44.</a><a name="RV44."> </a> Keel &lt; 14 mm; fruit pendent to reflexed, 5&ndash;10 mm wide; East of Sierra Nevada, Desert Mountains (Inyo Co.) <a href="/cgi-bin/get_IJM.pl?tid=14744">.....&nbsp;A. casei</a>
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#RV44.">44'</a><a name="RV44'"> </a> Keel > 16 mm; fruit ascending or spreading, 10&ndash;14 mm wide; Sonoran Desert <a href="/cgi-bin/get_IJM.pl?tid=14781">.....&nbsp;A. crotalariae</a> (2)
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#RV43.">43'</a><a name="RV43'"> </a> Banner &lt; 11 mm; calyx 4&ndash;7 mm; fruit &plusmn; papery, &plusmn; bladdery, or inflated
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#RV45'">45.</a><a name="RV45."> </a> Inflorescence generally 10&ndash;40-flowered; petals generally bright pink-purple; w edge Sonoran Desert, adjacent foothills of San Bernardino Mountains, Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=14978">.....&nbsp;A. palmeri</a> (2)
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#RV45.">45'</a><a name="RV45'"> </a> Inflorescence often &lt; 10-flowered; petals &plusmn; white or pink-purple; c&e Sonoran Desert, e Mojave Desert
+
+<P class="keyText" style="padding-left : 98 ;"><a href="#RV46'">46.</a><a name="RV46."> </a> Petals &plusmn; white; leaflets 11&ndash;19; fruit beak short, obscure <a href="/cgi-bin/get_IJM.pl?tid=54615">.....&nbsp;A. allochrous var. playanus</a> (2)
+
+<P class="keyText" style="padding-left : 98 ;"><a href="#RV46.">46'</a><a name="RV46'"> </a> Petals pink-purple; leaflets 7&ndash;13; fruit beak deltate, compressed side-to-side
+
+<P class="keyText" style="padding-left : 105 ;"><a href="#RV47'">47.</a><a name="RV47."> </a> Banner 6.1&ndash;8 mm; ovules 8&ndash;12; n Desert Mountains (Panamint Range), > 2000 m <a href="/cgi-bin/get_IJM.pl?tid=14846">.....&nbsp;A. gilmanii</a>
+
+<P class="keyText" style="padding-left : 105 ;"><a href="#RV47.">47'</a><a name="RV47'"> </a> Banner 7.8&ndash;10.4 mm; ovules 19&ndash;24; se Desert Mountains, Sonoran Desert, &lt;= 2000 m <a href="/cgi-bin/get_IJM.pl?tid=14959">.....&nbsp;A. nutans</a> (2)</blockquote><blockquote><h3><a name=Group3>Group 3</a>:</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#RX1'">1.</a><a name="RX1."> </a> Terminal leaflet not or &plusmn; jointed to midrib, joint unlike that of lateral leaflet; lateral leaflets often reduced or 0, spaces between generally >> 1.5 &times; leaflet width; leaves few, sparse
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#RX2'">2.</a><a name="RX2."> </a> Fruit compressed side-to-side, base stalk-like; banner 9.4&ndash;12.2 mm <a href="/cgi-bin/get_IJM.pl?tid=14871">.....&nbsp;A. inversus</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#RX2.">2'</a><a name="RX2'"> </a> Fruit cylindric or &plusmn; compressed side-to-side, base not stalk-like; banner 17&ndash;26 mm <a href="/cgi-bin/get_IJM.pl?tid=54936">.....&nbsp;A. serenoi var. shockleyi</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#RX1.">1'</a><a name="RX1'"> </a> Terminal leaflet jointed to midrib, joint like that of lateral leaflet; lateral leaflets not reduced or 0, spaces between rarely > 1.5 &times; leaflet width; leaves generally many, not sparse
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#RX3'">3.</a><a name="RX3."> </a> Annual, slender, rarely persisting to 2nd season
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#RX4'">4.</a><a name="RX4."> </a> Banner 3&ndash;5 mm; fruit &lt;= 4 mm <a href="/cgi-bin/get_IJM.pl?tid=54713">.....&nbsp;A. didymocarpus var. dispermus</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#RX4.">4'</a><a name="RX4'"> </a> Banner 4.7&ndash;7.6 mm; fruit >= 12 mm
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RX5'">5.</a><a name="RX5."> </a> Fruit not inflated, 2&ndash;3 mm wide; leaflet adaxially &plusmn; appressed-hairy <a href="/cgi-bin/get_IJM.pl?tid=14661">.....&nbsp;A. acutirostris</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RX5.">5'</a><a name="RX5'"> </a> Fruit inflated, 6&ndash;10 mm wide; leaflet adaxially &plusmn; glabrous <a href="/cgi-bin/get_IJM.pl?tid=54745">.....&nbsp;A. geyeri var. geyeri</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#RX3.">3'</a><a name="RX3'"> </a> Perennial herb, often coarse &mdash; flower, fruit > 5 mm (fruit &lt; 5 in <I>Astragalus anxius</I>)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#RX6'">6.</a><a name="RX6."> </a> Leaf hairs branched
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RX7'">7.</a><a name="RX7."> </a> Leaflets 1&ndash;7 <a href="/cgi-bin/get_IJM.pl?tid=54654">.....&nbsp;A. calycosus var. calycosus</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RX7.">7'</a><a name="RX7'"> </a> Leaflets 7&ndash;25 <a href="/cgi-bin/get_IJM.pl?tid=54658">.....&nbsp;A. canadensis var. brevidens</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#RX6.">6'</a><a name="RX6'"> </a> Leaf hairs simple
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RX8'">8.</a><a name="RX8."> </a> Fruit densely white-hairy, resembling a cotton ball; stem 0&ndash;14 cm; plant hairs dense, of 2 kinds or not
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RX9'">9.</a><a name="RX9."> </a> Stems forming thickened crown covered by persistent leaf bases; longer hairs of leaf generally straight, some spreading; fruit hairs of 2 kinds, some curly, short, some &plusmn; straight, long (see also <I>Astragalus platytropis</I>) <a href="/cgi-bin/get_IJM.pl?tid=54871">.....&nbsp;A. newberryi var. newberryi</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RX9.">9'</a><a name="RX9'"> </a> Stems tufted or matted, leaf bases not persistent; longer hairs of leaf wavy, tangled; fruit hairs of 1 kind, &plusmn; wavy or straight <a href="/cgi-bin/get_IJM.pl?tid=15016">.....&nbsp;A. purshii</a> varieties.
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RX8.">8'</a><a name="RX8'"> </a> Fruit silvery-hairy or not, not resembling a cotton ball; stem often > 10 cm; plant hairs sparse or dense, generally not of 2 kinds
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RX10'">10.</a><a name="RX10."> </a> Calyx base strongly asymmetric, pedicel attached at lower side, upper &plusmn; pouched; petals white to &plusmn; yellow; fruit curved 1/4 to &plusmn; full circle, base stalk-like
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RX11'">11.</a><a name="RX11."> </a> Stem hairs subappressed or incurved; fruit 2.5&ndash;4.5 mm wide; lowest stipules not fused <a href="/cgi-bin/get_IJM.pl?tid=54696">.....&nbsp;A. curvicarpus var. curvicarpus</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RX11.">11'</a><a name="RX11'"> </a> Stem hairs generally spreading, straight; fruit 4&ndash;8 mm wide; lowest stipules fused around stem into sheath <a href="/cgi-bin/get_IJM.pl?tid=14843">.....&nbsp;A. gibbsii</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RX10.">10'</a><a name="RX10'"> </a> Calyx base &plusmn; symmetric, pedicel attached &plusmn; at middle, upper side &plusmn; not pouched; petals white, &plusmn; yellow, or purple-pink; fruit straight to curved &plusmn; full circle, base stalk-like or not
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RX12'">12.</a><a name="RX12."> </a> Fruit spreading or pendent, early &plusmn; flat, then bulged around seeds, base stalk-like; corolla white, pale yellow, or cream
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RX13'">13.</a><a name="RX13."> </a> Calyx, leaf hairs wavy, &plusmn; ascending or spreading; calyx > 6 mm <a href="/cgi-bin/get_IJM.pl?tid=14734">.....&nbsp;A. californicus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RX13.">13'</a><a name="RX13'"> </a> Calyx, leaf hairs &plusmn; straight, appressed; calyx generally &lt; 6 mm <a href="/cgi-bin/get_IJM.pl?tid=14830">.....&nbsp;A. filipes</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RX12.">12'</a><a name="RX12'"> </a> Fruit erect to pendent or reflexed, early &plusmn; swollen, then &plusmn; round, triangular, or 2-lobed in &times;-section, base stalk-like or not; corolla &plusmn; white, &plusmn; yellow, or &plusmn; purple
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RX14'">14.</a><a name="RX14."> </a> Stipule sheaths (on herbarium specimens or not) ruptured by stem expansion or not
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RX15'">15.</a><a name="RX15."> </a> Stalk-like fruit base >= 0.5 mm
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RX16'">16.</a><a name="RX16."> </a> Banner &lt; 6 mm; fruit body narrow, 7&ndash;11 mm, 3-sided <a href="/cgi-bin/get_IJM.pl?tid=14878">.....&nbsp;A. johannis-howellii</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RX16.">16'</a><a name="RX16'"> </a> Banner > 8 mm; fruit body bladdery, > 15 mm, &plusmn; round in &times;-section <a href="/cgi-bin/get_IJM.pl?tid=15121">.....&nbsp;A. whitneyi</a> varieties.
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RX15.">15'</a><a name="RX15'"> </a> Stalk-like fruit base 0 (see also <I>Astragalus johannis-howellii</I>, at 16.)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RX17'">17.</a><a name="RX17."> </a> Banner generally &lt; 9 mm (&lt; 10 mm in <I>Astragalus anxius</I>); fruit 1-chambered; stem delicate, 1&ndash;20 cm
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RX18'">18.</a><a name="RX18."> </a> Fruit generally compressed side-to-side, &plusmn; 3-sided, 3.5&ndash;4.5 mm, hairs subappressed, &plusmn; straight; banner 6.5&ndash;10 mm, recurved &plusmn; 60&ndash;80&deg; <a href="/cgi-bin/get_IJM.pl?tid=15132">.....&nbsp;A. anxius</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RX18.">18'</a><a name="RX18'"> </a> Fruit bladdery, &plusmn; round in &times;-section, 10&ndash;20 mm, hairs &plusmn; spreading; banner 5.2&ndash;8.5 mm, recurved 90&ndash;100&deg; <a href="/cgi-bin/get_IJM.pl?tid=15014">.....&nbsp;A. pulsiferae</a> varieties (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RX17.">17'</a><a name="RX17'"> </a> Banner often > 9 mm; fruit &plusmn; 2-chambered; stem often coarse, 0&ndash;35 cm
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RX19'">19.</a><a name="RX19."> </a> Herbage sparsely hairy or &plusmn; glabrous; flowers, fruits strongly ascending, crowded <a href="/cgi-bin/get_IJM.pl?tid=14668">.....&nbsp;A. agrestis</a> (2)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RX19.">19'</a><a name="RX19'"> </a> Herbage densely hairy; flowers &plusmn; ascending to spreading, fruits &plusmn; ascending, spreading, reflexed, or pendent, crowded or not
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RX20'">20.</a><a name="RX20."> </a> Plants cespitose; stem &lt; 2 cm; fruit bladdery <a href="/cgi-bin/get_IJM.pl?tid=14999">.....&nbsp;A. platytropis</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RX20.">20'</a><a name="RX20'"> </a> Plants tufted or loose-matted; stem > 5 cm; fruit not bladdery
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RX21'">21.</a><a name="RX21."> </a> Crown at surface; lowest few internodes above surface, densely white-tomentose; fruit &times;-section blunt-triangular <a href="/cgi-bin/get_IJM.pl?tid=14686">.....&nbsp;A. andersonii</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RX21.">21'</a><a name="RX21'"> </a> Crown below surface; lowest few internodes below surface, &plusmn; glabrous; fruit &times;-section oblong or blunt-triangular
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#RX22'">22.</a><a name="RX22."> </a> Keel 6.7&ndash;8 mm; fruit oblong in &times;-section, not fully 2-chambered, &plusmn; narrowed at sutures <a href="/cgi-bin/get_IJM.pl?tid=14943">.....&nbsp;A. monoensis</a>
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#RX22.">22'</a><a name="RX22'"> </a> Keel 10&ndash;12.2 mm; fruit bluntly 3-sided in &times;-section, fully 2-chambered, not narrowed at sutures <a href="/cgi-bin/get_IJM.pl?tid=15054">.....&nbsp;A. sepultipes</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RX14.">14'</a><a name="RX14'"> </a> Stipule sheaths &plusmn; 0 (lower stipules not or appearing not to be fused around stem into sheaths)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RX23'">23.</a><a name="RX23."> </a> Flowers 1&ndash;4 per inflorescence, strongly ascending; corolla pink-purple; stems low, tufted or matted, strigose to spreading-hairy <a href="/cgi-bin/get_IJM.pl?tid=54626">.....&nbsp;A. argophyllus var. argophyllus</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RX23.">23'</a><a name="RX23'"> </a> Flowers generally > 4 per inflorescence, strongly ascending to reflexed; corolla &plusmn; red-purple to white; stems low or not, tufted or not, rarely matted, &plusmn; glabrous to strigose to spreading-hairy
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RX24'">24.</a><a name="RX24."> </a> Fruit &plusmn; 1-chambered at mid-section, stalk-like base generally > 3 mm or 0
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RX25'">25.</a><a name="RX25."> </a> Stalk-like fruit base 2&ndash;12 mm
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RX26'">26.</a><a name="RX26."> </a> Stalk-like fruit base 3.5&ndash;12 mm; ovary, fruit glabrous <a href="/cgi-bin/get_IJM.pl?tid=14973">.....&nbsp;A. oophorus</a> varieties.
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RX26.">26'</a><a name="RX26'"> </a> Stalk-like base of fruit 2&ndash;5 mm; ovary, fruit &plusmn; hairy <a href="/cgi-bin/get_IJM.pl?tid=14872">.....&nbsp;A. inyoensis</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RX25.">25'</a><a name="RX25'"> </a> Stalk-like base of fruit 0
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RX27'">27.</a><a name="RX27."> </a> Keel &lt; 6 mm; fruit 10&ndash;20 mm, bladdery <a href="/cgi-bin/get_IJM.pl?tid=15014">.....&nbsp;A. pulsiferae</a> varieties (2)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RX27.">27'</a><a name="RX27'"> </a> Keel >= 8 mm; fruit 12&ndash;55 mm, swollen but not bladdery
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RX28'">28.</a><a name="RX28."> </a> Stem ascending or erect, not mat-forming; leaflets > 4 &times; longer than wide, spaces between >> width; keel > 10 mm <a href="/cgi-bin/get_IJM.pl?tid=14744">.....&nbsp;A. casei</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RX28.">28'</a><a name="RX28'"> </a> Stem &plusmn; prostrate to decumbent, &plusmn; mat-forming; leaflets &lt; 2.5 &times; longer than wide, spaces &lt;&lt; or &plusmn; = width; keel &lt; 10 mm
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#RX29'">29.</a><a name="RX29."> </a> Herbage, fruit hairs 0 or stiff, straight, appressed, &lt; 0.7 mm; among sagebrush, woodland to barren areas on gravels, sands, volcanic ash <a href="/cgi-bin/get_IJM.pl?tid=14873">.....&nbsp;A. iodanthus</a> varieties.
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#RX29.">29'</a><a name="RX29'"> </a> Herbage, fruit hairs soft, wavy, spreading, 0.7&ndash;1.2 mm; sandy flats, dunes <a href="/cgi-bin/get_IJM.pl?tid=15010">.....&nbsp;A. pseudiodanthus</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#RX24.">24'</a><a name="RX24'"> </a> Fruit &plusmn; 2-chambered at mid-section, stalk-like base generally &lt;= 3 mm or 0
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RX30'">30.</a><a name="RX30."> </a> Banner 4.8&ndash;6.1 mm; peduncles often in 2s or 3s in upper axils <a href="/cgi-bin/get_IJM.pl?tid=14888">.....&nbsp;A. lemmonii</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#RX30.">30'</a><a name="RX30'"> </a> Banner > 7 mm; peduncles generally in 1s in upper axils
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RX31'">31.</a><a name="RX31."> </a> Stipules 7&ndash;17 mm, &plusmn; white or pale yellow; fruit, herbage hairs &plusmn; 1.5&ndash;2.5 mm, spreading <a href="/cgi-bin/get_IJM.pl?tid=14919">.....&nbsp;A. malacus</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#RX31.">31'</a><a name="RX31'"> </a> Stipules &lt; 6 mm, often &plusmn; green; fruit, herbage hairs 0 or generally &lt; 1.5 mm, &plusmn; appressed
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RX32'">32.</a><a name="RX32."> </a> Fls, fruits in head-like racemes, strongly ascending; herbage sparsely hairy or &plusmn; glabrous <a href="/cgi-bin/get_IJM.pl?tid=14668">.....&nbsp;A. agrestis</a> (2)
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#RX32.">32'</a><a name="RX32'"> </a> Fls, fruits not in head-like racemes, generally spreading or reflexed; herbage &plusmn; glabrous to densely hairy
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#RX33'">33.</a><a name="RX33."> </a> Fruit erect, &lt; 4 mm wide, straight, beak slender, &plusmn; tooth-like <a href="/cgi-bin/get_IJM.pl?tid=14969">.....&nbsp;A. obscurus</a>
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#RX33.">33'</a><a name="RX33'"> </a> Fruit spreading or reflexed, generally > 4 mm wide, straight to curved, beak &plusmn; triangular
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#RX34'">34.</a><a name="RX34."> </a> Crown at surface; fruit not or &plusmn; curved, generally &plusmn; as deep as wide <a href="/cgi-bin/get_IJM.pl?tid=14890">.....&nbsp;A. lentiginosus</a> varieties.
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#RX34.">34'</a><a name="RX34'"> </a> Crown below surface; fruit curved at least 1/2 circle, wider than deep <a href="/cgi-bin/get_IJM.pl?tid=15010">.....&nbsp;A. pseudiodanthus</a> (2)</blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

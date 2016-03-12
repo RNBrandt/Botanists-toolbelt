@@ -1,0 +1,312 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Cordylanthus</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Cordylanthus
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=20306">Cordylanthus capitatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=20308">Cordylanthus eremicus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49960">Cordylanthus eremicus subsp. eremicus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49961">Cordylanthus eremicus subsp. kernensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49963">Cordylanthus kingii subsp. helleri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=20317">Cordylanthus nevinii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=20318">Cordylanthus nidularius
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=20322">Cordylanthus parviflorus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=20324">Cordylanthus pilosus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49972">Cordylanthus pilosus subsp. hansenii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49973">Cordylanthus pilosus subsp. pilosus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49975">Cordylanthus pilosus subsp. trifidus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=20327">Cordylanthus pringlei
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=20328">Cordylanthus ramosus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=20329">Cordylanthus rigidus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49979">Cordylanthus rigidus subsp. brevibracteatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49980">Cordylanthus rigidus subsp. littoralis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49981">Cordylanthus rigidus subsp. rigidus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49982">Cordylanthus rigidus subsp. setiger
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=20336">Cordylanthus tenuis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49983">Cordylanthus tenuis subsp. barbatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49984">Cordylanthus tenuis subsp. brunneus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49985">Cordylanthus tenuis subsp. capillaris
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49986">Cordylanthus tenuis subsp. pallescens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49987">Cordylanthus tenuis subsp. tenuis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49988">Cordylanthus tenuis subsp. viscidus
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=11352'><h3>View taxon page for Cordylanthus</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#YM1'">1.</a><a name="YM1."> </a> Mature corolla generally > 3 &times; longer than wide; seed netted; especially Great Basin Floristic Province and Desert in sagebrush or juniper scrub
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#YM2'">2.</a><a name="YM2."> </a> Calyx divided to base; corolla &plusmn; dusty yellow, often marked maroon <a href="/cgi-bin/get_IJM.pl?tid=20328">.....&nbsp;C. ramosus</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#YM2.">2'</a><a name="YM2'"> </a> Calyx tube 1&ndash;4 mm; corolla generally pink to maroon (&plusmn; yellow)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#YM3'">3.</a><a name="YM3."> </a> Fertile stamens 2; calyx divided &plusmn; 1/3 &mdash; Warner Mountains <a href="/cgi-bin/get_IJM.pl?tid=20306">.....&nbsp;C. capitatus</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#YM3.">3'</a><a name="YM3'"> </a> Fertile stamens 4; calyx shallowly notched
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#YM4'">4.</a><a name="YM4."> </a> Plant canescent, not glandular-sticky; outer bracts 3&ndash;7-lobed <a href="/cgi-bin/get_IJM.pl?tid=20308">.....&nbsp;C. eremicus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YM5'">5.</a><a name="YM5."> </a> Outer bracts sparsely scabrous, tips thickened, maroon <a href="/cgi-bin/get_IJM.pl?tid=49960">.....&nbsp;subsp. eremicus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YM5.">5'</a><a name="YM5'"> </a> Outer bracts distinctly bristly, tips not thickened, green <a href="/cgi-bin/get_IJM.pl?tid=49961">.....&nbsp;subsp. kernensis</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#YM4.">4'</a><a name="YM4'"> </a> Plant densely glandular-sticky; outer bracts generally 3- or 5-lobed
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YM6'">6.</a><a name="YM6."> </a> Inflorescence a spike, 2&ndash;3 cm; corolla lips &plusmn; equal; inner bract pinnately lobed; s Modoc Plateau, East of Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=49963">.....&nbsp;C. kingii subsp. helleri</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YM6.">6'</a><a name="YM6'"> </a> Flowers 1 or 2&ndash;4 in loose clusters; lower corolla lip &lt;&lt; upper; inner bract generally entire; e Desert Mountains <a href="/cgi-bin/get_IJM.pl?tid=20322">.....&nbsp;C. parviflorus</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#YM1.">1'</a><a name="YM1'"> </a> Mature corolla 2&ndash;3 &times; longer than wide; seed finely wavy-striate; especially California Floristic Province in foothill woodland
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#YM7'">7.</a><a name="YM7."> </a> Outer bracts fan-shaped, shallowly 3&ndash;7-lobed; inner bract and calyx tips rough-papillate; corolla 8&ndash;9 mm, pouch sides yellow &mdash; serpentine, North Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=20327">.....&nbsp;C. pringlei</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#YM7.">7'</a><a name="YM7'"> </a> Outer bracts entire to deeply 3-lobed; inner bract and calyx tips scabrous to puberulent; corolla 10&ndash;20 mm, pouch sides &plusmn; white
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#YM8'">8.</a><a name="YM8."> </a> Anther sac 1 (+ bearded vestige) per stamen; calyx tube &plusmn; 1 mm; outer bracts 3-lobed, &lt; flower &mdash; s High Sierra Nevada, Transverse Ranges, Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=20317">.....&nbsp;C. nevinii</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#YM8.">8'</a><a name="YM8'"> </a> Anther sacs 2 per stamen; calyx generally divided to base (except <I>Cordylanthus rigidus</I>); outer bracts entire or 3-lobed, generally >= flower
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#YM9'">9.</a><a name="YM9."> </a> Plant &plusmn; bristly (except <I>Cordylanthus rigidus</I> subsp. <I>littoralis</I>), hairs generally not glandular; flowers 5&ndash;15 in &plusmn; dense clusters; calyx tube 1&ndash;2 mm; corolla maroon in U-shape on lower side <a href="/cgi-bin/get_IJM.pl?tid=20329">.....&nbsp;C. rigidus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YM10'">10.</a><a name="YM10."> </a> Outer bract &lt; flower, generally 5&ndash;10 mm, middle lobe oblong &mdash; s High Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=49979">.....&nbsp;subsp. brevibracteatus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YM10.">10'</a><a name="YM10'"> </a> Outer bract generally > flower, 10&ndash;20 mm, middle lobe linear to lanceolate
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YM11'">11.</a><a name="YM11."> </a> Middle lobe of outer bract linear, tip wider, notched, thickened, maroon, marginal bristles > 2 &times; lobe width &mdash; Outer South Coast Ranges, Southwestern California <a href="/cgi-bin/get_IJM.pl?tid=49982">.....&nbsp;subsp. setiger</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YM11.">11'</a><a name="YM11'"> </a> Middle lobe of outer bract generally lanceolate or oblong, tip generally not wider, marginal bristles &plusmn; = lobe width
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YM12'">12.</a><a name="YM12."> </a> Plant puberulent or soft-hairy; outer bract weakly ciliate and puberulent, tip of middle lobe tapered; dunes, c&s Central Coast <a href="/cgi-bin/get_IJM.pl?tid=49980">.....&nbsp;subsp. littoralis</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YM12.">12'</a><a name="YM12'"> </a> Plant bristly; outer bracts &plusmn; scabrous, tip of middle lobe tapered or blunt and notched; especially chaparral, woodland, c&s Sierra Nevada, Central Western California (except n San Francisco Bay Area), Western Transverse Ranges, San Gabriel Mountains <a href="/cgi-bin/get_IJM.pl?tid=49981">.....&nbsp;subsp. rigidus</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#YM9.">9'</a><a name="YM9'"> </a> Plant soft-hairy, becoming glabrous, hairs glandular or not; flowers 1&ndash;7 in loose clusters; calyx divided to base; corolla veined, streaked or blotched maroon
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YM13'">13.</a><a name="YM13."> </a> Stem decumbent, branches ascending &lt; 15 cm; outer bracts 3-lobed near base &mdash; serpentine, ne San Francisco Bay Area <a href="/cgi-bin/get_IJM.pl?tid=20318">.....&nbsp;C. nidularius</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YM13.">13'</a><a name="YM13'"> </a> Stem erect, branches ascending generally > 20 cm; outer bracts entire or 3-lobed in distal 2/3
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YM14'">14.</a><a name="YM14."> </a> Main stem densely puberulent (partly glandular) and long-soft-hairy; tips of outer bracts (or middle lobes) > 1.5 mm wide, longest hairs 2&ndash;3 mm; corolla barely marked maroon <a href="/cgi-bin/get_IJM.pl?tid=20324">.....&nbsp;C. pilosus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YM15'">15.</a><a name="YM15."> </a> Outer bracts entire (tip wider, obtuse to 2-notched); North Coast Ranges, n San Francisco Bay Area <a href="/cgi-bin/get_IJM.pl?tid=49973">.....&nbsp;subsp. pilosus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YM15.">15'</a><a name="YM15'"> </a> Outer bracts 3-lobed; Cascade Range Foothills, n&c Sierra Nevada Foothills
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YM16'">16.</a><a name="YM16."> </a> Outer bracts lobed in distal 1/3, lateral lobes &lt; 3 mm; corolla >= calyx and inner bract <a href="/cgi-bin/get_IJM.pl?tid=49972">.....&nbsp;subsp. hansenii</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YM16.">16'</a><a name="YM16'"> </a> Outer bracts lobed in proximal 1/2; lateral lobes > 3 mm; corolla &lt; calyx and inner bract <a href="/cgi-bin/get_IJM.pl?tid=49975">.....&nbsp;subsp. trifidus</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YM14.">14'</a><a name="YM14'"> </a> Main stem &plusmn; glabrous to sparsely long-hairy or &plusmn; glandular; tips of outer bracts (or middle lobes) &lt; 1.5 mm wide, longest hairs &lt; 2 mm; corolla heavily blotched maroon <a href="/cgi-bin/get_IJM.pl?tid=20336">.....&nbsp;C. tenuis</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YM17'">17.</a><a name="YM17."> </a> Stem glabrous or minutely puberulent; leaves (or lobes) thread-like, tightly folded up, generally &plusmn; glabrous; serpentine outcrops &mdash; s North Coast Ranges
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YM18'">18.</a><a name="YM18."> </a> Outer bracts entire; stems minutely and sparsely glandular, especially proximal to flowers <a href="/cgi-bin/get_IJM.pl?tid=49984">.....&nbsp;subsp. brunneus</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YM18.">18'</a><a name="YM18'"> </a> Outer bracts 3-lobed; stems &plusmn; glabrous (not glandular proximal to flowers) &mdash; sw Outer North Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=49985">.....&nbsp;subsp. capillaris</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YM17.">17'</a><a name="YM17'"> </a> Stem generally puberulent and long-hairy, sometimes glandular; leaves (or lobes) linear to &plusmn; oblong, flat to channeled, puberulent and generally glandular; generally not on serpentine
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YM19'">19.</a><a name="YM19."> </a> Flowers 3&ndash;7 in dense clusters; outer bracts generally 3-lobed, densely soft-hairy; longest hairs of inner bract > 2 mm; s High Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=49983">.....&nbsp;subsp. barbatus</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YM19.">19'</a><a name="YM19'"> </a> Flowers 1&ndash;6 in loose clusters; outer bracts entire or 3-lobed, &plusmn; stiff-hairy; longest hairs of inner bract &lt; 1 mm
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YM20'">20.</a><a name="YM20."> </a> Outer bracts entire <a href="/cgi-bin/get_IJM.pl?tid=49987">.....&nbsp;subsp. tenuis</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YM20.">20'</a><a name="YM20'"> </a> Outer bracts 3-lobed
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#YM21'">21.</a><a name="YM21."> </a> Bracts and calyx yellow-green, puberulent, weakly glandular; flowers generally 3&ndash;6 per cluster &mdash; High Cascade Range <a href="/cgi-bin/get_IJM.pl?tid=49986">.....&nbsp;subsp. pallescens</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#YM21.">21'</a><a name="YM21'"> </a> Bracts and calyx green or maroon-tinged, glandular, puberulent and with long, stiff hairs; flowers 1&ndash;3 per cluster <a href="/cgi-bin/get_IJM.pl?tid=49988">.....&nbsp;subsp. viscidus</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

@@ -1,0 +1,230 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Search</title>
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<!-- Google analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+      <td colspan="5" align="center" valign="middle">&nbsp;</td>
+    </tr>
+
+  <tr>
+      <td rowspan="4" width="12" align="center" valign="middle"></td>
+      <td rowspan="3" width="120" align="center" valign="middle">
+        <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/logo_jeps_80.png" alt="Jepson Herbarium (JEPS)" width="80" height="79" border="0" /></a></td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle"></td>
+    <td rowspan="4" width="12" align="center" valign="middle"></td>
+  </tr>
+    <tr>
+
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+    <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+   </tr>
+
+     <tr>
+     <td colspan="3" align="center"></td>
+
+   </tr>
+     
+   <tr>
+       <td height="8" colspan="5" align="center">&nbsp;</td>
+     </tr>
+   <tr class="bannerBottomBorder">
+     	<td colspan="6" height="3"></td>
+  </tr>
+
+    <tr>
+
+    <td colspan="6"><img src="http://ucjeps.berkeley.edu/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  </table>
+<!-- End banner -->
+
+<!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+            	<li><a href="http://ucjeps.berkeley.edu/images/">UC/JEPS Image Collection</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+<table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora:</a> Search page</span>
+		<br>
+			<span class="pageAuthorLine">
+				<a href="http://ucjeps.berkeley.edu/IJM_fam_key.html">Key to families</a>
+				<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+			</span>	  
+		</td>
+	</tr>
+</table>
+
+<table align="center" width="100%"><tr><td>
+&nbsp;
+</td>
+<td width=90%">
+<!--eFlora index-->
+<span class="pageAuthorLine">Index to accepted names and synonyms:</span><br>
+| 	<a href="eflora_index.php?index=A">A</a> | 
+	<a href="eflora_index.php?index=B">B</a> | 
+	<a href="eflora_index.php?index=C">C</a> | 
+	<a href="eflora_index.php?index=D">D</a> | 
+	<a href="eflora_index.php?index=E">E</a> | 
+	<a href="eflora_index.php?index=F">F</a> | 
+	<a href="eflora_index.php?index=G">G</a> | 
+	<a href="eflora_index.php?index=H">H</a> | 
+	<a href="eflora_index.php?index=I">I</a> | 
+	<a href="eflora_index.php?index=J">J</a> | 
+	<a href="eflora_index.php?index=K">K</a> | 
+	<a href="eflora_index.php?index=L">L</a> | 
+	<a href="eflora_index.php?index=M">M</a> | 
+	<a href="eflora_index.php?index=N">N</a> | 
+	<a href="eflora_index.php?index=O">O</a> | 
+	<a href="eflora_index.php?index=P">P</a> | 
+	<a href="eflora_index.php?index=Q">Q</a> | 
+	<a href="eflora_index.php?index=R">R</a> | 
+	<a href="eflora_index.php?index=S">S</a> | 
+	<a href="eflora_index.php?index=T">T</a> | 
+	<a href="eflora_index.php?index=U">U</a> | 
+	<a href="eflora_index.php?index=V">V</a> | 
+	<a href="eflora_index.php?index=W">W</a> | 
+	<a href="eflora_index.php?index=X">X</a> | 
+	<a href="eflora_index.php?index=Y">Y</a> | 
+	<a href="eflora_index.php?index=Z">Z</a> |
+<hr width="10%">
+</td>
+
+<td align="right">
+&nbsp;
+</td></tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+<form action="search_eflora.php" method="POST">
+<b>Scientific Name<br></b>		<input type="text" id="query_text" name="query"></input>
+		<input type="submit" value="Submit Name" />
+</form>
+
+<p class="bodyText">Index Page: I<p><div class="eFloraTable"><table border="1"><tr><td>Scientific Name</td><td>Common Name</td><td></td></tr><tr><td><a href="eflora_display.php?tid=10591">Iberis</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=70">Iberis sempervirens</a><br>(Under Brassicaceae (Cruciferae))</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=10591">Iberis sempervirens</a><br>(Under Iberis)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=28862">Iberis umbellata</a></td><td>GLOBE CANDYTUFT</td><td>Waif</td><tr><td><a href="eflora_display.php?tid=77314">Ibicella lutea</a><br>(Under Proboscidea lutea)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=10592">Idahoa</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=28891">Idahoa scapigera</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=9197">Ilex</a></td><td>HOLLY</td><td></td><tr><td><a href="eflora_display.php?tid=28898">Ilex aquifolium</a></td><td>ENGLISH HOLLY</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=9197">Ilex cornuta</a><br>(Under Ilex)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=9574">Iliamna</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9574">&#x21b3;&nbsp;&nbsp;Key to Iliamna</td><td>GLOBE MALLOW</td><td></td><tr><td><a href="eflora_display.php?tid=28933">Iliamna bakeri</a></td><td>BAKER'S GLOBE MALLOW</td><td>Native</td><tr><td><a href="eflora_display.php?tid=28937">Iliamna latibracteata</a></td><td>CALIFORNIA GLOBE MALLOW</td><td>Native</td><tr><td><a href="eflora_display.php?tid=28939">Iliamna rivularis</a></td><td>STREAMBANK WILD HOLLYHOCK</td><td>Native</td><tr><td><a href="eflora_display.php?tid=9776">Impatiens</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9776">&#x21b3;&nbsp;&nbsp;Key to Impatiens</td><td>TOUCH-ME-NOT, JEWELWEED</td><td></td><tr><td><a href="eflora_display.php?tid=28954">Impatiens balfourii</a></td><td>KASHMIR BALSAM</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=28956">Impatiens capensis</a></td><td>SPOTTED JEWELWEED</td><td>Waif</td><tr><td><a href="eflora_display.php?tid=28956">Impatiens ecalcarata</a><br>(Under Impatiens capensis)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=28961">Impatiens glandulifera</a></td><td>POLICEMAN'S HELMET</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=28956">Impatiens noli-tangere</a><br>(Under Impatiens capensis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=11087">Imperata</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=28970">Imperata brevifolia</a></td><td>CALIFORNIA SATINTAIL</td><td>Native</td><tr><td><a href="eflora_display.php?tid=58">Inula helenium</a><br>(Under Asteraceae (Compositae))</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=10400">Ionactis</a></td><td>ASTER</td><td></td><tr><td><a href="eflora_display.php?tid=29007">Ionactis alpina</a></td><td>LAVA-ASTER, CRAG-ASTER</td><td>Native</td><tr><td><a href="eflora_display.php?tid=9528">Ipheion</a></td><td>STAR FLOWER</td><td></td><tr><td><a href="eflora_display.php?tid=29021">Ipheion uniflorum</a></td><td></td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=11478">Ipomoea</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=11478">&#x21b3;&nbsp;&nbsp;Key to Ipomoea</td><td>MORNING-GLORY</td><td></td><tr><td><a href="eflora_display.php?tid=29055">Ipomoea acuminata</a><br>(Under Ipomoea indica)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=11478">Ipomoea batatas</a><br>(Under Ipomoea)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=29028">Ipomoea cairica</a></td><td></td><td>Waif</td><tr><td><a href="eflora_display.php?tid=29048">Ipomoea hederacea</a></td><td>IVY MORNING-GLORY</td><td>Waif</td><tr><td><a href="eflora_display.php?tid=29055">Ipomoea indica</a></td><td></td><td>Urban weed</td><tr><td><a href="eflora_display.php?tid=11478">Ipomoea lacunosa</a><br>(Under Ipomoea)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=105">Ipomoea mutabilis</a><br>(Under Convolvulaceae)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=105">Ipomoea nil</a><br>(Under Convolvulaceae)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=29048">Ipomoea nil</a><br>(Under Ipomoea hederacea)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=29028">Ipomoea palmata</a><br>(Under Ipomoea cairica)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29085">Ipomoea purpurea</a></td><td>COMMON MORNING-GLORY</td><td>Waif</td><tr><td><a href="eflora_display.php?tid=29104">Ipomoea triloba</a></td><td></td><td>Agricultural weed</td><tr><td><a href="eflora_display.php?tid=8868">Ipomopsis</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=8868">&#x21b3;&nbsp;&nbsp;Key to Ipomopsis</td><td>SCARLET GILIA</td><td></td><tr><td><a href="eflora_display.php?tid=29129">Ipomopsis aggregata</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=51025">Ipomopsis aggregata subsp. aggregata</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29132">Ipomopsis aggregata subsp. arizonica</a><br>(Under Ipomopsis arizonica)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29156">Ipomopsis aggregata subsp. attenuata</a><br>(Under Ipomopsis tenuituba)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=51027">Ipomopsis aggregata subsp. bridgesii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=51025">Ipomopsis aggregata subsp. formosissima</a><br>(Under Ipomopsis aggregata subsp. aggregata)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29132">Ipomopsis arizonica</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29133">Ipomopsis congesta</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=51035">Ipomopsis congesta subsp. congesta</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=51038">Ipomopsis congesta subsp. montana</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=51038">Ipomopsis congesta subsp. palmifrons</a><br>(Under Ipomopsis congesta subsp. montana)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=80353">Ipomopsis depressa</a><br>(Under Loeseliastrum depressum)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=8868">Ipomopsis depressa</a><br>(Under Ipomopsis)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=29137">Ipomopsis effusa</a></td><td>BAJA CALIFORNIA IPOMOPSIS</td><td>Extirpated waif</td><tr><td><a href="eflora_display.php?tid=29149">Ipomopsis polycladon</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29155">Ipomopsis tenuifolia</a></td><td>SLENDER-LEAVED IPOMOPSIS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29156">Ipomopsis tenuituba</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=160">Iridaceae</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=160">&#x21b3;&nbsp;&nbsp;Key to Iridaceae</td><td>IRIS FAMILY</td><td></td><tr><td><a href="eflora_display.php?tid=9434">Iris</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9434">&#x21b3;&nbsp;&nbsp;Key to Iris</td><td>IRIS</td><td></td><tr><td><a href="eflora_display.php?tid=29289">Iris amabilis</a><br>(Under Iris macrosiphon)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29181">Iris bracteata</a></td><td>SISKIYOU IRIS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29289">Iris californica</a><br>(Under Iris macrosiphon)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29186">Iris chrysophylla</a></td><td>YELLOW-FLOWERED IRIS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29188">Iris douglasiana</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29188">Iris douglasiana var. altissima</a><br>(Under Iris douglasiana)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29188">Iris douglasiana var. major</a><br>(Under Iris douglasiana)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29188">Iris douglasiana var. oregonensis</a><br>(Under Iris douglasiana)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29191">Iris fernaldii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29193">Iris foetidissima</a></td><td>CORAL IRIS</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=29198">Iris germanica</a></td><td></td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=29211">Iris hartwegii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=51054">Iris hartwegii subsp. australis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=51055">Iris hartwegii subsp. columbiana</a></td><td>TUOLUMNE IRIS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=51056">Iris hartwegii subsp. hartwegii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=51057">Iris hartwegii subsp. pinetorum</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29284">Iris innominata</a></td><td>DEL NORTE COUNTY IRIS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29293">Iris longipetala</a></td><td>COAST IRIS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29289">Iris macrosiphon</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29292">Iris missouriensis</a></td><td>WESTERN BLUE FLAG</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29292">Iris montana</a><br>(Under Iris missouriensis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29296">Iris munzii</a></td><td>MUNZ'S IRIS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29301">Iris pseudacorus</a></td><td></td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=29303">Iris purdyi</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=51063">Iris tenax subsp. klamathensis</a></td><td>ORLEANS IRIS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29318">Iris tenuissima</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=51067">Iris tenuissima subsp. purdyiformis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=51068">Iris tenuissima subsp. tenuissima</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29321">Iris thompsonii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=10595">Isatis</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=29342">Isatis tinctoria</a></td><td>WOAD</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=58">Ismelia carinata</a><br>(Under Asteraceae (Compositae))</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=487">Isocoma</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=487">&#x21b3;&nbsp;&nbsp;Key to Isocoma</td><td>GOLDENBUSH</td><td></td><tr><td><a href="eflora_display.php?tid=3630">Isocoma acradenia</a></td><td>ALKALI GOLDENBUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=7744">Isocoma acradenia var. acradenia</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=7745">Isocoma acradenia var. bracteosa</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=7746">Isocoma acradenia var. eremophila</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=3633">Isocoma arguta</a></td><td>CARQUINEZ GOLDENBUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=3640">Isocoma menziesii</a></td><td>COASTAL GOLDENBUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=7751">Isocoma menziesii subsp. oxyphylla</a><br>(Under Isocoma menziesii var. menziesii)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=7749">Isocoma menziesii var. decumbens</a></td><td>DECUMBENT GOLDENBUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=7750">Isocoma menziesii var. diabolica</a></td><td>SATAN'S GOLDENBUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=7751">Isocoma menziesii var. menziesii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=7752">Isocoma menziesii var. sedoides</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=7753">Isocoma menziesii var. vernonioides</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=487">Isocoma tenuisecta</a><br>(Under Isocoma)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=13">Isoetaceae</a></td><td>QUILLWORT FAMILY</td><td></td><tr><td><a href="eflora_display.php?tid=9464">Isoetes</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9464">&#x21b3;&nbsp;&nbsp;Key to Isoetes</td><td>QUILLWORT</td><td></td><tr><td><a href="eflora_display.php?tid=29370">Isoetes bolanderi</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29370">Isoetes bolanderi var. bolanderi</a><br>(Under Isoetes bolanderi)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29370">Isoetes bolanderi var. pygmaea</a><br>(Under Isoetes bolanderi)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29379">Isoetes braunii</a><br>(Under Isoetes echinospora)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29379">Isoetes echinospora</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29392">Isoetes howellii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29392">Isoetes howellii var. minima</a><br>(Under Isoetes howellii)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=29404">Isoetes lacustris var. paupercula</a><br>(Under Isoetes occidentalis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29379">Isoetes muricata</a><br>(Under Isoetes echinospora)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29402">Isoetes nuttallii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29404">Isoetes occidentalis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29403">Isoetes orcuttii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=68683">Isolepis</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=68683">&#x21b3;&nbsp;&nbsp;Key to Isolepis</td><td></td><td></td><tr><td><a href="eflora_display.php?tid=80405">Isolepis carinata</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=80405">Isolepis carinata</a><br>(Under Isolepis carinata)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=79218">Isolepis cernua</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=80405">Isolepis koilolepis</a><br>(Under Isolepis carinata)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=82548">Isolepis levynsiana</a></td><td></td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=29420">Isolepis setacea</a></td><td></td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=82548">Isolepis tenella</a><br>(Under Isolepis levynsiana)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=91907">Isomeris arborea</a><br>(Under Peritoma arborea)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=91922">Isomeris arborea var. angustata</a><br>(Under Peritoma arborea var. angustata)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=91923">Isomeris arborea var. arborea</a><br>(Under Peritoma arborea var. arborea)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=91924">Isomeris arborea var. globosa</a><br>(Under Peritoma arborea var. globosa)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=91924">Isomeris arborea var. insularis</a><br>(Under Peritoma arborea var. globosa)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=24250">Isopyrum occidentale</a><br>(Under Enemion occidentale)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=24252">Isopyrum stipitatum</a><br>(Under Enemion stipitatum)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=14232">Isotrema californicum</a><br>(Under Aristolochia californica)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=488">Iva</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=488">&#x21b3;&nbsp;&nbsp;Key to Iva</td><td>MARSH-ELDER</td><td></td><tr><td><a href="eflora_display.php?tid=91799">Iva acerosa</a><br>(Under Euphrosyne acerosa)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=3654">Iva axillaris</a></td><td>POVERTY WEED</td><td>Native</td><tr><td><a href="eflora_display.php?tid=3654">Iva axillaris subsp. robustior</a><br>(Under Iva axillaris)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=3654">Iva axillaris var. robustior</a><br>(Under Iva axillaris)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=3658">Iva hayesiana</a></td><td>SAN DIEGO MARSH-ELDER</td><td>Native</td><tr><td><a href="eflora_display.php?tid=91800">Iva nevadensis</a><br>(Under Euphrosyne nevadensis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=11239">Ivesia</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=11239">&#x21b3;&nbsp;&nbsp;Key to Ivesia</td><td></td><td></td><tr><td><a href="eflora_display.php?tid=29437">Ivesia aperta</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=60272">Ivesia aperta var. aperta</a></td><td>SIERRA VALLEY IVESIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=60273">Ivesia aperta var. canina</a></td><td>DOG VALLEY IVESIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=86350">Ivesia argyrocoma var. argyrocoma</a></td><td>SILVER-HAIRED IVESIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=86350">Ivesia argyrocoma var. moranii</a><br>(Under Ivesia argyrocoma var. argyrocoma)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=60274">Ivesia arizonica var. arizonica</a></td><td>YELLOW PURPUSIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=60274">Ivesia arizonica var. saxosa</a><br>(Under Ivesia arizonica var. arizonica)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=29440">Ivesia baileyi</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=60276">Ivesia baileyi var. baileyi</a></td><td>BAILEY'S IVESIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=60277">Ivesia baileyi var. beneolens</a></td><td>OWYHEE IVESIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29442">Ivesia callida</a></td><td>TAHQUITZ IVESIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29443">Ivesia campestris</a></td><td>FIELD IVESIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29445">Ivesia gordonii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=81850">Ivesia gordonii var. alpicola</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=81852">Ivesia gordonii var. ursinorum</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29446">Ivesia jaegeri</a></td><td>JAEGER'S IVESIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=72590">Ivesia kingii var. eremica</a><br>(Under Ivesia kingii var. kingii)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=72590">Ivesia kingii var. kingii</a></td><td>ALKALI IVESIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29449">Ivesia longibracteata</a></td><td>CASTLE CRAGS IVESIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29450">Ivesia lycopodioides</a></td><td>CLUB-MOSS IVESIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=81854">Ivesia lycopodioides subsp. lycopodioides</a><br>(Under Ivesia lycopodioides var. lycopodioides)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=81853">Ivesia lycopodioides subsp. megalopetala</a><br>(Under Ivesia lycopodioides var. megalopetala)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=81855">Ivesia lycopodioides subsp. scandularis</a><br>(Under Ivesia lycopodioides var. scandularis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=81854">Ivesia lycopodioides var. lycopodioides</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=81853">Ivesia lycopodioides var. megalopetala</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=81855">Ivesia lycopodioides var. scandularis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29451">Ivesia muirii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29453">Ivesia paniculata</a></td><td>ASH CREEK IVESIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29454">Ivesia patellifera</a></td><td>KINGSTON MOUNTAINS IVESIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29455">Ivesia pickeringii</a></td><td>PICKERING'S IVESIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29462">Ivesia pityocharis</a><br>(Under Ivesia sericoleuca)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=77210">Ivesia purpurascens subsp. congdonis</a><br>(Under Horkeliella congdonis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=77211">Ivesia purpurascens subsp. purpurascens</a><br>(Under Horkeliella purpurascens)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29458">Ivesia pygmaea</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29453">Ivesia rhypara</a><br>(Under Ivesia paniculata)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=29461">Ivesia santolinoides</a></td><td>MOUSETAIL IVESIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29469">Ivesia saxosa</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29462">Ivesia sericoleuca</a></td><td>PLUMAS IVESIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=60283">Ivesia shockleyi var. ostleri</a><br>(Under Ivesia shockleyi var. shockleyi)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=60283">Ivesia shockleyi var. shockleyi</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29465">Ivesia unguiculata</a></td><td>YOSEMITE IVESIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29467">Ivesia webberi</a></td><td>WEBBER'S IVESIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=9435">Ixia</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=29471">Ixia maculata</a></td><td>AFRICAN CORNLILY</td><td>Waif</td></table></div><br>
+<a href="mailto:interchange@lists.berkeley.edu"><span class="feedbackLink">Feedback/Contact<span></a><br>
+</td>
+</tr>
+</table>
+
+
+
+<!--Begin footer-->
+<table width="100%" id="footer">
+  <tr>
+    <td height="18" class="banner"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  <tr>
+    <td height="20"><span class="copyrightText"><a href="http://ucjeps.berkeley.edu/main/copyright.html"> Copyright</a> &copy; 2016  Regents of the University of California
+<br>We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.</span></td>
+  </tr>
+</table>
+<!--End footer-->

@@ -1,0 +1,230 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Search</title>
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<!-- Google analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+      <td colspan="5" align="center" valign="middle">&nbsp;</td>
+    </tr>
+
+  <tr>
+      <td rowspan="4" width="12" align="center" valign="middle"></td>
+      <td rowspan="3" width="120" align="center" valign="middle">
+        <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/logo_jeps_80.png" alt="Jepson Herbarium (JEPS)" width="80" height="79" border="0" /></a></td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle"></td>
+    <td rowspan="4" width="12" align="center" valign="middle"></td>
+  </tr>
+    <tr>
+
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+    <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+   </tr>
+
+     <tr>
+     <td colspan="3" align="center"></td>
+
+   </tr>
+     
+   <tr>
+       <td height="8" colspan="5" align="center">&nbsp;</td>
+     </tr>
+   <tr class="bannerBottomBorder">
+     	<td colspan="6" height="3"></td>
+  </tr>
+
+    <tr>
+
+    <td colspan="6"><img src="http://ucjeps.berkeley.edu/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  </table>
+<!-- End banner -->
+
+<!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+            	<li><a href="http://ucjeps.berkeley.edu/images/">UC/JEPS Image Collection</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+<table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora:</a> Search page</span>
+		<br>
+			<span class="pageAuthorLine">
+				<a href="http://ucjeps.berkeley.edu/IJM_fam_key.html">Key to families</a>
+				<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+			</span>	  
+		</td>
+	</tr>
+</table>
+
+<table align="center" width="100%"><tr><td>
+&nbsp;
+</td>
+<td width=90%">
+<!--eFlora index-->
+<span class="pageAuthorLine">Index to accepted names and synonyms:</span><br>
+| 	<a href="eflora_index.php?index=A">A</a> | 
+	<a href="eflora_index.php?index=B">B</a> | 
+	<a href="eflora_index.php?index=C">C</a> | 
+	<a href="eflora_index.php?index=D">D</a> | 
+	<a href="eflora_index.php?index=E">E</a> | 
+	<a href="eflora_index.php?index=F">F</a> | 
+	<a href="eflora_index.php?index=G">G</a> | 
+	<a href="eflora_index.php?index=H">H</a> | 
+	<a href="eflora_index.php?index=I">I</a> | 
+	<a href="eflora_index.php?index=J">J</a> | 
+	<a href="eflora_index.php?index=K">K</a> | 
+	<a href="eflora_index.php?index=L">L</a> | 
+	<a href="eflora_index.php?index=M">M</a> | 
+	<a href="eflora_index.php?index=N">N</a> | 
+	<a href="eflora_index.php?index=O">O</a> | 
+	<a href="eflora_index.php?index=P">P</a> | 
+	<a href="eflora_index.php?index=Q">Q</a> | 
+	<a href="eflora_index.php?index=R">R</a> | 
+	<a href="eflora_index.php?index=S">S</a> | 
+	<a href="eflora_index.php?index=T">T</a> | 
+	<a href="eflora_index.php?index=U">U</a> | 
+	<a href="eflora_index.php?index=V">V</a> | 
+	<a href="eflora_index.php?index=W">W</a> | 
+	<a href="eflora_index.php?index=X">X</a> | 
+	<a href="eflora_index.php?index=Y">Y</a> | 
+	<a href="eflora_index.php?index=Z">Z</a> |
+<hr width="10%">
+</td>
+
+<td align="right">
+&nbsp;
+</td></tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+<form action="search_eflora.php" method="POST">
+<b>Scientific Name<br></b>		<input type="text" id="query_text" name="query"></input>
+		<input type="submit" value="Submit Name" />
+</form>
+
+<p class="bodyText">Index Page: F<p><div class="eFloraTable"><table border="1"><tr><td>Scientific Name</td><td>Common Name</td><td></td></tr><tr><td><a href="eflora_display.php?tid=134">Fabaceae (Leguminosae)</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=134">&#x21b3;&nbsp;&nbsp;Key to Fabaceae (Leguminosae)</td><td>LEGUME FAMILY</td><td></td><tr><td><a href="eflora_display.php?tid=135">Fagaceae</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=135">&#x21b3;&nbsp;&nbsp;Key to Fagaceae</td><td>OAK FAMILY</td><td></td><tr><td><a href="eflora_display.php?tid=9713">Fagonia</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9713">&#x21b3;&nbsp;&nbsp;Key to Fagonia</td><td></td><td></td><tr><td><a href="eflora_display.php?tid=25737">Fagonia californica subsp. laevis</a><br>(Under Fagonia laevis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25737">Fagonia californica subsp. longipes</a><br>(Under Fagonia laevis)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=25739">Fagonia californica subsp. pachyacantha</a><br>(Under Fagonia pachyacantha)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25737">Fagonia laevis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=25737">Fagonia longipes</a><br>(Under Fagonia laevis)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=25739">Fagonia pachyacantha</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=77487">Fagopyrum esculentum</a><br>(Under Polygonaceae)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=68509">Fallopia</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=68509">&#x21b3;&nbsp;&nbsp;Key to Fallopia</td><td></td><td></td><tr><td><a href="eflora_display.php?tid=25752">Fallopia aubertii</a><br>(Under Fallopia baldschuanica)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25752">Fallopia baldschuanica</a></td><td>BUKHARA FLEECEFLOWER</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=25754">Fallopia convolvulus</a></td><td>BLACK BINDWEED</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=82464">Fallopia japonica</a></td><td>JAPANESE KNOTWEED</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=82465">Fallopia sachalinensis</a></td><td>GIANT KNOTWEED</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=11232">Fallugia</a></td><td>APACHE PLUME</td><td></td><tr><td><a href="eflora_display.php?tid=25756">Fallugia paradoxa</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=9628">Fendlerella</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=25764">Fendlerella utahensis</a></td><td>YERBA DESIERTO</td><td>Native</td><tr><td><a href="eflora_display.php?tid=10633">Ferocactus</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=10633">&#x21b3;&nbsp;&nbsp;Key to Ferocactus</td><td>BARREL CACTUS</td><td></td><tr><td><a href="eflora_display.php?tid=25765">Ferocactus acanthodes</a><br>(Under Ferocactus cylindraceus)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25765">Ferocactus cylindraceus</a></td><td>CALIFORNIA BARREL CACTUS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=25765">Ferocactus cylindraceus var. cylindraceus</a><br>(Under Ferocactus cylindraceus)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25765">Ferocactus cylindraceus var. lecontei</a><br>(Under Ferocactus cylindraceus)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25772">Ferocactus viridescens</a></td><td>SAN DIEGO BARREL CACTUS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=25772">Ferocactus viridescens var. viridescens</a><br>(Under Ferocactus viridescens)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=11066">Festuca</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=11066">&#x21b3;&nbsp;&nbsp;Key to Festuca</td><td>FESCUE, RYE GRASS</td><td></td><tr><td><a href="eflora_display.php?tid=25825">Festuca ammobia</a><br>(Under Festuca rubra)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=25865">Festuca arida</a><br>(Under Festuca microstachys)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25783">Festuca arundinacea</a></td><td>TALL FESCUE</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=25817">Festuca brachyphylla</a><br>(Under Festuca minutiflora)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=50518">Festuca brachyphylla subsp. breviculmis</a></td><td>ALPINE FESCUE</td><td>Native</td><tr><td><a href="eflora_display.php?tid=50518">Festuca brachyphylla subsp. coloradensis</a><br>(Under Festuca brachyphylla subsp. breviculmis)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=25855">Festuca bromoides</a></td><td>BROME FESCUE</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=25791">Festuca californica</a></td><td>CALIFORNIA FESCUE</td><td>Native</td><tr><td><a href="eflora_display.php?tid=25791">Festuca californica subsp. hitchcockiana</a><br>(Under Festuca californica)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=25791">Festuca californica subsp. parishii</a><br>(Under Festuca californica)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=25791">Festuca californica var. parishii</a><br>(Under Festuca californica)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=25865">Festuca confusa</a><br>(Under Festuca microstachys)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25855">Festuca dertonensis</a><br>(Under Festuca bromoides)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25865">Festuca eastwoodiae</a><br>(Under Festuca microstachys)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25783">Festuca elatior</a><br>(Under Festuca arundinacea)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25822">Festuca elatior var. pratensis</a><br>(Under Festuca pratensis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25798">Festuca elmeri</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=25798">Festuca elmeri subsp. luxurians</a><br>(Under Festuca elmeri)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25865">Festuca grayi</a><br>(Under Festuca microstachys)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25798">Festuca howellii</a><br>(Under Festuca elmeri)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25808">Festuca idahoensis</a></td><td>IDAHO FESCUE, BLUE BUNCHGRASS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=25808">Festuca idahoensis subsp. roemeri</a><br>(Under Festuca idahoensis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25812">Festuca kingii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=25869">Festuca megalura</a><br>(Under Festuca myuros)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25865">Festuca microstachys</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=25865">Festuca microstachys var. ciliata</a><br>(Under Festuca microstachys)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25865">Festuca microstachys var. pauciflora</a><br>(Under Festuca microstachys)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25865">Festuca microstachys var. simulans</a><br>(Under Festuca microstachys)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25817">Festuca minutiflora</a></td><td>SMALL-FLOWERED FESCUE</td><td>Native</td><tr><td><a href="eflora_display.php?tid=25869">Festuca myuros</a></td><td>RATTAIL SIXWEEKS GRASS</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=25818">Festuca occidentalis</a></td><td>WESTERN FESCUE</td><td>Native</td><tr><td><a href="eflora_display.php?tid=25872">Festuca octoflora</a></td><td>SIXWEEKS GRASS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=25872">Festuca octoflora subsp. hirtella</a><br>(Under Festuca octoflora)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=50518">Festuca ovina</a><br>(Under Festuca brachyphylla subsp. breviculmis)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=25808">Festuca ovina</a><br>(Under Festuca idahoensis)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=25840">Festuca ovina</a><br>(Under Festuca trachyphylla)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=25865">Festuca pacifica</a><br>(Under Festuca microstachys)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=91964">Festuca perennis</a></td><td>RYE GRASS</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=25822">Festuca pratensis</a></td><td>MEADOW FESCUE</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=25865">Festuca reflexa</a><br>(Under Festuca microstachys)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25808">Festuca roemeri</a><br>(Under Festuca idahoensis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25808">Festuca roemeri var. klamathensis</a><br>(Under Festuca idahoensis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25825">Festuca rubra</a></td><td>RED FESCUE</td><td>Native</td><tr><td><a href="eflora_display.php?tid=25825">Festuca rubra subsp. arenicola</a><br>(Under Festuca rubra)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=25825">Festuca rubra subsp. densiuscula</a><br>(Under Festuca rubra)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=25825">Festuca rubra subsp. fallax</a><br>(Under Festuca rubra)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=25825">Festuca rubra subsp. pruinosa</a><br>(Under Festuca rubra)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=25833">Festuca saximontana</a></td><td>MOUNTAIN FESCUE</td><td>Native</td><tr><td><a href="eflora_display.php?tid=25833">Festuca saximontana var. purpusiana</a><br>(Under Festuca saximontana)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25833">Festuca saximontana var. saximontana</a><br>(Under Festuca saximontana)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25835">Festuca subulata</a></td><td>BEARDED FESCUE</td><td>Native</td><tr><td><a href="eflora_display.php?tid=25836">Festuca subuliflora</a></td><td>CRINKLE-AWN FESCUE</td><td>Native</td><tr><td><a href="eflora_display.php?tid=93753">Festuca temulenta</a></td><td>DARNEL, TARES</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=25840">Festuca trachyphylla</a></td><td>HARD or SHEEP FESCUE</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=25865">Festuca tracyi</a><br>(Under Festuca microstachys)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25845">Festuca viridula</a></td><td>MOUNTAIN BUNCH GRASS, GREEN FESCUE</td><td>Native</td><tr><td><a href="eflora_display.php?tid=9680">Ficus</a></td><td>FIG</td><td></td><tr><td><a href="eflora_display.php?tid=25883">Ficus carica</a></td><td>EDIBLE FIG</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=9680">Ficus palmata</a><br>(Under Ficus)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=9680">Ficus pseudocarica</a><br>(Under Ficus)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=436">Filago</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=85289">Filago arizonica</a><br>(Under Logfia arizonica)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=81847">Filago californica</a><br>(Under Logfia filaginoides)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=85270">Filago depressa</a><br>(Under Logfia depressa)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=31363">Filago gallica</a><br>(Under Logfia gallica)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=77425">Filago germanica</a><br>(Under Filago pyramidata var. pyramidata)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=77425">Filago pyramidata var. pyramidata</a></td><td>BROADLEAF COTTONROSE</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=8909">Fimbristylis</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=8909">&#x21b3;&nbsp;&nbsp;Key to Fimbristylis</td><td></td><td></td><tr><td><a href="eflora_display.php?tid=25922">Fimbristylis autumnalis</a></td><td></td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=16367">Fimbristylis capillaris</a><br>(Under Bulbostylis capillaris)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=8909">Fimbristylis miliacea</a><br>(Under Fimbristylis)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=25947">Fimbristylis thermalis</a></td><td>HOT SPRINGS FIMBRISTYLIS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=25951">Fimbristylis vahlii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=438">Flaveria</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=2989">Flaveria trinervia</a></td><td></td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=8855">Floerkea</a></td><td>FALSE MERMAID</td><td></td><tr><td><a href="eflora_display.php?tid=25965">Floerkea proserpinacoides</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=10189">Foeniculum</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=25972">Foeniculum vulgare</a></td><td>FENNEL</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=9745">Forestiera</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=25982">Forestiera neomexicana var. arizonica</a><br>(Under Forestiera pubescens)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25982">Forestiera neomexicana var. neomexicana</a><br>(Under Forestiera pubescens)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=25982">Forestiera pubescens</a></td><td>DESERT OLIVE</td><td>Native</td><tr><td><a href="eflora_display.php?tid=25982">Forestiera pubescens var. parviflora</a><br>(Under Forestiera pubescens)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=59588">Forsellesia arida</a><br>(Under Glossopetalon spinescens var. aridum)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=59588">Forsellesia nevadensis</a><br>(Under Glossopetalon spinescens var. aridum)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=27060">Forsellesia pungens</a><br>(Under Glossopetalon pungens)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=27060">Forsellesia pungens var. glabra</a><br>(Under Glossopetalon pungens)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=59588">Forsellesia stipulifera</a><br>(Under Glossopetalon spinescens var. aridum)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=9111">Fouquieria</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=77256">Fouquieria splendens subsp. splendens</a></td><td>OCOTILLO</td><td>Native</td><tr><td><a href="eflora_display.php?tid=137">Fouquieriaceae</a></td><td>OCOTILLO FAMILY</td><td></td><tr><td><a href="eflora_display.php?tid=11234">Fragaria</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=11234">&#x21b3;&nbsp;&nbsp;Key to Fragaria</td><td>STRAWBERRY</td><td></td><tr><td><a href="eflora_display.php?tid=26018">Fragaria chiloensis</a></td><td>BEACH STRAWBERRY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26018">Fragaria chiloensis subsp. lucida</a><br>(Under Fragaria chiloensis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26018">Fragaria chiloensis subsp. pacifica</a><br>(Under Fragaria chiloensis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26021">Fragaria crinita</a><br>(Under Fragaria vesca)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26021">Fragaria vesca</a></td><td>WOOD STRAWBERRY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26021">Fragaria vesca subsp. bracteata</a><br>(Under Fragaria vesca)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26021">Fragaria vesca subsp. californica</a><br>(Under Fragaria vesca)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26026">Fragaria virginiana</a></td><td>MOUNTAIN STRAWBERRY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26026">Fragaria virginiana subsp. platypetala</a><br>(Under Fragaria virginiana)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=8837">Frangula</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=8837">&#x21b3;&nbsp;&nbsp;Key to Frangula</td><td>COFFEE BERRY</td><td></td><tr><td><a href="eflora_display.php?tid=26041">Frangula californica</a></td><td>CALIFORNIA COFFEE BERRY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=50563">Frangula californica subsp. californica</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=50564">Frangula californica subsp. crassifolia</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=50565">Frangula californica subsp. cuspidata</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=50566">Frangula californica subsp. occidentalis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=50567">Frangula californica subsp. tomentella</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=50568">Frangula californica subsp. ursina</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=26043">Frangula purshiana</a></td><td>CASCARA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=85264">Frangula purshiana subsp. annonifolia</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=85263">Frangula purshiana subsp. purshiana</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=85262">Frangula purshiana subsp. ultramafica</a></td><td>CARIBOU COFFEE BERRY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26044">Frangula rubra</a></td><td>SIERRA COFFEE BERRY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=50569">Frangula rubra subsp. modocensis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=26044">Frangula rubra subsp. nevadensis</a><br>(Under Frangula rubra)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=50571">Frangula rubra subsp. obtusissima</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=50572">Frangula rubra subsp. rubra</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=50573">Frangula rubra subsp. yosemitana</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=9112">Frankenia</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9112">&#x21b3;&nbsp;&nbsp;Key to Frankenia</td><td>FRANKENIA</td><td></td><tr><td><a href="eflora_display.php?tid=26050">Frankenia grandifolia</a><br>(Under Frankenia salina)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26050">Frankenia grandifolia var. campestris</a><br>(Under Frankenia salina)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26048">Frankenia palmeri</a></td><td>PALMER'S FRANKENIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26049">Frankenia pulverulenta</a></td><td>EUROPEAN SEA HEATH</td><td>Waif</td><tr><td><a href="eflora_display.php?tid=26050">Frankenia salina</a></td><td>ALKALI HEATH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=138">Frankeniaceae</a></td><td>FRANKENIA FAMILY</td><td></td><tr><td><a href="eflora_display.php?tid=803">Franseria acanthicarpa</a><br>(Under Ambrosia acanthicarpa)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=804">Franseria ambrosioides</a><br>(Under Ambrosia ambrosioides)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=812">Franseria chamissonis</a><br>(Under Ambrosia chamissonis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=812">Franseria chamissonis subsp. bipinnatisecta</a><br>(Under Ambrosia chamissonis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=814">Franseria chenopodiifolia</a><br>(Under Ambrosia chenopodiifolia)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=815">Franseria confertiflora</a><br>(Under Ambrosia confertiflora)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=823">Franseria dumosa</a><br>(Under Ambrosia dumosa)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=828">Franseria ilicifolia</a><br>(Under Ambrosia ilicifolia)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=9246">Frasera</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9246">&#x21b3;&nbsp;&nbsp;Key to Frasera</td><td></td><td></td><tr><td><a href="eflora_display.php?tid=26069">Frasera albicaulis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=59218">Frasera albicaulis var. modocensis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=59219">Frasera albicaulis var. nitida</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=26073">Frasera albomarginata</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=59220">Frasera albomarginata var. albomarginata</a></td><td>DESERT GREEN-GENTIAN</td><td>Native</td><tr><td><a href="eflora_display.php?tid=59221">Frasera albomarginata var. induta</a></td><td>CLARK MOUNTAIN GREEN-GENTIAN</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26080">Frasera fastigiata</a><br>(Under Frasera umpquaensis)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=26083">Frasera neglecta</a></td><td>PINE GREEN-GENTIAN</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26085">Frasera parryi</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=26086">Frasera puberulenta</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=26087">Frasera speciosa</a></td><td>MONUMENT PLANT</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26091">Frasera tubulosa</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=26080">Frasera umpquaensis</a></td><td>UMPQUA GREEN-GENTIAN</td><td>Native</td><tr><td><a href="eflora_display.php?tid=9747">Fraxinus</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9747">&#x21b3;&nbsp;&nbsp;Key to Fraxinus</td><td>ASH</td><td></td><tr><td><a href="eflora_display.php?tid=26094">Fraxinus anomala</a></td><td>SINGLE-LEAF ASH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26094">Fraxinus anomala var. triphylla</a><br>(Under Fraxinus anomala)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26100">Fraxinus dipetala</a></td><td>CALIFORNIA ASH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=81535">Fraxinus dipetala var. trifoliolata</a><br>(Under Fraxinus parryi)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26105">Fraxinus latifolia</a></td><td>OREGON ASH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26105">Fraxinus oregona</a><br>(Under Fraxinus latifolia)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=81535">Fraxinus parryi</a></td><td>CHAPARRAL ASH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26105">Fraxinus pennsylvanica subsp. oregona</a><br>(Under Fraxinus latifolia)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26119">Fraxinus pennsylvanica subsp. velutina</a><br>(Under Fraxinus velutina)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=81535">Fraxinus trifoliolata</a><br>(Under Fraxinus parryi)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=9747">Fraxinus uhdei</a><br>(Under Fraxinus)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=26119">Fraxinus velutina</a></td><td>VELVET ASH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26119">Fraxinus velutina var. coriacea</a><br>(Under Fraxinus velutina)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=9431">Freesia</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=98370">Freesia alba</a><br>(Under Freesia leichtlinii subsp. alba)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=98370">Freesia leichtlinii subsp. alba</a></td><td></td><td>Waif</td><tr><td><a href="eflora_display.php?tid=43228">Fremontia vermiculata</a><br>(Under Sarcobatus vermiculatus)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=10553">Fremontodendron</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=10553">&#x21b3;&nbsp;&nbsp;Key to Fremontodendron</td><td>FREMONTIA, FLANNELBUSH</td><td></td><tr><td><a href="eflora_display.php?tid=26127">Fremontodendron californicum</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=26127">Fremontodendron californicum subsp. californicum</a><br>(Under Fremontodendron californicum)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26127">Fremontodendron californicum subsp. crassifolium</a><br>(Under Fremontodendron californicum)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26128">Fremontodendron californicum subsp. decumbens</a><br>(Under Fremontodendron decumbens)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26127">Fremontodendron californicum subsp. napense</a><br>(Under Fremontodendron californicum)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26127">Fremontodendron californicum subsp. obispoense</a><br>(Under Fremontodendron californicum)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26128">Fremontodendron decumbens</a></td><td>PINE HILL FLANNELBUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26129">Fremontodendron mexicanum</a></td><td>MEXICAN FLANNELBUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=9513">Fritillaria</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9513">&#x21b3;&nbsp;&nbsp;Key to Fritillaria</td><td>FRITILLARY</td><td></td><tr><td><a href="eflora_display.php?tid=76930">Fritillaria affinis</a></td><td>CHECKER LILY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=76930">Fritillaria affinis var. affinis</a><br>(Under Fritillaria affinis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=76930">Fritillaria affinis var. tristulis</a><br>(Under Fritillaria affinis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26132">Fritillaria agrestis</a></td><td>STINKBELLS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26132">Fritillaria agrestis</a><br>(Under Fritillaria agrestis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26135">Fritillaria atropurpurea</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=26135">Fritillaria atropurpurea var. gracillima</a><br>(Under Fritillaria atropurpurea)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26138">Fritillaria biflora</a></td><td>CHOCOLATE LILY, MISSION BELLS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26132">Fritillaria biflora var. agrestis</a><br>(Under Fritillaria agrestis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=72344">Fritillaria biflora var. biflora</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=59252">Fritillaria biflora var. ineziana</a></td><td>HILLSBOROUGH CHOCOLATE LILY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26140">Fritillaria brandegeei</a></td><td>GREENHORN FRITILLARY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26140">Fritillaria brandegei</a><br>(Under Fritillaria brandegeei)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26143">Fritillaria eastwoodiae</a></td><td>BUTTE COUNTY FRITILLARY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26145">Fritillaria falcata</a></td><td>TALUS FRITILLARY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26146">Fritillaria gentneri</a></td><td>GENTNER'S FRITILLARY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26147">Fritillaria glauca</a></td><td>SISKIYOU FRITILLARIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26135">Fritillaria gracillima</a><br>(Under Fritillaria atropurpurea)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=76930">Fritillaria lanceolata</a><br>(Under Fritillaria affinis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=76930">Fritillaria lanceolata var. tristulis</a><br>(Under Fritillaria affinis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26153">Fritillaria liliacea</a></td><td>FRAGRANT FRITILLARY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26154">Fritillaria micrantha</a></td><td>BROWN BELLS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26158">Fritillaria ojaiensis</a></td><td>OJAI FRITILLARY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=76930">Fritillaria phaeanthera</a><br>(Under Fritillaria affinis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26143">Fritillaria phaeanthera</a><br>(Under Fritillaria eastwoodiae)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26159">Fritillaria pinetorum</a></td><td>PINE FRITILLARY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26160">Fritillaria pluriflora</a></td><td>ADOBE-LILY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26161">Fritillaria pudica</a></td><td>YELLOW FRITILLARY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26162">Fritillaria purdyi</a></td><td>PURDY'S FRITILLARY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26163">Fritillaria recurva</a></td><td>SCARLET FRITILLARY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26163">Fritillaria recurva var. coccinea</a><br>(Under Fritillaria recurva)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=72344">Fritillaria roderickii</a><br>(Under Fritillaria biflora var. biflora)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=26166">Fritillaria striata</a></td><td>STRIPED ADOBE-LILY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26167">Fritillaria viridea</a></td><td>SAN BENITO FRITILLARY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=46">Froelichia gracilis</a><br>(Under Amaranthaceae)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=208">Fuchsia magellanica</a><br>(Under Onagraceae)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=10452">Fumaria</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=10452">&#x21b3;&nbsp;&nbsp;Key to Fumaria</td><td></td><td></td><tr><td><a href="eflora_display.php?tid=26193">Fumaria capreolata</a></td><td>WHITE RAMPING FUMITORY</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=26195">Fumaria officinalis</a></td><td>FUMITORY</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=26196">Fumaria parviflora</a></td><td></td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=68522">Funastrum</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=68522">&#x21b3;&nbsp;&nbsp;Key to Funastrum</td><td></td><td></td><tr><td><a href="eflora_display.php?tid=26202">Funastrum crispum</a></td><td>WAVYLEAF TWINEVINE</td><td>Native</td><tr><td><a href="eflora_display.php?tid=80428">Funastrum cynanchoides subsp. heterophyllum</a><br>(Under Funastrum cynanchoides var. hartwegii)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=80428">Funastrum cynanchoides var. cynanchoides</a><br>(Under Funastrum cynanchoides var. hartwegii)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=80428">Funastrum cynanchoides var. hartwegii</a></td><td>CLIMBING MILKWEED</td><td>Native</td><tr><td><a href="eflora_display.php?tid=26206">Funastrum hirtellum</a></td><td>TRAILING TOWNULA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=81803">Funastrum utahense</a></td><td>UTAH VINE MILKWEED</td><td>Native</td></table></div><br>
+<a href="mailto:interchange@lists.berkeley.edu"><span class="feedbackLink">Feedback/Contact<span></a><br>
+</td>
+</tr>
+</table>
+
+
+
+<!--Begin footer-->
+<table width="100%" id="footer">
+  <tr>
+    <td height="18" class="banner"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  <tr>
+    <td height="20"><span class="copyrightText"><a href="http://ucjeps.berkeley.edu/main/copyright.html"> Copyright</a> &copy; 2016  Regents of the University of California
+<br>We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.</span></td>
+  </tr>
+</table>
+<!--End footer-->

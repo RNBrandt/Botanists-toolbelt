@@ -1,0 +1,401 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Acmispon</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Acmispon
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91832">Acmispon americanus var. americanus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91703">Acmispon argophyllus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91810">Acmispon argophyllus var. adsurgens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91811">Acmispon argophyllus var. argenteus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91809">Acmispon argophyllus var. argophyllus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91812">Acmispon argophyllus var. fremontii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91808">Acmispon argophyllus var. niveus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91704">Acmispon argyraeus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91814">Acmispon argyraeus var. argyraeus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91813">Acmispon argyraeus var. multicaulis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91815">Acmispon argyraeus var. notitius
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91705">Acmispon brachycarpus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91706">Acmispon cytisoides
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91707">Acmispon dendroideus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91805">Acmispon dendroideus var. dendroideus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91804">Acmispon dendroideus var. traskiae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91816">Acmispon dendroideus var. veatchii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91708">Acmispon denticulatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91709">Acmispon glaber
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91824">Acmispon glaber var. brevialatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91825">Acmispon glaber var. glaber
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91710">Acmispon grandiflorus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91827">Acmispon grandiflorus var. grandiflorus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91826">Acmispon grandiflorus var. macranthus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91711">Acmispon haydonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91712">Acmispon heermannii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91829">Acmispon heermannii var. heermannii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91828">Acmispon heermannii var. orbicularis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91713">Acmispon junceus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91830">Acmispon junceus var. biolettii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91831">Acmispon junceus var. junceus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91714">Acmispon maritimus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91822">Acmispon maritimus var. brevivexillus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91823">Acmispon maritimus var. maritimus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91715">Acmispon micranthus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91716">Acmispon nevadensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91820">Acmispon nevadensis var. davidsonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91821">Acmispon nevadensis var. nevadensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91717">Acmispon parviflorus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91718">Acmispon procumbens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91818">Acmispon procumbens var. jepsonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91819">Acmispon procumbens var. procumbens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91719">Acmispon prostratus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91720">Acmispon rigidus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91721">Acmispon rubriflorus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91722">Acmispon strigosus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=100442">
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=67950'><h3>View taxon page for Acmispon</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#RO1'">1.</a><a name="RO1."> </a> Fruit dehiscent, generally flat, generally &plusmn; entirely exserted from calyx body, straight or &plusmn; curved, generally with straight or curved, 0.5&ndash;1.5 mm beak; annual, perennial herb
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#RO2'">2.</a><a name="RO2."> </a> Perennial herb (except <I>Acmispon strigosus</I>); fruit straight or &plusmn; curved; wings generally > keel; stigma &plusmn; glabrous or finely hairy
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#RO3'">3.</a><a name="RO3."> </a> Annual, generally prostrate, mat-forming; inflorescence generally 1&ndash;2-flowered; corolla 5&ndash;10 mm; leaf axis flat, &plusmn; blade-like; fruit generally curved near tip <a href="/cgi-bin/get_IJM.pl?tid=91722">.....&nbsp;A. strigosus</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#RO3.">3'</a><a name="RO3'"> </a> Perennial herb or shrub-like, prostrate (mat-forming or not) to erect; inflorescence 1&ndash;9-flowered; corolla 7&ndash;25 mm; leaf axis not flat or blade-like; fruit generally straight (or curved throughout, rarely only at or near tip)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RO4'">4.</a><a name="RO4."> </a> Leaf axis including petiole 10&ndash;35 mm; leaflets 7&ndash;9, 1&ndash;2.2 cm, length 1.5&ndash;3 &times; width <a href="/cgi-bin/get_IJM.pl?tid=91710">.....&nbsp;A. grandiflorus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RO5'">5.</a><a name="RO5."> </a> Plant puberulent or soft-hairy; leaflets generally 1&ndash;1.5 cm <a href="/cgi-bin/get_IJM.pl?tid=91827">.....&nbsp;var. grandiflorus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RO5.">5'</a><a name="RO5'"> </a> Plant &plusmn; glabrous, finely strigose, or puberulent; leaflets generally 1.6&ndash;2.2 cm <a href="/cgi-bin/get_IJM.pl?tid=91826">.....&nbsp;var. macranthus</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RO4.">4'</a><a name="RO4'"> </a> Leaf axis including petiole 1&ndash;8 mm; leaflets 3&ndash;5, &lt; 1 cm and/or length > 3 &times; width
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RO6'">6.</a><a name="RO6."> </a> Shrub-like, ascending, (2)5&ndash;15 dm, finely strigose; corolla 12&ndash;24 mm <a href="/cgi-bin/get_IJM.pl?tid=91720">.....&nbsp;A. rigidus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RO6.">6'</a><a name="RO6'"> </a> Perennial herb, prostrate or low-ascending, 1&ndash;3 dm, silvery-silky or gray-puberulent; corolla 6&ndash;12 mm <a href="/cgi-bin/get_IJM.pl?tid=91704">.....&nbsp;A. argyraeus</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RO7'">7.</a><a name="RO7."> </a> Stem generally prostrate, mat-forming; calyx lobes &plusmn; 2 mm; San Bernardino Mountains, San Jacinto Mountains, Desert Mountains <a href="/cgi-bin/get_IJM.pl?tid=91814">.....&nbsp;var. argyraeus</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RO7.">7'</a><a name="RO7'"> </a> Stem decumbent to low-ascending; calyx lobes 2&ndash;3 mm; Desert Mountains
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RO8'">8.</a><a name="RO8."> </a> Leaflet oblanceolate to obovate, length &plusmn; 3&ndash;4 &times; width; New York Mtns <a href="/cgi-bin/get_IJM.pl?tid=91813">.....&nbsp;var. multicaulis</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RO8.">8'</a><a name="RO8'"> </a> Leaflet obovate, length &plusmn; 2 &times; width; Providence Mtns <a href="/cgi-bin/get_IJM.pl?tid=91815">.....&nbsp;var. notitius</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#RO2.">2'</a><a name="RO2'"> </a> Annual; fruit generally straight; wings generally &plusmn; &lt;= keel; stigma glabrous or puberulent
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#RO9'">9.</a><a name="RO9."> </a> Flowers generally 1 per leaf axil; peduncle &lt;&lt; 1 cm, bracts 0
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RO10'">10.</a><a name="RO10."> </a> Corolla white, pale yellow, or pink, often darkening in age; plant generally ascending to erect and calyx lobes &lt; 2 &times; tube, or rarely prostrate and calyx lobes generally > 2 &times; tube
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RO11'">11.</a><a name="RO11."> </a> Plant generally 1&ndash;4 dm; calyx lobes &plusmn; 1.5 &times; tube <a href="/cgi-bin/get_IJM.pl?tid=91708">.....&nbsp;A. denticulatus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RO11.">11'</a><a name="RO11'"> </a> Plant &lt; 1 dm; calyx lobes &plusmn; 2 &times; tube <a href="/cgi-bin/get_IJM.pl?tid=91721">.....&nbsp;A. rubriflorus</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RO10.">10'</a><a name="RO10'"> </a> Corolla yellow, reddening in age; plant prostrate to low-ascending; calyx lobes 0.8&ndash;2 &times; tube
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RO12'">12.</a><a name="RO12."> </a> Calyx lobes 1&ndash;2 &times; tube; fruit generally 3&ndash;4 mm wide; plant generally with soft, spreading hairs <a href="/cgi-bin/get_IJM.pl?tid=91705">.....&nbsp;A. brachycarpus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RO12.">12'</a><a name="RO12'"> </a> Calyx lobes &plusmn; 0.8&ndash;1.2 &times; tube; fruit generally 2.3&ndash;3 mm wide; plant &plusmn; strigose or hairs soft, spreading <a href="/cgi-bin/get_IJM.pl?tid=100442">.....&nbsp;A. wrangelianus</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#RO9.">9'</a><a name="RO9'"> </a> Flowers 1&ndash;several per leaf axil; peduncle generally > 1 cm, generally bracted
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RO13'">13.</a><a name="RO13."> </a> Inflorescence generally 2&ndash;4-flowered (1st-formed often 1&ndash;2-flowered); leaflets 3&ndash;7, obovate to &plusmn; round, terminal generally largest <a href="/cgi-bin/get_IJM.pl?tid=91714">.....&nbsp;A. maritimus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RO14'">14.</a><a name="RO14."> </a> Corolla 3.5&ndash;5 mm, keel > other petals; fruit 1&ndash;1.5 cm, becoming narrowed between seeds <a href="/cgi-bin/get_IJM.pl?tid=91822">.....&nbsp;var. brevivexillus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RO14.">14'</a><a name="RO14'"> </a> Corolla 6&ndash;10 mm, keel &plusmn; = other petals; fruit 1.5&ndash;3 cm, not narrowed between seeds <a href="/cgi-bin/get_IJM.pl?tid=91823">.....&nbsp;var. maritimus</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RO13.">13'</a><a name="RO13'"> </a> Inflorescence generally 1-flowered; leaflets 1&ndash;9, lanceolate to obovate, &plusmn; equal
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RO15'">15.</a><a name="RO15."> </a> Calyx lobes >> tube; leaflets generally 3 (upper leaves often simple) <a href="/cgi-bin/get_IJM.pl?tid=91832">.....&nbsp;A. americanus var. americanus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RO15.">15'</a><a name="RO15'"> </a> Calyx lobes &plusmn; &lt;= tube; leaflets 3&ndash;9
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RO16'">16.</a><a name="RO16."> </a> Stem ascending to erect; leaf axis sometimes &plusmn; flat; corolla pink or salmon, quickly fading; fruit straight, margin often wavy <a href="/cgi-bin/get_IJM.pl?tid=91717">.....&nbsp;A. parviflorus</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RO16.">16'</a><a name="RO16'"> </a> Stem prostrate, often mat-forming; leaf axis flat; corolla yellow; fruit generally curved near tip, margin not wavy <a href="/cgi-bin/get_IJM.pl?tid=91722">.....&nbsp;A. strigosus</a> (2)
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#RO1.">1'</a><a name="RO1'"> </a> Fruit indehiscent, generally not flat, generally included or &plusmn; exserted (sometimes exserted) from calyx body, curved most of length, generally with curved, 2&ndash;3 mm beak; generally perennial herb
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#RO17'">17.</a><a name="RO17."> </a> Annual, prostrate, decumbent, or ascending; young growth &plusmn; not hairy; corolla 3&ndash;7 mm; fruit exserted; South Coast Ranges, Southwestern California, generally s of Los Angeles
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#RO18'">18.</a><a name="RO18."> </a> Inflorescence &plusmn; sessile; s South Coast Ranges, Southwestern California <a href="/cgi-bin/get_IJM.pl?tid=91715">.....&nbsp;A. micranthus</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#RO18.">18'</a><a name="RO18'"> </a> Inflorescence peduncled; s South Coast (San Diego Co.) <a href="/cgi-bin/get_IJM.pl?tid=91719">.....&nbsp;A. prostratus</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#RO17.">17'</a><a name="RO17'"> </a> Perennial herb, shrub, prostrate to erect; young growth hairy if plant blooming 1st year or flowers &lt; 7 mm; fruit included or exserted; widespread, including Southwestern California
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#RO19'">19.</a><a name="RO19."> </a> Perennial herb, shrub; Channel Islands
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RO20'">20.</a><a name="RO20."> </a> Calyx shaggy-hairy; fruit included (except slowly elongating beak); leaf generally silvery-silky with fine, straight, ultimately wavy or tangled hairs <a href="/cgi-bin/get_IJM.pl?tid=91703">.....&nbsp;A. argophyllus</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RO21'">21.</a><a name="RO21."> </a> Inflorescence peduncled, not crowded; calyx lobes 1.5&ndash;2.5 mm; stem prostrate to ascending <a href="/cgi-bin/get_IJM.pl?tid=91811">.....&nbsp;var. argenteus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RO21.">21'</a><a name="RO21'"> </a> Inflorescence &plusmn; sessile, crowded at stem tip; calyx lobes 2.5&ndash;5 mm; stem ascending to erect
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RO22'">22.</a><a name="RO22."> </a> Stem generally erect; leaves overlapping; calyx lobes &plusmn; 2.5&ndash;4 mm; s Channel Islands (San Clemente Island) <a href="/cgi-bin/get_IJM.pl?tid=91810">.....&nbsp;var. adsurgens</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RO22.">22'</a><a name="RO22'"> </a> Stem generally ascending; leaves not overlapping; calyx lobes 2.5&ndash;5 mm; n Channel Islands (Santa Cruz Island) <a href="/cgi-bin/get_IJM.pl?tid=91808">.....&nbsp;var. niveus</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RO20.">20'</a><a name="RO20'"> </a> Calyx &plusmn; glabrous or strigose; fruit soon-exserted; leaf green or gray, sparsely or densely strigose or silky <a href="/cgi-bin/get_IJM.pl?tid=91707">.....&nbsp;A. dendroideus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RO23'">23.</a><a name="RO23."> </a> Leaflets 3, densely strigose or &plusmn; silky, generally gray; n Channel Islands (San Miguel Island) <a href="/cgi-bin/get_IJM.pl?tid=91816">.....&nbsp;var. veatchii</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RO23.">23'</a><a name="RO23'"> </a> Leaflets 3&ndash;5, finely or sparsely strigose, green; Channel Islands (except San Miguel Island)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RO24'">24.</a><a name="RO24."> </a> Fruit 1&ndash;1.5 cm; peduncle bract 0; Channel Islands (except San Miguel, San Clemente Islands) <a href="/cgi-bin/get_IJM.pl?tid=91805">.....&nbsp;var. dendroideus</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RO24.">24'</a><a name="RO24'"> </a> Fruit 2.5&ndash;5 cm; peduncle bract generally pres; s Channel Islands (San Clemente Island) <a href="/cgi-bin/get_IJM.pl?tid=91804">.....&nbsp;var. traskiae</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#RO19.">19'</a><a name="RO19'"> </a> Perennial herb (except <I>Acmispon glaber</I>); mainland
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RO25'">25.</a><a name="RO25."> </a> Leaflets 3; inflorescence 1&ndash;3-flowered, &plusmn; sessile
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RO26'">26.</a><a name="RO26."> </a> Leaflet 2&ndash;5 mm; fruit 6&ndash;9 mm; uncommon, se Peninsular Ranges, sw Sonoran Desert <a href="/cgi-bin/get_IJM.pl?tid=91711">.....&nbsp;A. haydonii</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RO26.">26'</a><a name="RO26'"> </a> Leaflet 4&ndash;15 mm; fruit 10&ndash;15 mm; widespread, including Peninsular Ranges
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RO27'">27.</a><a name="RO27."> </a> Calyx glabrous (see couplet 31 for vars.) <a href="/cgi-bin/get_IJM.pl?tid=91709">.....&nbsp;A. glaber</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RO27.">27'</a><a name="RO27'"> </a> Calyx strigose <a href="/cgi-bin/get_IJM.pl?tid=91718">.....&nbsp;A. procumbens</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RO28'">28.</a><a name="RO28."> </a> Corolla 9&ndash;12 mm; calyx 4&ndash;6 mm, lobes &plusmn; = tube; s Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=91818">.....&nbsp;var. jepsonii</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RO28.">28'</a><a name="RO28'"> </a> Corolla 6&ndash;8 mm; calyx 2&ndash;3 mm, lobes &lt;&lt; tube; not s Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=91819">.....&nbsp;var. procumbens</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#RO25.">25'</a><a name="RO25'"> </a> Leaflets >= 3; inflorescence 2&ndash;15-flowered, sessile or peduncled
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RO29'">29.</a><a name="RO29."> </a> Leaflet glabrous or finely strigose, generally green; hairs straight or &plusmn; wavy
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RO30'">30.</a><a name="RO30."> </a> Plants generally ascending to erect (some on immediate coast prostrate), bushy-branched, 5&ndash;20 dm; stem sparsely leafy; corolla yellow; calyx lobes generally 1&ndash;2 mm, not curved outward; coastal and inland <a href="/cgi-bin/get_IJM.pl?tid=91709">.....&nbsp;A. glaber</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RO31'">31.</a><a name="RO31."> </a> Keel prominent, > wings; corolla generally 8&ndash;9 mm; generally inland, Southwestern California, Sonoran Desert <a href="/cgi-bin/get_IJM.pl?tid=91824">.....&nbsp;var. brevialatus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RO31.">31'</a><a name="RO31'"> </a> Keel not prominent, &plusmn; = wings; corolla 7&ndash;12 mm; coastal and inland, North Coast, North Coast Ranges, n Sierra Nevada Foothills, Central Coast, San Francisco Bay Area, South Coast, Western Transverse Ranges, Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=91825">.....&nbsp;var. glaber</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RO30.">30'</a><a name="RO30'"> </a> Plants prostrate or low-ascending, &lt; 10 dm; stem leafy; corolla pink-white or yellow; calyx lobes generally &lt; 1 mm or curved outward; especially coastal
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RO32'">32.</a><a name="RO32."> </a> Calyx lobes narrow, some or all curved outward or hooked; corolla generally white to &plusmn; pink (to brick-red when dry) <a href="/cgi-bin/get_IJM.pl?tid=91706">.....&nbsp;A. cytisoides</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RO32.">32'</a><a name="RO32'"> </a> Calyx lobes wide, straight, not hooked; corolla yellow <a href="/cgi-bin/get_IJM.pl?tid=91713">.....&nbsp;A. junceus</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RO33'">33.</a><a name="RO33."> </a> Peduncles 8&ndash;25 mm; stem often wiry, generally decumbent; fruit well exserted <a href="/cgi-bin/get_IJM.pl?tid=91830">.....&nbsp;var. biolettii</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RO33.">33'</a><a name="RO33'"> </a> Peduncles 1&ndash;5 mm; stem generally stout, prostrate to ascending; fruit &plusmn; exserted <a href="/cgi-bin/get_IJM.pl?tid=91831">.....&nbsp;var. junceus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#RO29.">29'</a><a name="RO29'"> </a> Leaflet hairy, green, gray, or silvery; hairs straight or wavy
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RO34'">34.</a><a name="RO34."> </a> Stem, especially near tip, generally with spreading or obliquely directed, often straight, stiff hairs &lt; 0.5 mm; corolla 4&ndash;6 mm; coastal and inland <a href="/cgi-bin/get_IJM.pl?tid=91712">.....&nbsp;A. heermannii</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RO35'">35.</a><a name="RO35."> </a> Corolla generally 4&ndash;5 mm; ovary generally finely strigose; South Coast, San Bernardino Mountains, Peninsular Ranges, Sonoran Desert <a href="/cgi-bin/get_IJM.pl?tid=91829">.....&nbsp;var. heermannii</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RO35.">35'</a><a name="RO35'"> </a> Corolla generally 5&ndash;6 mm; ovary generally soft spreading-hairy; North Coast, Outer North Coast Ranges, Central Coast, Outer South Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=91828">.....&nbsp;var. orbicularis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#RO34.">34'</a><a name="RO34'"> </a> Stem generally strigose or with &plusmn; spreading, often wavy hairs 0.2&ndash;0.4 mm; corolla 5&ndash;12 mm; especially inland
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RO36'">36.</a><a name="RO36."> </a> Fruit exserted; leaflet hairs generally wavy, not obscuring surface; leaves gray or green <a href="/cgi-bin/get_IJM.pl?tid=91716">.....&nbsp;A. nevadensis</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RO37'">37.</a><a name="RO37."> </a> Flowers generally 3&ndash;5 per inflorescence; calyx 6&ndash;7 mm, appearing blocky; banner abruptly upcurved 90&deg; Transverse Ranges, ne Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=91820">.....&nbsp;var. davidsonii</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RO37.">37'</a><a name="RO37'"> </a> Flowers generally 5&ndash;12 per inflorescence; calyx 5&ndash;10 mm, not appearing blocky; banner upcurved 30&ndash;90&deg; Klamath Ranges, North Coast Ranges, Cascade Range, Sierra Nevada, Central Coast, South Coast, w Peninsular Ranges, Desert Mountains <a href="/cgi-bin/get_IJM.pl?tid=91821">.....&nbsp;var. nevadensis</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#RO36.">36'</a><a name="RO36'"> </a> Fruit included or &plusmn; exserted; leaflet hairs generally straight, tangled in age, generally obscuring surface; leaves silky-silvery <a href="/cgi-bin/get_IJM.pl?tid=91703">.....&nbsp;A. argophyllus</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RO38'">38.</a><a name="RO38."> </a> Inflorescence generally &lt; 1 cm wide, 4&ndash;8-flowered; corolla 6&ndash;10 mm; especially c Sierra Nevada and s <a href="/cgi-bin/get_IJM.pl?tid=91809">.....&nbsp;var. argophyllus</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#RO38.">38'</a><a name="RO38'"> </a> Inflorescence often &plusmn; 1.5 cm wide, 10&ndash;15-flowered; corolla 8&ndash;12 mm; n Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=91812">.....&nbsp;var. fremontii</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

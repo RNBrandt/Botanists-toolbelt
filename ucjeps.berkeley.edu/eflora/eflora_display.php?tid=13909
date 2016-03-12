@@ -1,0 +1,380 @@
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora: Arctostaphylos canescens</title> 
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+<link href="common/css/jepson_eflora.css" rel="stylesheet" type="text/css" />
+
+<!--jquery script files-->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+
+<!-- google maps files and scripts -->
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript"> 
+function initialize() {
+  var myOptions = {
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  }
+
+  var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+
+	var TaxID = 13909;
+
+  var kmlLayer = new google.maps.KmlLayer("http://ucjeps.berkeley.edu/jepcodes-v7.kmz", { suppressInfoWindows: true });
+  kmlLayer.setMap(map);
+  var pmlLayer = new google.maps.KmlLayer("http://herbaria4.herb.berkeley.edu/interchange/coords/"+TaxID+".kml", { });
+  pmlLayer.setMap(map);
+
+}
+
+function JumpToIt(list) {
+    var newPage = list.options[list.selectedIndex].value
+    if (newPage != "None") {
+        location=newPage
+    }
+}
+</script>
+
+<style type="text/css" media="screen">
+    #map_canvas {
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+      float: left;
+      width: 467px;
+      height: 445px;
+      padding: 10px;
+    }
+</style>
+
+<!-- Google analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- jquery functions -->
+<script>
+//jquery ui functions that make the hidden higher taxonomy descriptions appear
+$(document).ready(function(){
+    $("#familylink").click(function(){
+        $("#familydesc").slideToggle(500);
+    });
+    $("#genuslink").click(function(){
+        $("#genusdesc").slideToggle(500);
+    });
+    $("#specieslink").click(function(){
+        $("#speciesdesc").slideToggle(500);
+    });
+});
+
+$(document).ready(function(){
+//jquery functions that grab the column widths from the hidden table
+//so they can be applied as a standard to the higher taxonomy table, which is made up of three separate tables
+	var width1 = $("#check1").width() + 1; // width() function turns out to be one pixel too small, so add 1
+	var width2 = $("#check2").width() + 1;
+	var width3 = $("#check3").width() + 1;
+	$(".column1").attr("width", width1);
+	$(".column2").attr("width", width2);
+	$(".column3").attr("width", width3);
+});
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>
+<!-- End banner -->
+
+<!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+            	<li><a href="http://ucjeps.berkeley.edu/images/">UC/JEPS Image Collection</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+<table border="0">
+	<tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td><span class="pageName"><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora:</a> Taxon page</span>
+		<br>
+			<span class="pageAuthorLine">
+				<a href="http://ucjeps.berkeley.edu/IJM_fam_key.html">Key to families</a>
+				|
+				<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+			</span>	  
+		</td>
+
+	</tr>
+</table>
+
+<table align="center" width="100%"><tr><td>
+<a href="eflora_display.php?tid=49162"><IMG SRC="http://ucjeps.berkeley.edu/icons/left.gif" BORDER=2 ALT="Previous taxon"></a></td>
+<td width=90%">
+<!--eFlora index-->
+<span class="pageAuthorLine">Index to accepted names and synonyms:</span><br>
+| 	<a href="eflora_index.php?index=A">A</a> | 
+	<a href="eflora_index.php?index=B">B</a> | 
+	<a href="eflora_index.php?index=C">C</a> | 
+	<a href="eflora_index.php?index=D">D</a> | 
+	<a href="eflora_index.php?index=E">E</a> | 
+	<a href="eflora_index.php?index=F">F</a> | 
+	<a href="eflora_index.php?index=G">G</a> | 
+	<a href="eflora_index.php?index=H">H</a> | 
+	<a href="eflora_index.php?index=I">I</a> | 
+	<a href="eflora_index.php?index=J">J</a> | 
+	<a href="eflora_index.php?index=K">K</a> | 
+	<a href="eflora_index.php?index=L">L</a> | 
+	<a href="eflora_index.php?index=M">M</a> | 
+	<a href="eflora_index.php?index=N">N</a> | 
+	<a href="eflora_index.php?index=O">O</a> | 
+	<a href="eflora_index.php?index=P">P</a> | 
+	<a href="eflora_index.php?index=Q">Q</a> | 
+	<a href="eflora_index.php?index=R">R</a> | 
+	<a href="eflora_index.php?index=S">S</a> | 
+	<a href="eflora_index.php?index=T">T</a> | 
+	<a href="eflora_index.php?index=U">U</a> | 
+	<a href="eflora_index.php?index=V">V</a> | 
+	<a href="eflora_index.php?index=W">W</a> | 
+	<a href="eflora_index.php?index=X">X</a> | 
+	<a href="eflora_index.php?index=Y">Y</a> | 
+	<a href="eflora_index.php?index=Z">Z</a> |
+<!--end eFlora index-->
+<hr width="10%">
+</td>
+<td align="right">
+<a href="eflora_display.php?tid=49163"><IMG SRC="http://ucjeps.berkeley.edu/icons/right.gif" BORDER=2 ALT="Next taxon"></a></td></tr>
+</table>
+
+<center><span align ='center' class='pageLargeHeading'>Arctostaphylos canescens</span></center>
+<center><span align ='center' class='pageMajorHeading'></span></center>
+<br>
+
+
+<!-- this hidden table provides the column width values (check1 through check3) which are used to assign consistent widths to the actual higher taxonomy tables-->
+<div class="hidden">
+	<table class='taxonomy_table'>
+	<tr><td id='check1'><b>Family: Ericaceae</b></td><td id='check2'><a href="#">View Description</a></b></td><td id='check3'><a href='#'>Dichotomous Key</a></td></tr>
+	<tr><td><b>Genus: Arctostaphylos</b></td><td><a href="#">View Description</a></b></td><td><a href='#'>Dichotomous Key</a></td></tr>
+	<tr><td><b>Species: </b></td><td><a href="#">View Description</a></b></td><td><a href='#'>Dichotomous Key</a></td></tr>
+	</table>
+</div>
+
+
+	
+<table width=100%><tr><td width=100%><div class='pageMajorHeading'><b>Higher Taxonomy</b><br></div><table class='taxonomy_table'><tr><td class='column1'><b>Family: Ericaceae</b></td><td class='column2'><a id='familylink'>View Description</a></b></td><td class='column3'><a href='http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=130'>Dichotomous Key</a></td></tr></table><div id="familydesc" class="initiallyHidden"><blockquote class='bodyText'><br><b>Common Name:</b> HEATH FAMILY<br><b>Habit:</b> Perennial herb, shrub, tree. <b>Stem:</b> bark often peeling distinctively. <b>Leaf:</b> simple or 0, generally cauline, alternate, opposite (whorled), evergreen or deciduous, often leathery, petioled or not; stipules 0. <b>Inflorescence:</b> raceme, panicle, cyme, or flowers 1, terminal or axillary, generally bracted; pedicel often with 2 bractlets. <b>Flower:</b> generally bisexual, generally radial, bell-shaped, cylindric, or urn-shaped; sepals generally (0)4--5, generally free; petals generally (0)4--5, free or fused; stamens (2--5)8--10, free, filaments rarely appendaged, anthers dehiscing by pores or slits, awns 0 or 2(4), seemingly abaxial, reduced or elongate, generally curved; nectary generally present at ovary base, generally disk-like; ovary superior or inferior, chambers generally 1--5, placentas axile or parietal, ovules 1--many per chamber, style 1, stigma head- to funnel-like or lobed. <b>Fruit:</b> capsule, drupe, berry. <b>Seed:</b> generally many, winged or not. <br><b>Genera In Family:</b> +- 100 genera, 3000 species: generally worldwide except deserts; some cultivated, especially <i>Arbutus</i>, <i>Arctostaphylos</i>, <i>Rhododendron</i>, <i>Vaccinium</i>. <b>Note:</b> Monophyletic only if Empetraceae included, as treated here. <i>Ledum</i> included in <i>Rhododendron</i>. Non-green plants obtain nutrition from green plants through fungal intermediates. <br><b>eFlora Treatment Author:</b> Gary D. Wallace, except as noted<br><b>Scientific Editor:</b> Gary D. Wallace, Thomas J. Rosatti.<br></blockquote></div><table class='taxonomy_table'><tr><td class='column1'><b>Genus: Arctostaphylos</b></td><td class='column2'><a id='genuslink'>View Description</a></b></td><td class='column3'><a href='http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9173'>Dichotomous Key</a></td></tr></table><div id="genusdesc" class="initiallyHidden"><blockquote class='bodyText'><br><b>Common Name:</b> MANZANITA<br><b>Habit:</b> Shrub to small tree, prostrate to erect. <b>Stem:</b> old stems generally +- red, smooth, bark generally thin, peeling, or generally +- gray or red-gray, shredding and rough; burls at base, woody, sprouting after fire, or generally 0; twig hairs 0 or generally +- like those on inflorescence axes, bracts. <b>Leaf:</b> alternate, evergreen; blade flat to convex, base lobed to wedge-shaped, clasping stem or not, margins generally flat, surfaces with stomata generally both abaxially, adaxially, alike in color, hairiness, less often only or fewer abaxially, generally differing in color, hairiness. <b>Inflorescence:</b> +- raceme (generally 0--1-branched) or panicle (generally 2--10-branched), terminal, nascent inflorescence present following stem growth, generally late spring through winter, remaining dormant 4--6 months prior to flower (except in <i>Arctostaphylos pringlei</i> subsp. <i>drupacea</i>); branches 0 or raceme-like; flower bracts leaf-like, generally flat, or scale-like, often folded, keeled, tips rounded to acute to awl-shaped. <b>Flower:</b> radial; sepals 5(4), free, persistent; corolla conic to urn-shaped, lobes in number = sepals, short, rounded, curved back, white to pink; stamens 2 &times; number of sepals, included, filaments swollen, generally hairy at base, anthers dark red, awns elongate; ovary superior, on disk, 4--10-chambered, ovule 1 per chamber. <b>Fruit:</b> drupe, generally +- depressed-spheric to spheric; flesh generally thick, +- mealy, occasionally 0; stones 2--10, free, fused, or some fused. <br><b>Species In Genus:</b> +- 62 species: North America (especially California) to Central America, Eurasia. <b>Etymology:</b> (Greek: bear berries) <br><font color='blue'><b>Unabridged Note:</b> Rosatti (1986 Syst Bot 12:61--77) showed that in <i>Arctostaphylos uva-ursi</i> little to none of the variation in hairs (including length, glandularity) is genetically based.</font><br><b>eFlora Treatment Author:</b> V. Thomas Parker, Michael C. Vasey & Jon E. Keeley<br></div><br></table></tr></td><table width="100%"><tr><td width="100%" valign="top"><div class='pageMajorHeading'><b><i>Arctostaphylos canescens</i> Eastw.</b><br></div><div class='bodyText'><b>NATIVE</b><br><b>Habit:</b> Shrub, erect, 0.3--3 m. <b>Stem:</b> twig canescent to white-tomentose. <b>Leaf:</b> erect; petiole 3--10 mm; blade 2--5 cm, 1--3 cm wide, round-ovate, ovate, or elliptic, white-gray, canescent, base rounded to wedge-shaped, tip acute to abruptly soft-pointed, margin entire, flat. <b>Inflorescence:</b> panicle, 1--3-branched; nascent inflorescence pendent, bell-shaped, axis 1--2 cm, > 1 mm wide, +- obscured, +- canescent to white-tomentose; bracts 6--20 mm, leaf-like, widely lanceolate, canescent; pedicel 5--9 mm, densely hairy, glandular or not. <b>Flower:</b> ovary densely (fruit sparsely) glandular- or nonglandular-hairy. <b>Fruit:</b> 5--10 mm wide, depressed-spheric; stones free. <b>Chromosomes:</b> 2n=26.<br><br><b>eFlora Treatment Author:</b> V. Thomas Parker, Michael C. Vasey & Jon E. Keeley<br><a href="http://ucjeps.berkeley.edu/cgi-bin/get_cpn.pl?13909"><b>Jepson Online Interchange</b></a><br><P><FORM><SELECT WIDTH=20 onChange="JumpToIt(this)"><OPTION VALUE="None">List of species <OPTION VALUE="eflora_display.php?tid=13904">Arctostaphylos andersonii <OPTION VALUE="eflora_display.php?tid=13905">Arctostaphylos auriculata <OPTION VALUE="eflora_display.php?tid=13906">Arctostaphylos bakeri <OPTION VALUE="eflora_display.php?tid=49161">Arctostaphylos bakeri subsp. bakeri <OPTION VALUE="eflora_display.php?tid=49162">Arctostaphylos bakeri subsp. sublaevis <OPTION VALUE="eflora_display.php?tid=13909">Arctostaphylos canescens <OPTION VALUE="eflora_display.php?tid=49163">Arctostaphylos canescens subsp. canescens <OPTION VALUE="eflora_display.php?tid=49165">Arctostaphylos canescens subsp. sonomensis <OPTION VALUE="eflora_display.php?tid=13912">Arctostaphylos catalinae <OPTION VALUE="eflora_display.php?tid=13918">Arctostaphylos columbiana <OPTION VALUE="eflora_display.php?tid=13920">Arctostaphylos confertiflora <OPTION VALUE="eflora_display.php?tid=13986">Arctostaphylos crustacea <OPTION VALUE="eflora_display.php?tid=91855">Arctostaphylos crustacea subsp. crinita <OPTION VALUE="eflora_display.php?tid=89190">Arctostaphylos crustacea subsp. crustacea <OPTION VALUE="eflora_display.php?tid=89189">Arctostaphylos crustacea subsp. eastwoodiana <OPTION VALUE="eflora_display.php?tid=89191">Arctostaphylos crustacea subsp. insulicola <OPTION VALUE="eflora_display.php?tid=91854">Arctostaphylos crustacea subsp. rosei <OPTION VALUE="eflora_display.php?tid=89192">Arctostaphylos crustacea subsp. subcordata <OPTION VALUE="eflora_display.php?tid=13921">Arctostaphylos cruzensis <OPTION VALUE="eflora_display.php?tid=13922">Arctostaphylos densiflora <OPTION VALUE="eflora_display.php?tid=13923">Arctostaphylos edmundsii <OPTION VALUE="eflora_display.php?tid=13931">Arctostaphylos franciscana <OPTION VALUE="eflora_display.php?tid=80888">Arctostaphylos gabilanensis <OPTION VALUE="eflora_display.php?tid=13924">Arctostaphylos glandulosa <OPTION VALUE="eflora_display.php?tid=49168">Arctostaphylos glandulosa subsp. adamsii <OPTION VALUE="eflora_display.php?tid=49169">Arctostaphylos glandulosa subsp. crassifolia <OPTION VALUE="eflora_display.php?tid=91856">Arctostaphylos glandulosa subsp. cushingiana <OPTION VALUE="eflora_display.php?tid=86364">Arctostaphylos glandulosa subsp. gabrielensis <OPTION VALUE="eflora_display.php?tid=49170">Arctostaphylos glandulosa subsp. glandulosa <OPTION VALUE="eflora_display.php?tid=49174">Arctostaphylos glandulosa subsp. howellii <OPTION VALUE="eflora_display.php?tid=85941">Arctostaphylos glandulosa subsp. leucophylla <OPTION VALUE="eflora_display.php?tid=49172">Arctostaphylos glandulosa subsp. mollis <OPTION VALUE="eflora_display.php?tid=13926">Arctostaphylos glauca <OPTION VALUE="eflora_display.php?tid=13927">Arctostaphylos glutinosa <OPTION VALUE="eflora_display.php?tid=13929">Arctostaphylos hispidula <OPTION VALUE="eflora_display.php?tid=13930">Arctostaphylos hookeri <OPTION VALUE="eflora_display.php?tid=49176">Arctostaphylos hookeri subsp. hearstiorum <OPTION VALUE="eflora_display.php?tid=49177">Arctostaphylos hookeri subsp. hookeri <OPTION VALUE="eflora_display.php?tid=13934">Arctostaphylos hooveri <OPTION VALUE="eflora_display.php?tid=13935">Arctostaphylos imbricata <OPTION VALUE="eflora_display.php?tid=13937">Arctostaphylos insularis <OPTION VALUE="eflora_display.php?tid=13939">Arctostaphylos klamathensis <OPTION VALUE="eflora_display.php?tid=13941">Arctostaphylos luciana <OPTION VALUE="eflora_display.php?tid=76563">Arctostaphylos malloryi <OPTION VALUE="eflora_display.php?tid=13942">Arctostaphylos manzanita <OPTION VALUE="eflora_display.php?tid=76564">Arctostaphylos manzanita subsp. elegans <OPTION VALUE="eflora_display.php?tid=49184">Arctostaphylos manzanita subsp. glaucescens <OPTION VALUE="eflora_display.php?tid=49185">Arctostaphylos manzanita subsp. laevigata <OPTION VALUE="eflora_display.php?tid=49186">Arctostaphylos manzanita subsp. manzanita <OPTION VALUE="eflora_display.php?tid=49187">Arctostaphylos manzanita subsp. roofii <OPTION VALUE="eflora_display.php?tid=49188">Arctostaphylos manzanita subsp. wieslanderi <OPTION VALUE="eflora_display.php?tid=13949">Arctostaphylos mewukka <OPTION VALUE="eflora_display.php?tid=74689">Arctostaphylos mewukka subsp. mewukka <OPTION VALUE="eflora_display.php?tid=76565">Arctostaphylos mewukka subsp. truei <OPTION VALUE="eflora_display.php?tid=13933">Arctostaphylos montana <OPTION VALUE="eflora_display.php?tid=89194">Arctostaphylos montana subsp. montana <OPTION VALUE="eflora_display.php?tid=89193">Arctostaphylos montana subsp. ravenii <OPTION VALUE="eflora_display.php?tid=13936">Arctostaphylos montaraensis <OPTION VALUE="eflora_display.php?tid=13950">Arctostaphylos montereyensis <OPTION VALUE="eflora_display.php?tid=13951">Arctostaphylos morroensis <OPTION VALUE="eflora_display.php?tid=13952">Arctostaphylos myrtifolia <OPTION VALUE="eflora_display.php?tid=13953">Arctostaphylos nevadensis <OPTION VALUE="eflora_display.php?tid=49189">Arctostaphylos nevadensis subsp. knightii <OPTION VALUE="eflora_display.php?tid=49190">Arctostaphylos nevadensis subsp. nevadensis <OPTION VALUE="eflora_display.php?tid=13955">Arctostaphylos nissenana <OPTION VALUE="eflora_display.php?tid=76566">Arctostaphylos nortensis <OPTION VALUE="eflora_display.php?tid=13956">Arctostaphylos nummularia <OPTION VALUE="eflora_display.php?tid=89195">Arctostaphylos nummularia subsp. mendocinoensis <OPTION VALUE="eflora_display.php?tid=69996">Arctostaphylos nummularia subsp. nummularia <OPTION VALUE="eflora_display.php?tid=13958">Arctostaphylos obispoensis <OPTION VALUE="eflora_display.php?tid=88878">Arctostaphylos ohloneana <OPTION VALUE="eflora_display.php?tid=74486">Arctostaphylos osoensis <OPTION VALUE="eflora_display.php?tid=13959">Arctostaphylos otayensis <OPTION VALUE="eflora_display.php?tid=77447">Arctostaphylos pacifica <OPTION VALUE="eflora_display.php?tid=13961">Arctostaphylos pajaroensis <OPTION VALUE="eflora_display.php?tid=13962">Arctostaphylos pallida <OPTION VALUE="eflora_display.php?tid=13963">Arctostaphylos parryana <OPTION VALUE="eflora_display.php?tid=81170">Arctostaphylos parryana subsp. desertica <OPTION VALUE="eflora_display.php?tid=80196">Arctostaphylos parryana subsp. parryana <OPTION VALUE="eflora_display.php?tid=80195">Arctostaphylos parryana subsp. tumescens <OPTION VALUE="eflora_display.php?tid=13965">Arctostaphylos patula <OPTION VALUE="eflora_display.php?tid=13967">Arctostaphylos pechoensis <OPTION VALUE="eflora_display.php?tid=76567">Arctostaphylos pilosula <OPTION VALUE="eflora_display.php?tid=49195">Arctostaphylos pringlei subsp. drupacea <OPTION VALUE="eflora_display.php?tid=13972">Arctostaphylos pumila <OPTION VALUE="eflora_display.php?tid=13973">Arctostaphylos pungens <OPTION VALUE="eflora_display.php?tid=13976">Arctostaphylos purissima <OPTION VALUE="eflora_display.php?tid=76574">Arctostaphylos rainbowensis <OPTION VALUE="eflora_display.php?tid=13977">Arctostaphylos refugioensis <OPTION VALUE="eflora_display.php?tid=13978">Arctostaphylos regismontana <OPTION VALUE="eflora_display.php?tid=76568">Arctostaphylos rudis <OPTION VALUE="eflora_display.php?tid=13957">Arctostaphylos sensitiva <OPTION VALUE="eflora_display.php?tid=76569">Arctostaphylos silvicola <OPTION VALUE="eflora_display.php?tid=13983">Arctostaphylos stanfordiana <OPTION VALUE="eflora_display.php?tid=74690">Arctostaphylos stanfordiana subsp. decumbens <OPTION VALUE="eflora_display.php?tid=49209">Arctostaphylos stanfordiana subsp. raichei <OPTION VALUE="eflora_display.php?tid=49210">Arctostaphylos stanfordiana subsp. stanfordiana <OPTION VALUE="eflora_display.php?tid=13984">Arctostaphylos tomentosa <OPTION VALUE="eflora_display.php?tid=49211">Arctostaphylos tomentosa subsp. bracteosa <OPTION VALUE="eflora_display.php?tid=76570">Arctostaphylos tomentosa subsp. daciticola <OPTION VALUE="eflora_display.php?tid=91857">Arctostaphylos tomentosa subsp. hebeclada <OPTION VALUE="eflora_display.php?tid=49218">Arctostaphylos tomentosa subsp. tomentosa <OPTION VALUE="eflora_display.php?tid=13990">Arctostaphylos uva-ursi <OPTION VALUE="eflora_display.php?tid=13993">Arctostaphylos virgata <OPTION VALUE="eflora_display.php?tid=13994">Arctostaphylos viridissima <OPTION VALUE="eflora_display.php?tid=13995">Arctostaphylos viscida <OPTION VALUE="eflora_display.php?tid=49228">Arctostaphylos viscida subsp. mariposa <OPTION VALUE="eflora_display.php?tid=49229">Arctostaphylos viscida subsp. pulchella <OPTION VALUE="eflora_display.php?tid=49230">Arctostaphylos viscida subsp. viscida</SELECT></FORM><a href="eflora_display.php?tid=49162">Previous taxon: Arctostaphylos bakeri subsp. sublaevis</a><br><a href="eflora_display.php?tid=49163">Next taxon: Arctostaphylos canescens subsp. canescens</a><br>
+<br>
+<form action="search_eflora.php" method="POST">
+<b>Name Search </b>		<input type="text" id="query_text" name="query"></input>
+		<input type="submit" value="Submit Name" />
+</form>
+
+</td></tr>
+</table>
+
+
+
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+
+
+<P>
+<a href="&#109;&#97;&#105;&#108;to:interchange&#064;lists.berkeley.edu?subject=new eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+
+
+
+<P class=bodyText>
+Citation for this treatment: V. Thomas Parker, Michael C. Vasey & Jon E. Keeley 2016. <i>Arctostaphylos canescens</i>, in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13909, accessed on March 11, 2016.
+</P>
+<P class=bodyText>Citation for the whole project: Jepson Flora Project (eds.) 2016. <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html, accessed on March 11, 2016.</P>
+
+
+
+
+<hr width=80%> 
+
+<table><tr><td width='200px'><i>Arctostaphylos canescens subsp. canescens</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+1209+2784"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/1209/2784.jpeg alt="click for enlargement"></img></a><br>&copy; 2009 Neal Kramer<br></td><td width='200px'><i>Arctostaphylos canescens subsp. canescens</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+1209+2783"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/1209/2783.jpeg alt="click for enlargement"></img></a><br>&copy; 2009 Neal Kramer<br></td><td width='200px'><i>Arctostaphylos canescens subsp. canescens</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+1209+2785"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/1209/2785.jpeg alt="click for enlargement"></img></a><br>&copy; 2009 Neal Kramer<br></td><td width='200px'><i>Arctostaphylos canescens subsp. canescens</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+0212+1137"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/0212/1137.jpeg alt="click for enlargement"></img></a><br>&copy; 2012 John Game<br></td><td width='200px'><i>Arctostaphylos canescens subsp. canescens</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+0208+1244"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/0208/1244.jpeg alt="click for enlargement"></img></a><br>&copy; 2008 Keir Morse<br></td><td width='200px'><i>Arctostaphylos canescens subsp. canescens</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+0208+1245"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/0208/1245.jpeg alt="click for enlargement"></img></a><br>&copy; 2008 Keir Morse<br></td></tr></table><p><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&where-genre=Plant&where-taxon=Arctostaphylos canescens&title_tag=Arctostaphylos canescens">More photos of <i>Arctostaphylos canescens</i> in CalPhotos</a></p><hr width=80%>
+
+
+<!--distribution panes-->
+<table border=0>
+<tr><td valign='bottom'>Geographic subdivisions for Arctostaphylos canescens:
+<br></td>
+<td>Markers link to CCH specimen records. If the markers are obscured, reload the page [or change window size and reload]. Yellow markers indicate records that may provide evidence for eFlora range revision or may have georeferencing or identification issues.
+<br><b><a href="http://ucjeps.berkeley.edu/consortium/about_yellow.html">READ ABOUT YELLOW FLAGS</a></b>
+</td></tr>
+<tr>
+<td valign="top">
+<img src="http://ucjeps.berkeley.edu/cgi-bin/new_jmap.pl?" border="0" alt="map of distribution 1"></td>
+<td>
+	<div id="map_canvas"></div>
+</td>
+</tr>
+
+<tr><td valign="top">
+(Note: any qualifiers in the taxon distribution description, such as 'northern', 'southern', 'adjacent' etc., are not reflected in the map above, and in some cases indication of a taxon in a subdivision is based on a single collection or author-verified occurence).
+<br><br>
+<a href="http://ucjeps.berkeley.edu/cgi-bin/map_cch_elev.pl?taxon_name=Arctostaphylos canescens&t=&g=">View elevation by latitude chart</a></td>
+<td valign="top">Data provided by the participants of the Consortium of California Herbaria.
+<br>
+<a href="http://ucjeps.berkeley.edu/cgi-bin/get_consort.pl?taxon_name=Arctostaphylos canescens">View all CCH records</a><br><br>
+CCH collections by month<br> 
+<img border=1 src="http://ucjeps.berkeley.edu/cgi-bin/hb2.pl?name=Arctostaphylos canescens&FT="><br>Duplicates counted once; synonyms included.
+<br>Species do not include records of infraspecific taxa.
+<br>Blue line denotes eFlora flowering time.
+</td></tr>
+</table>
+
+<!--Begin footer-->
+<table width="100%" id="footer">
+  <tr>
+    <td height="18" class="banner"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  <tr>
+    <td height="20"><span class="copyrightText"><a href="http://ucjeps.berkeley.edu/main/copyright.html"> Copyright</a> &copy; 2016  Regents of the University of California
+<br>We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.</span></td>
+  </tr>
+</table>
+<!--End footer-->

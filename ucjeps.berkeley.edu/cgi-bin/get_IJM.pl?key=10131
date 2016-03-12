@@ -1,0 +1,431 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Delphinium</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Delphinium
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22437">Delphinium andersonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22459">Delphinium antoninum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22440">Delphinium bakeri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22448">Delphinium californicum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50072">Delphinium californicum subsp. californicum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50073">Delphinium californicum subsp. interius
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22449">Delphinium cardinale
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22458">Delphinium decorum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50079">Delphinium decorum subsp. decorum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50080">Delphinium decorum subsp. tracyi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22460">Delphinium depauperatum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22471">Delphinium glaucum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22474">Delphinium gracilentum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22476">Delphinium gypsophilum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22477">Delphinium hansenii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50087">Delphinium hansenii subsp. ewanianum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50088">Delphinium hansenii subsp. hansenii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50089">Delphinium hansenii subsp. kernense
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22478">Delphinium hesperium
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50090">Delphinium hesperium subsp. cuyamacae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50091">Delphinium hesperium subsp. hesperium
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50092">Delphinium hesperium subsp. pallescens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22480">Delphinium hutchinsoniae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22482">Delphinium inopinum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22484">Delphinium luteum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22492">Delphinium nudicaule
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22494">Delphinium nuttallianum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22501">Delphinium parishii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50101">Delphinium parishii subsp. pallidum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50100">Delphinium parishii subsp. parishii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50102">Delphinium parishii subsp. subglobosum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22505">Delphinium parryi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50104">Delphinium parryi subsp. blochmaniae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50105">Delphinium parryi subsp. eastwoodiae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50106">Delphinium parryi subsp. maritimum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50107">Delphinium parryi subsp. parryi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50108">Delphinium parryi subsp. purpureum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22507">Delphinium patens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50111">Delphinium patens subsp. hepaticoideum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50112">Delphinium patens subsp. montanum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50113">Delphinium patens subsp. patens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22510">Delphinium polycladon
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22513">Delphinium purpusii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22516">Delphinium recurvatum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22519">Delphinium scaposum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22522">Delphinium stachydeum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22528">Delphinium trolliifolium
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22529">Delphinium uliginosum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22530">Delphinium umbraculorum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=22531">Delphinium variegatum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50117">Delphinium variegatum subsp. kinkiense
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50118">Delphinium variegatum subsp. thornei
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=50119">Delphinium variegatum subsp. variegatum
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=10131'><h3>View taxon page for Delphinium</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#ACL1'">1.</a><a name="ACL1."> </a> Plant with all the following: sepals pink to deep rose-pink; fruit erect; pedicels &plusmn; ascending, hairs glandular, yellow; angle between claw and blade on lower petals > 130&deg;; s Sierra Nevada, w edge Mojave Desert <a href="/cgi-bin/get_IJM.pl?tid=22513">.....&nbsp;D. purpusii</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#ACL1.">1'</a><a name="ACL1'"> </a> Plant with at least 1 exception to character states at 1.
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#ACL2'">2.</a><a name="ACL2."> </a> Leaf blade base tapered, lobes few, &lt; 50% to petiole; serpentine streambanks, chaparral, grassland <a href="/cgi-bin/get_IJM.pl?tid=22529">.....&nbsp;D. uliginosum</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#ACL2.">2'</a><a name="ACL2'"> </a> Leaf blade base cordate, truncate, or rounded, lobes (3)5&ndash;many, > 50% to petiole; generally not on serpentine
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ACL3'">3.</a><a name="ACL3."> </a> Sepals &plusmn; red or yellow; blade of lower petals angled 140&ndash;180&deg; to claw, hairs &plusmn; 0 to naked eye
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ACL4'">4.</a><a name="ACL4."> </a> Seed without inflated collar; fruit &plusmn; straight; plants of &plusmn; dry sites; South Coast Ranges, Southwestern California, w edge Sonoran Desert <a href="/cgi-bin/get_IJM.pl?tid=22449">.....&nbsp;D. cardinale</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ACL4.">4'</a><a name="ACL4'"> </a> Seed with inflated collar at widest end: fruit curved; plants of moist sites; Outer South Coast Ranges & n
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ACL5'">5.</a><a name="ACL5."> </a> Sepals bright yellow <a href="/cgi-bin/get_IJM.pl?tid=22484">.....&nbsp;D. luteum</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ACL5.">5'</a><a name="ACL5'"> </a> Sepals scarlet to orange-red (dull yellow) <a href="/cgi-bin/get_IJM.pl?tid=22492">.....&nbsp;D. nudicaule</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ACL3.">3'</a><a name="ACL3'"> </a> Sepals generally variously blue, occasionally white, green-white, lavender, maroon, purple, or pink but not red or yellow; blade of lower petals angled 60&ndash;130&deg; to claw, hairs apparent to naked eye
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ACL6'">6.</a><a name="ACL6."> </a> Plant with all the following: inflorescence &plusmn; 1-sided; flower generally on and after 15 June; 1800&ndash;2600 m; stem generally 7&ndash;40(60) cm; pedicels ascending; seed winged, without inflated collar at widest end; root &lt; 5 cm; High Cascade Range, n&c High Sierra Nevada, Warner Mountains <a href="/cgi-bin/get_IJM.pl?tid=22460">.....&nbsp;D. depauperatum</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ACL6.">6'</a><a name="ACL6'"> </a> Plant with 2 or more exceptions to character states at 6.
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ACL7'">7.</a><a name="ACL7."> </a> Seed with inflated collar at widest end, unwinged; fruit &plusmn; curved; inflorescence in mid-flower with generally &lt; 6 flowers on main axis or oldest open-flowered pedicels generally > 25 mm and > 2 &times; youngest
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACL8'">8.</a><a name="ACL8."> </a> Most leaves on distal 2/3 of stem; stem (40)50&ndash;120(180) cm; flowers on main inflorescence axis generally > 15
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACL9'">9.</a><a name="ACL9."> </a> Leaf lobe tips crenate; n Central Coast, n San Francisco Bay Area (Marin Co.) <a href="/cgi-bin/get_IJM.pl?tid=22440">.....&nbsp;D. bakeri</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACL9.">9'</a><a name="ACL9'"> </a> Leaf lobe tips sharply, irregularly cut; North Coast, Outer North Coast Ranges (n of Sonoma Co.) <a href="/cgi-bin/get_IJM.pl?tid=22528">.....&nbsp;D. trolliifolium</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACL8.">8'</a><a name="ACL8'"> </a> Most leaves on proximal 2/3 of stem; stem &lt; 50(90) cm; flowers on main inflorescence axis generally &lt; 20
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACL10'">10.</a><a name="ACL10."> </a> Sepals dark blue-purple (generally faded, mottled on herbarium specimens), puberulent abaxially, generally not reflexed; proximal stem hairy; lower petal blades 6&ndash;11 mm <a href="/cgi-bin/get_IJM.pl?tid=22458">.....&nbsp;D. decorum</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACL11'">11.</a><a name="ACL11."> </a> Leaf generally with 5 lobes > 50% to petiole; &lt; 200 m; open coastal grassland, chaparral <a href="/cgi-bin/get_IJM.pl?tid=50079">.....&nbsp;subsp. decorum</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACL11.">11'</a><a name="ACL11'"> </a> Leaf generally with > 5 lobes > 50% to petiole; 700&ndash;2300 m; meadows in montane forest <a href="/cgi-bin/get_IJM.pl?tid=50080">.....&nbsp;subsp. tracyi</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACL10.">10'</a><a name="ACL10'"> </a> Sepals generally bright blue to white or pink (generally neither faded nor mottled on herbarium specimens), generally glabrous, generally reflexed; proximal stem glabrous to puberulent; lower petal blades 3&ndash;11 mm (if sepals &plusmn; purple, puberulent abaxially, not reflexed, then proximal stem &plusmn; glabrous or lower petal blade &lt; 6 mm)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACL12'">12.</a><a name="ACL12."> </a> Leaf &plusmn; fleshy; plant restricted to moist talus slopes <a href="/cgi-bin/get_IJM.pl?tid=22459">.....&nbsp;D. antoninum</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACL12.">12'</a><a name="ACL12'"> </a> Leaf not fleshy; plant not restricted to moist talus slopes
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACL13'">13.</a><a name="ACL13."> </a> Leaf with >= 6 lobes > 50% to petiole, &lt; 7 mm wide; pedicels glabrous or puberulent; High Sierra Nevada and n <a href="/cgi-bin/get_IJM.pl?tid=22494">.....&nbsp;D. nuttallianum</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACL13.">13'</a><a name="ACL13'"> </a> Leaf with &lt;= 5 lobes > 50% to petiole, generally > 7 mm wide; pedicels glabrous to glandular or glandular-puberulent (if > 5 lobes > 50% to petiole, then pedicels puberulent); Sierra Nevada, Inner South Coast Ranges and s (also s Klamath Ranges, s Cascade Range for <I>Delphinium gracilentum</I>)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ACL14'">14.</a><a name="ACL14."> </a> Terminal leaf lobe widest above middle; pedicel at 70&ndash;90&deg; angle to axis; leaf lobes generally 5 <a href="/cgi-bin/get_IJM.pl?tid=22474">.....&nbsp;D. gracilentum</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ACL14.">14'</a><a name="ACL14'"> </a> Terminal leaf lobe widest near middle; pedicel at generally &lt; 70&deg; angle to axis; leaf lobes 3&ndash;10 <a href="/cgi-bin/get_IJM.pl?tid=22507">.....&nbsp;D. patens</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#ACL15'">15.</a><a name="ACL15."> </a> Lobes of proximal leaves generally > 1.5 cm wide; basal, proximal cauline leaves generally cut &lt; 80% to petiole &mdash; Outer South Coast Ranges, Southwestern California (except Channel Islands) <a href="/cgi-bin/get_IJM.pl?tid=50111">.....&nbsp;subsp. hepaticoideum</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#ACL15.">15'</a><a name="ACL15'"> </a> Lobes of proximal leaves generally &lt; 1.5 cm wide; basal (if present), proximal cauline leaves generally cut > 80% to petiole
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#ACL16'">16.</a><a name="ACL16."> </a> Pedicels puberulent <a href="/cgi-bin/get_IJM.pl?tid=50112">.....&nbsp;subsp. montanum</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#ACL16.">16'</a><a name="ACL16'"> </a> Pedicels generally glabrous <a href="/cgi-bin/get_IJM.pl?tid=50113">.....&nbsp;subsp. patens</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ACL7.">7'</a><a name="ACL7'"> </a> Seed generally without inflated collar (except <I>Delphinium andersonii</I>), winged or not; fruit &plusmn; straight; inflorescence in mid-flower with generally > 6 flowers on main axis or oldest open-flowered pedicel generally &lt; 25 mm or &lt; 2 &times; youngest
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACL17'">17.</a><a name="ACL17."> </a> Stems generally > 1 m, generally >= 2; enlarged rootstock buds in life generally &plusmn; white, brown on herbarium specimens
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACL18'">18.</a><a name="ACL18."> </a> Flower generally June or earlier; sepals &plusmn; lavender or &plusmn; green-white, puberulent; &lt; 1100 m <a href="/cgi-bin/get_IJM.pl?tid=22448">.....&nbsp;D. californicum</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACL19'">19.</a><a name="ACL19."> </a> Sepals &plusmn; lavender; main inflorescence axis puberulent; upper petals &plusmn; hairy <a href="/cgi-bin/get_IJM.pl?tid=50072">.....&nbsp;subsp. californicum</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACL19.">19'</a><a name="ACL19'"> </a> Sepals &plusmn; green-white; main inflorescence axis &plusmn; glabrous; upper petals &plusmn; glabrous <a href="/cgi-bin/get_IJM.pl?tid=50073">.....&nbsp;subsp. interius</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACL18.">18'</a><a name="ACL18'"> </a> Flower generally July or later; sepals generally &plusmn; blue, &plusmn; canescent; &lt;= 3600 m (if sepals &plusmn; lavender or &plusmn; green- white, then > 1100 m)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACL20'">20.</a><a name="ACL20."> </a> Leaves present on proximal 1/5 of stem in flower
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACL21'">21.</a><a name="ACL21."> </a> Flower spur 9&ndash;12 mm; sepals white to light blue <a href="/cgi-bin/get_IJM.pl?tid=22482">.....&nbsp;D. inopinum</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACL21.">21'</a><a name="ACL21'"> </a> Flower spur 11&ndash;22 mm; sepals dark blue <a href="/cgi-bin/get_IJM.pl?tid=22510">.....&nbsp;D. polycladon</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACL20.">20'</a><a name="ACL20'"> </a> Leaves generally 0 on proximal 1/5 of stem in flower
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACL22'">22.</a><a name="ACL22."> </a> Sepals &plusmn; purple-blue, abaxial midline not lighter; proximal stem glaucous; Klamath Ranges, High Sierra Nevada, San Gabriel Mountains, San Bernardino Mountains, n East of Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=22471">.....&nbsp;D. glaucum</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACL22.">22'</a><a name="ACL22'"> </a> Sepals &plusmn; bright blue, abaxial midline lighter due to hairs; proximal stem puberulent; Warner Mountains <a href="/cgi-bin/get_IJM.pl?tid=22522">.....&nbsp;D. stachydeum</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACL17.">17'</a><a name="ACL17'"> </a> Stem generally &lt; 1 m, generally 1; enlarged rootstock buds generally 0
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACL23'">23.</a><a name="ACL23."> </a> Proximal petiole hairs > 0.5 mm, straight, spreading, white, and some not
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACL24'">24.</a><a name="ACL24."> </a> Seeds fine-prickly, fuzzy to naked eye; lateral sepals 7&ndash;13 mm; flowers generally > 12 on main axis <a href="/cgi-bin/get_IJM.pl?tid=22477">.....&nbsp;D. hansenii</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACL25'">25.</a><a name="ACL25."> </a> Sepals violet-purple to maroon &mdash; Sierra Nevada Foothills, San Joaquin Valley <a href="/cgi-bin/get_IJM.pl?tid=50087">.....&nbsp;subsp. ewanianum</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACL25.">25'</a><a name="ACL25'"> </a> Sepals dark blue-purple to white or pink
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ACL26'">26.</a><a name="ACL26."> </a> Basal leaves generally 0 in flower; cauline leaves >= 3; Inner North Coast Ranges, Cascade Range Foothills, Sierra Nevada Foothills, c&s High Sierra Nevada, Sacramento Valley <a href="/cgi-bin/get_IJM.pl?tid=50088">.....&nbsp;subsp. hansenii</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ACL26.">26'</a><a name="ACL26'"> </a> Basal leaves present but generally dry in flower (so 0 on herbarium specimens); cauline leaves generally &lt;= 2; s Sierra Nevada, Tehachapi Mountain Area, w edge Mojave Desert <a href="/cgi-bin/get_IJM.pl?tid=50089">.....&nbsp;subsp. kernense</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACL24.">24'</a><a name="ACL24'"> </a> Seeds not prickly, not fuzzy to naked eye; lateral sepals 10&ndash;25 mm; flowers generally &lt; 12 on main axis
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACL27'">27.</a><a name="ACL27."> </a> Lower petal blade margin hairs 0; sepal spur tip generally down-curved > 3 mm; stem 25&ndash;100 cm &mdash; Central Coast (c Monterey Co.) <a href="/cgi-bin/get_IJM.pl?tid=22480">.....&nbsp;D. hutchinsoniae</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACL27.">27'</a><a name="ACL27'"> </a> Lower petal blade margin hairs present; sepal spur straight or tip down-curved &lt; 3 mm; stem generally &lt; 50 cm <a href="/cgi-bin/get_IJM.pl?tid=22531">.....&nbsp;D. variegatum</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ACL28'">28.</a><a name="ACL28."> </a> Plant of mainland &mdash; sepals generally dark royal blue (white or lavender) <a href="/cgi-bin/get_IJM.pl?tid=50119">.....&nbsp;subsp. variegatum</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ACL28.">28'</a><a name="ACL28'"> </a> Plant of Channel Islands
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#ACL29'">29.</a><a name="ACL29."> </a> Sepals white to light blue; flower Jan&ndash;Apr; plants on 0&ndash;15&deg; slopes <a href="/cgi-bin/get_IJM.pl?tid=50117">.....&nbsp;subsp. kinkiense</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#ACL29.">29'</a><a name="ACL29'"> </a> Sepals bright blue; flower Feb&ndash;May; plants on 15&ndash;35&deg; slopes <a href="/cgi-bin/get_IJM.pl?tid=50118">.....&nbsp;subsp. thornei</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACL23.">23'</a><a name="ACL23'"> </a> Proximal petiole hairs 0&ndash;0.5 mm, or curved, or both (if some > 0.5 mm, straight, then plant of Northwestern California or San Francisco Bay Area, seeds winged)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACL30'">30.</a><a name="ACL30."> </a> Blade of each lower petal hairier on inner lobe than outer; proximal stem &plusmn; striate &mdash; lateral sepals 7&ndash;16 mm; seeds winged; sepals not reflexed; pedicels ascending at &lt; 45&deg; angle; Northwestern California, Cascade Range Foothills, Sacramento Valley, San Francisco Bay Area, Inner South Coast Ranges, Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=22478">.....&nbsp;D. hesperium</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACL31'">31.</a><a name="ACL31."> </a> Lateral sepals &lt;= 4 mm wide; c Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=50090">.....&nbsp;subsp. cuyamacae</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACL31.">31'</a><a name="ACL31'"> </a> Lateral sepals > 4 mm wide; n of Transverse Ranges
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ACL32'">32.</a><a name="ACL32."> </a> Sepals dark blue-purple <a href="/cgi-bin/get_IJM.pl?tid=50091">.....&nbsp;subsp. hesperium</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ACL32.">32'</a><a name="ACL32'"> </a> Sepals white to &plusmn; pink or light blue <a href="/cgi-bin/get_IJM.pl?tid=50092">.....&nbsp;subsp. pallescens</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACL30.">30'</a><a name="ACL30'"> </a> Blade of each lower petal equally hairy on inner and outer lobe; proximal stem not striate
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACL33'">33.</a><a name="ACL33."> </a> Seed coat cell margins wavy, &plusmn; visible at 10&times; when held to light; fruit length generally &lt;= 3 &times; width; sepals light blue to pink or white
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ACL34'">34.</a><a name="ACL34."> </a> Plant of grassland, open woodland; sepals white to &plusmn; pink or light blue, rarely reflexed; stem 30&ndash;150 cm <a href="/cgi-bin/get_IJM.pl?tid=22476">.....&nbsp;D. gypsophilum</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ACL34.">34'</a><a name="ACL34'"> </a> Plant of generally deserts, scrub, juniper woodland (grassland); sepals white to pink or light, &plusmn; sky, or dark blue, especially lateral generally reflexed (spreading to erect in <I>Delphinium parishii</I> subsp. <I>pallidum</I>, spreading in <I>Delphinium parishii</I> subsp. <I>subglobosum</I>); stem &lt; 78(95) cm
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#ACL35'">35.</a><a name="ACL35."> </a> Plant of fine, alkaline soil; sepals generally light blue; lower petals white &mdash; Great Central Valley, s Inner South Coast Ranges (Caliente Range), w Mojave Desert <a href="/cgi-bin/get_IJM.pl?tid=22516">.....&nbsp;D. recurvatum</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#ACL35.">35'</a><a name="ACL35'"> </a> Plant of generally coarse, not very alkaline soil; sepals white or pink to &plusmn; sky or dark blue; lower petals same color as sepals <a href="/cgi-bin/get_IJM.pl?tid=22501">.....&nbsp;D. parishii</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#ACL36'">36.</a><a name="ACL36."> </a> Sepals &plusmn; sky blue, lateral reflexed &mdash; s High Sierra Nevada, Tehachapi Mountain Area, Transverse Ranges, East of Sierra Nevada, Desert <a href="/cgi-bin/get_IJM.pl?tid=50100">.....&nbsp;subsp. parishii</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#ACL36.">36'</a><a name="ACL36'"> </a> Sepals white or pink or blue to dark blue, not sky blue, lateral not reflexed
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#ACL37'">37.</a><a name="ACL37."> </a> Generally flower after 20 May; sepals white to pink or blue; sw San Joaquin Valley, Inner South Coast Ranges, Western Transverse Ranges <a href="/cgi-bin/get_IJM.pl?tid=50101">.....&nbsp;subsp. pallidum</a>
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#ACL37.">37'</a><a name="ACL37'"> </a> Generally flower before 20 May; sepals dark blue; w Sonoran Desert <a href="/cgi-bin/get_IJM.pl?tid=50102">.....&nbsp;subsp. subglobosum</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACL33.">33'</a><a name="ACL33'"> </a> Seed coat cell margins straight, &plusmn; visible at 10&times; when held to light; fruit length generally > 3&times; width; sepals blue to dark blue
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ACL38'">38.</a><a name="ACL38."> </a> Green leaves generally present on proximal 1/5 of stem in flower; proximal stem, petioles &plusmn; glabrous
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#ACL39'">39.</a><a name="ACL39."> </a> In flower, basal leaves 4&ndash;10, cauline 1&ndash;4, lobes 3&ndash;5(9), shorter lobes 0.5&ndash;6 cm, lobe tips rounded &mdash; Sonoran Desert <a href="/cgi-bin/get_IJM.pl?tid=22519">.....&nbsp;D. scaposum</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#ACL39.">39'</a><a name="ACL39'"> </a> In flower, basal leaves 0&ndash;3, cauline 3&ndash;7, lobes 3&ndash;30, longer lobes 2&ndash;6 cm, lobe tips tapered to point
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#ACL40'">40.</a><a name="ACL40."> </a> Lobes of proximal leaves > 4 mm wide; lateral sepals reflexed; Outer South Coast Ranges, Western Transverse Ranges <a href="/cgi-bin/get_IJM.pl?tid=22530">.....&nbsp;D. umbraculorum</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#ACL40.">40'</a><a name="ACL40'"> </a> Lobes of proximal leaves &lt; 4 mm wide; lateral sepals rarely reflexed; High Cascade Range, ne High Sierra Nevada, Great Basin Floristic Province <a href="/cgi-bin/get_IJM.pl?tid=22437">.....&nbsp;D. andersonii</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ACL38.">38'</a><a name="ACL38'"> </a> Green leaves generally 0 on proximal 1/5 of stem in flower; proximal stem, petioles &plusmn; puberulent &mdash; Tehachapi Mountain Area, San Joaquin Valley, Central Western California, Southwestern California <a href="/cgi-bin/get_IJM.pl?tid=22505">.....&nbsp;D. parryi</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#ACL41'">41.</a><a name="ACL41."> </a> Basal leaves generally 0 in flower
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#ACL42'">42.</a><a name="ACL42."> </a> Lateral sepals generally 16&ndash;25 mm <a href="/cgi-bin/get_IJM.pl?tid=50104">.....&nbsp;subsp. blochmaniae</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#ACL42.">42'</a><a name="ACL42'"> </a> Lateral sepals 9&ndash;15 mm <a href="/cgi-bin/get_IJM.pl?tid=50107">.....&nbsp;subsp. parryi</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#ACL41.">41'</a><a name="ACL41'"> </a> Basal leaves generally present in flower
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#ACL43'">43.</a><a name="ACL43."> </a> Plant from > 700 m <a href="/cgi-bin/get_IJM.pl?tid=50108">.....&nbsp;subsp. purpureum</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#ACL43.">43'</a><a name="ACL43'"> </a> Plant from &lt; 700 m
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#ACL44'">44.</a><a name="ACL44."> </a> Sepals generally reflexed <a href="/cgi-bin/get_IJM.pl?tid=50105">.....&nbsp;subsp. eastwoodiae</a>
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#ACL44.">44'</a><a name="ACL44'"> </a> Sepals generally spreading <a href="/cgi-bin/get_IJM.pl?tid=50106">.....&nbsp;subsp. maritimum</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

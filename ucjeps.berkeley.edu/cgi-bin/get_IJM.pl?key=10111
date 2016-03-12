@@ -1,0 +1,366 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Agrostis</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Agrostis
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12268">Agrostis avenacea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12270">Agrostis blasdalei
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12276">Agrostis capillaris
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12273">Agrostis densiflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12282">Agrostis elliottiana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12284">Agrostis exarata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12287">Agrostis gigantea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12290">Agrostis hallii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12291">Agrostis hendersonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12292">Agrostis hooveri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12294">Agrostis humilis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12297">Agrostis idahoensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=98887">Agrostis lacuna-vernalis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12307">Agrostis microphylla
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12309">Agrostis oregonensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12310">Agrostis pallens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12320">Agrostis scabra
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12321">Agrostis stolonifera
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12324">Agrostis tandilensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12327">Agrostis variabilis
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=10111'><h3>View taxon page for Agrostis</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#ALR1'">1.</a><a name="ALR1."> </a> Rhizomes or stolons well developed, clearly present; perennial herb
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#ALR2'">2.</a><a name="ALR2."> </a> Plant from stolons
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ALR3'">3.</a><a name="ALR3."> </a> Ligule 0.5&ndash;2 mm, generally wider than long; stolons &lt; 5 cm; inflorescence widely ovate in outline, 1&deg; branches mostly spreading, spikelets not crowded <a href="/cgi-bin/get_IJM.pl?tid=12276">.....&nbsp;A. capillaris</a> (3)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ALR3.">3'</a><a name="ALR3'"> </a> Ligule 2&ndash;5 mm, longer than wide; stolons 5&ndash;100 cm; inflorescence elliptic to lanceolate in outline, 1&deg; branches generally all ascending, spikelets overlapping, crowded <a href="/cgi-bin/get_IJM.pl?tid=12321">.....&nbsp;A. stolonifera</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#ALR2.">2'</a><a name="ALR2'"> </a> Plant from rhizomes
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ALR4'">4.</a><a name="ALR4."> </a> Floret callus hairs 1.5&ndash;2 mm, generally > 1/2 lemma; ligule 4&ndash;7 mm <a href="/cgi-bin/get_IJM.pl?tid=12290">.....&nbsp;A. hallii</a> (3)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ALR4.">4'</a><a name="ALR4'"> </a> Floret callus hairs generally minute, sparse, or 0; ligule generally &lt; 3 mm (except <I>Agrostis gigantea</I>)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ALR5'">5.</a><a name="ALR5."> </a> Palea 0 or minute, &lt;&lt; lemma
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ALR6'">6.</a><a name="ALR6."> </a> Proximal leaf blade 1&ndash;6 mm wide; lemma tip minutely toothed; rhizome &lt; 10 cm; anthers 0.7&ndash;1.8 mm <a href="/cgi-bin/get_IJM.pl?tid=12310">.....&nbsp;A. pallens</a> (3)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ALR6.">6'</a><a name="ALR6'"> </a> Proximal leaf blade &lt; 1 mm wide; lemma tip &plusmn; acute; rhizome &lt; 5 cm; anthers 0.5&ndash;0.7 mm <a href="/cgi-bin/get_IJM.pl?tid=12327">.....&nbsp;A. variabilis</a> (3)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ALR5.">5'</a><a name="ALR5'"> </a> Palea well developed, &plusmn; 1/2 to slightly &lt; lemma
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ALR7'">7.</a><a name="ALR7."> </a> Inflorescence &plusmn; oblong in outline, &plusmn; open, branches generally ascending to erect; montane to alpine, 1300&ndash;3500 m <a href="/cgi-bin/get_IJM.pl?tid=12294">.....&nbsp;A. humilis</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ALR7.">7'</a><a name="ALR7'"> </a> Inflorescence generally ovate in outline, open, most branches spreading; open, generally disturbed places, &lt; 2000 m
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ALR8'">8.</a><a name="ALR8."> </a> Rhizomes &lt; 5 cm, slender, not clearly scaly; ligule generally wider than long; inflorescence branches with spikelets on distal 1/2 <a href="/cgi-bin/get_IJM.pl?tid=12276">.....&nbsp;A. capillaris</a> (3)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ALR8.">8'</a><a name="ALR8'"> </a> Rhizomes &lt; 25 cm, &plusmn; thick, &plusmn; scaly; ligule longer than wide; inflorescence branches with spikelets &plusmn; throughout <a href="/cgi-bin/get_IJM.pl?tid=12287">.....&nbsp;A. gigantea</a> (2)
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#ALR1.">1'</a><a name="ALR1'"> </a> Rhizomes or stolons 0; annual or perennial herb
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#ALR9'">9.</a><a name="ALR9."> </a> Lemma awned from back or near tip
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ALR10'">10.</a><a name="ALR10."> </a> Inflorescence open, generally oblong to ovate in outline; spikelets not crowded, inflorescence axes clearly visible
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ALR11'">11.</a><a name="ALR11."> </a> Inflorescence generally oblong to lanceolate in outline, 1&deg; branches generally ascending
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ALR12'">12.</a><a name="ALR12."> </a> Lemma awned below middle; anthers 1&ndash;1.5 mm; proximal leaf sheaths finely tomentose <a href="/cgi-bin/get_IJM.pl?tid=12292">.....&nbsp;A. hooveri</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ALR12.">12'</a><a name="ALR12'"> </a> Lemma awned at or above middle; anthers &lt;= 0.8 mm; proximal leaf sheaths generally glabrous
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ALR13'">13.</a><a name="ALR13."> </a> Proximal inflorescence branches 1&ndash;2 cm; awn &lt; 3.5 mm, straight to bent; palea &lt; 1/3 lemma; anthers 0.3&ndash;0.6 mm <a href="/cgi-bin/get_IJM.pl?tid=12284">.....&nbsp;A. exarata</a> (3)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ALR13.">13'</a><a name="ALR13'"> </a> Proximal inflorescence branches 2&ndash;6 cm; lemma awn &lt; 2 mm, straight; palea 1/5&ndash;1/4 lemma; anthers 0.6&ndash;0.8 mm <a href="/cgi-bin/get_IJM.pl?tid=12309">.....&nbsp;A. oregonensis</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ALR11.">11'</a><a name="ALR11'"> </a> Inflorescence generally ovate in outline, proximal-most 1&deg; branches spreading, distal branches generally ascending
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ALR14'">14.</a><a name="ALR14."> </a> Lemma back puberulent below middle; floret axis prolonged beyond floret &plusmn; 1 mm, short-hairy-tufted; palea > 1 mm <a href="/cgi-bin/get_IJM.pl?tid=12268">.....&nbsp;A. avenacea</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ALR14.">14'</a><a name="ALR14'"> </a> Lemma back glabrous or fine-scabrous; floret axis not prolonged beyond lemma; palea 0 or minute
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ALR15'">15.</a><a name="ALR15."> </a> Lemma generally awned near tip, awn 3&ndash;10 mm, wavy; callus hairs &lt; 0.6 mm, dense; anther 1, persistent in fruit; annual <a href="/cgi-bin/get_IJM.pl?tid=12282">.....&nbsp;A. elliottiana</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ALR15.">15'</a><a name="ALR15'"> </a> Lemma awned below middle, awn &lt; 2 mm, &plusmn; straight; callus hairs &lt;&lt; lemma, sparse; anthers 3, deciduous; perennial herb <a href="/cgi-bin/get_IJM.pl?tid=12320">.....&nbsp;A. scabra</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ALR10.">10'</a><a name="ALR10'"> </a> Inflorescence dense, generally cylindric; spikelets crowded, overlapping, inflorescence axes not clearly visible
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ALR16'">16.</a><a name="ALR16."> </a> 1&deg; inflorescence branches generally > 0.5 cm, often evident at base (except <I>Agrostis blasdalei</I>)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ALR17'">17.</a><a name="ALR17."> </a> Leaf blade generally &lt; 1 mm wide, &plusmn; inrolled; floret callus glabrous; inflorescence base often partly enclosed by sheath of distal-most leaf; anthers 1&ndash;2 mm <a href="/cgi-bin/get_IJM.pl?tid=12270">.....&nbsp;A. blasdalei</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ALR17.">17'</a><a name="ALR17'"> </a> Leaf blade generally 2&ndash;10 mm wide, flat; floret callus minutely hairy; inflorescence base not partly enclosed by sheath of distal-most leaf; anthers &plusmn; 0.5 mm
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ALR18'">18.</a><a name="ALR18."> </a> Back of glume fine-scabrous throughout; palea 0.5&ndash;0.7 mm; ligule 1.5&ndash;2 mm <a href="/cgi-bin/get_IJM.pl?tid=12273">.....&nbsp;A. densiflora</a> (3)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ALR18.">18'</a><a name="ALR18'"> </a> Back of glume &plusmn; glabrous (keel fine-scabrous); palea &plusmn; 0.3 mm; ligule 2.5&ndash;4 mm <a href="/cgi-bin/get_IJM.pl?tid=12284">.....&nbsp;A. exarata</a> (3)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ALR16.">16'</a><a name="ALR16'"> </a> 1&deg; inflorescence branches generally &lt; 0.5 cm (&lt; 1.5 cm in <I>Agrostis microphylla</I>), obscured by densely clustered spikelets
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ALR19'">19.</a><a name="ALR19."> </a> Lemma teeth 4, two &lt; 1 mm, other two 1&ndash;1.5 mm; lemma awned below middle; callus densely short-hairy <a href="/cgi-bin/get_IJM.pl?tid=12324">.....&nbsp;A. tandilensis</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ALR19.">19'</a><a name="ALR19'"> </a> Lemma teeth 0 or 2, equal; lemma awned at or above middle; callus generally sparsely hairy, hairs minute
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ALR20'">20.</a><a name="ALR20."> </a> Lemma awned above middle, awn &lt; 3.5 mm, straight; glume tips acute; perennial herb <a href="/cgi-bin/get_IJM.pl?tid=12273">.....&nbsp;A. densiflora</a> (3)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ALR20.">20'</a><a name="ALR20'"> </a> Lemma awned &plusmn; at middle, awn 3.5&ndash;10 mm, generally bent; glume tips narrowly acuminate to awn-like; annual
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ALR21'">21.</a><a name="ALR21."> </a> Lemma 2&ndash;4 mm, awn 8&ndash;10 mm <a href="/cgi-bin/get_IJM.pl?tid=12291">.....&nbsp;A. hendersonii</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ALR21.">21'</a><a name="ALR21'"> </a> Lemma 1.5&ndash;2 mm, awn 3.5&ndash;8 mm <a href="/cgi-bin/get_IJM.pl?tid=12307">.....&nbsp;A. microphylla</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#ALR9.">9'</a><a name="ALR9'"> </a> Lemma awnless (occasionally short-awned near tip in <I>Agrostis capillaris</I>, from near middle in <I>Agrostis pallens</I>)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ALR22'">22.</a><a name="ALR22."> </a> Spikelets crowded and often overlapping on same branch, spikelet stalks and 2&deg; axes not clearly visible
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ALR23'">23.</a><a name="ALR23."> </a> Palea 1/3&ndash;2/3 lemma 
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ALR24'">24.</a><a name="ALR24."> </a> Lf blade 2&ndash;10 mm wide; lemma 1.5&ndash;2 mm; floret callus minutely hairy; coastal bluffs <a href="/cgi-bin/get_IJM.pl?tid=12273">.....&nbsp;A. densiflora</a> (3)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ALR24.">24'</a><a name="ALR24'"> </a> Lf blade 0.3&ndash;1.5 mm wide; lemma 1.1&ndash;1.5 mm; floret callus glabrous; vernal pools <a href="/cgi-bin/get_IJM.pl?tid=98887">.....&nbsp;A. lacuna-vernalis</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ALR23.">23'</a><a name="ALR23'"> </a> Palea 0 or &lt; 1/3 lemma
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ALR25'">25.</a><a name="ALR25."> </a> Leaf blade generally &lt; 1 mm wide, generally inrolled or folded
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ALR26'">26.</a><a name="ALR26."> </a> Anthers 1&ndash;2 mm; inflorescence branches generally &lt; 0.5 cm; coastal habitats &lt; 100 m <a href="/cgi-bin/get_IJM.pl?tid=12270">.....&nbsp;A. blasdalei</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ALR26.">26'</a><a name="ALR26'"> </a> Anthers 0.5&ndash;0.7 mm; inflorescence branches 0.5&ndash;1.5 cm; inland mtns, 1600&ndash;4000 m <a href="/cgi-bin/get_IJM.pl?tid=12327">.....&nbsp;A. variabilis</a> (3)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ALR25.">25'</a><a name="ALR25'"> </a> Leaf blade generally 2&ndash;7 mm wide, generally flat
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ALR27'">27.</a><a name="ALR27."> </a> Floret callus hairs 1.5&ndash;2 mm, generally slightly > 1/2 lemma <a href="/cgi-bin/get_IJM.pl?tid=12290">.....&nbsp;A. hallii</a> (3)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ALR27.">27'</a><a name="ALR27'"> </a> Floret callus hairs 0 or &lt; 0.5 mm, &lt; 1/2 lemma
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ALR28'">28.</a><a name="ALR28."> </a> Proximal inflorescence branches 1&ndash;2 cm; anthers 0.3&ndash;0.6 mm <a href="/cgi-bin/get_IJM.pl?tid=12284">.....&nbsp;A. exarata</a> (3)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ALR28.">28'</a><a name="ALR28'"> </a> Proximal inflorescence branches 2&ndash;5 cm; anthers 0.7&ndash;1.8 mm <a href="/cgi-bin/get_IJM.pl?tid=12310">.....&nbsp;A. pallens</a> (3)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ALR22.">22'</a><a name="ALR22'"> </a> Spikelets not crowded, generally well spaced on same branch, axes generally clearly visible
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ALR29'">29.</a><a name="ALR29."> </a> 1&deg; inflorescence axes branched 1&ndash;2 &times; above middle, spikelets 0 on proximal 1/2
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ALR30'">30.</a><a name="ALR30."> </a> Proximal leaf blades 2&ndash;4 mm wide; glumes 2&ndash;3 mm; palea 1/5&ndash;1/4 lemma; anthers 0.6&ndash;0.8 mm <a href="/cgi-bin/get_IJM.pl?tid=12309">.....&nbsp;A. oregonensis</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ALR30.">30'</a><a name="ALR30'"> </a> Proximal leaf blades 0.5&ndash;3 mm wide; glumes 1.5&ndash;3 mm; palea 0 or minute, &lt;&lt; lemma; anthers &lt;= 0.7 mm
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ALR31'">31.</a><a name="ALR31."> </a> Leaves basal and cauline; inflorescence &plusmn; 2 &times; longer than wide; 1&deg; axes &plusmn; stiff <a href="/cgi-bin/get_IJM.pl?tid=12297">.....&nbsp;A. idahoensis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ALR31.">31'</a><a name="ALR31'"> </a> Leaves mostly basal; inflorescence &plusmn; long as wide; 1&deg; axes flexible, proximal &plusmn; arched <a href="/cgi-bin/get_IJM.pl?tid=12320">.....&nbsp;A. scabra</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ALR29.">29'</a><a name="ALR29'"> </a> 1&deg; inflorescence axes branched 1&ndash;2 &times; from base upwards, spikelets distributed throughout
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ALR32'">32.</a><a name="ALR32."> </a> Floret callus hairs 1.5&ndash;2 mm, generally slightly > 1/2 lemma; anthers >= 1.5 mm <a href="/cgi-bin/get_IJM.pl?tid=12290">.....&nbsp;A. hallii</a> (3)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ALR32.">32'</a><a name="ALR32'"> </a> Floret callus glabrous or hairs minute, &lt;&lt; lemma; anthers generally &lt; 1.5 mm (except some <I>Agrostis pallens</I>)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ALR33'">33.</a><a name="ALR33."> </a> Palea 0 or minute, &lt;&lt; lemma
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ALR34'">34.</a><a name="ALR34."> </a> Leaf blade 1&ndash;6 mm wide; plants generally 10&ndash;70 cm; anthers 0.7&ndash;1.8 mm <a href="/cgi-bin/get_IJM.pl?tid=12310">.....&nbsp;A. pallens</a> (3)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ALR34.">34'</a><a name="ALR34'"> </a> Leaf blade generally &lt; 1 mm wide; plants 4&ndash;30 cm; anthers 0.5&ndash;0.7 mm <a href="/cgi-bin/get_IJM.pl?tid=12327">.....&nbsp;A. variabilis</a> (3)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ALR33.">33'</a><a name="ALR33'"> </a> Palea >= 1/2 lemma
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ALR35'">35.</a><a name="ALR35."> </a> Inflorescence branches ascending to erect; anthers &lt; 1 mm; moist to &plusmn; dry areas, generally > 1500 m <a href="/cgi-bin/get_IJM.pl?tid=12294">.....&nbsp;A. humilis</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ALR35.">35'</a><a name="ALR35'"> </a> Inflorescence branches spreading to ascending; anthers 0.8&ndash;1.5 mm; disturbed areas, generally &lt; 1500 m
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ALR36'">36.</a><a name="ALR36."> </a> Ligule 0.5&ndash;2 mm, generally wider than long; inflorescence branches with spikelets on distal 1/2 <a href="/cgi-bin/get_IJM.pl?tid=12276">.....&nbsp;A. capillaris</a> (3)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ALR36.">36'</a><a name="ALR36'"> </a> Ligule 2&ndash;6 mm, longer than wide; inflorescence branches with spikelets &plusmn; throughout <a href="/cgi-bin/get_IJM.pl?tid=12287">.....&nbsp;A. gigantea</a> (2)</blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

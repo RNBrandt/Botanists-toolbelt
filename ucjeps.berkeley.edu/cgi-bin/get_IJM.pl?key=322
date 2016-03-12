@@ -1,0 +1,287 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Arnica</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Arnica
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1113">Arnica cernua
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1115">Arnica chamissonis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1118">Arnica cordifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80293">Arnica dealbata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1123">Arnica discoidea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1130">Arnica fulgens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=82177">Arnica lanceolata subsp. prima
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1133">Arnica latifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1139">Arnica longifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1141">Arnica mollis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1142">Arnica nevadensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=82179">Arnica ovata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1144">Arnica parryi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1148">Arnica sororia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1149">Arnica spathulata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1152">Arnica venosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1153">Arnica viscosa
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=322'><h3>View taxon page for Arnica</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#FC1'">1.</a><a name="FC1."> </a> Pappus 0 <a href="/cgi-bin/get_IJM.pl?tid=80293">.....&nbsp;A. dealbata</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#FC1.">1'</a><a name="FC1'"> </a> Pappus of 10&ndash;50 fine bristles
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#FC2'">2.</a><a name="FC2."> </a> Heads discoid, some marginal flowers occasionally with &plusmn; expanded corollas
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FC3'">3.</a><a name="FC3."> </a> Leaves widely &plusmn; sessile
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FC4'">4.</a><a name="FC4."> </a> Leaf toothed, net-veined abaxially between 3&ndash;5 prominent veins; corolla yellow; fruit hairy, nonglandular <a href="/cgi-bin/get_IJM.pl?tid=1152">.....&nbsp;A. venosa</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FC4.">4'</a><a name="FC4'"> </a> Leaf &plusmn; entire, weakly 3&ndash;5-veined; corolla cream; fruit stalked-glandular <a href="/cgi-bin/get_IJM.pl?tid=1153">.....&nbsp;A. viscosa</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FC3.">3'</a><a name="FC3'"> </a> Proximal and middle leaves narrowed to a &plusmn; widely winged petiole (except <I>Arnica discoidea</I>, proximal leaves &plusmn; narrowly wing-petioled)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FC5'">5.</a><a name="FC5."> </a> Phyllaries linear to lanceolate; young heads generally nodding; pappus brown-yellow, &plusmn; plumose <a href="/cgi-bin/get_IJM.pl?tid=1144">.....&nbsp;A. parryi</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FC5.">5'</a><a name="FC5'"> </a> Phyllaries narrowly lanceolate to lance-ovate; young heads erect; pappus white, generally short-barbed
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FC6'">6.</a><a name="FC6."> </a> Most proximal leaf blades lanceolate to ovate or &plusmn; cordate; petiole narrow, &plusmn; narrowly winged; fruit hairy and stalked-glandular <a href="/cgi-bin/get_IJM.pl?tid=1123">.....&nbsp;A. discoidea</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FC6.">6'</a><a name="FC6'"> </a> Most proximal leaf blades &plusmn; oblanceolate; petiole &plusmn; widely winged; fruit sparsely stalked-glandular, generally otherwise glabrous <a href="/cgi-bin/get_IJM.pl?tid=1149">.....&nbsp;A. spathulata</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#FC2.">2'</a><a name="FC2'"> </a> Heads radiate
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FC7'">7.</a><a name="FC7."> </a> Cauline leaves generally 5&ndash;12 pairs, &plusmn; equal or gradually reduced distally on stem; heads 3&ndash;20
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FC8'">8.</a><a name="FC8."> </a> Phyllaries generally &plusmn; obtuse, adaxial face of tip generally hair-tufted; tube of disk corolla generally 3&ndash;4.5 mm <a href="/cgi-bin/get_IJM.pl?tid=1115">.....&nbsp;A. chamissonis</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FC8.">8'</a><a name="FC8'"> </a> Phyllaries &plusmn; acute, tip &plusmn; no more hairy than body; tube of disk corolla generally 2&ndash;3 mm
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FC9'">9.</a><a name="FC9."> </a> Stems 1&ndash;few from short rhizome or caudex; leaves &plusmn; toothed <a href="/cgi-bin/get_IJM.pl?tid=82177">.....&nbsp;A. lanceolata subsp. prima</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FC9.">9'</a><a name="FC9'"> </a> Stems clustered on short caudex-like rhizome; leaves &plusmn; entire <a href="/cgi-bin/get_IJM.pl?tid=1139">.....&nbsp;A. longifolia</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FC7.">7'</a><a name="FC7'"> </a> Cauline leaves generally 2&ndash;4(6) pairs, often strongly reduced distally on stem; heads generally &lt; 5(15)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FC10'">10.</a><a name="FC10."> </a> Pappus (yellow-)brown, bristles &plusmn; plumose &mdash; rhizome short, freely rooting
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FC11'">11.</a><a name="FC11."> </a> Rays &lt; 15 mm; proximal herbage &plusmn; long-spreading-hairy; young heads generally nodding <a href="/cgi-bin/get_IJM.pl?tid=1144">.....&nbsp;A. parryi</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FC11.">11'</a><a name="FC11'"> </a> Rays generally 15&ndash;25 mm; proximal herbage becoming glabrous to hairy or glandular; young heads erect
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FC12'">12.</a><a name="FC12."> </a> Heads spreading-bell-shaped to hemispheric; cauline leaves variable, &plusmn; sessile, most proximal generally largest <a href="/cgi-bin/get_IJM.pl?tid=1141">.....&nbsp;A. mollis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FC12.">12'</a><a name="FC12'"> </a> Heads &plusmn; narrowly obconic; cauline leaf blades elliptic to widely deltate, at least some petioled, middle generally largest <a href="/cgi-bin/get_IJM.pl?tid=82179">.....&nbsp;A. ovata</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FC10.">10'</a><a name="FC10'"> </a> Pappus &plusmn; white to straw-colored, bristles short-barbed, if bristles &plusmn; plumose, rhizome long
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FC13'">13.</a><a name="FC13."> </a> Leaf blade narrow, length &plusmn; 3&ndash;6+ &times; width; basal leaves generally densely clustered; rays yellow-orange
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FC14'">14.</a><a name="FC14."> </a> Proximal axils brown-woolly-tufted; disk corollas spreading-hairy, stalked-glandular <a href="/cgi-bin/get_IJM.pl?tid=1130">.....&nbsp;A. fulgens</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FC14.">14'</a><a name="FC14'"> </a> Proximal axils glabrous or sparsely white-hairy; disk corollas stalked-glandular only <a href="/cgi-bin/get_IJM.pl?tid=1148">.....&nbsp;A. sororia</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FC13.">13'</a><a name="FC13'"> </a> Leaf blade generally &plusmn; wide, length generally &lt; 2.5 &times; width; basal leaves sometimes persistent, not densely clustered; rays yellow
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FC15'">15.</a><a name="FC15."> </a> Cauline leaves at least at mid-stem sessile (&plusmn; sessile) <a href="/cgi-bin/get_IJM.pl?tid=1133">.....&nbsp;A. latifolia</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FC15.">15'</a><a name="FC15'"> </a> Cauline leaves at least at mid-stem petioled (petiole &plusmn; wide)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#FC16'">16.</a><a name="FC16."> </a> Leaves &plusmn; thick, often fleshy and &plusmn; red; heads 1(4), often nodding in bud; serpentine soils <a href="/cgi-bin/get_IJM.pl?tid=1113">.....&nbsp;A. cernua</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#FC16.">16'</a><a name="FC16'"> </a> Leaves &plusmn; thin, neither fleshy nor &plusmn; red; heads 1&ndash;5, not nodding in bud; not on serpentine
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#FC17'">17.</a><a name="FC17."> </a> Proximal leaves generally toothed, &plusmn; strongly cordate (except stunted alpine plants); pappus short-barbed <a href="/cgi-bin/get_IJM.pl?tid=1118">.....&nbsp;A. cordifolia</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#FC17.">17'</a><a name="FC17'"> </a> Proximal leaves &plusmn; entire, base rounded (&plusmn; cordate); pappus short-barbed to &plusmn; plumose <a href="/cgi-bin/get_IJM.pl?tid=1142">.....&nbsp;A. nevadensis</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

@@ -1,0 +1,344 @@
+<html>
+<head>
+<Meta NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<title>Bryophytes in the University Herbarium</title>
+<Meta Name="keywords" Content="UC Berkeley University Herbarium, bryophytes, bryolab, bryoflora of California, Norris, Mishler, Shevock, California Mosses, Moss database ">
+<link href="/style_moss.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+
+
+<table class="banner" width="100%" border="0">
+  <tr>
+    <td align="center" valign="bottom"> Bryophytes in UC</td>
+  </tr>
+</table>
+
+<!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="21" width="640" align="right"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	  </td>
+	<td />
+  </tr>
+ <tr>
+    <td colspan="6" bgcolor="#9FBFFF"><img src="../common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>
+<!-- End of horizontal menu -->
+<a href="/bryolab/UC_bryophytes.html">Return to search page</a>
+
+
+<table width="100%" cellpadding="20" class="bodyText"><tr><td>
+<span class="pageName">Accession Results</span>
+<span class="pageSubheading"> &mdash; 19 records retrieved</span>
+<br />
+<span class="bodyText">Results for search: Locality=Tilden Park; </span>
+<br><a href="http://berkeleymapper.berkeley.edu/index.html?ViewResults=tab&tabfile=http://ucjeps.berkeley.edu/BerkeleyMapper/BEX_067124765.txt&configfile=http%3A%2F%2Fucjeps.berkeley.edu%2Fbex.xml&sourcename=Bryophyte+Exchange+result+set&x&maptype=Terrain">Map the results using BerkeleyMapper (19 records with coordinates [those with a <font color="#00FF00">light green</font> checkbox])</a>
+
+<form method="post" action="/cgi-bin/get_bex.pl">
+<br>
+<a href="/cgi-bin/get_bex.pl?county=&source=&taxon_name=&collector=&excl_collector=&aid=&year=&month=&day=&loc=Tilden Park&coll_num=&max_rec=2000&make_tax_list=&elev_high=&elev_low=&check_all=1">Select all records</a>
+<br>
+<a href="/cgi-bin/get_bex.pl?county=&source=&taxon_name=&collector=&excl_collector=&aid=&year=&month=&day=&loc=Tilden Park&coll_num=&max_rec=2000&make_tax_list=&elev_high=&elev_low=&georef_only=1">Select records with coordinates</a>
+<br>
+<input type="submit" value="Retrieve selected records">
+</td></tr></table>
+
+
+<table width="100%" cellpadding="5" class="bodyText">
+<tr><td colspan="9">
+Click on accession number to display detailed record; click on column header to sort data; click in leftmost checkbox to select record.
+</td>
+</tr>
+<tr bgcolor="#ccffcc">
+<th></th>
+<th><a href="/cgi-bin/get_bex.pl?county=&source=&taxon_name=&collector=&excl_collector=&aid=&year=&month=&day=&loc=Tilden Park&coll_num=&max_rec=2000&make_tax_list=&elev_high=&elev_low=&SO=10">Accession ID</a></th>
+<th><a href="/cgi-bin/get_bex.pl?county=&source=&taxon_name=&collector=&excl_collector=&aid=&year=&month=&day=&loc=Tilden Park&coll_num=&max_rec=2000&make_tax_list=&elev_high=&elev_low=&SO=0">Determination</a></th>
+<th><a href="/cgi-bin/get_bex.pl?county=&source=&taxon_name=&collector=&excl_collector=&aid=&year=&month=&day=&loc=Tilden Park&coll_num=&max_rec=2000&make_tax_list=&elev_high=&elev_low=&SO=1">Collector</a></th>
+<th><a href="/cgi-bin/get_bex.pl?county=&source=&taxon_name=&collector=&excl_collector=&aid=&year=&month=&day=&loc=Tilden Park&coll_num=&max_rec=2000&make_tax_list=&elev_high=&elev_low=&SO=5">Collection Date</a></th>
+<th><a href="/cgi-bin/get_bex.pl?county=&source=&taxon_name=&collector=&excl_collector=&aid=&year=&month=&day=&loc=Tilden Park&coll_num=&max_rec=2000&make_tax_list=&elev_high=&elev_low=&SO=3">Collection Number</a></th>
+<th><a href="/cgi-bin/get_bex.pl?county=&source=&taxon_name=&collector=&excl_collector=&aid=&year=&month=&day=&loc=Tilden Park&coll_num=&max_rec=2000&make_tax_list=&elev_high=&elev_low=&SO=8">County / State</a></th>
+<th><a href="/cgi-bin/get_bex.pl?county=&source=&taxon_name=&collector=&excl_collector=&aid=&year=&month=&day=&loc=Tilden Park&coll_num=&max_rec=2000&make_tax_list=&elev_high=&elev_low=&SO=20">Locality</a></th>
+<th><a href="/cgi-bin/get_bex.pl?county=&source=&taxon_name=&collector=&excl_collector=&aid=&year=&month=&day=&loc=Tilden Park&coll_num=&max_rec=2000&make_tax_list=&elev_high=&elev_low=&SO=9">Elevation in meters</a></th>
+<th>Feedback</th>
+</tr>
+
+<!--Bryum barnesii --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DHN109654 ></td>
+<td><a href="/cgi-bin/bex_detail.pl?aid=DHN109654">DHN109654</a>&nbsp;</td>
+<td>Bryum barnesii</td>
+<td>D. H. Norris, N. M. Hillyard</td>
+<td>8 February 2007</td>
+<td>109654</td>
+<td>Contra Costa / CA</td>
+<td>On seasonally moist soil in open grasslands and scrublands with Baccharis, Toxicodendron and Umbellularia about 1 mile north of Wildcat Canyon Road on Nimitz Trail, Tilden Regional Park.</td>
+<td>300</td>
+<td valign="top"><a href="/cgi-bin/get_bex.pl?sugg=DHN109654">Comment</a> </td>
+</tr>
+<!--Bryum bicolor --><tr bgcolor=#eeffee>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DHN109657 ></td>
+<td><a href="/cgi-bin/bex_detail.pl?aid=DHN109657">DHN109657</a>&nbsp;</td>
+<td>Bryum bicolor</td>
+<td>D. H. Norris, N. M. Hillyard</td>
+<td>8 February 2007</td>
+<td>109657</td>
+<td>Contra Costa / CA</td>
+<td>On seasonally moist soil in open grasslands and scrublands with Baccharis, Toxicodendron and Umbellularia about 1 mile north of Wildcat Canyon Road on Nimitz Trail, Tilden Regional Park.</td>
+<td>300</td>
+<td valign="top"><a href="/cgi-bin/get_bex.pl?sugg=DHN109657">Comment</a> </td>
+</tr>
+<!--Bryum flaccidum --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DHN109659 ></td>
+<td><a href="/cgi-bin/bex_detail.pl?aid=DHN109659">DHN109659</a>&nbsp;</td>
+<td>Bryum flaccidum</td>
+<td>D. H. Norris, N. M. Hillyard</td>
+<td>8 February 2007</td>
+<td>109659</td>
+<td>Contra Costa / CA</td>
+<td>On seasonally moist soil in open grasslands and scrublands with Baccharis, Toxicodendron and Umbellularia about 1 mile north of Wildcat Canyon Road on Nimitz Trail, Tilden Regional Park.</td>
+<td>300</td>
+<td valign="top"><a href="/cgi-bin/get_bex.pl?sugg=DHN109659">Comment</a> </td>
+</tr>
+<!--Bryum torquescens --><tr bgcolor=#eeffee>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DHN109653 ></td>
+<td><a href="/cgi-bin/bex_detail.pl?aid=DHN109653">DHN109653</a>&nbsp;</td>
+<td>Bryum torquescens</td>
+<td>D. H. Norris, N. M. Hillyard</td>
+<td>8 February 2007</td>
+<td>109653</td>
+<td>Contra Costa / CA</td>
+<td>On seasonally moist soil in open grasslands and scrublands with Baccharis, Toxicodendron and Umbellularia about 1 mile north of Wildcat Canyon Road on Nimitz Trail, Tilden Regional Park.</td>
+<td>300</td>
+<td valign="top"><a href="/cgi-bin/get_bex.pl?sugg=DHN109653">Comment</a> </td>
+</tr>
+<!--Ceratodon purpureus --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DHN109656 ></td>
+<td><a href="/cgi-bin/bex_detail.pl?aid=DHN109656">DHN109656</a>&nbsp;</td>
+<td>Ceratodon purpureus</td>
+<td>D. H. Norris, N. M. Hillyard</td>
+<td>8 February 2007</td>
+<td>109656</td>
+<td>Contra Costa / CA</td>
+<td>On seasonally moist soil in open grasslands and scrublands with Baccharis, Toxicodendron and Umbellularia about 1 mile north of Wildcat Canyon Road on Nimitz Trail, Tilden Regional Park.</td>
+<td>300</td>
+<td valign="top"><a href="/cgi-bin/get_bex.pl?sugg=DHN109656">Comment</a> </td>
+</tr>
+<!--Didymodon brachyphyllus --><tr bgcolor=#eeffee>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DHN109648 ></td>
+<td><a href="/cgi-bin/bex_detail.pl?aid=DHN109648">DHN109648</a>&nbsp;</td>
+<td>Didymodon brachyphyllus</td>
+<td>D. H. Norris, N. M. Hillyard</td>
+<td>8 February 2007</td>
+<td>109648</td>
+<td>Contra Costa / CA</td>
+<td>On seasonally moist soil in open grasslands and scrublands with Baccharis, Toxicodendron and Umbellularia about 1 mile north of Wildcat Canyon Road on Nimitz Trail, Tilden Regional Park.</td>
+<td>300</td>
+<td valign="top"><a href="/cgi-bin/get_bex.pl?sugg=DHN109648">Comment</a> </td>
+</tr>
+<!--Didymodon eckeliae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DHN109649 ></td>
+<td><a href="/cgi-bin/bex_detail.pl?aid=DHN109649">DHN109649</a>&nbsp;</td>
+<td>Didymodon eckeliae</td>
+<td>D. H. Norris, N. M. Hillyard</td>
+<td>8 February 2007</td>
+<td>109649</td>
+<td>Contra Costa / CA</td>
+<td>On seasonally moist soil in open grasslands and scrublands with Baccharis, Toxicodendron and Umbellularia about 1 mile north of Wildcat Canyon Road on Nimitz Trail, Tilden Regional Park.</td>
+<td>300</td>
+<td valign="top"><a href="/cgi-bin/get_bex.pl?sugg=DHN109649">Comment</a> </td>
+</tr>
+<!--Didymodon vinealis --><tr bgcolor=#eeffee>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DHN109652 ></td>
+<td><a href="/cgi-bin/bex_detail.pl?aid=DHN109652">DHN109652</a>&nbsp;</td>
+<td>Didymodon vinealis</td>
+<td>D. H. Norris, N. M. Hillyard</td>
+<td>8 February 2007</td>
+<td>109652</td>
+<td>Contra Costa / CA</td>
+<td>On seasonally moist soil in open grasslands and scrublands with Baccharis, Toxicodendron and Umbellularia about 1 mile north of Wildcat Canyon Road on Nimitz Trail, Tilden Regional Park.</td>
+<td>300</td>
+<td valign="top"><a href="/cgi-bin/get_bex.pl?sugg=DHN109652">Comment</a> </td>
+</tr>
+<!--Fissidens crispus --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DHN109647 ></td>
+<td><a href="/cgi-bin/bex_detail.pl?aid=DHN109647">DHN109647</a>&nbsp;</td>
+<td>Fissidens crispus</td>
+<td>D. H. Norris, N. M. Hillyard</td>
+<td>8 February 2007</td>
+<td>109647</td>
+<td>Contra Costa / CA</td>
+<td>On seasonally moist soil in open grasslands and scrublands with Baccharis, Toxicodendron and Umbellularia about 1 mile north of Wildcat Canyon Road on Nimitz Trail, Tilden Regional Park.</td>
+<td>300</td>
+<td valign="top"><a href="/cgi-bin/get_bex.pl?sugg=DHN109647">Comment</a> </td>
+</tr>
+<!--Fissidens curvatus --><tr bgcolor=#eeffee>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DHN109660 ></td>
+<td><a href="/cgi-bin/bex_detail.pl?aid=DHN109660">DHN109660</a>&nbsp;</td>
+<td>Fissidens curvatus</td>
+<td>D. H. Norris, N. M. Hillyard</td>
+<td>8 February 2007</td>
+<td>109660</td>
+<td>Contra Costa / CA</td>
+<td>On seasonally moist soil in open grasslands and scrublands with Baccharis, Toxicodendron and Umbellularia about 1 mile north of Wildcat Canyon Road on Nimitz Trail, Tilden Regional Park.</td>
+<td>300</td>
+<td valign="top"><a href="/cgi-bin/get_bex.pl?sugg=DHN109660">Comment</a> </td>
+</tr>
+<!--Fissidens taxifolius --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DHN105188 ></td>
+<td><a href="/cgi-bin/bex_detail.pl?aid=DHN105188">DHN105188</a>&nbsp;</td>
+<td>Fissidens taxifolius</td>
+<td>D. H. Norris, Nancy Hillyard</td>
+<td>26 January 2003</td>
+<td>105188</td>
+<td>Contra Costa / CA</td>
+<td>On moist, diffusely lit mud in trail in open forest of Quercus agrifolia, Umbellularia and Alnus with scattered Eucalyptus globulus along Upper Jewel Lake trail about 100 meters from Parking Lot in Jewel Lake Section of Tilden County Park</td>
+<td>350</td>
+<td valign="top"><a href="/cgi-bin/get_bex.pl?sugg=DHN105188">Comment</a> </td>
+</tr>
+<!--Fossombronia longiseta --><tr bgcolor=#eeffee>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DHN109650 ></td>
+<td><a href="/cgi-bin/bex_detail.pl?aid=DHN109650">DHN109650</a>&nbsp;</td>
+<td>Fossombronia longiseta</td>
+<td>D. H. Norris, N. M. Hillyard</td>
+<td>8 February 2007</td>
+<td>109650</td>
+<td>Contra Costa / CA</td>
+<td>On seasonally moist soil in open grasslands and scrublands with Baccharis, Toxicodendron and Umbellularia about 1 mile north of Wildcat Canyon Road on Nimitz Trail, Tilden Regional Park.</td>
+<td>300</td>
+<td valign="top"><a href="/cgi-bin/get_bex.pl?sugg=DHN109650">Comment</a> </td>
+</tr>
+<!--Funaria hygrometrica --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DHN109658 ></td>
+<td><a href="/cgi-bin/bex_detail.pl?aid=DHN109658">DHN109658</a>&nbsp;</td>
+<td>Funaria hygrometrica</td>
+<td>D. H. Norris, N. M. Hillyard</td>
+<td>8 February 2007</td>
+<td>109658</td>
+<td>Contra Costa / CA</td>
+<td>On seasonally moist soil in open grasslands and scrublands with Baccharis, Toxicodendron and Umbellularia about 1 mile north of Wildcat Canyon Road on Nimitz Trail, Tilden Regional Park.</td>
+<td>300</td>
+<td valign="top"><a href="/cgi-bin/get_bex.pl?sugg=DHN109658">Comment</a> </td>
+</tr>
+<!--Gemmabryum --><tr bgcolor=#eeffee>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DHN109663 ></td>
+<td><a href="/cgi-bin/bex_detail.pl?aid=DHN109663">DHN109663</a>&nbsp;</td>
+<td>Gemmabryum</td>
+<td>D. H. Norris, N. M. Hillyard</td>
+<td>8 February 2007</td>
+<td>109663</td>
+<td>Contra Costa / CA</td>
+<td>On seasonally moist soil in open grasslands and scrublands with Baccharis, Toxicodendron and Umbellularia about 1 mile north of Wildcat Canyon Road on Nimitz Trail, Tilden Regional Park.</td>
+<td>300</td>
+<td valign="top"><a href="/cgi-bin/get_bex.pl?sugg=DHN109663">Comment</a> </td>
+</tr>
+<!--Gemmabryum --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DHN109664 ></td>
+<td><a href="/cgi-bin/bex_detail.pl?aid=DHN109664">DHN109664</a>&nbsp;</td>
+<td>Gemmabryum</td>
+<td>D. H. Norris, N. M. Hillyard</td>
+<td>8 February 2007</td>
+<td>109664</td>
+<td>Contra Costa / CA</td>
+<td>On seasonally moist soil in open grasslands and scrublands with Baccharis, Toxicodendron and Umbellularia about 1 mile north of Wildcat Canyon Road on Nimitz Trail, Tilden Regional Park.</td>
+<td>300</td>
+<td valign="top"><a href="/cgi-bin/get_bex.pl?sugg=DHN109664">Comment</a> </td>
+</tr>
+<!--Homalothecium arenarium --><tr bgcolor=#eeffee>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DHN109655 ></td>
+<td><a href="/cgi-bin/bex_detail.pl?aid=DHN109655">DHN109655</a>&nbsp;</td>
+<td>Homalothecium arenarium</td>
+<td>D. H. Norris, N. M. Hillyard</td>
+<td>8 February 2007</td>
+<td>109655</td>
+<td>Contra Costa / CA</td>
+<td>On seasonally moist soil in open grasslands and scrublands with Baccharis, Toxicodendron and Umbellularia about 1 mile north of Wildcat Canyon Road on Nimitz Trail, Tilden Regional Park.</td>
+<td>300</td>
+<td valign="top"><a href="/cgi-bin/get_bex.pl?sugg=DHN109655">Comment</a> </td>
+</tr>
+<!--Phascum cuspidatum --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DHN109661 ></td>
+<td><a href="/cgi-bin/bex_detail.pl?aid=DHN109661">DHN109661</a>&nbsp;</td>
+<td>Phascum cuspidatum</td>
+<td>D. H. Norris, N. M. Hillyard</td>
+<td>8 February 2007</td>
+<td>109661</td>
+<td>Contra Costa / CA</td>
+<td>On seasonally moist soil in open grasslands and scrublands with Baccharis, Toxicodendron and Umbellularia about 1 mile north of Wildcat Canyon Road on Nimitz Trail, Tilden Regional Park.</td>
+<td>300</td>
+<td valign="top"><a href="/cgi-bin/get_bex.pl?sugg=DHN109661">Comment</a> </td>
+</tr>
+<!--Syntrichia bolanderi --><tr bgcolor=#eeffee>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DHN109651 ></td>
+<td><a href="/cgi-bin/bex_detail.pl?aid=DHN109651">DHN109651</a>&nbsp;</td>
+<td>Syntrichia bolanderi</td>
+<td>D. H. Norris, N. M. Hillyard</td>
+<td>8 February 2007</td>
+<td>109651</td>
+<td>Contra Costa / CA</td>
+<td>On seasonally moist soil in open grasslands and scrublands with Baccharis, Toxicodendron and Umbellularia about 1 mile north of Wildcat Canyon Road on Nimitz Trail, Tilden Regional Park.</td>
+<td>300</td>
+<td valign="top"><a href="/cgi-bin/get_bex.pl?sugg=DHN109651">Comment</a> </td>
+</tr>
+<!--Tortula muralis --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DHN109662 ></td>
+<td><a href="/cgi-bin/bex_detail.pl?aid=DHN109662">DHN109662</a>&nbsp;</td>
+<td>Tortula muralis</td>
+<td>D. H. Norris, N. M. Hillyard</td>
+<td>8 February 2007</td>
+<td>109662</td>
+<td>Contra Costa / CA</td>
+<td>On seasonally moist soil in open grasslands and scrublands with Baccharis, Toxicodendron and Umbellularia about 1 mile north of Wildcat Canyon Road on Nimitz Trail, Tilden Regional Park.</td>
+<td>300</td>
+<td valign="top"><a href="/cgi-bin/get_bex.pl?sugg=DHN109662">Comment</a> </td>
+</tr>
+</table></form>
+
+<!-- Footer begins -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="copyrightText">
+  <tr class="banner">
+    <td height="18" ><img src="../common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  <tr>
+<td>Please cite data retrieved from this page: Data provided by the University Herbarium, University of California, Berkeley
+</td>
+  </tr>
+<tr>
+<td class="copyrightText">
+<!-- Begin Navigation -->
+<CENTER>
+<Font size=1 Face="Verdana, Arial, Helvetica">
+<a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">
+California Moss eFlora</a>|
+<br>
+<a href="/bryolab/index.html">Bryolab</a> |
+<br>
+<a href="/index.html"> University & Jepson Herbaria Home Page </a> |
+<BR>
+<a href="/gen_info.html">General Information </a> |
+<a href="/ucherb.html"> University Herbarium </a> |
+<a href="/active.html"> Jepson Herbarium </a> |
+<BR>
+<a href="/Visitor_Guidelines.html"> Visiting the Herbaria </a> |
+<a href="/online_resources.html"> On-line Resources </a> |
+<a href="/res_teach.html"> Research </a> |
+<BR>
+<a href="/education.html"> Education </a> |
+<a href="/other_sites_hosted.html"> Related Sites </a>
+<br><a href="/copyright.html">Copyright &copy; </a> by the Regents of the University of California
+</Font>
+</CENTER>
+<!-- End Navigation -->
+
+</td>
+
+</tr>
+</table>
+</body></html>
+
+<!-- Footer ends -->
+
+
+
+</body></html>

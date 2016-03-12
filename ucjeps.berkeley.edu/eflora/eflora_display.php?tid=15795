@@ -1,0 +1,380 @@
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora: Boechera lemmonii</title> 
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+<link href="common/css/jepson_eflora.css" rel="stylesheet" type="text/css" />
+
+<!--jquery script files-->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+
+<!-- google maps files and scripts -->
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript"> 
+function initialize() {
+  var myOptions = {
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  }
+
+  var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+
+	var TaxID = 15795;
+
+  var kmlLayer = new google.maps.KmlLayer("http://ucjeps.berkeley.edu/jepcodes-v7.kmz", { suppressInfoWindows: true });
+  kmlLayer.setMap(map);
+  var pmlLayer = new google.maps.KmlLayer("http://herbaria4.herb.berkeley.edu/interchange/coords/"+TaxID+".kml", { });
+  pmlLayer.setMap(map);
+
+}
+
+function JumpToIt(list) {
+    var newPage = list.options[list.selectedIndex].value
+    if (newPage != "None") {
+        location=newPage
+    }
+}
+</script>
+
+<style type="text/css" media="screen">
+    #map_canvas {
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+      float: left;
+      width: 467px;
+      height: 445px;
+      padding: 10px;
+    }
+</style>
+
+<!-- Google analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- jquery functions -->
+<script>
+//jquery ui functions that make the hidden higher taxonomy descriptions appear
+$(document).ready(function(){
+    $("#familylink").click(function(){
+        $("#familydesc").slideToggle(500);
+    });
+    $("#genuslink").click(function(){
+        $("#genusdesc").slideToggle(500);
+    });
+    $("#specieslink").click(function(){
+        $("#speciesdesc").slideToggle(500);
+    });
+});
+
+$(document).ready(function(){
+//jquery functions that grab the column widths from the hidden table
+//so they can be applied as a standard to the higher taxonomy table, which is made up of three separate tables
+	var width1 = $("#check1").width() + 1; // width() function turns out to be one pixel too small, so add 1
+	var width2 = $("#check2").width() + 1;
+	var width3 = $("#check3").width() + 1;
+	$(".column1").attr("width", width1);
+	$(".column2").attr("width", width2);
+	$(".column3").attr("width", width3);
+});
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>
+<!-- End banner -->
+
+<!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+            	<li><a href="http://ucjeps.berkeley.edu/images/">UC/JEPS Image Collection</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+<table border="0">
+	<tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td><span class="pageName"><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora:</a> Taxon page</span>
+		<br>
+			<span class="pageAuthorLine">
+				<a href="http://ucjeps.berkeley.edu/IJM_fam_key.html">Key to families</a>
+				|
+				<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+			</span>	  
+		</td>
+
+	</tr>
+</table>
+
+<table align="center" width="100%"><tr><td>
+<a href="eflora_display.php?tid=91729"><IMG SRC="http://ucjeps.berkeley.edu/icons/left.gif" BORDER=2 ALT="Previous taxon"></a></td>
+<td width=90%">
+<!--eFlora index-->
+<span class="pageAuthorLine">Index to accepted names and synonyms:</span><br>
+| 	<a href="eflora_index.php?index=A">A</a> | 
+	<a href="eflora_index.php?index=B">B</a> | 
+	<a href="eflora_index.php?index=C">C</a> | 
+	<a href="eflora_index.php?index=D">D</a> | 
+	<a href="eflora_index.php?index=E">E</a> | 
+	<a href="eflora_index.php?index=F">F</a> | 
+	<a href="eflora_index.php?index=G">G</a> | 
+	<a href="eflora_index.php?index=H">H</a> | 
+	<a href="eflora_index.php?index=I">I</a> | 
+	<a href="eflora_index.php?index=J">J</a> | 
+	<a href="eflora_index.php?index=K">K</a> | 
+	<a href="eflora_index.php?index=L">L</a> | 
+	<a href="eflora_index.php?index=M">M</a> | 
+	<a href="eflora_index.php?index=N">N</a> | 
+	<a href="eflora_index.php?index=O">O</a> | 
+	<a href="eflora_index.php?index=P">P</a> | 
+	<a href="eflora_index.php?index=Q">Q</a> | 
+	<a href="eflora_index.php?index=R">R</a> | 
+	<a href="eflora_index.php?index=S">S</a> | 
+	<a href="eflora_index.php?index=T">T</a> | 
+	<a href="eflora_index.php?index=U">U</a> | 
+	<a href="eflora_index.php?index=V">V</a> | 
+	<a href="eflora_index.php?index=W">W</a> | 
+	<a href="eflora_index.php?index=X">X</a> | 
+	<a href="eflora_index.php?index=Y">Y</a> | 
+	<a href="eflora_index.php?index=Z">Z</a> |
+<!--end eFlora index-->
+<hr width="10%">
+</td>
+<td align="right">
+<a href="eflora_display.php?tid=85469"><IMG SRC="http://ucjeps.berkeley.edu/icons/right.gif" BORDER=2 ALT="Next taxon"></a></td></tr>
+</table>
+
+<center><span align ='center' class='pageLargeHeading'>Boechera lemmonii</span></center>
+<center><span align ='center' class='pageMajorHeading'>LEMMON'S ROCKCRESS</span></center>
+<br>
+
+
+<!-- this hidden table provides the column width values (check1 through check3) which are used to assign consistent widths to the actual higher taxonomy tables-->
+<div class="hidden">
+	<table class='taxonomy_table'>
+	<tr><td id='check1'><b>Family: Brassicaceae (Cruciferae)</b></td><td id='check2'><a href="#">View Description</a></b></td><td id='check3'><a href='#'>Dichotomous Key</a></td></tr>
+	<tr><td><b>Genus: Boechera</b></td><td><a href="#">View Description</a></b></td><td><a href='#'>Dichotomous Key</a></td></tr>
+	<tr><td><b>Species: </b></td><td><a href="#">View Description</a></b></td><td><a href='#'>Dichotomous Key</a></td></tr>
+	</table>
+</div>
+
+
+	
+<table width=100%><tr><td width=100%><div class='pageMajorHeading'><b>Higher Taxonomy</b><br></div><table class='taxonomy_table'><tr><td class='column1'><b>Family: Brassicaceae (Cruciferae)</b></td><td class='column2'><a id='familylink'>View Description</a></b></td><td class='column3'><a href='http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=70'>Dichotomous Key</a></td></tr></table><div id="familydesc" class="initiallyHidden"><blockquote class='bodyText'><br><b>Common Name:</b> MUSTARD FAMILY<br><b>Habit:</b> Annual to shrub; sap pungent, watery. <b>Leaf:</b> generally simple, alternate; generally both basal, cauline; stipules 0. <b>Inflorescence:</b> generally raceme, generally not bracted. <b>Flower:</b> bisexual, generally radial; sepals 4, generally free; petals (0)4, forming a cross, generally white or yellow to purple; stamens generally 6 (2 or 4), 4 long, 2 short (3 pairs of unequal length); ovary 1, superior, generally 2-chambered with septum connecting 2 parietal placentas; style 1, stigma entire or 2-lobed. <b>Fruit:</b> capsule, generally 2-valved, "silique" (length >= 3 &times; width) or "silicle" (length < 3 &times; width), dehiscent by 2 valves or indehiscent, cylindric or flat parallel or perpendicular to septum, segmented or not. <b>Seed:</b> 1--many, in 1 or 2 rows per chamber, winged or wingless; embryo strongly curved. <br><b>Genera In Family:</b> +- 330 genera, 3780 species: worldwide, especially temperate. <b>Note:</b> Highest diversity in Mediterranean area, mountains of southwestern Asia, adjacent central Asia, western North America; some <i>Brassica</i> species are oil or vegetable crops; <i>Arabidopsis thaliana</i> used in experimental molecular biology; many species are ornamentals, weeds. <i>Aurinia saxatilis</i> (L.) Desvaux in cultivation only. <i>Aubrieta</i> occasional waif in central NCoR, <i>Carrichtera annua</i> (L.) DC. in SCo, <i>Iberis sempervirens</i> L., <i>Iberis umbellata</i> L. in PR, <i>Teesdalia coronopifolia</i> (Bergeret) Thell., <i>Teesdalia nudicaulis</i> (L.) W.T. Aiton in southern NCoRO, CCo. <i>Cardaria</i>, <i>Coronopus</i> moved to <i>Lepidium</i>; <i>Caulostramina</i> to <i>Hesperidanthus</i>; <i>Guillenia</i> to <i>Caulanthus</i>; <i>Heterodraba</i> to <i>Athysanus</i>; California taxa of <i>Lesquerella</i> to <i>Physaria</i>; <i>Malcolmia africana</i> to <i>Strigosella</i>. <br><b>eFlora Treatment Author:</b> Ihsan A. Al-Shehbaz, except as noted<br><b>Scientific Editor:</b> Douglas H. Goldman, Bruce G. Baldwin.<br></blockquote></div><table class='taxonomy_table'><tr><td class='column1'><b>Genus: Boechera</b></td><td class='column2'><a id='genuslink'>View Description</a></b></td><td class='column3'><a href='http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=68135'>Dichotomous Key</a></td></tr></table><div id="genusdesc" class="initiallyHidden"><blockquote class='bodyText'><br><b>Common Name:</b> ROCKCRESS<br><b>Habit:</b> Perennial herb (biennial); caudex simple or branched, persistent leaf bases generally absent; rosetted or not; rosette at ground surface or elevated on woody base; hairs simple or 2--14-rayed, stalked or sessile. <b>Stem:</b> simple or branched, leafy. <b>Leaf:</b> basal petioled, simple, generally entire or dentate, generally hairy; cauline sessile, base generally lobed, entire or dentate. <b>Inflorescence:</b> generally elongated. <b>Flower:</b> sepals bases generally not sac-like; petals generally white, lavender, or purple, claw present or 0; pollen ellipsoid in sexual pls, spheric in plants with asexual seeds. <b>Fruit:</b> silique, dehiscent, generally linear, edges generally parallel, unsegmented, flat parallel to septum; stigma entire or 2-lobed. <b>Seed:</b> in 1 or 2 rows, winged or not. <br><b>Species In Genus:</b> 110+ species: temperate North America, Russian Far East. <b>Etymology:</b> (T.W. Boecher, Danish cytogeneticist, 1909--1983) <b>Note:</b> Some species with both fertile & sterile stems. Previously included in <i>Arabis</i>, but the 2 genera in different tribes. <i>Boechera horizontalis</i> (Greene) Windham & Al-Shehbaz [<i>Arabis suffrutescens</i> S. Watson var. <i>horizontalis</i> (Greene) Rollins] not in California. <br><font color='blue'><b>Unabridged Note:</b> Hybrids with spheric pollen and morphological intermediacy generally more common than sexual diploids (with ellipsoid pollen).</font><br><b>eFlora Treatment Author:</b> Michael D. Windham & Ihsan A. Al-Shehbaz<br></div><br></table></tr></td><table width="100%"><tr><td width="100%" valign="top"><div class='pageMajorHeading'><b><i>Boechera lemmonii</i> (S. Watson) W.A. Weber</b><br></div><div class='bodyText'><b>NATIVE</b><br><b>Habit:</b> Caudex woody. <b>Stem:</b> generally 1 per caudex branch, from center of basal rosette or laterally below sterile shoot, at +- ground surface; 0.5--2.5 dm, proximally glabrous or with short-stalked, 2--6-rayed hairs 0.1--0.2 mm. <b>Leaf:</b> basal 1.5--5 mm wide, entire (minutely dentate); hairs short-stalked, 3--9-rayed, 0.1--0.2 mm; cauline 2--12, distal glabrous or sparsely hairy, basal lobes 0.1--0.5 mm or 0. <b>Inflorescence:</b> 3--17-flowered, 1-sided in fruit; fruit pedicel ascending to horizontal, 2--6 mm, glabrous or hairs few, appressed, branched. <b>Flower:</b> sepals glabrous or hairs few; petals 3.5--6 mm, 1--1.5 mm wide, purple to lavender; pollen ellipsoid. <b>Fruit:</b> spreading-ascending to horizontal, not appressed, 1.6--4.4 cm, 1.6--2.3 mm wide, glabrous; style 0.1--0.2 mm; ovules 28--44. <b>Seed:</b> in 1 row, 1.3--2 mm; wing 0.1--0.5 mm wide. <b>Chromosomes:</b> 2n=14.<br><b>Ecology:</b> Cliffs, talus slopes, gravelly soil, in alpine, subalpine habitats; <b>Elevation:</b> 2000--4350 m. <b>Bioregional Distribution:</b> CaRH, SNH, Wrn, SNE; <b>Distribution Outside California:</b> to Alaska, Colorado. <b>Flowering Time:</b> Jun--Aug <br><b>Synonyms:</b> Arabis lemmonii S. Watson; Arabis lemmonii var. lemmonii<br><b>eFlora Treatment Author:</b> Michael D. Windham & Ihsan A. Al-Shehbaz<br><a href="http://ucjeps.berkeley.edu/cgi-bin/get_cpn.pl?15795"><b>Jepson Online Interchange</b></a><br><P><FORM><SELECT WIDTH=20 onChange="JumpToIt(this)"><OPTION VALUE="None">List of species <OPTION VALUE="eflora_display.php?tid=81781">Boechera acutina <OPTION VALUE="eflora_display.php?tid=81867">Boechera arcuata <OPTION VALUE="eflora_display.php?tid=81759">Boechera bodiensis <OPTION VALUE="eflora_display.php?tid=81747">Boechera breweri <OPTION VALUE="eflora_display.php?tid=85519">Boechera breweri subsp. breweri <OPTION VALUE="eflora_display.php?tid=90400">Boechera breweri subsp. shastaensis <OPTION VALUE="eflora_display.php?tid=85626">Boechera calderi <OPTION VALUE="eflora_display.php?tid=81590">Boechera californica <OPTION VALUE="eflora_display.php?tid=85475">Boechera cobrensis <OPTION VALUE="eflora_display.php?tid=81756">Boechera constancei <OPTION VALUE="eflora_display.php?tid=85474">Boechera covillei <OPTION VALUE="eflora_display.php?tid=81757">Boechera davidsonii <OPTION VALUE="eflora_display.php?tid=85473">Boechera depauperata <OPTION VALUE="eflora_display.php?tid=85539">Boechera dispar <OPTION VALUE="eflora_display.php?tid=15785">Boechera divaricarpa <OPTION VALUE="eflora_display.php?tid=85472">Boechera elkoensis <OPTION VALUE="eflora_display.php?tid=85538">Boechera evadens <OPTION VALUE="eflora_display.php?tid=91727">Boechera glaucovalvula <OPTION VALUE="eflora_display.php?tid=91728">Boechera hoffmannii <OPTION VALUE="eflora_display.php?tid=81767">Boechera howellii <OPTION VALUE="eflora_display.php?tid=85471">Boechera inyoensis <OPTION VALUE="eflora_display.php?tid=85470">Boechera johnstonii <OPTION VALUE="eflora_display.php?tid=91729">Boechera koehleri <OPTION VALUE="eflora_display.php?tid=15795">Boechera lemmonii <OPTION VALUE="eflora_display.php?tid=85469">Boechera lincolnensis <OPTION VALUE="eflora_display.php?tid=85468">Boechera lyallii <OPTION VALUE="eflora_display.php?tid=81764">Boechera parishii <OPTION VALUE="eflora_display.php?tid=85456">Boechera pauciflora <OPTION VALUE="eflora_display.php?tid=85466">Boechera paupercula <OPTION VALUE="eflora_display.php?tid=91275">Boechera peirsonii <OPTION VALUE="eflora_display.php?tid=15798">Boechera pendulina <OPTION VALUE="eflora_display.php?tid=85624">Boechera pendulocarpa <OPTION VALUE="eflora_display.php?tid=15799">Boechera perennans <OPTION VALUE="eflora_display.php?tid=85460">Boechera pinetorum <OPTION VALUE="eflora_display.php?tid=91730">Boechera pinzliae <OPTION VALUE="eflora_display.php?tid=81763">Boechera platysperma <OPTION VALUE="eflora_display.php?tid=85459">Boechera pratincola <OPTION VALUE="eflora_display.php?tid=81778">Boechera puberula <OPTION VALUE="eflora_display.php?tid=15800">Boechera pulchra <OPTION VALUE="eflora_display.php?tid=91731">Boechera pygmaea <OPTION VALUE="eflora_display.php?tid=81780">Boechera rectissima <OPTION VALUE="eflora_display.php?tid=81765">Boechera repanda <OPTION VALUE="eflora_display.php?tid=15793">Boechera retrofracta <OPTION VALUE="eflora_display.php?tid=85457">Boechera rigidissima <OPTION VALUE="eflora_display.php?tid=81769">Boechera rollei <OPTION VALUE="eflora_display.php?tid=81761">Boechera rubicundula <OPTION VALUE="eflora_display.php?tid=85540">Boechera serpenticola <OPTION VALUE="eflora_display.php?tid=91276">Boechera shevockii <OPTION VALUE="eflora_display.php?tid=81768">Boechera shockleyi <OPTION VALUE="eflora_display.php?tid=81758">Boechera sparsiflora <OPTION VALUE="eflora_display.php?tid=85455">Boechera stricta <OPTION VALUE="eflora_display.php?tid=85442">Boechera subpinnatifida <OPTION VALUE="eflora_display.php?tid=85441">Boechera suffrutescens <OPTION VALUE="eflora_display.php?tid=85440">Boechera tiehmii <OPTION VALUE="eflora_display.php?tid=85439">Boechera tularensis <OPTION VALUE="eflora_display.php?tid=85542">Boechera ultraalsa <OPTION VALUE="eflora_display.php?tid=81760">Boechera xylopoda <OPTION VALUE="eflora_display.php?tid=81004">Boechera yorkii</SELECT></FORM><a href="eflora_display.php?tid=91729">Previous taxon: Boechera koehleri</a><br><a href="eflora_display.php?tid=85469">Next taxon: Boechera lincolnensis</a><br>
+<br>
+<form action="search_eflora.php" method="POST">
+<b>Name Search </b>		<input type="text" id="query_text" name="query"></input>
+		<input type="submit" value="Submit Name" />
+</form>
+
+</td></tr>
+</table>
+
+
+
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+
+
+<P>
+<a href="&#109;&#97;&#105;&#108;to:interchange&#064;lists.berkeley.edu?subject=new eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+
+
+
+<P class=bodyText>
+Citation for this treatment: Michael D. Windham & Ihsan A. Al-Shehbaz 2016. <i>Boechera lemmonii</i>, in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15795, accessed on March 11, 2016.
+</P>
+<P class=bodyText>Citation for the whole project: Jepson Flora Project (eds.) 2016. <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html, accessed on March 11, 2016.</P>
+
+
+
+
+<hr width=80%> 
+
+<table><tr><td width='200px'><i>Boechera lemmonii</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+1109+0069"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/1109/0069.jpeg alt="click for enlargement"></img></a><br>&copy; 2009 Barry Breckling<br></td><td width='200px'><i>Boechera lemmonii</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+1109+0071"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/1109/0071.jpeg alt="click for enlargement"></img></a><br>&copy; 2009 Barry Breckling<br></td><td width='200px'><i>Boechera lemmonii</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+0908+1482"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/0908/1482.jpeg alt="click for enlargement"></img></a><br>&copy; 2008 Aaron Schusteff<br></td><td width='200px'><i>Boechera lemmonii</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+1109+0073"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/1109/0073.jpeg alt="click for enlargement"></img></a><br>&copy; 2009 Barry Breckling<br></td><td width='200px'><i>Boechera lemmonii</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+0908+1481"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/0908/1481.jpeg alt="click for enlargement"></img></a><br>&copy; 2008 Aaron Schusteff<br></td><td width='200px'><i>Boechera lemmonii</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+1110+2087"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/1110/2087.jpeg alt="click for enlargement"></img></a><br>&copy; 2010 Barry Breckling<br></td></tr></table><p><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&where-genre=Plant&where-taxon=Boechera lemmonii&title_tag=Boechera lemmonii">More photos of <i>Boechera lemmonii</i> in CalPhotos</a></p><hr width=80%>
+
+
+<!--distribution panes-->
+<table border=0>
+<tr><td valign='bottom'>Geographic subdivisions for Boechera lemmonii:
+<br>CaRH, SNH, Wrn, SNE;</td>
+<td>Markers link to CCH specimen records. If the markers are obscured, reload the page [or change window size and reload]. Yellow markers indicate records that may provide evidence for eFlora range revision or may have georeferencing or identification issues.
+<br><b><a href="http://ucjeps.berkeley.edu/consortium/about_yellow.html">READ ABOUT YELLOW FLAGS</a></b>
+</td></tr>
+<tr>
+<td valign="top">
+<img src="http://ucjeps.berkeley.edu/cgi-bin/new_jmap.pl?0400c40106" border="0" alt="map of distribution 1"></td>
+<td>
+	<div id="map_canvas"></div>
+</td>
+</tr>
+
+<tr><td valign="top">
+(Note: any qualifiers in the taxon distribution description, such as 'northern', 'southern', 'adjacent' etc., are not reflected in the map above, and in some cases indication of a taxon in a subdivision is based on a single collection or author-verified occurence).
+<br><br>
+<a href="http://ucjeps.berkeley.edu/cgi-bin/map_cch_elev.pl?taxon_name=Boechera lemmonii&t=&g=">View elevation by latitude chart</a></td>
+<td valign="top">Data provided by the participants of the Consortium of California Herbaria.
+<br>
+<a href="http://ucjeps.berkeley.edu/cgi-bin/get_consort.pl?taxon_name=Boechera lemmonii">View all CCH records</a><br><br>
+CCH collections by month<br> 
+<img border=1 src="http://ucjeps.berkeley.edu/cgi-bin/hb2.pl?name=Boechera lemmonii&FT=5,6,7"><br>Duplicates counted once; synonyms included.
+<br>Species do not include records of infraspecific taxa.
+<br>Blue line denotes eFlora flowering time.
+</td></tr>
+</table>
+
+<!--Begin footer-->
+<table width="100%" id="footer">
+  <tr>
+    <td height="18" class="banner"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  <tr>
+    <td height="20"><span class="copyrightText"><a href="http://ucjeps.berkeley.edu/main/copyright.html"> Copyright</a> &copy; 2016  Regents of the University of California
+<br>We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.</span></td>
+  </tr>
+</table>
+<!--End footer-->

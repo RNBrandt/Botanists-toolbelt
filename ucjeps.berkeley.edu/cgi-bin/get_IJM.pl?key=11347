@@ -1,0 +1,490 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Castilleja</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Castilleja
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18154">Castilleja affinis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=70068">Castilleja affinis subsp. affinis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76729">Castilleja affinis subsp. litoralis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76730">Castilleja affinis subsp. neglecta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18158">Castilleja ambigua
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49732">Castilleja ambigua subsp. ambigua
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49733">Castilleja ambigua subsp. humboldtiensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49734">Castilleja ambigua subsp. insalutata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18165">Castilleja applegatei
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76731">Castilleja applegatei subsp. disticha
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76733">Castilleja applegatei subsp. martinii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76734">Castilleja applegatei subsp. pallida
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76735">Castilleja applegatei subsp. pinetorum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18171">Castilleja arachnoidea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18175">Castilleja attenuata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18177">Castilleja brevilobata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18178">Castilleja brevistyla
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18179">Castilleja campestris
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49738">Castilleja campestris subsp. campestris
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49739">Castilleja campestris subsp. succulenta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18160">Castilleja chromosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18186">Castilleja cinerea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18193">Castilleja densiflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49740">Castilleja densiflora subsp. densiflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49741">Castilleja densiflora subsp. gracilis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49742">Castilleja densiflora subsp. obispoensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18200">Castilleja exserta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49744">Castilleja exserta subsp. exserta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49745">Castilleja exserta subsp. latifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49746">Castilleja exserta subsp. venusta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18205">Castilleja foliolosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18211">Castilleja gleasoni
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18212">Castilleja grisea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18216">Castilleja hololeuca
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18225">Castilleja lacera
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18227">Castilleja lasiorhyncha
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18228">Castilleja latifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18229">Castilleja lemmonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18234">Castilleja linariifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18237">Castilleja lineariloba
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18246">Castilleja mendocinensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18249">Castilleja miniata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49754">Castilleja miniata subsp. elata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=74956">Castilleja miniata subsp. miniata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18256">Castilleja minor
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=74692">Castilleja minor subsp. minor
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76739">Castilleja minor subsp. spiralis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18257">Castilleja mollis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18258">Castilleja montigena
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18260">Castilleja nana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18278">Castilleja peirsonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18279">Castilleja pilosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18283">Castilleja plagiotoma
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18285">Castilleja praeterita
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18286">Castilleja pruinosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18302">Castilleja rubicundula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49761">Castilleja rubicundula subsp. lithospermoides
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49762">Castilleja rubicundula subsp. rubicundula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18310">Castilleja schizotricha
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18316">Castilleja subinclusa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76740">Castilleja subinclusa subsp. franciscana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=74693">Castilleja subinclusa subsp. subinclusa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18324">Castilleja tenuis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18332">Castilleja wightii
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=11347'><h3>View taxon page for Castilleja</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#YK1'">1.</a><a name="YK1."> </a> Inflorescence generally green, white, yellow, &plusmn; red-gray, bright pink, or &plusmn; purple, but not bright red; corolla 1&ndash;3 cm, beak generally &lt;= tube; generally bee-pollinated; lower corolla lip generally 3-pouched (except <I>Castilleja grisea</I>, <I>Castilleja plagiotoma</I>), teeth generally &plusmn; erect, white or green to purple-red
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#YK2'">2.</a><a name="YK2."> </a> Perennial herb to subshrub
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#YK3'">3.</a><a name="YK3."> </a> Herbage gray-green, except bract lobes and calyx white-woolly; calyx divided deeper on sides than abaxially and adaxially <a href="/cgi-bin/get_IJM.pl?tid=18283">.....&nbsp;C. plagiotoma</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#YK3.">3'</a><a name="YK3'"> </a> Herbage, including bract lobes and calyx, gray-green to densely white-woolly; calyx divided deeper abaxially and adaxially than on sides, or divided &plusmn; equally
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#YK4'">4.</a><a name="YK4."> </a> Calyx divided much deeper abaxially and adaxially than on sides
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YK5'">5.</a><a name="YK5."> </a> Hairs stellate; San Clemente Island <a href="/cgi-bin/get_IJM.pl?tid=18212">.....&nbsp;C. grisea</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YK5.">5'</a><a name="YK5'"> </a> Hairs simple or branched; Klamath Ranges, High Cascade Range, High Sierra Nevada, San Bernardino Mountains, Great Basin Floristic Province
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YK6'">6.</a><a name="YK6."> </a> Herbage glandular; corolla 16&ndash;20 mm, lower lip 5&ndash;7 mm, teeth &plusmn; green-white or &plusmn; purple, &plusmn; triangular; stem generally unbranched; bract lobes &plusmn; acute <a href="/cgi-bin/get_IJM.pl?tid=18229">.....&nbsp;C. lemmonii</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YK6.">6'</a><a name="YK6'"> </a> Herbage stiff-hairy, nonglandular; corolla 13&ndash;16 mm, lower lip 2 mm, teeth dark green, incurved; stem much-branched; bract lobes truncate or rounded <a href="/cgi-bin/get_IJM.pl?tid=18285">.....&nbsp;C. praeterita</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#YK4.">4'</a><a name="YK4'"> </a> Calyx divided &plusmn; equally
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YK7'">7.</a><a name="YK7."> </a> Herbage &plusmn; white-woolly
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YK8'">8.</a><a name="YK8."> </a> Plant 8&ndash;30 cm; leaves 20&ndash;60 mm; hairs simple; Klamath Ranges, High North Coast Ranges, High Cascade Range, n High Sierra Nevada, Modoc Plateau <a href="/cgi-bin/get_IJM.pl?tid=18171">.....&nbsp;C. arachnoidea</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YK8.">8'</a><a name="YK8'"> </a> Plant 8&ndash;15 cm; leaves 5&ndash;20 mm; hairs branched; Klamath Ranges <a href="/cgi-bin/get_IJM.pl?tid=18310">.....&nbsp;C. schizotricha</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YK7.">7'</a><a name="YK7'"> </a> Herbage puberulent to coarsely hairy
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YK9'">9.</a><a name="YK9."> </a> Herbage ashy-puberulent; bract tips dusty red, &plusmn; purple, or green-yellow; hairs dense, partitioned, much-branched; seed coat walls irregularly netted &mdash; seed coat tight-fitting; San Bernardino Mountains <a href="/cgi-bin/get_IJM.pl?tid=18186">.....&nbsp;C. cinerea</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YK9.">9'</a><a name="YK9'"> </a> Herbage not ashy-puberulent; bract tips generally yellow-green or &plusmn; purple; hairs &plusmn; stiff, &plusmn; unbranched; seed coat walls with ladder-like thickenings
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YK10'">10.</a><a name="YK10."> </a> Bract lobes acuminate, green-margined; seed coat loose-fitting <a href="/cgi-bin/get_IJM.pl?tid=18260">.....&nbsp;C. nana</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YK10.">10'</a><a name="YK10'"> </a> Bract lobes generally truncate or rounded (acute), white-margined; seed coat tight-fitting <a href="/cgi-bin/get_IJM.pl?tid=18279">.....&nbsp;C. pilosa</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#YK2.">2'</a><a name="YK2'"> </a> Annual
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#YK11'">11.</a><a name="YK11."> </a> Bracts green throughout
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#YK12'">12.</a><a name="YK12."> </a> Leaves and bracts entire <a href="/cgi-bin/get_IJM.pl?tid=18179">.....&nbsp;C. campestris</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YK13'">13.</a><a name="YK13."> </a> Leaves and bracts linear, thin, flexible; bracts &lt;= flowers; corolla light to bright yellow; lower anther sac 1/4&ndash;1/3 upper <a href="/cgi-bin/get_IJM.pl?tid=49738">.....&nbsp;subsp. campestris</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YK13.">13'</a><a name="YK13'"> </a> Leaves and bracts lanceolate, thick, &plusmn; brittle; bracts > flowers; corolla generally yellow to orange; lower anther sac &plusmn; 1/2 upper <a href="/cgi-bin/get_IJM.pl?tid=49739">.....&nbsp;subsp. succulenta</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#YK12.">12'</a><a name="YK12'"> </a> Leaves entire or lobed; bracts lobed
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YK14'">14.</a><a name="YK14."> </a> Corolla beak densely white-hairy &mdash; San Bernardino Mountains, n&c Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=18227">.....&nbsp;C. lasiorhyncha</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YK14.">14'</a><a name="YK14'"> </a> Corolla beak puberulent
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YK15'">15.</a><a name="YK15."> </a> Lower corolla lip pouches 2&ndash;4 mm wide, &plusmn; 2 mm deep; stigma included <a href="/cgi-bin/get_IJM.pl?tid=18324">.....&nbsp;C. tenuis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YK15.">15'</a><a name="YK15'"> </a> Lower corolla lip pouches 4&ndash;10 mm wide, 3&ndash;6 mm deep; stigma generally &plusmn; exserted
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YK16'">16.</a><a name="YK16."> </a> Corolla 13&ndash;22 mm, pouches 4&ndash;8 mm wide; Klamath Ranges, Outer North Coast Ranges, Inner North Coast Ranges, Cascade Range, Sierra Nevada, Modoc Plateau <a href="/cgi-bin/get_IJM.pl?tid=18225">.....&nbsp;C. lacera</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YK16.">16'</a><a name="YK16'"> </a> Corolla 20&ndash;28 mm, pouches 8&ndash;10 mm wide; North Coast Ranges, Cascade Range Foothills, Sacramento Valley, Central Coast, San Francisco Bay Area <a href="/cgi-bin/get_IJM.pl?tid=18302">.....&nbsp;C. rubicundula</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YK17'">17.</a><a name="YK17."> </a> Corolla yellow <a href="/cgi-bin/get_IJM.pl?tid=49761">.....&nbsp;subsp. lithospermoides</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YK17.">17'</a><a name="YK17'"> </a> Corolla white, turning &plusmn; pink <a href="/cgi-bin/get_IJM.pl?tid=49762">.....&nbsp;subsp. rubicundula</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#YK11.">11'</a><a name="YK11'"> </a> Bracts and calyx lobes tipped &plusmn; purple, &plusmn; yellow, or &plusmn; white
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#YK18'">18.</a><a name="YK18."> </a> Corolla beak tip hooked, densely shaggy-hairy; filaments puberulent <a href="/cgi-bin/get_IJM.pl?tid=18200">.....&nbsp;C. exserta</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YK19'">19.</a><a name="YK19."> </a> Distal bracts generally 5&ndash;7 mm wide, lobes &lt; 2 mm, tipped pale lavender; inflorescence appearing alternately light- and dark-banded &mdash; North Coast, n&c Central Coast <a href="/cgi-bin/get_IJM.pl?tid=49745">.....&nbsp;subsp. latifolia</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YK19.">19'</a><a name="YK19'"> </a> Distal bracts generally &lt; 5 mm wide, lobes > 2 mm; inflorescence not appearing alternately light- and dark-banded
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YK20'">20.</a><a name="YK20."> </a> Corolla white, pale yellow or rose to &plusmn; purple; widespread <a href="/cgi-bin/get_IJM.pl?tid=49744">.....&nbsp;subsp. exserta</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YK20.">20'</a><a name="YK20'"> </a> Corolla bright rose-red except yellow- to orange-tipped pouch; w Mojave Desert <a href="/cgi-bin/get_IJM.pl?tid=49746">.....&nbsp;subsp. venusta</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#YK18.">18'</a><a name="YK18'"> </a> Corolla beak straight, puberulent; filaments glabrous
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YK21'">21.</a><a name="YK21."> </a> Inflorescence 10&ndash;20 mm wide; corolla linear, pouches &plusmn; 2 mm wide; stigma including
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YK22'">22.</a><a name="YK22."> </a> Bract lobes 3, tipped white or pale yellow; seed &lt; 1 mm, coat shallowly netted <a href="/cgi-bin/get_IJM.pl?tid=18175">.....&nbsp;C. attenuata</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YK22.">22'</a><a name="YK22'"> </a> Bract lobes 3&ndash;5, tipped pink or purple-red; seed 1&ndash;1.5 mm, coat &plusmn; deeply netted <a href="/cgi-bin/get_IJM.pl?tid=18178">.....&nbsp;C. brevistyla</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YK21.">21'</a><a name="YK21'"> </a> Inflorescence 20&ndash;40 mm wide; corolla wider distally, pouches generally 3&ndash;7 mm wide; stigma generally &plusmn; exserted
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YK23'">23.</a><a name="YK23."> </a> Stem &plusmn; stiffly spreading-hairy, glandular; bract tips cream to pale yellow &mdash; Sierra Nevada Foothills <a href="/cgi-bin/get_IJM.pl?tid=18237">.....&nbsp;C. lineariloba</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YK23.">23'</a><a name="YK23'"> </a> Stem glabrous to puberulent, not glandular; bract tips yellow (cream) to pink- or rose-purple
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YK24'">24.</a><a name="YK24."> </a> Branches generally many; leaf lanceolate to oblong, > 3 mm wide; seed coat tight-fitting <a href="/cgi-bin/get_IJM.pl?tid=18158">.....&nbsp;C. ambigua</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YK25'">25.</a><a name="YK25."> </a> Bracts tipped yellow <a href="/cgi-bin/get_IJM.pl?tid=49732">.....&nbsp;subsp. ambigua</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YK25.">25'</a><a name="YK25'"> </a> Bracts tipped &plusmn; yellow-pink to rose-purple
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YK26'">26.</a><a name="YK26."> </a> Plant &plusmn; fleshy, branches 0&ndash;few from mid-stem; salt marshes <a href="/cgi-bin/get_IJM.pl?tid=49733">.....&nbsp;subsp. humboldtiensis</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YK26.">26'</a><a name="YK26'"> </a> Plant not fleshy, much-branched from base; grassy coastal bluffs <a href="/cgi-bin/get_IJM.pl?tid=49734">.....&nbsp;subsp. insalutata</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YK24.">24'</a><a name="YK24'"> </a> Branches 0 or few from mid-stem; leaf lance-linear, &lt; 3 mm wide; seed coat loose-fitting <a href="/cgi-bin/get_IJM.pl?tid=18193">.....&nbsp;C. densiflora</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YK27'">27.</a><a name="YK27."> </a> Calyx 5&ndash;10 mm; lower corolla lip widened abruptly, pouches generally shorter than deep <a href="/cgi-bin/get_IJM.pl?tid=49741">.....&nbsp;subsp. gracilis</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YK27.">27'</a><a name="YK27'"> </a> Calyx 8&ndash;20 mm; lower corolla lip widened gradually, pouches longer than deep
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YK28'">28.</a><a name="YK28."> </a> Inflorescence generally rose-purple (cream) <a href="/cgi-bin/get_IJM.pl?tid=49740">.....&nbsp;subsp. densiflora</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YK28.">28'</a><a name="YK28'"> </a> Inflorescence cream to pale yellow <a href="/cgi-bin/get_IJM.pl?tid=49742">.....&nbsp;subsp. obispoensis</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#YK1.">1'</a><a name="YK1'"> </a> Inflorescence generally red, orange, or yellow; corolla 1.2&ndash;5 cm, beak often >= tube; generally hummingbird-pollinated; lower corolla lip of small, incurved, generally dark green, red, black, &plusmn; yellow, or &plusmn; purple teeth
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#YK29'">29.</a><a name="YK29."> </a> Annual; stem &plusmn; simple; wet places &mdash; leaves and bracts entire, lance-linear <a href="/cgi-bin/get_IJM.pl?tid=18256">.....&nbsp;C. minor</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#YK30'">30.</a><a name="YK30."> </a> Corolla 15&ndash;20(30) mm; plant shaggy-hairy, most hairs glandular <a href="/cgi-bin/get_IJM.pl?tid=74692">.....&nbsp;subsp. minor</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#YK30.">30'</a><a name="YK30'"> </a> Corolla 25&ndash;35 mm; plant puberulent, many hairs nonglandular <a href="/cgi-bin/get_IJM.pl?tid=76739">.....&nbsp;subsp. spiralis</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#YK29.">29'</a><a name="YK29'"> </a> Perennial herb to subshrub; stems generally branched; generally drier places (except <I>Castilleja miniata</I>)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#YK31'">31.</a><a name="YK31."> </a> Herbage gray-green to densely white-woolly, hairs branched
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#YK32'">32.</a><a name="YK32."> </a> Herbage &plusmn; gray-green; calyx white-woolly, divided deeper on sides than abaxially and adaxially <a href="/cgi-bin/get_IJM.pl?tid=18283">.....&nbsp;C. plagiotoma</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#YK32.">32'</a><a name="YK32'"> </a> Entire plant densely white-woolly or ash-gray; calyx sinuses deeper abaxially and adaxially than on sides
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YK33'">33.</a><a name="YK33."> </a> Leaves oblong to obovate, entire, tip rounded; bract tips rounded or 0&ndash;3-lobed, yellow(-green) &mdash; n Channel Islands <a href="/cgi-bin/get_IJM.pl?tid=18257">.....&nbsp;C. mollis</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YK33.">33'</a><a name="YK33'"> </a> Leaves linear to lanceolate, distal sometimes 3-lobed, tip acute to obtuse; inflorescence red, orange, or yellow; bracts 0&ndash;7-lobed, tips colored like calyx
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YK34'">34.</a><a name="YK34."> </a> Herbage white-felty, with long, intertwined, &plusmn; branched hairs; leaves entire &mdash; n Channel Islands <a href="/cgi-bin/get_IJM.pl?tid=18216">.....&nbsp;C. hololeuca</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YK34.">34'</a><a name="YK34'"> </a> Herbage white-woolly or ash-gray with shorter, much-branched or stellate hairs; upper leaves sometimes 3-lobed
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YK35'">35.</a><a name="YK35."> </a> Inflorescence pale yellow-green; plant ash-gray; hairs stellate; bracts 5&ndash;7-lobed &mdash; s Channel Islands <a href="/cgi-bin/get_IJM.pl?tid=18212">.....&nbsp;C. grisea</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YK35.">35'</a><a name="YK35'"> </a> Inflorescence bright red to bright yellow (yellow-green); plant white-woolly or ash-gray; hairs much-branched; bracts 0&ndash;5-lobed
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YK36'">36.</a><a name="YK36."> </a> Herbage &plusmn; white to &plusmn; gray; calyx entire or barely notched on sides <a href="/cgi-bin/get_IJM.pl?tid=18205">.....&nbsp;C. foliolosa</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YK36.">36'</a><a name="YK36'"> </a> Herbage ash-gray or green; calyx divided 1/5&ndash;1/4 on sides
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YK37'">37.</a><a name="YK37."> </a> Calyx lobes ovate, obtuse; lower corolla lip dark green to &plusmn; black; leaf lobes 0&ndash;3; San Gabriel Mountains <a href="/cgi-bin/get_IJM.pl?tid=18211">.....&nbsp;C. gleasoni</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YK37.">37'</a><a name="YK37'"> </a> Calyx lobes lanceolate, acute; lower corolla lip green; leaf lobes 0&ndash;5; Northwestern California, Cascade Range, n&c Sierra Nevada, Modoc Plateau <a href="/cgi-bin/get_IJM.pl?tid=18286">.....&nbsp;C. pruinosa</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#YK31.">31'</a><a name="YK31'"> </a> Herbage not both with branched hairs and gray-green to white-woolly
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#YK38'">38.</a><a name="YK38."> </a> Calyx divided &plusmn; 2/3 abaxially, 1/6&ndash;1/3 adaxially, lobes generally curved upward; corolla (including lower lip) generally curved out through abaxial calyx sinus
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YK39'">39.</a><a name="YK39."> </a> Herbage glabrous to slightly puberulent; leaves linear, margins rolled upward; bracts generally narrowly 3-lobed, &lt; calyx; corolla beak sparsely puberulent; Cascade Range, e slope High Sierra Nevada, Transverse Ranges, Great Basin Floristic Province, Desert Mountains <a href="/cgi-bin/get_IJM.pl?tid=18234">.....&nbsp;C. linariifolia</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YK39.">39'</a><a name="YK39'"> </a> Herbage puberulent to hairy; leaves lanceolate, not rolled upward; bracts generally entire, >= calyx; corolla beak densely shaggy-puberulent; mostly c&s California Floristic Province <a href="/cgi-bin/get_IJM.pl?tid=18316">.....&nbsp;C. subinclusa</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YK40'">40.</a><a name="YK40."> </a> Inflorescence 2-colored, red and yellow; corolla yellow-orange; calyx lobes clearly curved upward, sides &plusmn; entire to divided &lt; 1/5 <a href="/cgi-bin/get_IJM.pl?tid=76740">.....&nbsp;subsp. franciscana</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YK40.">40'</a><a name="YK40'"> </a> Inflorescence &plusmn; red throughout; corolla &plusmn; red; calyx lobes barely curved upward, sides divided 1/5&ndash;1/3 <a href="/cgi-bin/get_IJM.pl?tid=74693">.....&nbsp;subsp. subinclusa</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#YK38.">38'</a><a name="YK38'"> </a> Calyx divided generally 1/4&ndash;1/2 (except <I>Castilleja miniata</I>, <I>Castilleja peirsonii</I>) abaxially and adaxially, lobes not curved upward; corolla not curved out through abaxial side of calyx sinus
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YK41'">41.</a><a name="YK41."> </a> Hairs dense, branched (puberulent) <a href="/cgi-bin/get_IJM.pl?tid=18286">.....&nbsp;C. pruinosa</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YK41.">41'</a><a name="YK41'"> </a> Hairs generally unbranched (or &plusmn; 0), plant puberulent to long-soft-hairy or bristly (<I>Castilleja affinis</I> subsp. <I>affinis</I> occasionally with some branched hairs)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YK42'">42.</a><a name="YK42."> </a> Plant glandular-puberulent to -sticky-hairy proximal to inflorescence
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YK43'">43.</a><a name="YK43."> </a> Calyx divided >= 1/2 abaxially; corolla beak &plusmn; 1/2 tube; stigma clearly 2-lobed <a href="/cgi-bin/get_IJM.pl?tid=18278">.....&nbsp;C. peirsonii</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YK43.">43'</a><a name="YK43'"> </a> Calyx generally divided 1/4&ndash;1/2 abaxially; corolla beak 1&ndash;2 &times; tube; stigma generally entire or slightly 2-lobed
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YK44'">44.</a><a name="YK44."> </a> Branches generally crowded proximal to inflorescence; leaves generally crowded; seed coat deeply netted; coastal <a href="/cgi-bin/get_IJM.pl?tid=18332">.....&nbsp;C. wightii</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YK44.">44'</a><a name="YK44'"> </a> Branches few proximal to inflorescence; leaves generally &plusmn; well spaced; seed coat shallowly netted; inland
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YK45'">45.</a><a name="YK45."> </a> Plant glandular but not sticky; leaves entire or shallowly lobed; calyx lobes obtuse to rounded or acute
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#YK46'">46.</a><a name="YK46."> </a> Leaf lobes 0&ndash;7; calyx lobes obtuse; nw Klamath Ranges <a href="/cgi-bin/get_IJM.pl?tid=18177">.....&nbsp;C. brevilobata</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#YK46.">46'</a><a name="YK46'"> </a> Leaf lobes 0&ndash;3; calyx lobes acute; e San Bernardino Mountains <a href="/cgi-bin/get_IJM.pl?tid=18258">.....&nbsp;C. montigena</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YK45.">45'</a><a name="YK45'"> </a> Plant densely glandular-sticky; leaves 0&ndash;3-lobed; calyx lobes generally acute <a href="/cgi-bin/get_IJM.pl?tid=18165">.....&nbsp;C. applegatei</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#YK47'">47.</a><a name="YK47."> </a> Stem 10&ndash;25 cm; leaf lobes generally 3; calyx 13&ndash;15 mm, divided &plusmn; 1/4 on sides; red fir forest to alpine barrens &mdash; High Sierra Nevada, Great Basin Floristic Province <a href="/cgi-bin/get_IJM.pl?tid=76734">.....&nbsp;subsp. pallida</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#YK47.">47'</a><a name="YK47'"> </a> Stem 30&ndash;80 cm; most leaves entire; calyx 12&ndash;25 mm, generally divided &lt;= 1/5 on sides; generally below subalpine
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#YK48'">48.</a><a name="YK48."> </a> Calyx lobes obtuse <a href="/cgi-bin/get_IJM.pl?tid=76733">.....&nbsp;subsp. martinii</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#YK48.">48'</a><a name="YK48'"> </a> Calyx lobes acute
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#YK49'">49.</a><a name="YK49."> </a> Calyx 12&ndash;18 mm <a href="/cgi-bin/get_IJM.pl?tid=76731">.....&nbsp;subsp. disticha</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#YK49.">49'</a><a name="YK49'"> </a> Calyx 16&ndash;25 mm <a href="/cgi-bin/get_IJM.pl?tid=76735">.....&nbsp;subsp. pinetorum</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YK42.">42'</a><a name="YK42'"> </a> Plant generally not glandular proximal to inflorescence (except occasionally <I>Castilleja affinis</I> or <I>Castilleja latifolia</I>)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YK50'">50.</a><a name="YK50."> </a> Leaves &plusmn; fleshy, oblong to rounded, lobes 0&ndash;3, truncate-rounded; bract lobes 0&ndash;3, truncate-rounded; hairs generally bristly or shaggy
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YK51'">51.</a><a name="YK51."> </a> Corolla 20&ndash;30 mm, beak 10&ndash;15 mm; c&s Central Coast <a href="/cgi-bin/get_IJM.pl?tid=18228">.....&nbsp;C. latifolia</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YK51.">51'</a><a name="YK51'"> </a> Corolla 30&ndash;45 mm, beak 15&ndash;25 mm; c North Coast <a href="/cgi-bin/get_IJM.pl?tid=18246">.....&nbsp;C. mendocinensis</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YK50.">50'</a><a name="YK50'"> </a> Leaves generally not fleshy, linear to lanceolate; leaves and bracts entire or lobed, tips acute to obtuse; generally puberulent or glabrous (bristly)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YK52'">52.</a><a name="YK52."> </a> Calyx divided 1/4&ndash;1/3 abaxially and adaxially &mdash; dry sagebrush scrub, pinyon/juniper woodland <a href="/cgi-bin/get_IJM.pl?tid=18160">.....&nbsp;C. chromosa</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YK52.">52'</a><a name="YK52'"> </a> Calyx divided 1/3&ndash;2/3 or more abaxially and adaxially
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YK53'">53.</a><a name="YK53."> </a> Herbage generally &plusmn; bristly-puberulent; leaves 0&ndash;5-lobed <a href="/cgi-bin/get_IJM.pl?tid=18154">.....&nbsp;C. affinis</a> (in part)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#YK54'">54.</a><a name="YK54."> </a> Inflorescence generally bright red to orange-red (yellow), 30&ndash;50 mm wide <a href="/cgi-bin/get_IJM.pl?tid=70068">.....&nbsp;subsp. affinis</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#YK54.">54'</a><a name="YK54'"> </a> Inflorescence generally yellow (pink or &plusmn; red-orange), 15&ndash;25 mm wide &mdash; s Inner North Coast Ranges, San Francisco Bay Area, open serpentine slopes <a href="/cgi-bin/get_IJM.pl?tid=76730">.....&nbsp;subsp. neglecta</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YK53.">53'</a><a name="YK53'"> </a> Herbage glabrous to sparsely puberulent, to long-soft-hairy distally; leaves generally entire
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#YK55'">55.</a><a name="YK55."> </a> Bract and calyx lobes obtuse; seed coat deeply netted, tight-fitting; generally dry sea bluffs &mdash; n&c North Coast <a href="/cgi-bin/get_IJM.pl?tid=76729">.....&nbsp;C. affinis subsp. litoralis</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#YK55.">55'</a><a name="YK55'"> </a> Bract and calyx lobes acute; seed coat shallowly netted, loose-fitting; moist places <a href="/cgi-bin/get_IJM.pl?tid=18249">.....&nbsp;C. miniata</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#YK56'">56.</a><a name="YK56."> </a> Stem slender; inflorescence &plusmn; pink to yellow-orange; serpentine bogs; nw Klamath Ranges <a href="/cgi-bin/get_IJM.pl?tid=49754">.....&nbsp;subsp. elata</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#YK56.">56'</a><a name="YK56'"> </a> Stem stout; inflorescence generally bright red to orange-red; widespread <a href="/cgi-bin/get_IJM.pl?tid=74956">.....&nbsp;subsp. miniata</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

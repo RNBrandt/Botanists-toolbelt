@@ -1,0 +1,276 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Cyperaceae</h2><a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=115'><h3>View taxon page for Cyperaceae</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AHL1'">1.</a><a name="AHL1."> </a> Flower, fruit enclosed in sac-like structure (perigynium); flowers unisexual
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHL2'">2.</a><a name="AHL2."> </a> Perigynium open at tip <a href="/cgi-bin/get_IJM.pl?tid=8902">.....&nbsp;CAREX</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHL2.">2'</a><a name="AHL2'"> </a> Perigynium open on 1 side <a href="/cgi-bin/get_IJM.pl?tid=8912">.....&nbsp;KOBRESIA</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AHL1.">1'</a><a name="AHL1'"> </a> Flower, fruit not enclosed in sac-like structure; flowers bisexual or some staminate
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHL3'">3.</a><a name="AHL3."> </a> Flower bracts 2-ranked; spikelets generally flat
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHL4'">4.</a><a name="AHL4."> </a> Inflorescence in leaf axils; leaves cauline; stem internodes hollow <a href="/cgi-bin/get_IJM.pl?tid=8906">.....&nbsp;DULICHIUM</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHL4.">4'</a><a name="AHL4'"> </a> Inflorescence terminal; leaves basal or basal and cauline; stem internodes solid or spongy with air cavities
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHL5'">5.</a><a name="AHL5."> </a> Spikelets with >= 2 sterile proximal flower bracts; leaf sheaths &plusmn; black; inflorescence head-like <a href="/cgi-bin/get_IJM.pl?tid=8920">.....&nbsp;SCHOENUS</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHL5.">5'</a><a name="AHL5'"> </a> Spikelets with 0&ndash;1 sterile proximal flower bracts; leaf sheaths not &plusmn; black; inflorescence head-like to openly branched
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHL6'">6.</a><a name="AHL6."> </a> Spikelets with 2&ndash;36 flower bracts, each bract subtending a bisexual flower; fruits 2&ndash;many per spikelet <a href="/cgi-bin/get_IJM.pl?tid=8905">.....&nbsp;CYPERUS</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHL6.">6'</a><a name="AHL6'"> </a> Spikelets with 2(3) flower bracts, proximal bract sterile or subtending a bisexual flower, distal sterile or subtending a staminate flower; fruits 1 per spikelet <a href="/cgi-bin/get_IJM.pl?tid=8913">.....&nbsp;KYLLINGA</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHL3.">3'</a><a name="AHL3'"> </a> Flower bracts spiraled (except <I>Isolepis levynsiana</I>); spikelets not flat (&plusmn; flat in <I>Isolepis levynsiana</I>)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHL7'">7.</a><a name="AHL7."> </a> Flower stems generally with cauline leaves 0 (1&ndash;2 cauline in <I>Schoenoplectus saximontanus</I>)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHL8'">8.</a><a name="AHL8."> </a> Inflorescence bracts 0; spikelet 1; leaves 2, blade 0 or tooth-like, &lt;= 1 mm; fruit tubercle generally present <a href="/cgi-bin/get_IJM.pl?tid=8907">.....&nbsp;ELEOCHARIS</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHL8.">8'</a><a name="AHL8'"> </a> Inflorescence bracts >= 1; spikelets >= 1; leaves 1&ndash;3, generally some clearly bladed; fruit tubercle 0
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHL9'">9.</a><a name="AHL9."> </a> Flower bract (outer if 2) with >= 3 veins; stem &lt;= 40 cm
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHL10'">10.</a><a name="AHL10."> </a> Flower bract 1 per flower <a href="/cgi-bin/get_IJM.pl?tid=68683">.....&nbsp;ISOLEPIS</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHL10.">10'</a><a name="AHL10'"> </a> Flower bracts (1)2 per flower (a 2nd, inner bract between flower, spikelet axis generally present) <a href="/cgi-bin/get_IJM.pl?tid=8915">.....&nbsp;LIPOCARPHA</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHL9.">9'</a><a name="AHL9'"> </a> Flower bract with 1 vein, at least in distal-most part of spikelet; stem &lt;= 400 cm
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHL11'">11.</a><a name="AHL11."> </a> Stems &lt;= 15 cm, &lt; 1 mm diam; spikelets 1, 3&ndash;4.6 mm, 1.5&ndash;2.8 mm wide <a href="/cgi-bin/get_IJM.pl?tid=69378">.....&nbsp;TRICHOPHORUM</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHL11.">11'</a><a name="AHL11'"> </a> Stems (1)10&ndash;400 cm, &lt;= 10 mm diam; spikelets 1&ndash;200, 3&ndash;23 mm, 2&ndash;7 mm wide
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AHL12'">12.</a><a name="AHL12."> </a> Ligule ciliate; stem, leaf air cavities 0; stem wiry; flower bracts shiny, in proximal part of spikelet 3&ndash;9-veined, at least in distal-most 1-veined, tip not notched <a href="/cgi-bin/get_IJM.pl?tid=68006">.....&nbsp;AMPHISCIRPUS</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AHL12.">12'</a><a name="AHL12'"> </a> Ligule glabrous; stem, leaf generally with air cavities; stem rarely wiry; flower bracts dull, 1-veined, tip generally notched <a href="/cgi-bin/get_IJM.pl?tid=69220">.....&nbsp;SCHOENOPLECTUS</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHL7.">7'</a><a name="AHL7'"> </a> Flower stems with cauline leaves >= 1 (see also <I>Schoenoplectus saximontanus</I>)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHL13'">13.</a><a name="AHL13."> </a> Inflorescences generally > 1, terminal and generally >= 1 axillary
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHL14'">14.</a><a name="AHL14."> </a> Flowers 10&ndash;50 per spikelet <a href="/cgi-bin/get_IJM.pl?tid=8921">.....&nbsp;SCIRPUS</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHL14.">14'</a><a name="AHL14'"> </a> Flowers &lt; 6 per spikelet
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHL15'">15.</a><a name="AHL15."> </a> Stem 5&ndash;10 mm diam; leaf blades 5&ndash;10 mm wide, margins saw-toothed <a href="/cgi-bin/get_IJM.pl?tid=8903">.....&nbsp;CLADIUM</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHL15.">15'</a><a name="AHL15'"> </a> Stem &lt;= 2 mm diam; leaf blades 0.5&ndash;5 mm wide, margins generally scabrous <a href="/cgi-bin/get_IJM.pl?tid=8919">.....&nbsp;RHYNCHOSPORA</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHL13.">13'</a><a name="AHL13'"> </a> Inflorescence 1, terminal
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHL16'">16.</a><a name="AHL16."> </a> Leaf sheath tip margins scabrous or ciliate; stem, leaf blades glabrous or generally &plusmn; scabrous or puberulent
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHL17'">17.</a><a name="AHL17."> </a> Leaf sheath tip ciliate, hairs >> 1 mm, soft <a href="/cgi-bin/get_IJM.pl?tid=8901">.....&nbsp;BULBOSTYLIS</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHL17.">17'</a><a name="AHL17'"> </a> Leaf sheath tip scabrous, hairs &lt;&lt; 1 mm, stiff <a href="/cgi-bin/get_IJM.pl?tid=8909">.....&nbsp;FIMBRISTYLIS</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHL16.">16'</a><a name="AHL16'"> </a> Leaf sheath tip margins glabrous; stem, leaf blades glabrous or on keels or angles scabrous
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHL18'">18.</a><a name="AHL18."> </a> Stem cylindric; perianth bristles 10&ndash;25, smooth, >> fruit <a href="/cgi-bin/get_IJM.pl?tid=8908">.....&nbsp;ERIOPHORUM</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHL18.">18'</a><a name="AHL18'"> </a> Stem 3-angled; perianth bristles 3&ndash;6(12), barbed, &lt; to > fruit
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AHL19'">19.</a><a name="AHL19."> </a> Flower bracts puberulent (glabrous in age), tip notched, generally with curved awn often broken off; tubers durable <a href="/cgi-bin/get_IJM.pl?tid=68138">.....&nbsp;BOLBOSCHOENUS</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AHL19.">19'</a><a name="AHL19'"> </a> Flower bracts glabrous, tip entire or sharp-pointed, awn 0 or minute; tubers 0
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AHL20'">20.</a><a name="AHL20."> </a> Inflorescence congested, head-like; perianth bristles > fruit <a href="/cgi-bin/get_IJM.pl?tid=98942">.....&nbsp;CALLISCIRPUS</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AHL20.">20'</a><a name="AHL20'"> </a> Inflorescence openly branched with head-like clusters at branch tips; perianth bristles &lt;= fruit <a href="/cgi-bin/get_IJM.pl?tid=8921">.....&nbsp;SCIRPUS</a> (2)</blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

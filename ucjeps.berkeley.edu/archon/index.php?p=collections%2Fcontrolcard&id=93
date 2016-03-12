@@ -1,0 +1,626 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>George F. Papenfuss correspondence, 1929-1981 | University and Jepson Herbaria Archives, University of California, Berkeley</title>
+      <link rel="stylesheet" type="text/css" href="themes/herbaria/style.css" />
+      <link rel="stylesheet" type="text/css" href="themes/herbaria/js/cluetip/jquery.cluetip.css" />
+
+      <link rel="icon" type="image/ico" href="themes/herbaria/images/archon.ico"/>
+      <!--[if lte IE 7]>
+        <link rel="stylesheet" type="text/css" href="themes/herbaria/ie.css" />
+        <link rel="stylesheet" type="text/css" href="themes/themes/herbaria/js/cluetip/jquery.cluetip.ie.css" />
+      <![endif]-->
+      <script type='text/javascript' src='packages/core/js/jquery.min.js'></script>
+      <script type='text/javascript' src='packages/core/js/jquery-ui.custom.min.js'></script>
+      <script type='text/javascript' src='packages/core/js/jquery-expander.js'></script>
+      <script type="text/javascript" src="themes/herbaria/js/jquery.hoverIntent.js"></script>
+      <script type="text/javascript" src="themes/herbaria/js/cluetip/jquery.cluetip.js"></script>
+      <script type="text/javascript" src="themes/herbaria/js/jquery.corner.js"></script>
+      <script type="text/javascript" src="themes/herbaria/js/jquery.scrollTo-min.js"></script>
+      <script type='text/javascript' src='packages/core/js/archon.js'></script><script type='text/javascript' src='packages/digitallibrary/js/archon.js'></script>
+      <script type="text/javascript">
+         /* <![CDATA[ */
+         imagePath = 'themes/herbaria/images';
+         $(document).ready(function() {
+            $('div.bground').corner('20px');
+            $('div.mdround').corner('10px');
+            $('div.smround').corner('5px');
+            $('#dlsearchblock').corner('bottom 10px');
+            $('div.listitem:nth-child(even)').addClass('evenlistitem');
+            $('div.listitem:last-child').addClass('lastlistitem');
+            $('#locationtable tr:nth-child(odd)').addClass('oddtablerow');
+            $('.expandable').expander({
+               slicePoint:       600,              // make expandable if over this x chars
+               widow:            100,              // do not make expandable unless total length > slicePoint + widow
+               expandPrefix:     '. . . ',         // text to come before the expand link
+               expandText:         '[read more]',  //text to use for expand link
+               expandEffect:     'fadeIn',         // or slideDown
+               expandSpeed:      700,              // in milliseconds
+               collapseTimer:    0,                // milliseconds before auto collapse; default is 0 (don't re-collape)
+               userCollapseText: '[collapse]'      // text for collaspe link
+            });
+         });
+
+         function js_highlighttoplink(selectedSpan)
+         {
+            $('.currentBrowseLink').toggleClass('browseLink').toggleClass('currentBrowseLink');
+            $(selectedSpan).toggleClass('currentBrowseLink');
+            $(selectedSpan).effect('highlight', {}, 300);
+         }
+
+         $(document).ready(function() {externalLinks();});
+         $(window).unload(function() {});
+         /* ]]> */
+      </script>
+      
+   </head>
+   <body>
+      
+      
+<!-- Beginning of banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/uc/"><img src="http://ucjeps.berkeley.edu/common/images/uclogo_250.png" alt="University Herbarium (UC)" width="100" height="100" border="0" /></a></td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The University and Jepson Herbaria</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/uc/" class="logoText">University&nbsp;Herbarium</a></td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>
+<!-- End of banner -->
+
+<!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+            	<li><a href="http://ucjeps.berkeley.edu/images/">UC/JEPS Image Collection</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+<!-- End of horizontal menu -->
+<!--archives page menu-->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr><td width=100%  colspan=3> <p align="center"> 
+  <span class="style2"><a href="index.html" class="style1">Archives Main Page</a>   |  
+  <a href="archives_overview.html" class="style1">Overview of the Collections</a>  |  
+  <a href="archives_policies.html" class="style1">Archives Policies</a> |  
+  <a href="http://ucjeps.berkeley.edu/archon" class="style1">Searchable Database</a></span> 
+
+ </p> </td></tr>
+
+ 
+</table>
+
+
+<!--end archives page menu-->
+<!-- end Herbarium Banners and Menus here-->
+      <div id="top">
+
+         <div id="logosearchwrapper">
+            <div id="logo"><a href="index.php" ><img src="themes/herbaria/images/logo.png" alt="logo" /></a> </div>
+            <div id="searchblock">
+               <form action="index.php" accept-charset="UTF-8" method="get" onsubmit="if(!this.q.value) { alert('Please enter search terms.'); return false; } else { return true; }">
+                  <div>
+                     <input type="hidden" name="p" value="core/search" />
+                     <label for='qfa'></label><input type="text" size="25" maxlength="150" name="q" id="qfa" value="" tabindex="100" />
+                     <input type="submit" value="Search" tabindex="300" class='button' title="Search" />
+                     
+                     <input type="hidden" name="content" value="1" />
+                        
+                  </div>
+               </form>
+            </div>
+         </div>
+
+
+         <div id="researchblock">
+            <a href='#' onclick='$(window).scrollTo("#archoninfo"); if($("#userlogin").is(":visible")) $("#loginlink").html("Log In"); else $("#loginlink").html("Hide"); $("#userlogin").slideToggle("normal"); $("#ArchonLoginField").focus(); return false;'>Log In</a> | <a href='?p=collections/research&amp;f=email&amp;referer=ucjeps.berkeley.edu%2Farchon%2Findex.php%3Fp%3Dcollections%2Fcontrolcard%26id%3D93'>Contact Us</a> | <a href='?p=collections/research&amp;f=cart&amp;referer=ucjeps.berkeley.edu%2Farchon%2Findex.php%3Fp%3Dcollections%2Fcontrolcard%26id%3D93'>View Cart (0 items)</a>
+         </div>
+
+
+         
+         <div id="browsebyblock">
+            <span id="browsebyspan">
+               Browse:
+            </span>
+            <span class="currentBrowseLink">
+               <a href="?p=collections/collections" onclick="js_highlighttoplink(this.parentNode); return true;">Collections</a>
+            </span>
+            <span class="browseLink">
+               <a href="?p=digitallibrary/digitallibrary" onclick="js_highlighttoplink(this.parentNode); return true;">Digital Content</a>
+            </span>
+            <span class="browseLink">
+               <a href="?p=subjects/subjects" onclick="js_highlighttoplink(this.parentNode); return true;">Subjects</a>
+            </span>
+            <span class="browseLink">
+               <a href="?p=creators/creators" onclick="js_highlighttoplink(this.parentNode); return true;">Creators</a>
+            </span>
+            <!--
+            <span class="browseLink">
+               <a href="?p=collections/classifications" onclick="js_highlighttoplink(this.parentNode); return true;">Record Groups</a>
+            </span>-->
+         </div>
+      </div>
+      <div id="breadcrumbblock"><span class='bold'>Location: </span><a href='index.php'>Archon</a> <img src='themes/herbaria/images/arrowright.gif' alt='right-pointing arrow' /> George F. Papenfuss corresp...</div>
+      <div id="breadcrumbclearblock">.</div>
+      <script type="text/javascript">
+         /* <![CDATA[ */
+         $('#searchblock').corner('5px');
+         $('#browsebyblock').corner('tl 10px');
+         /* ]]> */
+      </script>
+      <div id="main"><h1 id='titleheader'>George F. Papenfuss correspondence, 1929-1981<a id='cid93' class='research_add' onclick='triggerResearchCartEvent(this, {collectionid:93,collectioncontentid:0}); return false;' href='#'><img class='cart' src='themes/herbaria/images/addtocart.gif' title='Add to your cart.' alt='Add to your cart.'/></a> | University and Jepson Herbaria Archives, University of California, Berkeley</h1>
+
+<div id='ccardleft'>        <!--begin div ccardleft -->
+   <div id="ccardpublic" class='mdround'>  <!-- begin div ccardcontents -->
+               <div class='ccardcontent'><span class='ccardlabel'>Title:</span> George F. Papenfuss correspondence, 1929-1981<a id='cid93' class='research_add' onclick='triggerResearchCartEvent(this, {collectionid:93,collectioncontentid:0}); return false;' href='#'><img class='cart' src='themes/herbaria/images/addtocart.gif' title='Add to your cart.' alt='Add to your cart.'/></a></div>
+                  <div class='ccardcontent'><span class='ccardlabel'>Extent:</span> 14.0 Linear Feet         </div>
+   
+         <div class='ccardcontent'><span class='ccardlabel'><a href='#' onclick="toggleDisplay('CollectionArrangement'); return false;"><img id='CollectionArrangementImage' src='themes/herbaria/images/plus.gif' alt='expand icon' />
+   Arrangement               </a></span>
+            <div class='ccardshowlist' style='display:none' id='CollectionArrangementResults'>
+   Original order maintained. Arranged alphabetically by correspondent or topic, and then in reverse chronological order within each folder.            </div>
+         </div>
+   
+         <div class='ccardcontent'><span class='ccardlabel'><a href='#' onclick="toggleDisplay('CollectionCreators'); return false;"><img id='CollectionCreatorsImage' src='themes/herbaria/images/plus.gif' alt='expand icon' />
+
+   Creators               </a></span>
+            <div class='ccardshowlist' style='display:none' id='CollectionCreatorsResults'>
+   <a href='?p=creators/creator&amp;id=89'>Papenfuss, George Frederik (1903-1981)</a>            </div>
+         </div>
+               <div class='ccardcontent'><span class='ccardlabel'><a href='#' onclick="toggleDisplay('subjects'); return false;"><img id='subjectsImage' src='themes/herbaria/images/plus.gif' alt='expand icon' /> Subjects</a> <span style='font-size:80%'>(links to similar collections)</span></span><br/>
+               <div class='ccardshowlist' style='display: none' id='subjectsResults'><a href='?p=subjects/subjects&amp;id=107'>Algology</a><br/>
+<a href='?p=subjects/subjects&amp;id=113'>Botanists - California</a><br/>
+<a href='?p=subjects/subjects&amp;id=91'>University of California, Berkeley.</a></div>
+            </div>
+                  <div class='ccardcontent'><span class='ccardlabel'><a href='#' onclick="toggleDisplay('genres'); return false;"><img id='genresImage' src='themes/herbaria/images/plus.gif' alt='expand icon' /> Forms of Material</a> <span style='font-size:80%'>(links to similar genres)</span></span><br/>
+               <div class='ccardshowlist' style='display: none' id='genresResults'><a href='?p=subjects/subjects&amp;id=2'>Correspondence</a></div>
+            </div>
+               <div class='ccardcontent'><span class='ccardlabel'><a href='#' onclick="toggleDisplay('langs'); return false;"><img id='langsImage' src='themes/herbaria/images/plus.gif' alt='expand icon' /> Languages of Materials</a></span><br/>
+            <div class='ccardshowlist' style='display: none' id='langsResults'><a href='?p=core/search&amp;languageid=2081'>English</a></div>
+         </div>
+   
+         <div class='ccardcontent'><span class='ccardlabel'><a href='#' onclick="toggleDisplay('otherinformation'); return false;"><img id='otherinformationImage' src='themes/herbaria/images/plus.gif' alt='expand icon' /> Administrative Information</a></span><br/>
+            <div class='ccardshowlist' style='display:none' id='otherinformationResults'>
+
+                     <div class='ccardcontent'><span class='ccardlabel'>Restrictions:</span> Collection is open for research.</div>
+                                    <div class='ccardcontent'><span class='ccardlabel'>Rights:</span> Copyright has not been assigned to the University and Jepson Herbaria Archives. All requests for permission to publish or quote from manuscripts must be submitted in writing to the Archivist. Permission for publication is given on behalf of the University and Jepson Herbaria Archives as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which also must be obtained by the publisher.</div>
+                                    <div class='ccardcontent'><span class='ccardlabel'>Preferred Citation:</span> George F. Pappenfuss Correspondence, University and Jepson Herbaria Archives, University of California, Berkeley.</div>
+                  </div></div></div></div><div id='ccardprintcontact' class='smround'> <a href='?p=collections/controlcard&amp;id=93&amp;templateset=print&amp;disabletheme=1'><img src='themes/herbaria/images/printer.png' alt='Printer-friendly' /></a> <a href='?p=collections/controlcard&amp;id=93&amp;templateset=print&amp;disabletheme=1'>Printer-friendly</a> | <a href='?p=collections/research&amp;f=email&amp;repositoryid=1&amp;referer=ucjeps.berkeley.edu%2Farchon%2Findex.php%3Fp%3Dcollections%2Fcontrolcard%26id%3D93'><img src='themes/herbaria/images/email.png' alt='Email Us' /> </a><a href='?p=collections/research&amp;f=email&amp;repositoryid=1&amp;referer=ucjeps.berkeley.edu%2Farchon%2Findex.php%3Fp%3Dcollections%2Fcontrolcard%26id%3D93'>Email Us</a></div>         <div id="ccardscope" class="mdround">
+                        <div class='ccardcontent expandable' style='padding-left:.2em'><span class='ccardlabel'>Scope and Contents:</span> Correspondence received by George Fredrik Papenfuss, phycologist and professor of Botany at the University of California, Berkeley.</div>
+                           <div class='ccardcontent'><span class='ccardlabel'><a href='?p=collections/findingaid&amp;id=93&amp;q='>Detailed Description</a></span><br/>
+      <span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4086#id4086'>Folder 1: Aa-Ai, 1949-1978</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4087#id4087'>Folder 2: Abbott, Isabella, 1970-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4088#id4088'>Folder 3: Abbott, Isabella, 1960-1970</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4089#id4089'>Folder 4: Abbott, Isabella, 1941-1959</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4090#id4090'>Folder 5: Adamson, 1937-1967</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4091#id4091'>Folder 6: Al, 1951-1977</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4092#id4092'>Folder 7: Allen, Mary Belle, 1953-1959</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4093#id4093'>Folder 8: Am, 1941-1961</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4094#id4094'>Folder 9: American Journal of Botany, 1953-1969</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4095#id4095'>Folder 10: An, 1934-1979</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4096#id4096'>Folder 11: Ar, 1935-1973</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4097#id4097'>Folder 12: As-Az, 1953-1971</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4098#id4098'>Folder 13: Ba-Be, 1934-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4099#id4099'>Folder 14: Baker, Kathleen Drew, 1945-1970</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4100#id4100'>Folder 15: Basson, Philip, 1976-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4101#id4101'>Folder 16: Bh-Bl, 1936-1979</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4102#id4102'>Folder 17: Blackler, Helen, 1959-1975</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4103#id4103'>Folder 18: Borgesen, Frederik, 1939-1952</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4104#id4104'>Folder 19: Boa-Bos, 1949-1978</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4105#id4105'>Folder 20: Bold, Harold, 1960-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4106#id4106'>Folder 21: Bold, Harold, 1954-1959</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4107#id4107'>Folder 22: Bot-Boz, 1942-1976</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4108#id4108'>Folder 23: Botanica Marina, 1959-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4109#id4109'>Folder 24: Botanical Society of America, 1960-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4110#id4110'>Folder 25: Botanical Society of America, 1940-1959</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4111#id4111'>Folder 26: Bra, 1950-1977</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4112#id4112'>Folder 27: Brawley, Susan, 1974-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4113#id4113'>Folder 28: Bre-Bru, 1939-1973</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4114#id4114'>Folder 29: British Phycological Society, 1963-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4115#id4115'>Folder 30: Bs-Bz, 1940-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4116#id4116'>Folder 31: Ca, 1939-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4117#id4117'>Folder 32: California Academy of Sciences, 1957-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4118#id4118'>Folder 33: California Academy of Sciences, 1952-1956</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4119#id4119'>Folder 34: Camp, W. H., 1948-1961</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4120#id4120'>Folder 35: Carnegie Corp. of N.Y., 1939-1953</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4121#id4121'>Folder 36: Ce-Ch, 1935-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4122#id4122'>Folder 37: Chapman, Russell, 1975-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4123#id4123'>Folder 38: Chapman, Valentine Jackson, 1948-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4124#id4124'>Folder 39: Chiang, Young-Meng, 1962-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4125#id4125'>Folder 40: Chihara, Mitsuo, 1954-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4126#id4126'>Folder 41: Cla-Clo, 1944-1976</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4127#id4127'>Folder 42: Col-Con, 1935-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4128#id4128'>Folder 43: Coo-Cox, 1941-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4129#id4129'>Folder 44: Colinvaux, Llewellya Hillis, 1959-1978</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4130#id4130'>Folder 45: Conover, John, 1943-1960</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4131#id4131'>Folder 46: Cr-Cz, 1936-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4132#id4132'>Folder 47: Da-Dd, 1942-1976</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4133#id4133'>Folder 50: Dawson, E. Yale, 1943-1967</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4134#id4134'>Folder 51: De, 1929-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4135#id4135'>Folder 52: Dellow, Vivienne, 1949-1953</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4136#id4136'>Folder 53: Desikachary, T. V., 1953-1977</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4137#id4137'>Folder 54: Df-Di, 1949-1979</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4138#id4138'>Folder 55: Dixon, Peter, 1958-1979</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4139#id4139'>Folder 56: Dj-Dr, 1948-1973</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4140#id4140'>Folder 57: Ds-Dz, 1940-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4141#id4141'>Folder 58: Doty, Max, 1957-1975</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4142#id4142'>Folder 59: Doty, Max, 1944-1956</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4143#id4143'>Folder 60: Drouet, Francis, 1945-1958</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4144#id4144'>Folder 61: Ducker, Sophie, 1970-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4145#id4145'>Folder 62: Ducker, Sophie, 1958-1969</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4146#id4146'>Folder 63: Ea-Ei, 1938-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4147#id4147'>Folder 64: Egerod, Lois, 1941-1979</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4148#id4148'>Folder 65: Eh-Em, 1949-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4149#id4149'>Folder 66: Elias, M. K., 1943-1969</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4150#id4150'>Folder 67: En-Ez, 1943-1979</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4151#id4151'>Folder 68: Fa-Fn, 1945-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4152#id4152'>Folder 69: Fan, Kung-Chu, 1951-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4153#id4153'>Folder 70: Feldmann, Jean, 1947-1978</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4154#id4154'>Folder 71: Fo, 1942-1975</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4155#id4155'>Folder 72: Fp-Fz, 1939-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4156#id4156'>Folder 73: Ga-Ge, 1948-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4157#id4157'>Folder 74: Ganesan, E. K., 1966-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4158#id4158'>Folder 75: Gf-Go, 1940-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4159#id4159'>Folder 76: Gordon, Robert, 1959-1977</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4160#id4160'>Folder 77: Gp-Gz, 1934-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4161#id4161'>Folder 78: Grontved, Johs, 1949-1951</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4162#id4162'>Folder 79: Guggenheim Fellowships, 1944-1971</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4163#id4163'>Folder 80: Ha, 1940-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4164#id4164'>Folder 81: Hawaii Marine Labs, 1974-1977</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4165#id4165'>Folder 82: Hawaii Marine Labs, 1971-1973</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4166#id4166'>Folder 83: Hawaii Marine Labs, 1970-1971</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4167#id4167'>Folder 84: Hawaii Marine Labs, 1968-1969</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4168#id4168'>Folder 85: Hawaii Marine Labs, 1964-1967</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4169#id4169'>Folder 86: Hawaii Marine Labs, 1962-1963</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4170#id4170'>Folder 87: Hawaii Marine Labs, 1961</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4171#id4171'>Folder 88: Hawaii Marine Labs, 1960</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4172#id4172'>Folder 89: Hawaii Marine Labs, 1959</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4173#id4173'>Folder 90: Hawaii Marine Labs, 1958</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4174#id4174'>Folder 91: Hawaii Marine Labs, 1957</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4175#id4175'>Folder 92: Hawaii Marine Labs, 1956</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4176#id4176'>Folder 93: Hawaii Marine Labs, 1952-1955</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4177#id4177'>Folder 94: Hawaii Marine Labs, 1948-1951</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4178#id4178'>Folder 95: Haxo, Francis, 1954-1976</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4179#id4179'>Folder 96: Hb-He, 1935-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4180#id4180'>Folder 97: Hf-Hn, 1940-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4181#id4181'>Folder 98: Ho, 1935-1977</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4182#id4182'>Folder 99: Hollenberg, George, 1949-1972</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4183#id4183'>Folder 100: Hommersand, Max, 1961-1979</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4184#id4184'>Folder 101: Hommersand, Max, 1945-1960</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4185#id4185'>Folder 102: Hp-Hz, 1947-1978</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4186#id4186'>Folder 103: Hubbs, Carl, 1947-1977</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4187#id4187'>Folder 104: Hutchins, Louis, 1947-1951</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4188#id4188'>Folder 105: Ia-In, 1944-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4189#id4189'>Folder 106: Indian Ocean Expedition, 1962-1977</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4190#id4190'>Folder 107: International Botanical Congress, 1971-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4191#id4191'>Folder 108: International Botanical Congress, 1967-1969</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4192#id4192'>Folder 109: International Botanical Congress, 1949-1964</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4193#id4193'>Folder 110: International Phycological Society, 1977-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4194#id4194'>Folder 111: International Seaweed Symposium, 1973-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4195#id4195'>Folder 112: International Seaweed Symposium, 1971-1972</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4196#id4196'>Folder 113: International Seaweed Symposium, 1955-1970</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4197#id4197'>Folder 114: Ip-Iz, 1939-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4198#id4198'>Folder 115: Iowa State University Film Project, 1965-1967</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4199#id4199'>Folder 116: Iowa State University Film Project, 1963-1964</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4200#id4200'>Folder 117: Iowa State University Film Project, 1961-1962</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4201#id4201'>Folder 118: Ja-John, 1934-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4202#id4202'>Folder 119: Jensen, James, 1965-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4203#id4203'>Folder 120: Johanson, William, 1970-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4204#id4204'>Folder 121: Johanson, William, 1962-1969</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4205#id4205'>Folder 122: Johr-Jz, 1944-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4206#id4206'>Folder 123: Ka-Kl, 1935-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4207#id4207'>Folder 124: Km-Kz, 1945-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4208#id4208'>Folder 125: Koster, Josephine, 1938-1967</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4209#id4209'>Folder 126: Kylin, Anders, 1934-1973</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4210#id4210'>Folder 127: Laa-Lav, 1935-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4211#id4211'>Folder 128: Law-Laz, 1937-1979</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4212#id4212'>Folder 129: Lb-Le, 1938-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4213#id4213'>Folder 130: Lf-Ll, 1937-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4214#id4214'>Folder 131: Levring, Tore, 1940-1977</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4215#id4215'>Folder 132: Lindauer, Elsie, 1938-1972</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4216#id4216'>Folder 133: Lm-Ly, 1950-1979</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4217#id4217'>Folder 134: Loomis, Nina, 1944-1962</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4218#id4218'>Folder 135: Maa-Map, 1935-1979</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4219#id4219'>Folder 136: Mar-Maz, 1942-1979</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4220#id4220'>Folder 137: Marine Biology, 1961</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4221#id4221'>Folder 138: Martin, Margaret T., 1939-1977</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4222#id4222'>Folder 139: May, Valerie, 1944-1967</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4223#id4223'>Folder 140: Mb-Mc, 1944-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4224#id4224'>Folder 141: McDonald, Kent, 1967-1977</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4225#id4225'>Folder 142: Md-Me, 1935-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4226#id4226'>Folder 143: Mf-Moo, 1946-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4227#id4227'>Folder 144: Moore, Lucy B., 1944-1969</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4228#id4228'>Folder 145: Mop-Mz, 1950-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4229#id4229'>Folder 146: Mshigeni, Keto E., 1969-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4230#id4230'>Folder 147: Na-Nd, 1934-1967</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4231#id4231'>Folder 148: National Research Council, 1948-1957</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4232#id4232'>Folder 149: NSF, 1965-1979</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4233#id4233'>Folder 150: NSF, 1964</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4234#id4234'>Folder 151: NSF, 1963</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4235#id4235'>Folder 152: NSF, 1961-1962</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4236#id4236'>Folder 153: NSF, 1958-1960</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4237#id4237'>Folder 154: NSF, 1953-1957</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4238#id4238'>Folder 155: Ne, 1941-1979</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4239#id4239'>Folder 156: Newcombe, C. L., 1942-1955</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4240#id4240'>Folder 157: Nf-Nz, 1943-1979</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4241#id4241'>Folder 158: Norris, Richard, 1964-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4242#id4242'>Folder 159: Norris, Richard, 1948-1963</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4243#id4243'>Folder 160: N.E. Algal Symposium, 1976-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4244#id4244'>Folder 161: Office of Naval Research, 1953</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4245#id4245'>Folder 162: Oa-Oz, 1949-1979</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4246#id4246'>Folder 163: Organization for Tropical Studies, 1969-1974</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4247#id4247'>Folder 164: Pa, 1938-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4248#id4248'>Folder 165: Pacific Science, 1946-1953</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4249#id4249'>Folder 166: Pacific Science Congress XI &amp; XIII, 1965-1975</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4250#id4250'>Folder 167: Pacific Science Congress IX &amp; X, 1956-1964</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4251#id4251'>Folder 168: Pacific Science Congress VII &amp; VIII, 1948-1949</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4252#id4252'>Folder 169: Parker, Bruce C., 1961-1977</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4253#id4253'>Folder 170: Patrick, Ruth, 1950-1975</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4254#id4254'>Folder 171: Pb-Ph, 1937-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4255#id4255'>Folder 172: Pi-Prn, 1947-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4256#id4256'>Folder 173: Pocock, Mary A., 1959-1979</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4257#id4257'>Folder 174: Pocock, Mary A., 1937-1958</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4258#id4258'>Folder 175: Prescott, G. W., 1945-1979</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4259#id4259'>Folder 176: Pringsheim, E. G., 1954-1960</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4260#id4260'>Folder 177: Pro-Pz, 1949-1976</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4261#id4261'>Folder 178: Proskauer, Johannes, 1953-1972</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4262#id4262'>Folder 179: Qa-Qz, 1951-1978</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4263#id4263'>Folder 180: Ra-Rn, 1938-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4264#id4264'>Folder 181: Ramus, Joseph S., 1971-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4265#id4265'>Folder 182: Ramus, Joseph S., 1964-1970</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4266#id4266'>Folder 183: Red Sea Expedition, 1963-1971</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4267#id4267'>Folder 184: Red Sea Expedition, 1962</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4268#id4268'>Folder 185: Rickett, H. W., 1942-1958</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4269#id4269'>Folder 186: Ro, 1947-1978</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4270#id4270'>Folder 187: Royal Soc. of South Africa, 1977-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4271#id4271'>Folder 188: Royal Soc. of South Africa, 1972-1976</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4272#id4272'>Folder 189: Rp-Rz, 1947-1970</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4273#id4273'>Folder 190: Sa-Sc, 1938-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4274#id4274'>Folder 191: Scagel, Robert F., 1965-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4275#id4275'>Folder 192: Scagel, Robert F., 1960-1964</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4276#id4276'>Folder 193: Scagel, Robert F., 1947-1959</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4277#id4277'>Folder 194: Sd-Se, 1936-1977</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4278#id4278'>Folder 195: Searles, Richard B., 1967-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4279#id4279'>Folder 196: Searles, Richard B., 1958-1966</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4280#id4280'>Folder 197: Seminars, 1967-1977</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4281#id4281'>Folder 198: Seminars, 1961-1966</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4282#id4282'>Folder 199: Seminars, 1953-1960</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4283#id4283'>Folder 200: Sf-Sk, 1937-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4284#id4284'>Folder 201: Silva, Paul, 1958-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4285#id4285'>Folder 202: Silva, Paul, 1956-1957</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4286#id4286'>Folder 203: Silva, Paul, 1949-1955</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4287#id4287'>Folder 204: Sl-Sm, 1944-1971</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4288#id4288'>Folder 205: Smith, Gilbert, 1941-1959</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4289#id4289'>Folder 206: Smithsonian Institution, 1948-1969</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4290#id4290'>Folder 207: So-Ss, 1952-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4291#id4291'>Folder 208: St-Sz, 1936-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4292#id4292'>Folder 209: Sparling, Shirley, 1953-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4293#id4293'>Folder 210: Sproul, Robert, 1946-1951</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4294#id4294'>Folder 211: Stafleu, Frans, 1954-1979</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4295#id4295'>Folder 212: Starr, Richard, 1953-1979</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4296#id4296'>Folder 213: State Water Pollution Control Board Contract, 1950-Sept. 1952</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4297#id4297'>Folder 214: State Water Pollution Control Board Contract, Oct. 1952-1956</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4298#id4298'>Folder 215: Stein, Janet, 1965-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4299#id4299'>Folder 216: Stein, Janet, 1953-1964</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4300#id4300'>Folder 217: Stephenson, T. A., 1943-1961</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4301#id4301'>Folder 218: Svedelius, Nils, 1934-1956</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4302#id4302'>Folder 219: Ta-Tn, 1938-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4303#id4303'>Folder 220: Tanaka, T., 1949-1973</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4304#id4304'>Folder 221: Taylor, William Randolf, 1965-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4305#id4305'>Folder 222: Taylor, William Randolf, 1957-1964</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4306#id4306'>Folder 223: Taylor, William Randolf, 1934-1956</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4307#id4307'>Folder 224: To-Tz, 1938-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4308#id4308'>Folder 225: Tseng, C. K., 1941-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4309#id4309'>Folder 226: Ua-Uz, 1939-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4310#id4310'>Folder 227: University of California, 1944-1977</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4311#id4311'>Folder 228: U.C. Assoc. in Tropical Biogeog., 1958-1959</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4312#id4312'>Folder 229: U.C. Biology Field Major, 1947-1969</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4313#id4313'>Folder 230: U.C. Botany Dept., 1956-1978</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4314#id4314'>Folder 231: U.C. Botany Dept., 1950-1955</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4315#id4315'>Folder 232: U.C. Botany Group, 1950-1963</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4316#id4316'>Folder 233: U.C. Extension, Engineering &amp; Science, 1961-1970</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4317#id4317'>Folder 234: U.C. Graduate Division, 1947-1970</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4318#id4318'>Folder 235: U.C. Herbarium, 1964-1970</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4319#id4319'>Folder 236: U.C. Library, 1953-1957</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4320#id4320'>Folder 237: U.C. Marine Lab &amp; SCUBA, 1956-1965</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4321#id4321'>Folder 238: U.C. Bodega Marine Lab, 1963-1975</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4322#id4322'>Folder 239: U.C. Bodega Marine Lab, 1956-1962</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4323#id4323'>Folder 240: U.C. Bodega Marine Lab Planning Documents, 1962</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4324#id4324'>Folder 241: U.C. NASA Training Grants, 1963-1965</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4325#id4325'>Folder 242: U.C. Press, 1957-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4326#id4326'>Folder 243: Va-Vz, 1944-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4327#id4327'>Folder 244: Verdoorn, Frans, 1939-1965</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4328#id4328'>Folder 245: Wa-Wd, 1945-1978</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4329#id4329'>Folder 246: Waaland, J. Robert, 1967-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4330#id4330'>Folder 247: Wagner, Florence and Herb, 1950-1967</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4331#id4331'>Folder 248: We, 1934-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4332#id4332'>Folder 249: Western Soc. Naturalists, 1974-1982</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4333#id4333'>Folder 250: Western Soc. Naturalists, 1968-1973</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4334#id4334'>Folder 251: Western Soc. Naturalists, 1967</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4335#id4335'>Folder 252: Western Soc. Naturalists, 1948-1966</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4336#id4336'>Folder 253: Wf-Wn, 1938-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4337#id4337'>Folder 254: Wilce, Robert T., 1957-1979</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4338#id4338'>Folder 255: Williams, Louis G., 1948-1975</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4339#id4339'>Folder 256: Wo-Wz, 1943-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4340#id4340'>Folder 257: Wollaston, Elise, 1966-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4341#id4341'>Folder 258: Womersley, H. B. S., 1965-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4342#id4342'>Folder 259: Womersley, H. B. S., 1944-1964</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4343#id4343'>Folder 260: Wynne, Mike J., 1973-1981</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4344#id4344'>Folder 261: Wynne, Mike J., 1970-1972</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4345#id4345'>Folder 262: Wynne, Mike J., 1961-1969</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4346#id4346'>Folder 263: Ya-Yz, 1948-1980</a></span><br/>
+<span class='ccardserieslist'><a href='?p=collections/findingaid&amp;id=93&amp;q=&amp;rootcontentid=4347#id4347'>Folder 264: Za-Zz, 1950-1974</a></span><br/>
+               </div>
+                           </div>
+            
+</div>
+<div id="bottom">
+    <br/>
+    <hr id="footerhr" />
+    <div id="userbox" class="smround">
+
+<div id="userlogincontrols">
+  <a id="loginlink" href="index.php?p=admin/core/login&amp;go=" onclick="if($('#userlogin').is(':visible')) {this.innerHTML = 'Log In';} else {this.innerHTML = 'Hide';} $('#userlogin').slideToggle('normal'); return false;">Log In</a>
+  <a href="?p=core/register">Register</a>
+</div>
+<div id="userlogin" style="display:none">&nbsp;
+    <form action="/archon/index.php?p=collections/controlcard&amp;id=93" accept-charset="UTF-8" method="post">
+    <div class='loginpair'>
+    	<div class='loginlabel'><label for="ArchonLoginField">Login:</label></div>
+      	<div class='logininput'><input id="ArchonLoginField" type="text" name="ArchonLogin" size="20" tabindex="400" /></div>
+    </div>
+    <div class='loginpair'>
+      <div class='loginlabel'><label for="ArchonPasswordField">Password:</label></div>
+      <div class='logininput'><input id="ArchonPasswordField" type="password" name="ArchonPassword" size="20" tabindex="500" /></div>
+    </div>
+      <div id='loginsubmit'>
+	      <input type="submit" value="Log in" class="button" tabindex="700" />&nbsp;&nbsp;<label for="RememberMeField"><input id="RememberMeField" type="checkbox" name="RememberMe" value="1" tabindex="600" />Remember me?</label>
+	  </div>
+    </form>
+</div>
+  </div>
+<div id='contactcontainer'><div id='repositorylink'><a href='http://ucjeps.berkeley.edu/'>University and Jepson Herbaria Archives, University of California, Berkeley</a></div>
+<div id='emaillink'>Contact Us: <a href='?p=core/contact&amp;f=email&amp;referer=ucjeps.berkeley.edu%2Farchon%2Findex.php%3Fp%3Dcollections%2Fcontrolcard%26id%3D93'>Email Form</a></div>
+</div></div>
+<!-- Begin footer -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" id="footer">
+
+  <tr>
+    <td height="18" class="banner"><img src="http://ucjeps.berkeley.edu/common/images/common_spacer.gif" 
+		  alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  <tr>
+    <td height="20"><span class="copyrightText">&nbsp;&nbsp;
+		  <a href="http://ucjeps.berkeley.edu/main/copyright.html">Copyright</a> 
+			&copy; 2010 Regents of the University of California &mdash; 
+			Updated 
+			<!-- #BeginDate format:Am1 -->March 8, 2010<!-- #EndDate -->
+
+    </span></td>
+  </tr>
+</table>  
+<!-- End footer -->
+
+<div id="archoninfo">
+   Page Generated in: 0.426 seconds (using 147 queries).<br/>
+
+         Using 13.89MB of memory. (Peak of 14.21MB.)<br/>
+            <br/>
+   Powered by <a href='http://www.archon.org/'>Archon</a> Version 3.21 rev-2.1<br/>
+      Copyright ©2012 <a href="http://www.uiuc.edu/" rel="external">The University of Illinois at Urbana-Champaign</a>   <br/>
+      
+
+</div>
+</body>
+</html>
+   

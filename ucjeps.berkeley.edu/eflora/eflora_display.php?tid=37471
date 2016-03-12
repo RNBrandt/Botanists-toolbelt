@@ -1,0 +1,380 @@
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora: Phacelia grandiflora</title> 
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+<link href="common/css/jepson_eflora.css" rel="stylesheet" type="text/css" />
+
+<!--jquery script files-->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+
+<!-- google maps files and scripts -->
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript"> 
+function initialize() {
+  var myOptions = {
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  }
+
+  var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+
+	var TaxID = 37471;
+
+  var kmlLayer = new google.maps.KmlLayer("http://ucjeps.berkeley.edu/jepcodes-v7.kmz", { suppressInfoWindows: true });
+  kmlLayer.setMap(map);
+  var pmlLayer = new google.maps.KmlLayer("http://herbaria4.herb.berkeley.edu/interchange/coords/"+TaxID+".kml", { });
+  pmlLayer.setMap(map);
+
+}
+
+function JumpToIt(list) {
+    var newPage = list.options[list.selectedIndex].value
+    if (newPage != "None") {
+        location=newPage
+    }
+}
+</script>
+
+<style type="text/css" media="screen">
+    #map_canvas {
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+      float: left;
+      width: 467px;
+      height: 445px;
+      padding: 10px;
+    }
+</style>
+
+<!-- Google analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- jquery functions -->
+<script>
+//jquery ui functions that make the hidden higher taxonomy descriptions appear
+$(document).ready(function(){
+    $("#familylink").click(function(){
+        $("#familydesc").slideToggle(500);
+    });
+    $("#genuslink").click(function(){
+        $("#genusdesc").slideToggle(500);
+    });
+    $("#specieslink").click(function(){
+        $("#speciesdesc").slideToggle(500);
+    });
+});
+
+$(document).ready(function(){
+//jquery functions that grab the column widths from the hidden table
+//so they can be applied as a standard to the higher taxonomy table, which is made up of three separate tables
+	var width1 = $("#check1").width() + 1; // width() function turns out to be one pixel too small, so add 1
+	var width2 = $("#check2").width() + 1;
+	var width3 = $("#check3").width() + 1;
+	$(".column1").attr("width", width1);
+	$(".column2").attr("width", width2);
+	$(".column3").attr("width", width3);
+});
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>
+<!-- End banner -->
+
+<!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+            	<li><a href="http://ucjeps.berkeley.edu/images/">UC/JEPS Image Collection</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+<table border="0">
+	<tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td><span class="pageName"><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora:</a> Taxon page</span>
+		<br>
+			<span class="pageAuthorLine">
+				<a href="http://ucjeps.berkeley.edu/IJM_fam_key.html">Key to families</a>
+				|
+				<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+			</span>	  
+		</td>
+
+	</tr>
+</table>
+
+<table align="center" width="100%"><tr><td>
+<a href="eflora_display.php?tid=37498"><IMG SRC="http://ucjeps.berkeley.edu/icons/left.gif" BORDER=2 ALT="Previous taxon"></a></td>
+<td width=90%">
+<!--eFlora index-->
+<span class="pageAuthorLine">Index to accepted names and synonyms:</span><br>
+| 	<a href="eflora_index.php?index=A">A</a> | 
+	<a href="eflora_index.php?index=B">B</a> | 
+	<a href="eflora_index.php?index=C">C</a> | 
+	<a href="eflora_index.php?index=D">D</a> | 
+	<a href="eflora_index.php?index=E">E</a> | 
+	<a href="eflora_index.php?index=F">F</a> | 
+	<a href="eflora_index.php?index=G">G</a> | 
+	<a href="eflora_index.php?index=H">H</a> | 
+	<a href="eflora_index.php?index=I">I</a> | 
+	<a href="eflora_index.php?index=J">J</a> | 
+	<a href="eflora_index.php?index=K">K</a> | 
+	<a href="eflora_index.php?index=L">L</a> | 
+	<a href="eflora_index.php?index=M">M</a> | 
+	<a href="eflora_index.php?index=N">N</a> | 
+	<a href="eflora_index.php?index=O">O</a> | 
+	<a href="eflora_index.php?index=P">P</a> | 
+	<a href="eflora_index.php?index=Q">Q</a> | 
+	<a href="eflora_index.php?index=R">R</a> | 
+	<a href="eflora_index.php?index=S">S</a> | 
+	<a href="eflora_index.php?index=T">T</a> | 
+	<a href="eflora_index.php?index=U">U</a> | 
+	<a href="eflora_index.php?index=V">V</a> | 
+	<a href="eflora_index.php?index=W">W</a> | 
+	<a href="eflora_index.php?index=X">X</a> | 
+	<a href="eflora_index.php?index=Y">Y</a> | 
+	<a href="eflora_index.php?index=Z">Z</a> |
+<!--end eFlora index-->
+<hr width="10%">
+</td>
+<td align="right">
+<a href="eflora_display.php?tid=37472"><IMG SRC="http://ucjeps.berkeley.edu/icons/right.gif" BORDER=2 ALT="Next taxon"></a></td></tr>
+</table>
+
+<center><span align ='center' class='pageLargeHeading'>Phacelia grandiflora</span></center>
+<center><span align ='center' class='pageMajorHeading'></span></center>
+<br>
+
+
+<!-- this hidden table provides the column width values (check1 through check3) which are used to assign consistent widths to the actual higher taxonomy tables-->
+<div class="hidden">
+	<table class='taxonomy_table'>
+	<tr><td id='check1'><b>Family: Boraginaceae</b></td><td id='check2'><a href="#">View Description</a></b></td><td id='check3'><a href='#'>Dichotomous Key</a></td></tr>
+	<tr><td><b>Genus: Phacelia</b></td><td><a href="#">View Description</a></b></td><td><a href='#'>Dichotomous Key</a></td></tr>
+	<tr><td><b>Species: </b></td><td><a href="#">View Description</a></b></td><td><a href='#'>Dichotomous Key</a></td></tr>
+	</table>
+</div>
+
+
+	
+<table width=100%><tr><td width=100%><div class='pageMajorHeading'><b>Higher Taxonomy</b><br></div><table class='taxonomy_table'><tr><td class='column1'><b>Family: Boraginaceae</b></td><td class='column2'><a id='familylink'>View Description</a></b></td><td class='column3'><a href='http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=69'>Dichotomous Key</a></td></tr></table><div id="familydesc" class="initiallyHidden"><blockquote class='bodyText'><br><b>Common Name:</b> BORAGE or WATERLEAF FAMILY<br><b>Habit:</b> Annual to shrub or small tree, or non-green root parasite, often bristly or sharp-hairy. <b>Stem:</b> prostrate to erect. <b>Leaf:</b> basal and/or cauline, generally simple, generally alternate. <b>Inflorescence:</b> generally cymes, or panicle-, raceme-, head-, or spike-like, generally coiled in flower (often described as scorpioid), generally elongating in fruit, or flowers 1--2 per axil. <b>Flower:</b> bisexual, generally radial; sepals (4)5(10), fused at least at base, or free; corolla (4)5(10)-lobed, salverform, funnel-shaped, rotate, or bell-shaped, generally without scales at tube base, with 0 or 5 appendages at tube top, alternate stamens; stamens epipetalous; ovary generally superior, entire to 4-lobed, style 1(2), entire or 2-lobed or -branched. <b>Fruit:</b> valvate or circumscissile capsule or nutlets 1--4, free (fused), smooth to roughened, prickly or bristly or not. <br><b>Genera In Family:</b> +- 120 genera, +- 2300 species: tropics, temperate, especially western North America, Mediterranean; some cultivated (<i>Borago</i>, <i>Heliotropium</i>, <i>Echium</i>, <i>Myosotis</i>, <i>Nemophila</i>, <i>Phacelia</i>, <i>Symphytum</i>, <i>Wigandia</i>). <b>Toxicity:</b> Many genera may be TOXIC from pyrrolizidine alkaloids or accumulated nitrates. <b>Note:</b> Recently treated to include Hydrophyllaceae, Lennoaceae. <i>Wigandia urens</i> added, as naturalized. <br><b>eFlora Treatment Author:</b> Ronald B. Kelley, Robert Patterson, Richard R. Halse & Timothy C. Messick, family description, key to genera; treatment of genera by Ronald B. Kelley, except as noted<br><b>Scientific Editor:</b> Ronald B. Kelley, Robert Patterson, Thomas J. Rosatti, Bruce G. Baldwin, David J. Keil.<br></blockquote></div><table class='taxonomy_table'><tr><td class='column1'><b>Genus: Phacelia</b></td><td class='column2'><a id='genuslink'>View Description</a></b></td><td class='column3'><a href='http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9655'>Dichotomous Key</a></td></tr></table><div id="genusdesc" class="initiallyHidden"><blockquote class='bodyText'><br><b>Habit:</b> Annual to perennial herb, generally glandular-hairy, taprooted or from +- thick caudex. <b>Leaf:</b> generally cauline, generally alternate, simple to 2-pinnately compound, generally +- reduced upward. <b>Inflorescence:</b> cyme, generally dense, coiled, generally 1-sided; pedicels generally <= 5 mm, generally straight. <b>Flower:</b> sepals generally 5, generally fused at base, generally equal, generally +- alike, generally persistent, enlarging in fruit; corolla generally deciduous, at least some persistent and withering in fruit in some species, rotate to tubular or bell- or funnel-shaped, +- white, blue, purple, pink or yellow, tube and throat not always clearly differentiated, generally glabrous inside, scales of tube base 0 or free from or fused to filament bases, generally white, nectary gland on petal midvein generally 0, each petal with generally 0, sometimes 2--many translucent areas, 2 or 4 of which parallel; stamens generally attached at same level, generally equal, generally exserted, bases generally not wider, with 2 or generally 0 wings, filaments generally white, pollen generally tan; ovary chamber 1, sometimes appearing as 2 due to intrusion of the 2 placentas, placentas parietal, enlarging and meeting in fruit, style 2-lobed, generally hairy proximal to lobes, disk proximal to ovary generally inconspicuous. <b>Fruit:</b> capsule, oblong to spheric, generally rounded at base, generally beaked. <b>Seed:</b> 1--many (number sometimes due to ovule abortion), oblong to spheric, generally brown; abaxially generally pitted or cross-furrowed. <br><b>Species In Genus:</b> +- 210 species: America; some cultivated for ornamental. <b>Etymology:</b> (Greek: cluster, from dense inflorescence) <b>Toxicity:</b> Dermatitis caused by contact with hairs, especially glandular, of <i>P. campanularia</i>, <i>P. crenulata</i>, <i>P. ixodes</i>, <i>P. minor</i>, <i>P. parryi</i>, <i>P. pedicellata</i> (Reynolds et al. 1986 Contact Dermatitis 14:39--44). <b>Note:</b> Some California per species intergrade, hybridize, difficult to distinguish. <i>Phacelia ixodes</i> Kellogg, included in TJM (1993), not known from California. Since TJM2, <i>Phacelia dalesiana</i> J.T. Howell transferred to <i>Howellanthus</i> as <i>Howellanthus dalesianus</i> (J.T. Howell) Walden & R. Patt. Regarding indument in this treatment: minute (for e.g., puberulent) < 0.2 mm; short = 0.2--2 mm; long > 2 mm. <br><b>eFlora Treatment Author:</b> Genevieve K. Walden, Robert Patterson, Laura M. Garrison & Debra R. Hansen<br></div><br></table></tr></td><table width="100%"><tr><td width="100%" valign="top"><div class='pageMajorHeading'><b><i>Phacelia grandiflora</i> (Benth.) A. Gray</b><br></div><div class='bodyText'><b>NATIVE</b><br><b>Habit:</b> Annual 30--200 cm. <b>Stem:</b> erect, coarse, simple or branched distally, sparsely stiff-hairy, glandular-puberulent. <b>Leaf:</b> 30--200 mm; blade >= petiole, widely ovate to +- round, irregularly toothed. <b>Inflorescence:</b> pedicels 2--5 mm, 5--10 mm in fruit. <b>Flower:</b> calyx lobes 5--8 mm, 8--12 mm in fruit, >= mature fruit, oblanceolate, hairy, glandular; corolla 12--25 mm, limb 25--40 mm diam, shallow-bell-shaped to rotate, lavender (white), often 2-colored with lavender-spotted white throat, scales 0; stamens 10--20 mm, short-hairy, glandular, dilated slightly at base, filaments white to purple; style 15--25 mm, cleft 2/3. <b>Fruit:</b> 8--14 mm, ovoid, puberulent, distally short-glandular-hairy. <b>Seed:</b> (50)80--120(200), 0.75--1.5 mm, shallowly pitted. <b>Chromosomes:</b> n=11.<br><b>Ecology:</b> Open, sandy, +- moist areas, chaparral and coastal-sage scrub, often in washes or burns; <b>Elevation:</b> < 1150 m. <b>Bioregional Distribution:</b> SCo, ChI (rare), s slope WTR, s slope SnGb, w PR; <b>Distribution Outside California:</b> Baja California. <b>Flowering Time:</b> Apr--Jun <b>Note:</b> Esp abundant after fire. Flowers especially sweet-smelling. <br><b>Synonyms:</b> Eutoca grandiflora Benth.; Cosmanthus grandiflorus (Benth.) A.DC. ex DC.; Eutoca speciosa Nutt.<br><b>eFlora Treatment Author:</b> Genevieve K. Walden, Robert Patterson, Laura M. Garrison & Debra R. Hansen<br><a href="http://ucjeps.berkeley.edu/cgi-bin/get_cpn.pl?37471"><b>Jepson Online Interchange</b></a><br><P><FORM><SELECT WIDTH=20 onChange="JumpToIt(this)"><OPTION VALUE="None">List of species <OPTION VALUE="eflora_display.php?tid=37403">Phacelia adenophora <OPTION VALUE="eflora_display.php?tid=37404">Phacelia affinis <OPTION VALUE="eflora_display.php?tid=37406">Phacelia amabilis <OPTION VALUE="eflora_display.php?tid=37409">Phacelia anelsonii <OPTION VALUE="eflora_display.php?tid=37410">Phacelia argentea <OPTION VALUE="eflora_display.php?tid=37413">Phacelia austromontana <OPTION VALUE="eflora_display.php?tid=37416">Phacelia barnebyana <OPTION VALUE="eflora_display.php?tid=37418">Phacelia bicolor <OPTION VALUE="eflora_display.php?tid=37421">Phacelia bolanderi <OPTION VALUE="eflora_display.php?tid=37424">Phacelia brachyloba <OPTION VALUE="eflora_display.php?tid=37425">Phacelia breweri <OPTION VALUE="eflora_display.php?tid=37426">Phacelia californica <OPTION VALUE="eflora_display.php?tid=37427">Phacelia calthifolia <OPTION VALUE="eflora_display.php?tid=37428">Phacelia campanularia <OPTION VALUE="eflora_display.php?tid=98690">Phacelia campanularia var. campanularia <OPTION VALUE="eflora_display.php?tid=98691">Phacelia campanularia var. vasiformis <OPTION VALUE="eflora_display.php?tid=37431">Phacelia cicutaria <OPTION VALUE="eflora_display.php?tid=63391">Phacelia cicutaria var. cicutaria <OPTION VALUE="eflora_display.php?tid=63393">Phacelia cicutaria var. hispida <OPTION VALUE="eflora_display.php?tid=37432">Phacelia ciliata <OPTION VALUE="eflora_display.php?tid=37434">Phacelia coerulea <OPTION VALUE="eflora_display.php?tid=37436">Phacelia congdonii <OPTION VALUE="eflora_display.php?tid=37439">Phacelia cookei <OPTION VALUE="eflora_display.php?tid=37440">Phacelia corymbosa <OPTION VALUE="eflora_display.php?tid=37441">Phacelia crenulata <OPTION VALUE="eflora_display.php?tid=63399">Phacelia crenulata var. ambigua <OPTION VALUE="eflora_display.php?tid=63402">Phacelia crenulata var. crenulata <OPTION VALUE="eflora_display.php?tid=76698">Phacelia crenulata var. minutiflora <OPTION VALUE="eflora_display.php?tid=37444">Phacelia cryptantha <OPTION VALUE="eflora_display.php?tid=37445">Phacelia curvipes <OPTION VALUE="eflora_display.php?tid=37447">Phacelia davidsonii <OPTION VALUE="eflora_display.php?tid=37450">Phacelia distans <OPTION VALUE="eflora_display.php?tid=37451">Phacelia divaricata <OPTION VALUE="eflora_display.php?tid=37452">Phacelia douglasii <OPTION VALUE="eflora_display.php?tid=37455">Phacelia egena <OPTION VALUE="eflora_display.php?tid=37457">Phacelia eisenii <OPTION VALUE="eflora_display.php?tid=76699">Phacelia exilis <OPTION VALUE="eflora_display.php?tid=37461">Phacelia floribunda <OPTION VALUE="eflora_display.php?tid=37464">Phacelia fremontii <OPTION VALUE="eflora_display.php?tid=37498">Phacelia glandulifera <OPTION VALUE="eflora_display.php?tid=37471">Phacelia grandiflora <OPTION VALUE="eflora_display.php?tid=37472">Phacelia greenei <OPTION VALUE="eflora_display.php?tid=37473">Phacelia grisea <OPTION VALUE="eflora_display.php?tid=37474">Phacelia gymnoclada <OPTION VALUE="eflora_display.php?tid=37476">Phacelia hastata <OPTION VALUE="eflora_display.php?tid=63424">Phacelia hastata var. compacta <OPTION VALUE="eflora_display.php?tid=63426">Phacelia hastata var. hastata <OPTION VALUE="eflora_display.php?tid=63432">Phacelia heterophylla var. virgata <OPTION VALUE="eflora_display.php?tid=91880">Phacelia hubbyi <OPTION VALUE="eflora_display.php?tid=37483">Phacelia humilis <OPTION VALUE="eflora_display.php?tid=63436">Phacelia humilis var. dudleyi <OPTION VALUE="eflora_display.php?tid=63437">Phacelia humilis var. humilis <OPTION VALUE="eflora_display.php?tid=37484">Phacelia hydrophylloides <OPTION VALUE="eflora_display.php?tid=37486">Phacelia imbricata <OPTION VALUE="eflora_display.php?tid=98692">Phacelia imbricata var. bernardina <OPTION VALUE="eflora_display.php?tid=78483">Phacelia imbricata var. imbricata <OPTION VALUE="eflora_display.php?tid=98694">Phacelia imbricata var. patula <OPTION VALUE="eflora_display.php?tid=37492">Phacelia insularis <OPTION VALUE="eflora_display.php?tid=63438">Phacelia insularis var. continentis <OPTION VALUE="eflora_display.php?tid=63439">Phacelia insularis var. insularis <OPTION VALUE="eflora_display.php?tid=37495">Phacelia inundata <OPTION VALUE="eflora_display.php?tid=37496">Phacelia inyoensis <OPTION VALUE="eflora_display.php?tid=37497">Phacelia ivesiana <OPTION VALUE="eflora_display.php?tid=37578">Phacelia keckii <OPTION VALUE="eflora_display.php?tid=37503">Phacelia lemmonii <OPTION VALUE="eflora_display.php?tid=37505">Phacelia leonis <OPTION VALUE="eflora_display.php?tid=37507">Phacelia linearis <OPTION VALUE="eflora_display.php?tid=37508">Phacelia longipes <OPTION VALUE="eflora_display.php?tid=37512">Phacelia lyonii <OPTION VALUE="eflora_display.php?tid=37514">Phacelia malvifolia <OPTION VALUE="eflora_display.php?tid=63456">Phacelia malvifolia var. loasifolia <OPTION VALUE="eflora_display.php?tid=73204">Phacelia malvifolia var. malvifolia <OPTION VALUE="eflora_display.php?tid=37516">Phacelia marcescens <OPTION VALUE="eflora_display.php?tid=37517">Phacelia minor <OPTION VALUE="eflora_display.php?tid=37520">Phacelia mohavensis <OPTION VALUE="eflora_display.php?tid=37522">Phacelia monoensis <OPTION VALUE="eflora_display.php?tid=37523">Phacelia mustelina <OPTION VALUE="eflora_display.php?tid=37524">Phacelia mutabilis <OPTION VALUE="eflora_display.php?tid=37525">Phacelia nashiana <OPTION VALUE="eflora_display.php?tid=37526">Phacelia neglecta <OPTION VALUE="eflora_display.php?tid=37527">Phacelia nemoralis <OPTION VALUE="eflora_display.php?tid=78488">Phacelia nemoralis var. nemoralis <OPTION VALUE="eflora_display.php?tid=98695">Phacelia nemoralis var. oregonensis <OPTION VALUE="eflora_display.php?tid=37529">Phacelia novenmillensis <OPTION VALUE="eflora_display.php?tid=37531">Phacelia orogenes <OPTION VALUE="eflora_display.php?tid=37532">Phacelia pachyphylla <OPTION VALUE="eflora_display.php?tid=37535">Phacelia parishii <OPTION VALUE="eflora_display.php?tid=37536">Phacelia parryi <OPTION VALUE="eflora_display.php?tid=37539">Phacelia pedicellata <OPTION VALUE="eflora_display.php?tid=37541">Phacelia peirsoniana <OPTION VALUE="eflora_display.php?tid=37542">Phacelia perityloides <OPTION VALUE="eflora_display.php?tid=63464">Phacelia perityloides var. jaegeri <OPTION VALUE="eflora_display.php?tid=73209">Phacelia perityloides var. perityloides <OPTION VALUE="eflora_display.php?tid=37543">Phacelia phacelioides <OPTION VALUE="eflora_display.php?tid=37544">Phacelia platyloba <OPTION VALUE="eflora_display.php?tid=37547">Phacelia pringlei <OPTION VALUE="eflora_display.php?tid=37548">Phacelia procera <OPTION VALUE="eflora_display.php?tid=63468">Phacelia pulchella var. gooddingii <OPTION VALUE="eflora_display.php?tid=37550">Phacelia purpusii <OPTION VALUE="eflora_display.php?tid=37554">Phacelia quickii <OPTION VALUE="eflora_display.php?tid=37555">Phacelia racemosa <OPTION VALUE="eflora_display.php?tid=37557">Phacelia ramosissima <OPTION VALUE="eflora_display.php?tid=37563">Phacelia rattanii <OPTION VALUE="eflora_display.php?tid=37565">Phacelia rotundifolia <OPTION VALUE="eflora_display.php?tid=37568">Phacelia saxicola <OPTION VALUE="eflora_display.php?tid=63483">Phacelia sericea var. ciliosa <OPTION VALUE="eflora_display.php?tid=37575">Phacelia stebbinsii <OPTION VALUE="eflora_display.php?tid=37453">Phacelia stellaris <OPTION VALUE="eflora_display.php?tid=37577">Phacelia suaveolens <OPTION VALUE="eflora_display.php?tid=37579">Phacelia tanacetifolia <OPTION VALUE="eflora_display.php?tid=37580">Phacelia tetramera <OPTION VALUE="eflora_display.php?tid=37581">Phacelia thermalis <OPTION VALUE="eflora_display.php?tid=37582">Phacelia umbrosa <OPTION VALUE="eflora_display.php?tid=37584">Phacelia vallicola <OPTION VALUE="eflora_display.php?tid=37585">Phacelia vallis-mortae <OPTION VALUE="eflora_display.php?tid=37587">Phacelia viscida <OPTION VALUE="eflora_display.php?tid=91878">Phacelia viscida var. albiflora <OPTION VALUE="eflora_display.php?tid=91879">Phacelia viscida var. viscida</SELECT></FORM><a href="eflora_display.php?tid=37498">Previous taxon: Phacelia glandulifera</a><br><a href="eflora_display.php?tid=37472">Next taxon: Phacelia greenei</a><br>
+<br>
+<form action="search_eflora.php" method="POST">
+<b>Name Search </b>		<input type="text" id="query_text" name="query"></input>
+		<input type="submit" value="Submit Name" />
+</form>
+
+</td></tr>
+</table>
+
+
+
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+
+
+<P>
+<a href="&#109;&#97;&#105;&#108;to:interchange&#064;lists.berkeley.edu?subject=new eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+
+
+
+<P class=bodyText>
+Citation for this treatment: Genevieve K. Walden, Robert Patterson, Laura M. Garrison & Debra R. Hansen 2016. <i>Phacelia grandiflora</i>, Revision 1, in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=37471, accessed on March 11, 2016.
+</P>
+<P class=bodyText>Citation for the whole project: Jepson Flora Project (eds.) 2016. <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html, accessed on March 11, 2016.</P>
+
+
+
+
+<hr width=80%> 
+
+<table><tr><td width='200px'><i>Phacelia grandiflora</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+1111+0472"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/1111/0472.jpeg alt="click for enlargement"></img></a><br>&copy; 2011 Neal Kramer<br></td><td width='200px'><i>Phacelia grandiflora</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+0702+0298"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/0702/0298.jpeg alt="click for enlargement"></img></a><br>&copy; 1996 Christopher L. Christie<br></td><td width='200px'><i>Phacelia grandiflora</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+1111+0471"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/1111/0471.jpeg alt="click for enlargement"></img></a><br>&copy; 2011 Neal Kramer<br></td><td width='200px'><i>Phacelia grandiflora</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+1103+0011"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/1103/0011.jpeg alt="click for enlargement"></img></a><br>&copy; 2003 Christopher L. Christie<br></td><td width='200px'><i>Phacelia grandiflora</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+1111+0475"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/1111/0475.jpeg alt="click for enlargement"></img></a><br>&copy; 2011 Neal Kramer<br></td><td width='200px'><i>Phacelia grandiflora</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+1111+0474"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/1111/0474.jpeg alt="click for enlargement"></img></a><br>&copy; 2011 Neal Kramer<br></td></tr></table><p><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&where-genre=Plant&where-taxon=Phacelia grandiflora&title_tag=Phacelia grandiflora">More photos of <i>Phacelia grandiflora</i> in CalPhotos</a></p><hr width=80%>
+
+
+<!--distribution panes-->
+<table border=0>
+<tr><td valign='bottom'>Geographic subdivisions for Phacelia grandiflora:
+<br>SCo, ChI (rare), s slope WTR, s slope SnGb, w PR;</td>
+<td>Markers link to CCH specimen records. If the markers are obscured, reload the page [or change window size and reload]. Yellow markers indicate records that may provide evidence for eFlora range revision or may have georeferencing or identification issues.
+<br><b><a href="http://ucjeps.berkeley.edu/consortium/about_yellow.html">READ ABOUT YELLOW FLAGS</a></b>
+</td></tr>
+<tr>
+<td valign="top">
+<img src="http://ucjeps.berkeley.edu/cgi-bin/new_jmap.pl?18c0001001" border="0" alt="map of distribution 1"></td>
+<td>
+	<div id="map_canvas"></div>
+</td>
+</tr>
+
+<tr><td valign="top">
+(Note: any qualifiers in the taxon distribution description, such as 'northern', 'southern', 'adjacent' etc., are not reflected in the map above, and in some cases indication of a taxon in a subdivision is based on a single collection or author-verified occurence).
+<br><br>
+<a href="http://ucjeps.berkeley.edu/cgi-bin/map_cch_elev.pl?taxon_name=Phacelia grandiflora&t=&g=">View elevation by latitude chart</a></td>
+<td valign="top">Data provided by the participants of the Consortium of California Herbaria.
+<br>
+<a href="http://ucjeps.berkeley.edu/cgi-bin/get_consort.pl?taxon_name=Phacelia grandiflora">View all CCH records</a><br><br>
+CCH collections by month<br> 
+<img border=1 src="http://ucjeps.berkeley.edu/cgi-bin/hb2.pl?name=Phacelia grandiflora&FT=3,4,5"><br>Duplicates counted once; synonyms included.
+<br>Species do not include records of infraspecific taxa.
+<br>Blue line denotes eFlora flowering time.
+</td></tr>
+</table>
+
+<!--Begin footer-->
+<table width="100%" id="footer">
+  <tr>
+    <td height="18" class="banner"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  <tr>
+    <td height="20"><span class="copyrightText"><a href="http://ucjeps.berkeley.edu/main/copyright.html"> Copyright</a> &copy; 2016  Regents of the University of California
+<br>We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.</span></td>
+  </tr>
+</table>
+<!--End footer-->

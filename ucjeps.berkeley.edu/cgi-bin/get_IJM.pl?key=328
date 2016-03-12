@@ -1,0 +1,260 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Baccharis</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Baccharis
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1594">Baccharis brachyphylla
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1607">Baccharis glutinosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=77594">Baccharis malibuensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1603">Baccharis pilularis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=5833">Baccharis pilularis subsp. consanguinea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=69898">Baccharis pilularis subsp. pilularis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1604">Baccharis plummerae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49414">Baccharis plummerae subsp. glabrata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49415">Baccharis plummerae subsp. plummerae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91889">Baccharis salicifolia subsp. salicifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1610">Baccharis salicina
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1611">Baccharis sarothroides
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1612">Baccharis sergiloides
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1615">Baccharis vanessae
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=328'><h3>View taxon page for Baccharis</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#FE1'">1.</a><a name="FE1."> </a> Stem generally short-hairy, at least distally among heads
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#FE2'">2.</a><a name="FE2."> </a> Leaves regularly minutely dentate with closely spaced sharp teeth, oblong or oblanceolate, (3)5&ndash;13 mm wide <a href="/cgi-bin/get_IJM.pl?tid=49415">.....&nbsp;B. plummerae subsp. plummerae</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#FE2.">2'</a><a name="FE2'"> </a> Leaves entire or weakly toothed, linear to linear-(ob)lanceolate, 1&ndash;4(8) mm wide
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FE3'">3.</a><a name="FE3."> </a> Proximal leaves present at flower, blades (15)20&ndash;45(68) mm, 1&ndash;4(8) mm wide, linear to linear-oblanceolate, resin-gland-dotted adaxially; distal leaves generally well developed <a href="/cgi-bin/get_IJM.pl?tid=77594">.....&nbsp;B. malibuensis</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FE3.">3'</a><a name="FE3'"> </a> Proximal leaves deciduous and 0 at flower, blades 5&ndash;17 mm, 1&ndash;2 mm wide, lance-linear, not resin-gland-dotted or sticky; distal leaves reduced, bract-like <a href="/cgi-bin/get_IJM.pl?tid=1594">.....&nbsp;B. brachyphylla</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#FE1.">1'</a><a name="FE1'"> </a> Stem generally glabrous throughout
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#FE4'">4.</a><a name="FE4."> </a> Plant broom-like, stems dense, with numerous parallel branches; leaves sparse or 0 at flower; heads single at branch tips or &plusmn; sessile on lateral branches, these in raceme- or panicle-like clusters
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FE5'">5.</a><a name="FE5."> </a> Leaves 5&ndash;15 mm wide, widely oblanceolate to obovate; heads &plusmn; sessile on lateral branches in crowded panicle-like clusters; staminate corolla 2&ndash;3.5 mm <a href="/cgi-bin/get_IJM.pl?tid=1612">.....&nbsp;B. sergiloides</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FE5.">5'</a><a name="FE5'"> </a> Leaves 1&ndash;3 mm wide, thread-like to narrowly oblanceolate; heads single, stalked, or in small groups in raceme- or panicle-like clusters; staminate corolla > 3.5 mm
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FE6'">6.</a><a name="FE6."> </a> Stem striate, sharply angled; involucre of pistillate head &plusmn; cylindric; phyllaries ovate to lanceolate, tips acute to rounded, glabrous; gravelly or sandy disturbed areas <a href="/cgi-bin/get_IJM.pl?tid=1611">.....&nbsp;B. sarothroides</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FE6.">6'</a><a name="FE6'"> </a> Stem smooth, rounded; involucre of pistillate head &plusmn; funnel-shaped; phyllaries lanceolate, narrowly tapered, usually glandular-scurfy; dense chaparral <a href="/cgi-bin/get_IJM.pl?tid=1615">.....&nbsp;B. vanessae</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#FE4.">4'</a><a name="FE4'"> </a> Plant bushy or sparingly branched, not broom-like; leaves present at flower; heads in flat-topped or panicle-like clusters (or smaller, lateral clusters in spring-flowering plants).
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FE7'">7.</a><a name="FE7."> </a> Leaf blades obovate or oblanceolate <a href="/cgi-bin/get_IJM.pl?tid=1603">.....&nbsp;B. pilularis</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FE8'">8.</a><a name="FE8."> </a> Stems generally erect, brittle, forming erect or rounded shrub; leaves generally 15&ndash;40 mm <a href="/cgi-bin/get_IJM.pl?tid=5833">.....&nbsp;subsp. consanguinea</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FE8.">8'</a><a name="FE8'"> </a> Stems prostrate, flexible, forming mat; leaves generally 5&ndash;15 mm; exposed sandy beaches and sea bluffs <a href="/cgi-bin/get_IJM.pl?tid=69898">.....&nbsp;subsp. pilularis</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FE7.">7'</a><a name="FE7'"> </a> Leaf blades linear, lanceolate, elliptic, oblong to narrowly oblanceolate
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FE9'">9.</a><a name="FE9."> </a> Leaf blades 1&ndash;2(5) mm wide, linear to narrowly oblanceolate, margin entire to minutely dentate with closely spaced sharp teeth; faces not sticky <a href="/cgi-bin/get_IJM.pl?tid=49414">.....&nbsp;B. plummerae subsp. glabrata</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FE9.">9'</a><a name="FE9'"> </a> Leaf blades 3&ndash;30 mm wide, lanceolate, lance-elliptic or oblong to narrowly oblanceolate, faces generally sticky
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FE10'">10.</a><a name="FE10."> </a> Leaf blades linear-oblong to narrowly oblanceolate, entire or distally coarsely and irregularly toothed; fruit 8&ndash;10-ribbed, pappus 8&ndash;12 mm <a href="/cgi-bin/get_IJM.pl?tid=1610">.....&nbsp;B. salicina</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FE10.">10'</a><a name="FE10'"> </a> Leaf blades lanceolate or lance-elliptic, entire or finely serrate distally or throughout; fruit 5-ribbed, pappus 2.5&ndash;6(7) mm
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FE11'">11.</a><a name="FE11."> </a> Rhizomatous perennial herb, forming large colonies; heads in dense, compact, terminal rounded to &plusmn; flat-topped clusters; fruit minutely hairy <a href="/cgi-bin/get_IJM.pl?tid=1607">.....&nbsp;B. glutinosa</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FE11.">11'</a><a name="FE11'"> </a> Shrub, not rhizomatous, not forming colonies; heads in terminal flat-topped or pyramidal panicle-like clusters in summer&ndash;fall-flowering pls, in smaller lateral clusters in spring-flowering plants; fruit glabrous <a href="/cgi-bin/get_IJM.pl?tid=91889">.....&nbsp;B. salicifolia subsp. salicifolia</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

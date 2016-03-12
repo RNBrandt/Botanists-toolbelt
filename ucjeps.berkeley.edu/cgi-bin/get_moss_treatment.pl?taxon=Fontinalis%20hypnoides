@@ -1,0 +1,205 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>California Moss eFlora treatment for Fontinalis hypnoides</title>
+<meta name="keywords" content="mosses, bryophytes, moss flora. Dan Norris" >
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript">
+function initialize() {
+  var myOptions = {
+    mapTypeId: google.maps.MapTypeId.TERRAIN
+  }
+
+var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+
+
+  var kmlLayer = new google.maps.KmlLayer("http://herbaria4.herb.berkeley.edu/moss_coords/Fontinalis_hypnoides.kml?25609", { });
+  kmlLayer.setMap(map);
+
+}
+
+function JumpToIt(list) {
+    var newPage = list.options[list.selectedIndex].value
+    if (newPage != "None") {
+        location=newPage
+    }
+}
+
+</script>
+
+<style type="text/css" media="screen">
+    #map_canvas {
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+      float: left;
+      width: 490px;
+      height: 680px;
+      padding: 10px;
+    }
+
+</style>
+</head>
+<body onload="initialize()">
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><title>UC Herbarium: Moss eFlora</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/style_main_tjm2.css" rel="stylesheet" type="text/css">
+</head>
+
+<body class="bodyText">
+
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+      <td colspan="5" align="center" valign="middle">&nbsp;</td>
+    </tr>
+
+  <tr>
+      <td rowspan="4" width="12" align="center" valign="middle"></td>
+      <td rowspan="3" width="120" align="center" valign="middle">
+        <a href="http://ucjeps.berkeley.edu/uc/"><img src="http://ucjeps.berkeley.edu/common/images/logo_uc_80.png" alt="University of California [UC]" width="80" height="79" border="0"></a></td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle"></td>
+    <td rowspan="4" width="12" align="center" valign="middle"></td>
+  </tr>
+    <tr>
+
+    <td align="center" valign="middle"><span class="bannerTitle">University Herbarium</span><br></td>
+  </tr>
+
+    <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu/" class="bannerTagLine">University of California, Berkeley</a></td>
+   </tr>
+
+     <tr>
+     <td colspan="3" align="center"></td>
+
+   </tr>
+     
+   <tr>
+       <td height="8" colspan="5" align="center">&nbsp;</td>
+     </tr>
+   <tr class="bannerBottomBorder">
+     	<td colspan="6" height="3"></td>
+  </tr>
+
+    <tr>
+
+    <td colspan="6"><img src="http://ucjeps.berkeley.edu/common/images/common_spacer.gif" alt="" width="1" height="1" border="0"></td>
+  </tr>
+  </tbody></table>
+  <!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+  <table class="horizMenu" width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+    <td height="21" width="640" align="right">
+
+      <a href="http://ucjeps.berkeley.edu/main/directory.html" class="horizMenuActive">Directory</a>
+  	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="http://ucjeps.berkeley.edu/news/" class="horizMenuActive">News</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="http://ucjeps.berkeley.edu/main/sitemap.html" class="horizMenuActive">Site Map</a>	
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="/" class="horizMenuActive">Home</a>	
+    </td>
+
+<td>
+  </td></tr>
+   <tr>
+       <td colspan="6" bgcolor="#9FBFFF"><img src="http://ucjeps.berkeley.edu/common/images/common_spacer.gif" alt="" width="1" height="1" border="0"></td>
+     </tr>
+ </tbody></table>
+
+
+
+
+
+<table border=0 bgcolor="#eeeeee" cellpadding=10 width="100%">
+<tr>
+<td colspan=2>
+<center>
+       <span class="pageName"><font size="5">California Moss eFlora</font></span>
+</center>
+<a href="/cgi-bin/get_moss_treatment.pl?taxon=Fontinalis howellii">Previous</a> 
+<font size="2">
+/
+</font>
+<a href="/cgi-bin/get_moss_treatment.pl?taxon=Fontinalis mollis">Next</a>
+  <p class="bodyText"><a href="/CA_moss_eflora/">Home</a> &middot;
+      <a href="/CA_moss_eflora/moss_gl.html">List of Genera</a> &middot;
+      <a href="/CA_moss_eflora/general.html">Key to Keys</a> &middot;
+      <a href="/CA_moss_eflora/moss_appendix.html">Accepted Names</a> &middot;
+      <a href="/CA_moss_eflora/moss_appendix_IV.html">Synonyms</a> &middot;
+      <a href="/CA_moss_eflora/moss_beginner.html">For Beginners</a> &middot;
+See also ....
+  <a href="http://ucjeps.berkeley.edu/IJM_geography.html">Subdivisions of CA</a>
+&nbsp;&mdash;&nbsp;
+  <a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora for CA Vascular Plants</a> 
+&nbsp;&mdash;&nbsp;
+<a href="http://ucjeps.berkeley.edu/cgi-bin/get_bex.pl?county=&source=All&taxon_name=Fontinalis hypnoides">Specimen records</a>
+&nbsp;&mdash;&nbsp;
+<a href="#elev_map">Elevation by latitude plot</a>
+&nbsp;&mdash;&nbsp;
+<a href="http://www.tropicos.org/Name/35160000">Tropicos nomenclature</a>
+&nbsp;&mdash;&nbsp;
+<a href="http://calphotos.berkeley.edu/cgi/img_query?&where-genre=Plant&where-taxon=Fontinalis hypnoides">Cal Photos images</a>
+&nbsp;&mdash;&nbsp;
+<a href="http://www.efloras.org/browse.aspx?flora_id=50&name_str=Fontinalis hypnoides&btnSearch=Search">Bryophyte  Flora of North America</a>
+&nbsp;&mdash;&nbsp;
+<a href="http://scholar.google.com/scholar?hl=en&lr=&q=Fontinalis hypnoides+&btnG=Search">Google Scholar</a>
+</P>
+</td></tr>
+
+<tr><th></th><th><i>Fontinalis hypnoides</i> C. J. Hartman [Fontinalaceae]</th></tr>
+<table align="center" BGCOLOR="#eeeeee" cellspacing=10 width="20%">
+<tr>
+<td align="center"><a href="/cgi-bin/display_map_in_frame.pl?hcode=063dfc8102&taxon=Fontinalis hypnoides"><img src="http://ucjeps.berkeley.edu/cgi-bin/draw_tiny2.pl?063dfc8102" border="0" alt="map of distribution"></a></td>
+<td align="center"><a href="http://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0612+1534"><IMG src="http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0612/1534.jpeg" width="200"></a></td>
+<td align="center"><center><img src="http://herbaria4.herb.berkeley.edu/drawings/FoHyFlowers2225.gif" border=1 align="center" width="200"> </center></td>
+</tr>
+<tr>
+<td></td><td align="center"><font size="2">photo by Game </font></td><td><font size="2">drawing by Montalvo of Flowers 2225 </font></td>
+</tr>
+</table>
+<blockquote><P>     Welch (1960) treats <i><i>Fontinalis duriae</i></i> and <i>F. hypnoides</i> as separate species, while Lawton (1971) treats them as separate varieties.   This distinction is disputed by Crum & Anderson (1981); and I agree with the latter conclusion.  I have on several occasions found drying ponds in northern  California with the plants in the more centrally located, presumably wetter sites having the broad and flaccid leaves of <i>F. duriae</i> while the peripheral sites contained plants assignable to <i>F. hypnoides</i>.
+</blockquote>
+<a href="mailto:paul.wilson@csun.edu?subject=Fontinalis hypnoides">Mail a correction to Paul Wilson</a>
+
+<table>
+<tr><td valign="top"><b><a href="/cgi-bin/get_moss_refs.pl?ref=FrantzandCordone1967&ref=McGrew1976&ref=Lawton1971&ref=Toren1977&ref=Koch1950a&ref=Welch1960">Literature</a></b></td><td>McGrew 1976. As <i><i>Fontinalis hypnoides</i></i> var. <i>duriaei</i> Lawton 1971; Toren 1977. As <i>Fontinalis duriaei</i> Koch 1950a. As <i>Fontinalis nitida</i> Frantz and Cordone 1967; Welch 1960.</td></tr> <tr><td valign="top"><b><a href="/cgi-bin/get_moss_refs.pl?ref=Koponenetal.1995&ref=Flowers1973&ref=Ireland1982&ref=Lawton1971&ref=Welch1960">Illustrations</b></td><td>Flowers 1973; Ireland 1982; Koponen et al. 1995; Lawton 1971; Welch 1960.</td></tr> <tr><td valign="top"><b>Bioregions</b></td><td>CaR, NW, SN, SNE.</td></tr> <tr><td valign="top"><b>Vouchers</b></td><td>Alpine Co.: Grass Lake west of Luther Pass, Eldorado National Forest, <a href="http://ucjeps.berkeley.edu/cgi-bin/get_bex.pl?collector=Norris&coll_num=71321">Norris 71321</a>; El Dorado Co.: Ropi Lake, Desolation Wilderness, Eldorado National Forest, <a href="http://ucjeps.berkeley.edu/cgi-bin/get_bex.pl?collector=Norris&coll_num=71110">Norris 71110</a>; Lake Co.: Blue Slides Lake south of Snow Mountain Wilderness, Mendocino National Forest, Toren 5261 (CAS) [determined by Allen]; Nevada Co.: about 0.5 mile northeast of Bowman Lake, Tahoe National Forest, Ahart 10611 (UC); Plumas Co.: headwaters of Feather River, Austin s.n. (UC); Mono Co.: near Barney Lake, Toiyabe National Forest, <a href="http://ucjeps.berkeley.edu/cgi-bin/get_bex.pl?collector=Norris&coll_num=67170">Norris 67170</a>; Shasta Co.: Highway 299 about 1 mile west of Montgomery Creek, <a href="http://ucjeps.berkeley.edu/cgi-bin/get_bex.pl?collector=Norris&coll_num=68597">Norris 68597</a>; Siskiyou Co.: Taylor Lake, Klamath National Forest, <a href="http://ucjeps.berkeley.edu/cgi-bin/get_bex.pl?collector=Norris&coll_num=83432">Norris 83432</a>; Tulare Co.: Big Meadows off of Forest Road 14S11, Sequoia National Forest, <a href="http://ucjeps.berkeley.edu/cgi-bin/get_bex.pl?collector=Shevock&coll_num=13664">Shevock & York  13664</a>.</td></tr>    &middot; 
+</table>
+</td>
+</tr>
+<tr>
+<td>
+
+<!-- <table>
+<tr><td> -->
+<!-- <a href="/cgi-bin/display_map_in_frame.pl?hcode=063dfc8102&taxon=Fontinalis hypnoides"><img src="http://ucjeps.berkeley.edu/cgi-bin/draw_tiny2.pl?063dfc8102" border="0" alt="map of distribution"></a> -->
+		<div id="map_canvas"></div>
+<!-- </td>
+		<td> -->
+&nbsp; &nbsp;
+		<a name="elev_map">
+		<img src="http://ucjeps.berkeley.edu/cgi-bin/map_BEX_elev.pl?&taxon_name=Fontinalis hypnoides"> </a>
+		<h3>Elevation by latitude plot for Fontinalis hypnoides<br>&nbsp;&nbsp;&nbsp;in California</h3>
+<!-- </td></tr></table> -->
+
+
+
+</td>
+</tr>
+</table>
+
+Copyright &copy; 2013 Regents of the University of California 
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from the University and Jepson Herbaria.
+<br>
+Generated Fri Mar 11 10:33:38 2016
+
+</body>
+</html>

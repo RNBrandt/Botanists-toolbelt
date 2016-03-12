@@ -1,0 +1,294 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Brodiaea</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Brodiaea
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16139">Brodiaea appendiculata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16140">Brodiaea californica
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16141">Brodiaea coronaria
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49461">Brodiaea elegans subsp. elegans
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16144">Brodiaea filifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16145">Brodiaea insignis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16146">Brodiaea jolonensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16147">Brodiaea kinkiensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16148">Brodiaea leptandra
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16149">Brodiaea minor
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=77904">Brodiaea nana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16150">Brodiaea orcuttii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16151">Brodiaea pallida
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16142">Brodiaea rosea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85321">Brodiaea santarosae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=82100">Brodiaea sierrae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16153">Brodiaea stellaris
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16154">Brodiaea terrestris
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49463">Brodiaea terrestris subsp. kernensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49464">Brodiaea terrestris subsp. terrestris
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=9493'><h3>View taxon page for Brodiaea</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AOL1'">1.</a><a name="AOL1."> </a> Staminodes 0 <a href="/cgi-bin/get_IJM.pl?tid=16150">.....&nbsp;B. orcuttii</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AOL1.">1'</a><a name="AOL1'"> </a> Staminodes generally present (see <I>Brodiaea santarosae</I>)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AOL2'">2.</a><a name="AOL2."> </a> Staminodes thread-like or narrow, uniformly tapered base to tip
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AOL3'">3.</a><a name="AOL3."> </a> Perianth 13&ndash;28 mm; filaments 0.5&ndash;1.5 mm; staminodes 1&ndash;4 mm, reflexed against perianth <a href="/cgi-bin/get_IJM.pl?tid=16144">.....&nbsp;B. filifolia</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AOL3.">3'</a><a name="AOL3'"> </a> Perianth 24&ndash;36.5 mm; filaments 2.4&ndash;8.2 mm; staminodes 0 in &plusmn; 10% of flowers, or &lt;= 7 mm, erect to recurved or reflexed, the shorter against perianth <a href="/cgi-bin/get_IJM.pl?tid=85321">.....&nbsp;B. santarosae</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AOL2.">2'</a><a name="AOL2'"> </a> Staminodes linear to oblong, uniformly wide or abruptly narrowed at tip
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AOL4'">4.</a><a name="AOL4."> </a> Perianth tube narrowed above ovary
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AOL5'">5.</a><a name="AOL5."> </a> Staminode tips spreading to erect, margins 3/4 inrolled; stamens narrow-notched between anther sacs; filaments T-shaped in &times;-section <a href="/cgi-bin/get_IJM.pl?tid=16149">.....&nbsp;B. minor</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AOL5.">5'</a><a name="AOL5'"> </a> Staminode tips erect, margins flat to 1/2 inrolled; stamens wide-notched between anther sacs; filaments V- or Y-shaped in &times;-section
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AOL6'">6.</a><a name="AOL6."> </a> Perianth lobes not paler toward base; perianth tube narrowed above ovary; staminodes in width &lt; outer perianth lobes <a href="/cgi-bin/get_IJM.pl?tid=77904">.....&nbsp;B. nana</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AOL6.">6'</a><a name="AOL6'"> </a> Perianth lobes paler toward base; perianth tube &plusmn; narrowed above ovary; staminodes in width >= outer perianth lobes <a href="/cgi-bin/get_IJM.pl?tid=16151">.....&nbsp;B. pallida</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AOL4.">4'</a><a name="AOL4'"> </a> Perianth tube not narrowed above ovary
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AOL7'">7.</a><a name="AOL7."> </a> Staminodes generally > 15 mm
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AOL8'">8.</a><a name="AOL8."> </a> Staminode margins wavy or toothed, 1/4&ndash;1/2 inrolled, midrib not noticeably thickened <a href="/cgi-bin/get_IJM.pl?tid=16140">.....&nbsp;B. californica</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AOL8.">8'</a><a name="AOL8'"> </a> Staminode margins generally flat, 1/4 inrolled, midrib noticeably thickened
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AOL9'">9.</a><a name="AOL9."> </a> Perianth lobes violet with green midrib; staminodes 14.5&ndash;21.5 mm; style 15.5&ndash;23.5 mm <a href="/cgi-bin/get_IJM.pl?tid=16148">.....&nbsp;B. leptandra</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AOL9.">9'</a><a name="AOL9'"> </a> Perianth lobes violet (pink); staminodes 20.5&ndash;30 mm; style 20&ndash;31.5 mm <a href="/cgi-bin/get_IJM.pl?tid=82100">.....&nbsp;B. sierrae</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AOL7.">7'</a><a name="AOL7'"> </a> Staminodes &lt; 15 mm
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AOL10'">10.</a><a name="AOL10."> </a> Perianth &lt;= 25(28) mm; filaments &lt;= 3 mm, channeled abaxially, basal 1&ndash;2 mm fused with staminodes; style generally &lt; ovary
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AOL11'">11.</a><a name="AOL11."> </a> Staminodes held away from stamens, tip narrowed abruptly to sharp point <a href="/cgi-bin/get_IJM.pl?tid=16147">.....&nbsp;B. kinkiensis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AOL11.">11'</a><a name="AOL11'"> </a> Staminodes leaning toward or appressed to stamens, tip obtuse or notched
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AOL12'">12.</a><a name="AOL12."> </a> Perianth lobes spreading; staminodes not hooded at tip, appressed to stamens, margins 1/4&ndash;3/4 inrolled <a href="/cgi-bin/get_IJM.pl?tid=16145">.....&nbsp;B. insignis</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AOL12.">12'</a><a name="AOL12'"> </a> Perianth lobes ascending; staminodes hooded at tip, leaning toward stamens, margins not to 1/4 incurved
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AOL13'">13.</a><a name="AOL13."> </a> Staminodes violet, in width &lt; perianth lobes; filament appendages 0; ovary purple <a href="/cgi-bin/get_IJM.pl?tid=16146">.....&nbsp;B. jolonensis</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AOL13.">13'</a><a name="AOL13'"> </a> Staminodes white, in width = perianth lobes; filament abaxial wings extended at tip as 2 wide, white appendages; ovary green <a href="/cgi-bin/get_IJM.pl?tid=16153">.....&nbsp;B. stellaris</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AOL10.">10'</a><a name="AOL10'"> </a> Perianth (15)21.5&ndash;47 mm; filaments generally >= 3 mm, flat to convex abaxially, free from staminodes to base; style generally >= ovary
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AOL14'">14.</a><a name="AOL14."> </a> Perianth tube funnel-shaped; staminodes held away from, &lt; stamens <a href="/cgi-bin/get_IJM.pl?tid=49461">.....&nbsp;B. elegans subsp. elegans</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AOL14.">14'</a><a name="AOL14'"> </a> Perianth tube cylindric to bell-shaped; staminodes leaning toward or appressed to, > stamens
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AOL15'">15.</a><a name="AOL15."> </a> Staminode margins wavy or toothed; filaments with 2 thread-like appendages at anther bases <a href="/cgi-bin/get_IJM.pl?tid=16139">.....&nbsp;B. appendiculata</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AOL15.">15'</a><a name="AOL15'"> </a> Staminode margins not wavy or toothed; filament appendages 0
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AOL16'">16.</a><a name="AOL16."> </a> Perianth lobes pink, occasionally streaked purple; staminodes bottle-shaped (widest at base, middle), margins inrolled <a href="/cgi-bin/get_IJM.pl?tid=16142">.....&nbsp;B. rosea</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AOL16.">16'</a><a name="AOL16'"> </a> Perianth lobes violet (white); staminodes oblong, margins incurved, often to tip (flat or incurved below tip in <I>Brodiaea coronaria</I>)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AOL17'">17.</a><a name="AOL17."> </a> Scape 0.5&ndash;7 cm, generally &lt; pedicels; anther tips generally reflexed, with dentate lobe in notch <a href="/cgi-bin/get_IJM.pl?tid=49464">.....&nbsp;B. terrestris subsp. terrestris</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AOL17.">17'</a><a name="AOL17'"> </a> Scape 2&ndash;25 cm, generally > pedicels; anther tips erect to reflexed, generally without dentate lobe in notch
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AOL18'">18.</a><a name="AOL18."> </a> Staminodes generally white, margins flat or incurved below tip, tips erect to reflexed, obtuse <a href="/cgi-bin/get_IJM.pl?tid=16141">.....&nbsp;B. coronaria</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AOL18.">18'</a><a name="AOL18'"> </a> Staminodes violet (white), margins incurved, often to tip, tips erect, notched or with small tooth <a href="/cgi-bin/get_IJM.pl?tid=49463">.....&nbsp;B. terrestris subsp. kernensis</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

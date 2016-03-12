@@ -1,0 +1,116 @@
+a {
+        color: #0000CC;
+        text-decoration: none;
+        }
+a.bannerHerbs {
+        background-color: #9090AA;
+        text-decoration: none;
+        color: #FEFEFE;
+        }
+a.bannerHerbs:hover {
+        color: #0000FF;
+        text-decoration: underline;
+        }
+a.horizMenuActive:hover {
+        text-decoration: underline;
+        color: #0000FF;
+        }
+body {
+        background-color: #FFFFFF;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 11px;
+        margin:0px;
+        }
+th {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        }
+
+.banner {
+        background-color: #083609;
+        font-family: "Times New Roman", Times, serif;
+        font-size: 26px;
+        font-weight: bolder;
+        color: #CCFF66;
+        }
+.bannerHerbs {
+        font-size: 14px;
+        font-style: italic;
+}
+.bodyCloserText {
+        color:#24242F;
+        line-height:14px;
+        margin-top:0px;
+        font-size: 12px;
+    }
+.bodySmallerText {
+        color:#083609;
+        line-height:normal;
+        margin-top:0px;
+        font-size: 11px;
+        }
+.bodyText {
+        color:#083609;
+        line-height:18px;
+        margin-top:0px;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        }
+.caption {
+        font-size: 9px;
+        }
+.copyrightText {
+        color:#24242F;
+        line-height:18px;
+        margin-top:0px;
+        font-size: 11px;
+        }
+.horizMenu {
+        background-color: #003600;
+}
+.horizMenuActive {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        color: #606060;
+        }
+.horizMenuInactive {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        color: #A0A0A0;
+        }
+.oldFont {
+        font-family: "Times New Roman", Times, serif;
+        font-size: 12px;
+}
+.pageAuthorLine {
+        color: #585872;
+        line-height:16px;
+        letter-spacing:0.05em;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        }
+.pageName{
+        color: #083609;
+        line-height:24px;
+        letter-spacing:0.2em;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        font-weight: bold;
+        }
+.pageSubheading {
+        color: #083609;
+        line-height:16px;
+        letter-spacing:0.05em;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        }
+.pageSubheading2 {
+        color: #585872;
+        line-height:16px;
+        letter-spacing:0.05em;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 12px;
+}

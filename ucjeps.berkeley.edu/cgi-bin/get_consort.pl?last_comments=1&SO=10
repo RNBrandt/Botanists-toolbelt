@@ -1,0 +1,998 @@
+<html>
+<head>
+<Meta NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>UC/JEPS: Consortium Search Results</title>
+<link href="http://ucjeps.berkeley.edu/consortium/style_consortium.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+
+
+
+
+<!-- COMMON HEADER -->
+<table width="100%" class="banner" border="0" cellpadding="0" cellspacing="0">
+  <tr><td width="80" align="center"><a href="/consortium/"><img src="/consortium/images/CCH_logo_02_80.png" width="80" height="82"></a></td>
+  <td>
+        <table class="banner" width="100%" border="0">
+        <tr>
+        <td align="center">Consortium of California Herbaria</td>
+        </tr>
+        <tr><td>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                <td height="21" width="640" align="center">
+                <a href="http://ucjeps.berkeley.edu/consortium/participants.html" class="horizMenuActive">Participants</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/consortium/news.html" class="horizMenuActive">News</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/consortium/" class="horizMenuActive">Search</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/consortium/about.html" class="horizMenuActive">About</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/detail_help.html" class="horizMenuActive">Help</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://give.berkeley.edu/fund/?f=FU1259000" class="horizMenuActive">Donate</a>
+                    </td></tr>
+                </table>
+        </td></tr>
+        </table>
+</td></tr>
+</table>
+<!-- COMMON HEADER ENDS -->
+
+
+
+
+<br />
+<table width="100%" cellpadding="5" class="bodyText"><tr><td>
+<span class="pageName">Search Results</span>
+<span class="pageSubheading"> &mdash; 62 specimen records retrieved (22 records with coordinates)</span>
+<br />
+<span class="bodyText">Results for search:  &nbsp;&nbsp;</span>
+
+<table width="100%" cellpadding="5" class="bodyText"><tr><td width="50%" valign="top">
+<span class="pageSubheading"><br>Mapping Options:</span>
+<br>
+<a href="http://berkeleymapper.berkeley.edu/index.html?ViewResults=tab&tabfile=http://ucjeps.berkeley.edu/BerkeleyMapper/CHC_059724698.txt&configfile=http%3A%2F%2Fucjeps.berkeley.edu%2Fucjeps.xml&sourcename=Consortium+of+California+Herbaria+result+set&maptype=Terrain">BerkeleyMapper with county and bioregion layers</a> <br>
+<a href="http://berkeleymapper.berkeley.edu/index.html?ViewResults=tab&tabfile=http://ucjeps.berkeley.edu/BerkeleyMapper/CHC_059724698.txt&configfile=http%3A%2F%2Fucjeps.berkeley.edu%2Fucjeps_nolayers.xml&sourcename=Consortium+of+California+Herbaria+result">BerkeleyMapper without layers.</a> <br>
+<a href="/cgi-bin/x_to_k.pl?tabfile=http://ucjeps.berkeley.edu/BerkeleyMapper/CHC_059724698.txt"> KML export</a> <br>
+(Note: only records with coordinates are mappable)
+</td>
+
+</span>
+<td width = "50%" valign="top">
+<span class="pageSubheading"><br>Download Options:</span>
+<form method="post" action="/cgi-bin/get_consort.pl">
+
+<a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=1&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;check_all=1&amp;SO=10">Select all records</a>
+&middot;
+<a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=1&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;georef_only=1">Select records with coordinates</a><br>
+<input type="submit" value="Retrieve selected records as tab-separated list"> <br>
+<input type="checkbox" name="DL" value="UCR">Include annotations and voucher information
+</td></tr>
+</td></tr></table>
+
+<hr>
+<table width="100%" cellpadding="0" cellspacing="0" class="bodyText">
+<tr><td>&nbsp;</td><td>Please cite data retrieved from this page: Data provided by the participants of the Consortium of California Herbaria (ucjeps.berkeley.edu/consortium/).
+</td></tr>
+<tr><td>&nbsp;</td><td>Records are made available under the <a href="http://ucjeps.berkeley.edu/consortium/data_use_terms.html">CCH Data Use Terms</a>.</td></tr>
+</table>
+<hr>
+
+<table width="100%" cellpadding="5" cellspacing="0" class="bodyText">
+<tr><td colspan="11">
+Click on column header to sort data (* sorts by family); click in leftmost checkbox to select record. <a href="http://ucjeps.berkeley.edu/detail_help.html">CCH Help Page</a>.
+<br>
+<a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=1&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=1&amp;VTM=0">Turn on yellow flags</a> to show possible range discrepancies.
+<a href="http://ucjeps.berkeley.edu/consortium/about_yellow.html">Read more ... </a>
+</td>
+</tr>
+<tr bgcolor="#cccccc">
+<th></th>
+<th bgcolor=#eeeeee><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=1&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=21">?</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=1&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=10-">Specimen ID</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=1&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=0">Determination</a><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=1&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=11"> *</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=1&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=1">Collector</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=1&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=5">Collection Date</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=1&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=3">Collection Number</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=1&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=8">County</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=1&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=20">Locality</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=1&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=9">Elevation in meters</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=1&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=25">Feedback</a></th>
+</tr>
+
+
+<!-- CAS153034 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=CAS153034 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS153034&YF=0">CAS153034</a>&nbsp;</td>
+<td>Caulanthus inflatus</td>
+<td>Walton H. Clark</td>
+<td>March 22, 1928</td>
+<td>s.n.</td>
+<td>San Bernardino</td>
+<td>Doggett.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS153034">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=CAS153034"><br>Read comments</a> Mar  7  2016
+</td>
+</tr>
+<!-- CAS228467 --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS228467 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS228467&YF=0">CAS228467</a>&nbsp;</td>
+<td>Polemonium carneum</td>
+<td>Milo S. Baker</td>
+<td>May 12, '35</td>
+<td>8072</td>
+<td>Sonoma</td>
+<td>1 mile E of Bodega Bay near Larkspur</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS228467">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=CAS228467"><br>Read comments</a> Mar  7  2016
+</td>
+</tr>
+<!-- CAS390954 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=CAS390954 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS390954&YF=0">CAS390954</a>&nbsp;</td>
+<td>Layia pentachaeta subsp. albida</td>
+<td>Ernest C. Twisselmann</td>
+<td>April 2, 1954</td>
+<td>963</td>
+<td>Kern</td>
+<td>McKittrick Hills: Victory Oil Field</td>
+<td>365</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS390954">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=CAS390954"><br>Read comments</a> Mar 10  2016
+</td>
+</tr>
+<!-- CAS399433 --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS399433 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS399433&YF=0">CAS399433</a>&nbsp;</td>
+<td>Ribes californicum var. californicum</td>
+<td>Ernest C. Twisselmann</td>
+<td>March 13, 1955.</td>
+<td>1709</td>
+<td>Kern</td>
+<td>Temblor Range and the Western San Joaquin Valley. Messa Canyon, near Messa Spring, Temblor Mountains.</td>
+<td>944</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS399433">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=CAS399433"><br>Read comments</a> Mar  7  2016
+</td>
+</tr>
+<!-- CAS411756 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=CAS411756 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS411756&YF=0">CAS411756</a>&nbsp;</td>
+<td>Stephanomeria exigua subsp. carotifera</td>
+<td>Ernest C. Twisselmann</td>
+<td>September 14, 1956</td>
+<td>3135</td>
+<td>Kern</td>
+<td>San Emigdio Range. Mt. Abel Road, 5.1 miles north of Maricopa Highway</td>
+<td>1310</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS411756">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=CAS411756"><br>Read comments</a> Mar  9  2016
+</td>
+</tr>
+<!-- CAS581050 --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS581050 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS581050&YF=0">CAS581050</a>&nbsp;</td>
+<td>Arctostaphylos nissenana</td>
+<td>Walter Knight, Irja Knight</td>
+<td>Feb. 9, 1966</td>
+<td>s.n.</td>
+<td>El Dorado</td>
+<td>Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS581050">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=CAS581050"><br>Read comments</a> Mar  4  2016
+</td>
+</tr>
+<!-- CAS626676 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=CAS626676 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS626676&YF=0">CAS626676</a>&nbsp;</td>
+<td>Layia pentachaeta subsp. albida</td>
+<td>Ernest C. Twisselmann</td>
+<td>April 2, 1954</td>
+<td>963</td>
+<td>Kern</td>
+<td>Plants of the Temblor Range and the Western San Joaquin Valley. McKittrick Hills: Victory Oil Field</td>
+<td>365</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS626676">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=CAS626676"><br>Read comments</a> Mar 10  2016
+</td>
+</tr>
+<!-- CAS780713 --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=CAS780713 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS780713&YF=0">CAS780713</a>&nbsp;</td>
+<td>Caulanthus inflatus</td>
+<td>Jim Bealy</td>
+<td>4-5-74</td>
+<td>0753</td>
+<td>San Bernardino</td>
+<td>20 miles north of Adelanta.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS780713">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=CAS780713"><br>Read comments</a> Mar  7  2016
+</td>
+</tr>
+<!-- CAS969696 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=CAS969696 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS969696&YF=0">CAS969696</a>&nbsp;</td>
+<td>Caulanthus inflatus</td>
+<td>C. L. Bowen</td>
+<td>4/15/82</td>
+<td>307C</td>
+<td>Kern</td>
+<td>Sulfur Canyon, Caliente Mountains. Wells Ranch Quad.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS969696">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=CAS969696"><br>Read comments</a> Mar  7  2016
+</td>
+</tr>
+<!-- CHSC1030 --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CHSC1030 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CHSC1030&YF=0">CHSC1030</a>&nbsp;</td>
+<td>Horsfordia alata</td>
+<td>V. Holt</td>
+<td>04 16 1935</td>
+<td></td>
+<td>Riverside</td>
+<td>West Colorado Desert near San Jacinto</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CHSC1030">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=CHSC1030"><br>Read comments</a> Mar 10  2016
+</td>
+</tr>
+<!-- DS124964 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=DS124964 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?DS124964&YF=0">DS124964</a>&nbsp;</td>
+<td>Caulanthus inflatus</td>
+<td>J. P. Baumberger</td>
+<td>Apr. 29, 1922</td>
+<td>s.n.</td>
+<td>San Bernardino</td>
+<td>Near Mojave.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=DS124964">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=DS124964"><br>Read comments</a> Mar  7  2016
+</td>
+</tr>
+<!-- DS1655 --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=DS1655 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?DS1655&YF=0">DS1655</a>&nbsp;</td>
+<td>Packera breweri</td>
+<td>Harvey Monroe Hall</td>
+<td>June 16, 1905</td>
+<td>6262</td>
+<td>Los Angeles</td>
+<td>Tyon Pass.</td>
+<td>1280</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=DS1655">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=DS1655"><br>Read comments</a> Mar  7  2016
+</td>
+</tr>
+<!-- DS41227 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=DS41227 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?DS41227&YF=0">DS41227</a>&nbsp;</td>
+<td>Micranthes odontoloma</td>
+<td>Mrs. C. C. Bruce</td>
+<td>July 1898</td>
+<td>2409</td>
+<td>Butte</td>
+<td>Lassen peaks</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=DS41227">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=DS41227"><br>Read comments</a> Mar  7  2016
+</td>
+</tr>
+<!-- GMDRC2789 --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=GMDRC2789 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?GMDRC2789&YF=0">GMDRC2789</a>&nbsp;</td>
+<td>Chamaesyce setiloba</td>
+<td>J. Andr&eacute;; T. La Doux, Tim Thomas</td>
+<td>Feb 2003</td>
+<td>9545</td>
+<td>San Bernardino</td>
+<td>Whipple Mountains: Whipple Mountains: at Whipple wash crossing, along major transmission line road on E. end of range 34&deg; 21.229' N 114&deg; 517.005' W. Elev. 1500 ft.</td>
+<td>457</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=GMDRC2789">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=GMDRC2789"><br>Read comments</a> Mar  9  2016
+</td>
+</tr>
+<!-- HSC103187 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=HSC103187 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?HSC103187&YF=0">HSC103187</a>&nbsp;</td>
+<td>Ribes viscosissimum</td>
+<td>Jade Paget-Seekins</td>
+<td>Jul 19 2010</td>
+<td>50</td>
+<td>Placer</td>
+<td>Mountains west of Lake Tahoe, up Forest Route 3 past the Ellis Peak trailhead, left onto road toward Miller Meadows.</td>
+<td>2280</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=HSC103187">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=HSC103187"><br>Read comments</a> Mar  8  2016
+</td>
+</tr>
+<!-- HSC103202 --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=HSC103202 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?HSC103202&YF=0">HSC103202</a>&nbsp;</td>
+<td>Ribes montigenum</td>
+<td>Jade Paget-Seekins</td>
+<td>Jul 23 2010</td>
+<td>55</td>
+<td>Alpine</td>
+<td>Upper Blue Dam campground, near the Grouse trailhead.</td>
+<td>2495</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=HSC103202">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=HSC103202"><br>Read comments</a> Mar  8  2016
+</td>
+</tr>
+<!-- HSC103206 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=HSC103206 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?HSC103206&YF=0">HSC103206</a>&nbsp;</td>
+<td>Ribes montigenum</td>
+<td>Jade Paget-Seekins</td>
+<td>Jul 20 2010</td>
+<td>52</td>
+<td>Alpine</td>
+<td>Hwy 4, Ebbetts Pass trailhead for the Pacific Crest Trail.</td>
+<td>2642</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=HSC103206">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=HSC103206"><br>Read comments</a> Mar  8  2016
+</td>
+</tr>
+<!-- HSC103209 --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=HSC103209 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?HSC103209&YF=0">HSC103209</a>&nbsp;</td>
+<td>Ribes viscosissimum</td>
+<td>Jade Paget-Seekins</td>
+<td>Jun 30 2010</td>
+<td>32</td>
+<td>Humboldt</td>
+<td>Grouse Mountain on Forest Route 1 at the fork with Grouse Mountain Road.</td>
+<td>1578</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=HSC103209">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=HSC103209"><br>Read comments</a> Mar  8  2016
+</td>
+</tr>
+<!-- HSC28490 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=HSC28490 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?HSC28490&YF=0">HSC28490</a>&nbsp;</td>
+<td>Platystemon californicus</td>
+<td>Richard Spjut</td>
+<td>May 1 1973</td>
+<td>3333</td>
+<td>San Diego</td>
+<td>10 mi. E of Temecula along Hwy. 71/79</td>
+<td>610</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=HSC28490">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=HSC28490"><br>Read comments</a> Mar  9  2016
+</td>
+</tr>
+<!-- HSC47479 --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=HSC47479 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?HSC47479&YF=0">HSC47479</a>&nbsp;</td>
+<td>Baccharis sergiloides</td>
+<td>Richard Spjut, Judy Adams</td>
+<td>Nov 24 1978</td>
+<td>5243</td>
+<td>San Diego</td>
+<td>Between Patero and Campo, along Hwy. 94</td>
+<td>610</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=HSC47479">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=HSC47479"><br>Read comments</a> Mar  9  2016
+</td>
+</tr>
+<!-- JEPS41941 --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=JEPS41941 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?JEPS41941&YF=0">JEPS41941</a>&nbsp;</td>
+<td>Ziziphus parryi var. parryi</td>
+<td>W. L. Jepson</td>
+<td>Apr 23 1920</td>
+<td>8763</td>
+<td>San Diego</td>
+<td>Grapevine Canyon, Stewart Spring</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=JEPS41941">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=JEPS41941"><br>Read comments</a> Mar  4  2016
+</td>
+</tr>
+<!-- JEPS56948 --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=JEPS56948 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?JEPS56948&YF=0">JEPS56948</a>&nbsp;</td>
+<td>Eriogonum fasciculatum var. polifolium</td>
+<td>W. L. Jepson</td>
+<td>Apr 23 1920</td>
+<td>8764</td>
+<td>San Diego</td>
+<td>Analina Spring</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=JEPS56948">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=JEPS56948"><br>Read comments</a> Mar  4  2016
+</td>
+</tr>
+<!-- JEPS59670 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=JEPS59670 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?JEPS59670&YF=0">JEPS59670</a>&nbsp;</td>
+<td>Atriplex</td>
+<td>W. L. Jepson</td>
+<td>Apr 29 1920</td>
+<td>8870</td>
+<td>San Diego</td>
+<td>Schnoka Ranch Borrega Valley, Schnoka Ranch</td>
+<td>182</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=JEPS59670">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=JEPS59670"><br>Read comments</a> Mar  4  2016
+</td>
+</tr>
+<!-- JEPS74113 --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=JEPS74113 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?JEPS74113&YF=0">JEPS74113</a>&nbsp;</td>
+<td>Cheilanthes covillei</td>
+<td>James R. Griffin</td>
+<td>Jul 3 1973</td>
+<td>3730</td>
+<td>Monterey</td>
+<td>along trail on w side of peak Cone Peak; Los Padres Nat'l Forest</td>
+<td>1219-1371</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=JEPS74113">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=JEPS74113"><br>Read comments</a> Mar  7  2016
+</td>
+</tr>
+<!-- JEPS93005 --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=JEPS93005 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?JEPS93005&YF=0">JEPS93005</a>&nbsp;</td>
+<td>Caulanthus coulteri</td>
+<td>Dana York</td>
+<td>26 March 1996</td>
+<td>478</td>
+<td>Kern</td>
+<td>Ca. 11 km NE of Bakersfield, adjacent to Highway 178 at the mouth of the Kern River Canyon.</td>
+<td>255</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=JEPS93005">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=JEPS93005"><br>Read comments</a> Mar  7  2016
+</td>
+</tr>
+<!-- NY18937 --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=NY18937 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?NY18937&YF=0">NY18937</a>&nbsp;</td>
+<td>Calocedrus decurrens</td>
+<td>P. A. Munz</td>
+<td>08 25 1923</td>
+<td>7607</td>
+<td>unknown</td>
+<td>This specimen represents an endangered or threatened species. The specific locality has been removed from this record to protect this species from over-collection. These data may be supplied to researchers on request.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=NY18937">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=NY18937"><br>Read comments</a> Mar 10  2016
+</td>
+</tr>
+<!-- POM126329 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=POM126329 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?POM126329&YF=0">POM126329</a>&nbsp;</td>
+<td>Caulanthus inflatus</td>
+<td>Craig, V. Newsom, Martha Hilend</td>
+<td>Apr 5 1927</td>
+<td>88</td>
+<td>Kern</td>
+<td>35 miles S of Randsburg.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=POM126329">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=POM126329"><br>Read comments</a> Mar  9  2016
+</td>
+</tr>
+<!-- POM14214 --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=POM14214 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?POM14214&YF=0">POM14214</a>&nbsp;</td>
+<td>Caulanthus cooperi</td>
+<td>Wm. M. Pierce</td>
+<td>Apr 10 1922</td>
+<td>s.n.</td>
+<td>Kern</td>
+<td>North of Randsburg</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=POM14214">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=POM14214"><br>Read comments</a> Mar  9  2016
+</td>
+</tr>
+<!-- POM231193 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=POM231193 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?POM231193&YF=0">POM231193</a>&nbsp;</td>
+<td>Stephanomeria virgata subsp. pleurocarpa</td>
+<td>Reid Moran</td>
+<td>Aug 26 1972</td>
+<td>19197</td>
+<td>San Bernardino</td>
+<td>west slope of Middle Cuyamaca Peak.</td>
+<td>1450</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=POM231193">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=POM231193"><br>Read comments</a> Mar  9  2016
+</td>
+</tr>
+<!-- POM360684 --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=POM360684 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?POM360684&YF=0">POM360684</a>&nbsp;</td>
+<td>Holocarpha heermannii</td>
+<td>Noel Wallace, Maurice Zigmond</td>
+<td>Aug 25 1938</td>
+<td>LXV (65)</td>
+<td>Los Angeles</td>
+<td>Tejon Canyon</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=POM360684">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=POM360684"><br>Read comments</a> Mar 10  2016
+</td>
+</tr>
+<!-- POM368512 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=POM368512 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?POM368512&YF=0">POM368512</a>&nbsp;</td>
+<td>Tiquilia palmeri</td>
+<td>Dr. H. de Forest, Jack Rempel</td>
+<td>Apr 10 1933</td>
+<td>17760</td>
+<td>Imperial</td>
+<td>Southeast side Colorado Desert, desert between Cargo Muchaelo and Chocolate Mountains</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=POM368512">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=POM368512"><br>Read comments</a> Mar  9  2016
+</td>
+</tr>
+<!-- RSA180857 --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=RSA180857 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA180857&YF=0">RSA180857</a>&nbsp;</td>
+<td>Heterotheca sessiliflora subsp. echioides</td>
+<td>E. C. Twisselmann</td>
+<td>Sep 25 1965</td>
+<td>11617</td>
+<td>Kern</td>
+<td>Bitterwater Road, 0.25mile NE of the choice Valley School.</td>
+<td>610</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA180857">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=RSA180857"><br>Read comments</a> Mar 10  2016
+</td>
+</tr>
+<!-- RSA181588 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=RSA181588 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA181588&YF=0">RSA181588</a>&nbsp;</td>
+<td>Heterotheca sessiliflora subsp. echioides</td>
+<td>E. C. Twisselmann</td>
+<td>Sep 25 1965</td>
+<td>11617</td>
+<td>Kern</td>
+<td>Bitterwater Road, 0.25mile NE of the choice Valley School.</td>
+<td>610</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA181588">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=RSA181588"><br>Read comments</a> Mar 10  2016
+</td>
+</tr>
+<!-- RSA21251 --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=RSA21251 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA21251&YF=0">RSA21251</a>&nbsp;</td>
+<td>Coreopsis calliopsidea</td>
+<td>C. B. Wolf</td>
+<td>Apr 28 1937</td>
+<td>8522</td>
+<td>Los Angeles</td>
+<td>Western Mojave Desert, Antelope Valley, 3.6 miles N of Palmdale,</td>
+<td>854</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA21251">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=RSA21251"><br>Read comments</a> Mar 10  2016
+</td>
+</tr>
+<!-- RSA353057 --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA353057 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA353057&YF=0">RSA353057</a>&nbsp;</td>
+<td>Trisetum spicatum</td>
+<td>N. C. Cooper</td>
+<td>8 28 1944</td>
+<td>2494</td>
+<td>Mono</td>
+<td>Mammoth Lakes (Duck Lake)</td>
+<td>3049</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA353057">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=RSA353057"><br>Read comments</a> Mar  8  2016
+</td>
+</tr>
+<!-- RSA402282 --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA402282 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA402282&YF=0">RSA402282</a>&nbsp;</td>
+<td>Plantago ovata var. fastigiata</td>
+<td>Dr. H. de Forest, Jack Rempel</td>
+<td>Apr 10 1933</td>
+<td>17774</td>
+<td>Imperial</td>
+<td>Pass in Mountains, Chocolate Mountains, Colorado desert</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA402282">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=RSA402282"><br>Read comments</a> Mar  9  2016
+</td>
+</tr>
+<!-- RSA474173 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=RSA474173 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA474173&YF=0">RSA474173</a>&nbsp;</td>
+<td>Stephanomeria cichoriacea</td>
+<td>Fordyce Grinnell Jr.</td>
+<td>sep 1911</td>
+<td>5076</td>
+<td>Los Angeles</td>
+<td>mountain sides</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA474173">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=RSA474173"><br>Read comments</a> Mar  9  2016
+</td>
+</tr>
+<!-- RSA474174 --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=RSA474174 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA474174&YF=0">RSA474174</a>&nbsp;</td>
+<td>Stephanomeria cichoriacea</td>
+<td>Fordyce Grinnell Jr.</td>
+<td>Jun 1911</td>
+<td>5075</td>
+<td>Los Angeles</td>
+<td>mountain sides</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA474174">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=RSA474174"><br>Read comments</a> Mar  9  2016
+</td>
+</tr>
+<!-- RSA474175 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=RSA474175 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA474175&YF=0">RSA474175</a>&nbsp;</td>
+<td>Stephanomeria cichoriacea</td>
+<td>Fordyce Grinnell Jr.</td>
+<td>Jul 22 1910</td>
+<td>5077</td>
+<td>Los Angeles</td>
+<td>mountain ridges</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA474175">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=RSA474175"><br>Read comments</a> Mar  9  2016
+</td>
+</tr>
+<!-- RSA48594 --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA48594 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA48594&YF=0">RSA48594</a>&nbsp;</td>
+<td>Lythrum hyssopifolia</td>
+<td>P. A. Munz</td>
+<td>May 19 1949</td>
+<td>13320</td>
+<td>Glenn</td>
+<td>1.5 miles north of Prosperto.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA48594">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=RSA48594"><br>Read comments</a> Mar  4  2016
+</td>
+</tr>
+<!-- RSA561440 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=RSA561440 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA561440&YF=0">RSA561440</a>&nbsp;</td>
+<td>Stephanomeria cichoriacea</td>
+<td>Orlando Mistretta</td>
+<td>Oct 2 1992</td>
+<td>7708</td>
+<td>San Bernardino</td>
+<td>Southern Santa Ana mountains, San Mateo Canyon Wilderness Area. Southwestern edge of the wilderness in lower Devil Canyon, upstream +/- 1 mile from the confluence with San Mateo Canyon.</td>
+<td>183</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA561440">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=RSA561440"><br>Read comments</a> Mar  7  2016
+</td>
+</tr>
+<!-- RSA628291 --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA628291 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA628291&YF=0">RSA628291</a>&nbsp;</td>
+<td>Calandrinia breweri</td>
+<td>Steven A. Junak</td>
+<td>May 9 1991</td>
+<td>SC-2501</td>
+<td>Santa Barbara</td>
+<td>Santa Cruz Island. Lower portion of Willows Canyon, ca. 0.55 mile inland from beach, at junction with canyon on S side of Peak 882</td>
+<td>46</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA628291">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=RSA628291"><br>Read comments</a> Mar  7  2016
+</td>
+</tr>
+<!-- RSA703866 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=RSA703866 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA703866&YF=0">RSA703866</a>&nbsp;</td>
+<td>Lilaea scilloides</td>
+<td>Virginia Moran</td>
+<td>5 2 2003</td>
+<td>s.n. </td>
+<td>San Diego</td>
+<td>Unspecified.</td>
+<td>835</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA703866">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=RSA703866"><br>Read comments</a> Mar  9  2016
+</td>
+</tr>
+<!-- RSA704496 --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=RSA704496 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA704496&YF=0">RSA704496</a>&nbsp;</td>
+<td>Juncus tiehmii</td>
+<td>Virginia Moran</td>
+<td>5 29 2003</td>
+<td>s.n. </td>
+<td>San Diego</td>
+<td>[Not specified]</td>
+<td>925</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA704496">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=RSA704496"><br>Read comments</a> Mar  9  2016
+</td>
+</tr>
+<!-- RSA706394 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=RSA706394 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA706394&YF=0">RSA706394</a>&nbsp;</td>
+<td>Melica imperfecta</td>
+<td>Virginia Moran</td>
+<td>5 2 2003</td>
+<td>s.n. </td>
+<td>San Diego</td>
+<td>[not specified]</td>
+<td>949</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA706394">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=RSA706394"><br>Read comments</a> Mar  9  2016
+</td>
+</tr>
+<!-- RSA706398 --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=RSA706398 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA706398&YF=0">RSA706398</a>&nbsp;</td>
+<td>Monardella lanceolata</td>
+<td>Virginia Moran, Amber Inwood</td>
+<td>Jul 15 2003</td>
+<td>s.n.</td>
+<td>San Diego</td>
+<td>Accuracy 5 m</td>
+<td>1074</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA706398">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=RSA706398"><br>Read comments</a> Mar 10  2016
+</td>
+</tr>
+<!-- RSA706400 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=RSA706400 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA706400&YF=0">RSA706400</a>&nbsp;</td>
+<td>Juncus macrophyllus</td>
+<td>Virginia Moran</td>
+<td>6 18 2003</td>
+<td>s.n. </td>
+<td>San Diego</td>
+<td>Santa Ysabel Preserve,</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA706400">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=RSA706400"><br>Read comments</a> Mar 10  2016
+</td>
+</tr>
+<!-- RSA706401 --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=RSA706401 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA706401&YF=0">RSA706401</a>&nbsp;</td>
+<td>Muilla maritima</td>
+<td>Virginia Moran</td>
+<td>5 2 2003</td>
+<td>s.n. </td>
+<td>San Diego</td>
+<td>Accuracy 5m</td>
+<td>916</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA706401">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=RSA706401"><br>Read comments</a> Mar  9  2016
+</td>
+</tr>
+<!-- RSA785681 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=RSA785681 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA785681&YF=0">RSA785681</a>&nbsp;</td>
+<td>Caulanthus inflatus</td>
+<td>Doris Bowers</td>
+<td>Apr 25 1965</td>
+<td>143</td>
+<td>Kern</td>
+<td>Along Hiway 395 between Johannesburg and Broon</td>
+<td>915</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA785681">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=RSA785681"><br>Read comments</a> Mar  7  2016
+</td>
+</tr>
+<!-- SBBG44152 --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG44152 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG44152&YF=0">SBBG44152</a>&nbsp;</td>
+<td>Quercus kelloggii</td>
+<td>M. R. Benedict</td>
+<td>Oct 6 1968</td>
+<td></td>
+<td>Monterey</td>
+<td>Santa Lucia Mtns: rd to Cone Pk Lookout, N of Nacimiento Rd</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG44152">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=SBBG44152"><br>Read comments</a> Mar  5  2016
+</td>
+</tr>
+<!-- SD143839 --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD143839 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD143839&YF=0">SD143839</a>&nbsp;</td>
+<td>Phacelia tanacetifolia</td>
+<td>B. Pitzer</td>
+<td>Feb 01, 1998</td>
+<td>3461</td>
+<td>Imperial</td>
+<td>Milpitas Wash, ca. 0.2 miles south of Walter's Camp Road (on Hwy 78), ca. 1 mile west of Highway 78. In wash and on terraces, mostly at bases of shrubs. (IPB 10/07)</td>
+<td>91</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD143839">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=SD143839"><br>Read comments</a> Mar 10  2016
+</td>
+</tr>
+<!-- SD25229 --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=SD25229 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD25229&YF=0">SD25229</a>&nbsp;</td>
+<td>Wyethia glabra</td>
+<td>Frank F. Gander</td>
+<td>May 16, 1939</td>
+<td>7567</td>
+<td>Kern</td>
+<td>Kern River Canyon</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD25229">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=SD25229"><br>Read comments</a> Mar  9  2016
+</td>
+</tr>
+<!-- SD46548 --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=SD46548 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD46548&YF=0">SD46548</a>&nbsp;</td>
+<td>Caulanthus inflatus</td>
+<td>E. K. Balls</td>
+<td>Mar 13, 1956</td>
+<td>21461</td>
+<td>San Bernardino</td>
+<td>19 miles north of Adlanto.</td>
+<td>825</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD46548">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=SD46548"><br>Read comments</a> Mar  7  2016
+</td>
+</tr>
+<!-- SDSU550 --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=SDSU550 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SDSU550&YF=0">SDSU550</a>&nbsp;</td>
+<td>Stephanomeria cichoriacea</td>
+<td>unknown</td>
+<td>08/25/1947</td>
+<td>1728</td>
+<td>San Bernardino</td>
+<td>Snow Creek, San Bernardino Mts.</td>
+<td>1676</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SDSU550">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=SDSU550"><br>Read comments</a> Mar  7  2016
+</td>
+</tr>
+<!-- SEINET3124803 --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SEINET3124803 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SEINET3124803&YF=0">SEINET3124803</a>&nbsp;</td>
+<td>Cheilanthes covillei</td>
+<td>E. R. Blakley</td>
+<td>1960-04-23</td>
+<td>3221</td>
+<td>San Bernardino</td>
+<td>Northeast point of Granite Mountains near the Amboy to Kelso Road.</td>
+<td>1219</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SEINET3124803">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=SEINET3124803"><br>Read comments</a> Mar  7  2016
+</td>
+</tr>
+<!-- SFV21873 --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SFV21873 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SFV21873&YF=0">SFV21873</a>&nbsp;</td>
+<td>Larrea tridentata</td>
+<td>J. O. Exconde, Jr., M. P. Rothenay</td>
+<td>May 3 2008</td>
+<td>15</td>
+<td>Los Angeles</td>
+<td>Mojave Desert Antelope Valley. West of Lancaster along Lancaster Road, west of 160th Street West.</td>
+<td>850</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SFV21873">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=SFV21873"><br>Read comments</a> Mar  6  2016
+</td>
+</tr>
+<!-- UC1220419 --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1220419 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1220419&YF=0">UC1220419</a>&nbsp;</td>
+<td>Arctostaphylos viscida subsp. pulchella</td>
+<td>J. A. Delapp</td>
+<td>Mar 10 1962</td>
+<td>62</td>
+<td>Sonoma</td>
+<td>4.1 mi ne Cazadero; Quad 61D-$, Gilman Creek</td>
+<td>167</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1220419">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=UC1220419"><br>Read comments</a> Mar  7  2016
+</td>
+</tr>
+<!-- UC1536832 --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1536832 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1536832&YF=0">UC1536832</a>&nbsp;</td>
+<td>Clarkia dudleyana</td>
+<td>Gordon H. True, Jr.</td>
+<td>Jul 2 1937</td>
+<td>747</td>
+<td>Trinity</td>
+<td>near Weaverville</td>
+<td>426</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1536832">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=UC1536832"><br>Read comments</a> Mar  7  2016
+</td>
+</tr>
+<!-- UC169254 --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC169254 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC169254&YF=0">UC169254</a>&nbsp;</td>
+<td>Cycladenia humilis var. humilis</td>
+<td>C. F. Leithold</td>
+<td>July 1893</td>
+<td></td>
+<td>Lake</td>
+<td>Cobb Mt.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC169254">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=UC169254"><br>Read comments</a> Mar  6  2016
+</td>
+</tr>
+<!-- UC1923765 --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UC1923765 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1923765&YF=0">UC1923765</a>&nbsp;</td>
+<td>Layia pentachaeta subsp. albida</td>
+<td>John L. Strother</td>
+<td>Mar 10 2008</td>
+<td>1371</td>
+<td>Kern</td>
+<td>ca. 19 km (12 miles) N of Buttonwillow, E frontage of I-5 at (S of) Twisselman Road</td>
+<td>70</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1923765">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=UC1923765"><br>Read comments</a> Mar 10  2016
+</td>
+</tr>
+<!-- UCD104727 --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCD104727 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD104727&YF=0">UCD104727</a>&nbsp;</td>
+<td>Astragalus didymocarpus var. dispermus</td>
+<td>James B. Garner</td>
+<td>04 24 1957</td>
+<td>284</td>
+<td>San Bernardino</td>
+<td>San Bernardino County: Desert area</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD104727">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=UCD104727"><br>Read comments</a> Mar  9  2016
+</td>
+</tr>
+<!-- UCSB15021 --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UCSB15021 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB15021&YF=0">UCSB15021</a>&nbsp;</td>
+<td>Deinandra pallida</td>
+<td>Jim Blattau</td>
+<td>04/18/1962</td>
+<td>141</td>
+<td>Kern</td>
+<td>San Joaquin Valley, on Highway 184, 17.8 miles north of junction with Highways 178 and 33</td>
+<td>243</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB15021">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=UCSB15021"><br>Read comments</a> Mar 10  2016
+</td>
+</tr>
+</table></form>
+
+<!-- Footer begins -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="18" bgcolor="9090AA"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  <tr>
+    <td height="20"><span class="copyrightText">&nbsp;&nbsp;Copyright &copy; 2010 Regents of the University of California &mdash; Database extract updated 2/17/2016 
+</span>
+
+
+
+  </tr>
+</table>
+<!-- Footer ends -->
+
+
+1.36 processing seconds
+
+<!-- <a href="/cgi-bin/clone_coords.pl?/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=1&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0">Clone coords view</a>-->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1304595-1";
+urchinTracker();
+</script>
+</body></html>

@@ -1,0 +1,1361 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Carex</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Carex
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17207">Carex abrupta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17232">Carex alma
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17239">Carex amplifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17242">Carex angustata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17254">Carex aquatilis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55637">Carex aquatilis var. aquatilis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55640">Carex aquatilis var. dives
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17263">Carex arcta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17270">Carex atherodes
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17271">Carex athrostachya
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17282">Carex aurea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17289">Carex barbarae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17303">Carex bolanderi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17306">Carex brainerdii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17307">Carex brevicaulis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17310">Carex breweri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17317">Carex buxbaumii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17320">Carex californica
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49662">Carex canescens subsp. canescens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17324">Carex capitata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17339">Carex comosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17342">Carex concinnoides
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17343">Carex congdonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17361">Carex cusickii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=99296">Carex cyrtostachya
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17365">Carex davyi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=88921">Carex deflexa var. boottii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17373">Carex densa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17375">Carex diandra
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17377">Carex disperma
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49672">Carex divulsa subsp. divulsa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17384">Carex douglasii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17386">Carex duriuscula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76612">Carex echinata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49674">Carex echinata subsp. echinata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49675">Carex echinata subsp. phyllomanica
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17413">Carex exsiccata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17416">Carex feta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17417">Carex filifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76552">Carex filifolia var. erostrata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76553">Carex filifolia var. filifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17421">Carex fissuricola
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17434">Carex fracta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17441">Carex geyeri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17450">Carex globosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17453">Carex gracilior
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17469">Carex gynodynama
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17471">Carex halliana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17474">Carex harfordii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17476">Carex hassei
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17478">Carex haydeniana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17484">Carex helleri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17486">Carex hendersonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17487">Carex heteroneura
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17496">Carex hirtissima
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17499">Carex hoodii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17510">Carex hystericina
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17511">Carex idahoa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17512">Carex illota
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17514">Carex incurviformis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=82101">Carex infirminervia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49683">Carex inops subsp. inops
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17518">Carex integra
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17519">Carex interior
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91115">Carex inversa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17524">Carex jonesii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17347">Carex klamathensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17535">Carex laeviculmis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17540">Carex lasiocarpa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17547">Carex leavenworthii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17548">Carex lemmonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17549">Carex lenticularis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55766">Carex lenticularis var. impressa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55772">Carex lenticularis var. limnophila
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55773">Carex lenticularis var. lipocarpa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17557">Carex leporina
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17559">Carex leporinella
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17560">Carex leptalea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17564">Carex leptopoda
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17569">Carex limosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17572">Carex livida
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17576">Carex longii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17585">Carex luzulifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17586">Carex luzulina
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17588">Carex lyngbyei
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17607">Carex mariposana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17616">Carex mendocinensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17619">Carex mertensii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17628">Carex microptera
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17641">Carex multicaulis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17642">Carex multicostata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17650">Carex nebrascensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17658">Carex nervina
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17659">Carex neurophora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17663">Carex nigricans
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17676">Carex nudata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17679">Carex obispoensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17680">Carex obnupta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17683">Carex occidentalis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=98712">Carex orestera
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17643">Carex pachycarpa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17697">Carex pachystachya
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17706">Carex pansa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=74511">Carex pellita
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80276">Carex pendula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17723">Carex petasata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17726">Carex phaeocephala
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17744">Carex praeceptorum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17745">Carex praegracilis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17749">Carex praticola
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17750">Carex preslii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17752">Carex proposita
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17770">Carex raynoldsii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17785">Carex rossii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17477">Carex saliniformis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17800">Carex sartwelliana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17444">Carex scabriuscula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17814">Carex schottii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80197">Carex scirpoidea subsp. pseudoscirpoidea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55888">Carex scoparia var. scoparia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55892">Carex scopulorum var. bracteosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17827">Carex senta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=79435">Carex serpenticola
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17829">Carex serratodens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17831">Carex sheldonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17834">Carex simulata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17838">Carex specifica
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17839">Carex spectabilis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17845">Carex spissa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17671">Carex stevenii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55906">Carex stipata var. stipata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17857">Carex straminiformis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17866">Carex subbracteata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17597">Carex subfusca
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17871">Carex subnigricans
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17884">Carex tahoensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17891">Carex texensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76555">Carex tiogana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17896">Carex tompkinsii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17905">Carex triquetra
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17908">Carex tumulicola
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17915">Carex unilateralis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17917">Carex utriculata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17921">Carex vallicola
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17925">Carex vernacula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17928">Carex vesicaria
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49721">Carex viridula subsp. viridula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17943">Carex vulpinoidea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=17946">Carex whitneyi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=99775">Carex xerophila
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=8902'><h3>View taxon page for Carex</h3></a><blockquote><h3>Key to Groups</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AHP1'">1.</a><a name="AHP1."> </a> Plant hairy at least in part (check sheaths, blades, peri)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHP2'">2.</a><a name="AHP2."> </a> Leaves hairy; peri hairy or glabrous <a href="#Group1">.....&nbsp;Group 1</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHP2.">2'</a><a name="AHP2'"> </a> Leaves glabrous; peri hairy <a href="#Group2">.....&nbsp;Group 2</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AHP1.">1'</a><a name="AHP1'"> </a> Plant completely glabrous throughout
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHP3'">3.</a><a name="AHP3."> </a> Inflorescence 1 terminal spikelet <a href="#Group3">.....&nbsp;Group 3</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHP3.">3'</a><a name="AHP3'"> </a> Inflorescence generally >= 2 spikelets
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHP4'">4.</a><a name="AHP4."> </a> Stigmas 3; fruit 3-angled
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHP5'">5.</a><a name="AHP5."> </a> Inflorescence bract sheath >= 6 mm <a href="#Group4">.....&nbsp;Group 4</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHP5.">5'</a><a name="AHP5'"> </a> Inflorescence bract sheath &lt; 5 mm
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHP6'">6.</a><a name="AHP6."> </a> Peri inflated at least near beak <a href="#Group5">.....&nbsp;Group 5</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHP6.">6'</a><a name="AHP6'"> </a> Peri not inflated <a href="#Group6">.....&nbsp;Group 6</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHP4.">4'</a><a name="AHP4'"> </a> Stigmas 2; fruit lenticular
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHP7'">7.</a><a name="AHP7."> </a> Pistillate and staminate flowers on different stems (unisexual stems) <a href="#Group7">.....&nbsp;Group 7</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHP7.">7'</a><a name="AHP7'"> </a> Pistillate and staminate flowers on same stem (bisexual stems)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHP8'">8.</a><a name="AHP8."> </a> Terminal spikelet(s) generally staminate; lateral spikelets pistillate (rarely tips staminate) <a href="#Group8">.....&nbsp;Group 8</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHP8.">8'</a><a name="AHP8'"> </a> Terminal and lateral spikelets all a mix of staminate and pistillate flowers
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHP9'">9.</a><a name="AHP9."> </a> Spikelets each with staminate flowers above pistillate flowers (often easiest to see in terminal spikelet; look for remnants of stamens) <a href="#Group9">.....&nbsp;Group 9</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHP9.">9'</a><a name="AHP9'"> </a> Spikelets each with pistillate flowers above staminate flowers
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AHP10'">10.</a><a name="AHP10."> </a> Peri not winged (occasionally thin-edged above); stem generally solid; cespitose or rhizomed <a href="#Group10">.....&nbsp;Group 10</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AHP10.">10'</a><a name="AHP10'"> </a> Peri winged; stem hollow; cespitose <a href="#Group11">.....&nbsp;Group 11</a></blockquote><blockquote><h3><a name=Group1>Group 1</a>: Sheaths and/or blades hairy</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AHR1'">1.</a><a name="AHR1."> </a> Plants dioecious
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHR2'">2.</a><a name="AHR2."> </a> Spikelets 1&ndash;4; plant loosely cespitose; fruit &lt;&lt; peri body <a href="/cgi-bin/get_IJM.pl?tid=17444">.....&nbsp;C. scabriuscula</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHR2.">2'</a><a name="AHR2'"> </a> Spikelet generally 1; plant rhizomed; fruit &plusmn; = peri body <a href="/cgi-bin/get_IJM.pl?tid=80197">.....&nbsp;C. scirpoidea subsp. pseudoscirpoidea</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AHR1.">1'</a><a name="AHR1'"> </a> Plants monoecious
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHR3'">3.</a><a name="AHR3."> </a> Leaf blades glabrous, sheaths hairy at least at mouth
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHR4'">4.</a><a name="AHR4."> </a> Peri glabrous; leaves 1.5&ndash;23 mm wide
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHR5'">5.</a><a name="AHR5."> </a> Longer teeth of peri beak 1.5&ndash;3.3 mm, curved <a href="/cgi-bin/get_IJM.pl?tid=17270">.....&nbsp;C. atherodes</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHR5.">5'</a><a name="AHR5'"> </a> Longer teeth of peri beak &lt; 0.5 mm, straight
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHR6'">6.</a><a name="AHR6."> </a> Plant rhizomed; leaves 8&ndash;23 mm wide; peri abruptly narrowed to beak <a href="/cgi-bin/get_IJM.pl?tid=17239">.....&nbsp;C. amplifolia</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHR6.">6'</a><a name="AHR6'"> </a> Plant cespitose; leaves 1.5&ndash;5.5 mm wide; peri gradually narrowed to beak 
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHR7'">7.</a><a name="AHR7."> </a> Distal lateral spikelets arching or drooping, 0.7&ndash;3.5(&ndash;6) mm between peri at mid-spikelet; proximal staminate flower bract awns 0.5&ndash;5 mm; pistillate flower bracts, including awns, (2.2)3&ndash;4.8(&ndash;6.8) mm, awns (0&ndash;)0.5&ndash;2.2(&ndash;3.1) mm <a href="/cgi-bin/get_IJM.pl?tid=99296">.....&nbsp;C. cyrtostachya</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHR7.">7'</a><a name="AHR7'"> </a> Distal lateral spikelets erect or ascending, 0.3&ndash;0.6(&ndash;1.2) mm between peri at mid-spikelet; proximal staminate flower bract awns 0 (0.3&ndash;0.5 mm); pistillate flower bracts, including awns, 1.7&ndash;3.2(&ndash;3.7) mm, awns 0&ndash;0.3(&ndash;2) mm <a href="/cgi-bin/get_IJM.pl?tid=17616">.....&nbsp;C. mendocinensis</a> (3)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHR4.">4'</a><a name="AHR4'"> </a> Peri hairy; leaves 1.5&ndash;8 mm wide
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHR8'">8.</a><a name="AHR8."> </a> Plant rhizomed; often in standing water --&gt; see couplet 5
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHR8.">8'</a><a name="AHR8'"> </a> Plant cespitose; upland or damp ground, rarely in standing water
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHR9'">9.</a><a name="AHR9."> </a> Pistillate flower bract face hairy; lowest inflorescence bract sheath &lt; 5 mm; spikelets, upper 1/2 of peri dark purple; talus, 2600&ndash;3900 m <a href="/cgi-bin/get_IJM.pl?tid=17343">.....&nbsp;C. congdonii</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHR9.">9'</a><a name="AHR9'"> </a> Pistillate flower bract face glabrous; lowest inflorescence bract sheath 20&ndash;30 mm; spikelets, peri green to gold or pale brown; moist ground, often on serpentine, 150&ndash;1600 m <a href="/cgi-bin/get_IJM.pl?tid=17616">.....&nbsp;C. mendocinensis</a> (3)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHR3.">3'</a><a name="AHR3'"> </a> Leaf blades hairy, sheaths hairy or glabrous
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHR10'">10.</a><a name="AHR10."> </a> Plant long-rhizomed; sheath fronts occasionally fibrous
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHR11'">11.</a><a name="AHR11."> </a> Peri sparse-hairy on main veins or glabrous; longer teeth of peri beak 1.5&ndash;3.3 mm <a href="/cgi-bin/get_IJM.pl?tid=17270">.....&nbsp;C. atherodes</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHR11.">11'</a><a name="AHR11'"> </a> Peri dense-hairy; longer teeth of peri beak 0.2&ndash;1.4 mm
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHR12'">12.</a><a name="AHR12."> </a> Peri gradually narrowed to long beak; fruit &lt;&lt; peri body; leaf sheaths white, not red-dotted, not fibrous; mature spikelets 8&ndash;10 mm wide <a href="/cgi-bin/get_IJM.pl?tid=17831">.....&nbsp;C. sheldonii</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHR12.">12'</a><a name="AHR12'"> </a> Peri &plusmn; abruptly narrowed to beak; fruit &plusmn; = body; leaf sheaths often red-dotted, fibrous; mature spikelets 4&ndash;7 mm wide
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHR13'">13.</a><a name="AHR13."> </a> Leaf blades inrolled to triangular-channeled, 0.7&ndash;2(2.2) mm wide, those of vegetative shoots especially prolonged into curled, thread-like tips; midvein of leaf, inflorescence bract a low, rounded, inconspicuous keel at least toward base <a href="/cgi-bin/get_IJM.pl?tid=17540">.....&nbsp;C. lasiocarpa</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHR13.">13'</a><a name="AHR13'"> </a> Leaf blades flat or folded into an M-shape except at base and near tip, (2)2.2&ndash;4.5(6) mm wide, not prolonged into thread-like tips; midvein of leaf, inflorescence bract a prominent, sharp keel <a href="/cgi-bin/get_IJM.pl?tid=74511">.....&nbsp;C. pellita</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHR10.">10'</a><a name="AHR10'"> </a> Plant cespitose to loosely so, forming clumps; sheath fronts not fibrous
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHR14'">14.</a><a name="AHR14."> </a> Lowest inflorescence bract sheath &lt; 5 mm; terminal spikelet staminate; not on serpentine
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHR15'">15.</a><a name="AHR15."> </a> Peri glabrous, face strongly 5-veined; pistillate flower bracts glabrous; stem brown (red-brown) at base <a href="/cgi-bin/get_IJM.pl?tid=17946">.....&nbsp;C. whitneyi</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHR15.">15'</a><a name="AHR15'"> </a> Peri hairy, face faintly 0&ndash;10 veined; pistillate flower bracts hairy near tips; stem red to purple at base
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHR16'">16.</a><a name="AHR16."> </a> Pistillate flower bracts dark purple with 1&ndash;5 pale brown, strong veins; spikelets dark; peri > pistillate flower bracts, purple on upper 1/2 of body, gradually narrowed above; talus, 2600&ndash;3900 m <a href="/cgi-bin/get_IJM.pl?tid=17343">.....&nbsp;C. congdonii</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHR16.">16'</a><a name="AHR16'"> </a> Pistillate flower bracts with 1 weak vein in wide central green zone; spikelets light; peri &lt; or > pistillate flower bracts, green to dark brown (dark purple) on upper 1/2 of body, generally abruptly narrowed above; moist or wet sites, 1200&ndash;2600 m <a href="/cgi-bin/get_IJM.pl?tid=17800">.....&nbsp;C. sartwelliana</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHR14.">14'</a><a name="AHR14'"> </a> Lowest inflorescence bract sheath > 5 mm; terminal spikelet staminate or staminate and pistillate; generally on serpentine
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHR17'">17.</a><a name="AHR17."> </a> Peri generally glabrous (sparse-hairy toward tip); leaf blade glabrous or sparsely hairy at base; basal leaves 1.5&ndash;5.5 mm wide <a href="/cgi-bin/get_IJM.pl?tid=17616">.....&nbsp;C. mendocinensis</a> (3)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHR17.">17'</a><a name="AHR17'"> </a> Peri hairy; leaf blade hairy; basal leaves occasionally > 7 mm wide
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHR18'">18.</a><a name="AHR18."> </a> Pistillate flower bracts obovate to wide-elliptic, red-brown or &plusmn; purple, midrib green; peri purple-splotched; on serpentine, &lt; 600 m, North Coast, Klamath Ranges, Outer North Coast Ranges, n Central Coast (Marin, Santa Cruz cos.), San Francisco Bay Area, Outer South Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=17469">.....&nbsp;C. gynodynama</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHR18.">18'</a><a name="AHR18'"> </a> Pistillate flower bracts elliptic to elliptic-obovate, green or pale red-brown, midrib green; peri green or gold-green to pale brown, occasionally red-dotted but not purple-splotched; often on serpentine, 60&ndash;1200 m, North Coast Ranges (Mendocino, Lake cos.), Cascade Range, n&c Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=17496">.....&nbsp;C. hirtissima</a></blockquote><blockquote><h3><a name=Group2>Group 2</a>: Peri hairy</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AHT1'">1.</a><a name="AHT1."> </a> Flower stems all unisexual, either staminate or pistillate
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHT2'">2.</a><a name="AHT2."> </a> Flower stems staminate
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHT3'">3.</a><a name="AHT3."> </a> Flower stem base scaly, not fibrous; spikelets 1&ndash;4; anthers 2&ndash;2.8 mm <a href="/cgi-bin/get_IJM.pl?tid=17444">.....&nbsp;C. scabriuscula</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHT3.">3'</a><a name="AHT3'"> </a> Flower stem base &plusmn; fibrous, scaly or not; spikelet 1; anthers 3.1&ndash;4.5 mm
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHT4'">4.</a><a name="AHT4."> </a> Leaf sheath front occasionally hairy, not coarse-veined, fine-red-dotted; ligule occasionally longer than wide <a href="/cgi-bin/get_IJM.pl?tid=80197">.....&nbsp;C. scirpoidea subsp. pseudoscirpoidea</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHT4.">4'</a><a name="AHT4'"> </a> Leaf sheath front glabrous, coarse-veined, generally not red-dotted; ligule wider than long <a href="/cgi-bin/get_IJM.pl?tid=79435">.....&nbsp;C. serpenticola</a> (3)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHT2.">2'</a><a name="AHT2'"> </a> Flower stems pistillate
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHT5'">5.</a><a name="AHT5."> </a> Peri flat except over relatively small fruit, peri veins strong on lower 1/2 (obscure if dark purple) <a href="/cgi-bin/get_IJM.pl?tid=17444">.....&nbsp;C. scabriuscula</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHT5.">5'</a><a name="AHT5'"> </a> Peri plump, filled by fruit, peri veins 0 or short, weak on lower 1/2
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHT6'">6.</a><a name="AHT6."> </a> Spikelets generally 1 (2, overlapped), oblong-cylindric; mature stems stiffly erect <a href="/cgi-bin/get_IJM.pl?tid=80197">.....&nbsp;C. scirpoidea subsp. pseudoscirpoidea</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHT6.">6'</a><a name="AHT6'"> </a> Spikelets 2&ndash;4, lowest generally well-separated or obvious, generally elliptic-ovate to &plusmn; spheric; mature stems weak, drooping <a href="/cgi-bin/get_IJM.pl?tid=79435">.....&nbsp;C. serpenticola</a> (3)
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AHT1.">1'</a><a name="AHT1'"> </a> Some or all flowering stems bisexual, with both staminate and pistillate flowers
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHT7'">7.</a><a name="AHT7."> </a> Stigmas 4, warty, not plumose, at 15&times;; fruit base 4-angled; leaf sheath mouth V-shaped; leaves &plusmn; sickle-shaped &mdash; Klamath Ranges, North Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=17342">.....&nbsp;C. concinnoides</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHT7.">7'</a><a name="AHT7'"> </a> Stigmas 3, fine-plumose at 15&times;; fruit base 3-angled; leaf sheath mouth U-shaped; leaves straight (except <I>Carex brevicaulis</I> sickle-shaped)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHT8'">8.</a><a name="AHT8."> </a> Basal spikelets present
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHT9'">9.</a><a name="AHT9."> </a> Peri with 12&ndash;20 strong veins at least to midbody; pistillate flower bracts generally prominently 3&ndash;5-veined
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHT10'">10.</a><a name="AHT10."> </a> Leaves pale blue-green or glaucous; peri stalks &plusmn; = beaks; peri bodies barrel-shaped; leaves generally papillate abaxially at 40&times; <a href="/cgi-bin/get_IJM.pl?tid=17306">.....&nbsp;C. brainerdii</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHT10.">10'</a><a name="AHT10'"> </a> Leaves green, not glaucous; peri stalks 1.5&ndash;2 &times; beaks; peri bodies obovoid; leaves not papillate or papillate only on veins abaxially at 40&times;
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHT11'">11.</a><a name="AHT11."> </a> Some basal spikelets on generally arching, long, slender stalk > 10 cm; peri &lt;= 2.3 mm wide; peri stalks &lt;= 2.2 mm; coastal moist forest, openings <a href="/cgi-bin/get_IJM.pl?tid=17450">.....&nbsp;C. globosa</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHT11.">11'</a><a name="AHT11'"> </a> All basal spikelets on stiffly erect stalks &lt; 8 cm; peri &lt;= 1.9 mm wide; peri stalks &lt;= 1.6 mm; inland dry forest, savannah, chaparral <a href="/cgi-bin/get_IJM.pl?tid=99775">.....&nbsp;C. xerophila</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHT9.">9'</a><a name="AHT9'"> </a> Peri with 2 strong veins, veins otherwise 0 or faint; pistillate flower bracts prominently 1(3)-veined
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHT12'">12.</a><a name="AHT12."> </a> Inflorescence bracts on taller (non-basal) stems inconspicuous, scale-like, &lt; inflorescence; old leaves occasionally persisting as shredded fibrous tufts; peri 1.5&ndash;2.1 mm wide; coastal dunes, headlands, North Coast, Central Coast <a href="/cgi-bin/get_IJM.pl?tid=17307">.....&nbsp;C. brevicaulis</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHT12.">12'</a><a name="AHT12'"> </a> Inflorescence bracts on taller (non-basal) stems prominent, leaf-like, generally >= inflorescence; old leaves not persisting as shredded fibrous tufts; peri 1&ndash;1.7 mm wide; North Coast, Central Coast, and elsewhere
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHT13'">13.</a><a name="AHT13."> </a> Peri 2.3&ndash;3.1 mm, beak 0.4&ndash;0.8 mm, teeth 0.1&ndash;0.2 mm; stems generally spreading or arching, &plusmn; smooth except near inflorescence; plant loosely cespitose; rhizomes slender <a href="/cgi-bin/get_IJM.pl?tid=88921">.....&nbsp;C. deflexa var. boottii</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHT13.">13'</a><a name="AHT13'"> </a> Peri 3.1&ndash;4.5 mm, beak 0.7&ndash;1.7 mm, teeth 0.2&ndash;0.4 mm; stems generally ascending, scabrous; plant loosely to densely cespitose; rhizomes stout <a href="/cgi-bin/get_IJM.pl?tid=17785">.....&nbsp;C. rossii</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHT8.">8'</a><a name="AHT8'"> </a> Basal spikelets 0
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHT14'">14.</a><a name="AHT14."> </a> Staminate spikelets 2&ndash;3
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHT15'">15.</a><a name="AHT15."> </a> Stems 10&ndash;50 cm; dry uplands, Siskiyou Co. <a href="/cgi-bin/get_IJM.pl?tid=17471">.....&nbsp;C. halliana</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHT15.">15'</a><a name="AHT15'"> </a> Stems 60&ndash;180 cm; wet soil, Siskiyou Co. and elsewhere
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHT16'">16.</a><a name="AHT16."> </a> Plants cespitose (<I>Carex spissa</I> cespitose to rhizomed); peri sparse-hairy, sharp-3-angled or 2-edged, generally fine-red-dotted; springs, seeps, streambanks, generally not in standing water, often on serpentine; Central Coast, Outer South Coast Ranges, South Coast
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AHT17'">17.</a><a name="AHT17."> </a> Peri sharp-3-angled, lanceolate, gradually narrowed to long beak &plusmn; 2 mm; lateral spikelets with 15&ndash;45 peri; generally on serpentine; Outer South Coast Ranges (Monterey, San Luis Obispo cos.), Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=17679">.....&nbsp;C. obispoensis</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AHT17.">17'</a><a name="AHT17'"> </a> Peri often &plusmn; flat, 2-edged, or strongly inflated, but not 3-angled, obovoid, abruptly narrowed to beak &plusmn; 0.5 mm; lateral spikelets with 150&ndash;300 peri; on serpentine or not; Central Coast, South Coast <a href="/cgi-bin/get_IJM.pl?tid=17845">.....&nbsp;C. spissa</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHT16.">16'</a><a name="AHT16'"> </a> Plants rhizomed; peri dense-hairy, plump, not sharp-3-angled or 2-edged, green or dark-purple-splotched; often emergent in shallow water, not on serpentine; widespread
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AHT18'">18.</a><a name="AHT18."> </a> Leaf blades inrolled to triangular-channeled, 0.7&ndash;2(2.2) mm wide, those of vegetative shoots especially prolonged into curled, thread-like tips; midvein of leaf, inflorescence bract a low, rounded, inconspicuous keel at least toward base <a href="/cgi-bin/get_IJM.pl?tid=17540">.....&nbsp;C. lasiocarpa</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AHT18.">18'</a><a name="AHT18'"> </a> Leaf blades flat or folded into an M-shape except at base and near tip, (2)2.2&ndash;4.5(6) mm wide, not prolonged into thread-like tips; midvein of leaf, inflorescence bract a prominent, sharp keel <a href="/cgi-bin/get_IJM.pl?tid=74511">.....&nbsp;C. pellita</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHT14.">14'</a><a name="AHT14'"> </a> Staminate spikelet 1 (except <I>Carex triquetra</I>, <I>Carex obispoensis</I> with 1&ndash;2 upper lateral spikelets occasionally staminate/pistillate, but not entirely staminate)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHT19'">19.</a><a name="AHT19."> </a> Spikelets 1, terminal <a href="/cgi-bin/get_IJM.pl?tid=17417">.....&nbsp;C. filifolia</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHT20'">20.</a><a name="AHT20."> </a> Longest pistillate flower bracts (except awns) generally &lt; 2.5 mm, generally &lt;&lt; peri; peri body generally abruptly narrowed to beak 0&ndash;0.4 mm; fruit 1.6&ndash;2.4 mm <a href="/cgi-bin/get_IJM.pl?tid=76552">.....&nbsp;var. erostrata</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHT20.">20'</a><a name="AHT20'"> </a> Longest pistillate flower bracts (except awns) generally > 3 mm, generally >= peri; peri body &plusmn; gradually narrowed to beak 0.1&ndash;0.8 mm; fruit 2.2&ndash;3 mm <a href="/cgi-bin/get_IJM.pl?tid=76553">.....&nbsp;var. filifolia</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHT19.">19'</a><a name="AHT19'"> </a> Spikelets > 1, terminal and lateral
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHT21'">21.</a><a name="AHT21."> </a> Lateral spikelets generally &lt; 1 cm; mouth of leaf sheath fine-toothed
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AHT22'">22.</a><a name="AHT22."> </a> Rhizomes short, plants loosely cespitose; peri 1&ndash;1.4 mm wide <a href="/cgi-bin/get_IJM.pl?tid=88921">.....&nbsp;C. deflexa var. boottii</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AHT22.">22'</a><a name="AHT22'"> </a> Rhizomes elongate, plants generally scattered; peri 1.5&ndash;2.2 mm wide
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AHT23'">23.</a><a name="AHT23."> </a> Pistillate flower bracts, lower staminate flower bracts green, red, or purple with white margin 0.4&ndash;0.8 mm wide; terminal spikelet staminate on taller inflorescences; stems bisexual; High Cascade Range <a href="/cgi-bin/get_IJM.pl?tid=49683">.....&nbsp;C. inops subsp. inops</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AHT23.">23'</a><a name="AHT23'"> </a> Pistillate flower bracts, lower staminate flower bracts dark purple with white margin 0.1&ndash;0.2 mm wide; terminal spikelet on taller inflorescences staminate, pistillate, or pistillate/staminate; stems unisexual or bisexual; Klamath Ranges <a href="/cgi-bin/get_IJM.pl?tid=79435">.....&nbsp;C. serpenticola</a> (3)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHT21.">21'</a><a name="AHT21'"> </a> Lateral spikelets generally > 1.5 cm; mouth of leaf sheath entire or fine-ciliate
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AHT24'">24.</a><a name="AHT24."> </a> Plant rhizomed; leaf blade smooth; often in pumice &mdash; Klamath Ranges, High Cascade Range <a href="/cgi-bin/get_IJM.pl?tid=17471">.....&nbsp;C. halliana</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AHT24.">24'</a><a name="AHT24'"> </a> Plant cespitose; leaf blade smooth, scabrous, or minute-papillate; not in pumice
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AHT25'">25.</a><a name="AHT25."> </a> Peri hairs obvious, not sparse
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AHT26'">26.</a><a name="AHT26."> </a> Peri lanceolate, &plusmn; gradually narrowed to beak &plusmn; 2 mm; generally on serpentine; Outer South Coast Ranges (Monterey, San Luis Obispo cos.), Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=17679">.....&nbsp;C. obispoensis</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AHT26.">26'</a><a name="AHT26'"> </a> Peri elliptic, abruptly narrowed to beak &lt; 1 mm; not on serpentine; Central Coast, South Coast, s Channel Islands, Transverse Ranges, Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=17905">.....&nbsp;C. triquetra</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AHT25.">25'</a><a name="AHT25'"> </a> Peri hairs 0 or occasionally inconspicuous, sparse
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AHT27'">27.</a><a name="AHT27."> </a> Spikelets &lt;= 60 mm; peri, pistillate flower bract green to brown, occasionally red-marked; generally on serpentine <a href="/cgi-bin/get_IJM.pl?tid=17616">.....&nbsp;C. mendocinensis</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AHT27.">27'</a><a name="AHT27'"> </a> Spikelets &lt;= 32 mm; peri, pistillate flower bract red-brown to dark purple, or green, marked with red-brown to dark purple; generally not on serpentine
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AHT28'">28.</a><a name="AHT28."> </a> Peri, at least distally on faces, with sparse, spreading-ascending, short, stiff, stout hairs or bristles; flower bract midvein distal margin scabrous to ciliate <a href="/cgi-bin/get_IJM.pl?tid=17421">.....&nbsp;C. fissuricola</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AHT28.">28'</a><a name="AHT28'"> </a> Peri faces generally glabrous or with sparse, spreading to appressed, generally long, soft, thin hairs; flower bract midvein, margin glabrous <a href="/cgi-bin/get_IJM.pl?tid=17586">.....&nbsp;C. luzulina</a></blockquote><blockquote><h3><a name=Group3>Group 3</a>: Spikelet 1</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AHV1'">1.</a><a name="AHV1."> </a> Lowest pistillate flower bracts green, leaf-like, 1&ndash;15 cm, base clasping peri; peri with bristle-like axis inside
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHV2'">2.</a><a name="AHV2."> </a> Upper stem round or blunt-3&ndash;angled, generally smooth toward tip; peri with 2 strong marginal veins, several faint veins; longest leaves much exceeded by inflorescence, blades inrolled or flat, 0.8&ndash;1.5 mm wide; plant cespitose <a href="/cgi-bin/get_IJM.pl?tid=17641">.....&nbsp;C. multicaulis</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHV2.">2'</a><a name="AHV2'"> </a> Upper stem sharp-3&ndash;angled, scabrous toward tip; peri with 2 strong marginal veins, generally 0 faint veins; longest leaves &plusmn; equaling inflorescence, blades flat, 1.5&ndash;3 mm wide; plant loosely cespitose <a href="/cgi-bin/get_IJM.pl?tid=17896">.....&nbsp;C. tompkinsii</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AHV1.">1'</a><a name="AHV1'"> </a> Lowest pistillate flower bracts not green, not leaf-like, &lt;= 1.5 cm, base clasping peri or not; peri with bristle-like axis inside or not
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHV3'">3.</a><a name="AHV3."> </a> Peri body wide-elliptic to &plusmn; round
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHV4'">4.</a><a name="AHV4."> </a> Peri 2&ndash;4.8 mm wide; generally some lower pistillate flower bracts 3- or 5-veined; dry soil <a href="/cgi-bin/get_IJM.pl?tid=17310">.....&nbsp;C. breweri</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHV4.">4'</a><a name="AHV4'"> </a> Peri 1.5&ndash;1.8 mm wide; lower pistillate flower bracts 1-veined; wet or seasonally wet soil
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHV5'">5.</a><a name="AHV5."> </a> Stigmas 2; leaves green, &lt;= 1 mm wide; peatland, moist alpine meadows <a href="/cgi-bin/get_IJM.pl?tid=17324">.....&nbsp;C. capitata</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHV5.">5'</a><a name="AHV5'"> </a> Stigmas 3; leaves &plusmn; glaucous, 2&ndash;5 mm wide; meadows <a href="/cgi-bin/get_IJM.pl?tid=17511">.....&nbsp;C. idahoa</a> (2)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHV3.">3'</a><a name="AHV3'"> </a> Peri body narrowly elliptic to oblanceolate
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHV6'">6.</a><a name="AHV6."> </a> Peri green, tip blunt, beak 0
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHV7'">7.</a><a name="AHV7."> </a> Peri obovoid, marginal veins 2, fine veins 0 <a href="/cgi-bin/get_IJM.pl?tid=17441">.....&nbsp;C. geyeri</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHV7.">7'</a><a name="AHV7'"> </a> Peri elliptic to narrow-oblong-elliptic, with many fine veins <a href="/cgi-bin/get_IJM.pl?tid=17560">.....&nbsp;C. leptalea</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHV6.">6'</a><a name="AHV6'"> </a> Peri green or straw to dark purple, tip pointed or distinctly beaked
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHV8'">8.</a><a name="AHV8."> </a> Peri 1&ndash;3 per stem, 4.9&ndash;7 mm; leaves evergreen <a href="/cgi-bin/get_IJM.pl?tid=17441">.....&nbsp;C. geyeri</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHV8.">8'</a><a name="AHV8'"> </a> Peri 8&ndash;50 per stem, 2&ndash;5 mm; leaves deciduous
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHV9'">9.</a><a name="AHV9."> </a> Mature peri gradually narrowed to &plusmn; long stalk and beak; peri narrow-elliptic, often &plusmn; ascending to spreading or reflexed; pistillate flower bracts shed before peri <a href="/cgi-bin/get_IJM.pl?tid=17663">.....&nbsp;C. nigricans</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHV9.">9'</a><a name="AHV9'"> </a> Mature peri abruptly narrowed to short stalk or beak or both; peri elliptic to obovate, ascending or erect; pistillate flower bracts persisting with peri
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHV10'">10.</a><a name="AHV10."> </a> Leaves &plusmn; glaucous, flat, 2&ndash;5 mm wide; peri without bristle-like axis inside <a href="/cgi-bin/get_IJM.pl?tid=17511">.....&nbsp;C. idahoa</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHV10.">10'</a><a name="AHV10'"> </a> Leaves green, not glaucous, inrolled or channeled, 0.4&ndash;1 mm wide; peri with bristle-like axis inside <a href="/cgi-bin/get_IJM.pl?tid=17871">.....&nbsp;C. subnigricans</a></blockquote><blockquote><h3><a name=Group4>Group 4</a>: Stigmas 3; inflorescence bract sheath >= 6 mm</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AHX1'">1.</a><a name="AHX1."> </a> Plant rhizomed
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHX2'">2.</a><a name="AHX2."> </a> Peri inflated; style persisting on fruit; stem base spongy-thickened; leaf sheaths, lower leaf blades with well-developed brickwork pattern of crosswalls <a href="/cgi-bin/get_IJM.pl?tid=17917">.....&nbsp;C. utriculata</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHX2.">2'</a><a name="AHX2'"> </a> Peri not inflated; style breaking off near fruit; stem base not spongy-thickened; leaf sheaths, lower leaf blades without well-developed brickwork pattern of crosswalls
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHX3'">3.</a><a name="AHX3."> </a> Stigmas 2&ndash;3 (generally an even mix on a stem), ripe fruit lenticular or 3-angled; serpentine wetlands, Klamath Ranges <a href="/cgi-bin/get_IJM.pl?tid=17476">.....&nbsp;C. hassei</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHX3.">3'</a><a name="AHX3'"> </a> Stigmas 3, ripe achenes 3-angled; various (including serpentine) wetlands or meadows, Klamath Ranges and elsewhere
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHX4'">4.</a><a name="AHX4."> </a> Peri beak distinct or indistinct, 0.5&ndash;1.5 mm; leaves green, not glaucous
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHX5'">5.</a><a name="AHX5."> </a> Stem base red or purple; peri abruptly narrowed to distinct beak; lower leaves on flowering stems reduced to bladeless sheaths <a href="/cgi-bin/get_IJM.pl?tid=17320">.....&nbsp;C. californica</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHX5.">5'</a><a name="AHX5'"> </a> Stem base brown; peri gradually narrowed to indistinct beak; lower leaves on flowering stems well developed <a href="/cgi-bin/get_IJM.pl?tid=17586">.....&nbsp;C. luzulina</a> (4)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHX4.">4'</a><a name="AHX4'"> </a> Peri beak indistinct, &lt; 0.5 mm; leaves glaucous
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHX6'">6.</a><a name="AHX6."> </a> Peri beak bent to 1 side; peri obovate, veins generally strong; leaves flat or folded; serpentine fens; Klamath Ranges, Inner North Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=17347">.....&nbsp;C. klamathensis</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHX6.">6'</a><a name="AHX6'"> </a> Peri beak straight; peri elliptic, veins weak or 0; leaves channeled; coastal peatland, not on serpentine; North Coast (Mendocino Co.) <a href="/cgi-bin/get_IJM.pl?tid=17572">.....&nbsp;C. livida</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AHX1.">1'</a><a name="AHX1'"> </a> Plant cespitose to loosely so (<I>Carex spissa</I> cespitose to rhizomed)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHX7'">7.</a><a name="AHX7."> </a> Peri beak teeth spreading, generally curved, 1.3&ndash;2.8 mm <a href="/cgi-bin/get_IJM.pl?tid=17339">.....&nbsp;C. comosa</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHX7.">7'</a><a name="AHX7'"> </a> Peri beak teeth 0 or erect, straight, &lt; 1 mm
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHX8'">8.</a><a name="AHX8."> </a> Terminal spikelet generally pistillate/staminate
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHX9'">9.</a><a name="AHX9."> </a> Pistillate flower bracts white; peri 1.3&ndash;2.3 mm <a href="/cgi-bin/get_IJM.pl?tid=76555">.....&nbsp;C. tiogana</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHX9.">9'</a><a name="AHX9'"> </a> Pistillate flower bracts red-brown or purple; peri 3&ndash;5.5 mm
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHX10'">10.</a><a name="AHX10."> </a> Peri plump, 0.9&ndash;2 mm wide
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHX11'">11.</a><a name="AHX11."> </a> Peri not papillate, ovate to lanceolate <a href="/cgi-bin/get_IJM.pl?tid=17586">.....&nbsp;C. luzulina</a> (4)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHX11.">11'</a><a name="AHX11'"> </a> Peri papillate, wide-elliptic to ovate <a href="/cgi-bin/get_IJM.pl?tid=17829">.....&nbsp;C. serratodens</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHX10.">10'</a><a name="AHX10'"> </a> Peri flat, 1.7&ndash;3.5 mm wide
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHX12'">12.</a><a name="AHX12."> </a> Lateral spikelets pistillate, larger with &lt; 50 peri <a href="/cgi-bin/get_IJM.pl?tid=17487">.....&nbsp;C. heteroneura</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHX12.">12'</a><a name="AHX12'"> </a> Lateral spikelets generally pistillate/staminate, larger with > 60 peri <a href="/cgi-bin/get_IJM.pl?tid=17619">.....&nbsp;C. mertensii</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHX8.">8'</a><a name="AHX8'"> </a> Terminal spikelet generally staminate or staminate/pistillate (pistillate/staminate)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHX13'">13.</a><a name="AHX13."> </a> Wider leaves 9&ndash;20 mm wide; stems often weak, leaning
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHX14'">14.</a><a name="AHX14."> </a> Peri gradually narrowed to indistinct beak; spikelets erect or spreading
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHX15'">15.</a><a name="AHX15."> </a> Peri 4.3&ndash;6.5 mm, 20&ndash;32-veined, not red-dotted; inflorescence bract sheaths inflated; fruit stems often prostrate; coastal forest, not on serpentine, &lt; 900 m <a href="/cgi-bin/get_IJM.pl?tid=17486">.....&nbsp;C. hendersonii</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHX15.">15'</a><a name="AHX15'"> </a> Peri 2.5&ndash;4.3 mm, finely 8&ndash;10-veined, occasionally red-dotted; inflorescence bract sheaths not inflated; fruit stems erect or ascending; openings, mixed-evergreen forest, disturbed wet places, often on serpentine, 60&ndash;1200 m <a href="/cgi-bin/get_IJM.pl?tid=17496">.....&nbsp;C. hirtissima</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHX14.">14'</a><a name="AHX14'"> </a> Peri abruptly narrowed to distinct beak; spikelets erect to spreading or drooping
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHX16'">16.</a><a name="AHX16."> </a> Spikelets 1&ndash;3 cm, dark purple; peri &lt; 30, margins flat; leaves green; 1900&ndash;3100 m <a href="/cgi-bin/get_IJM.pl?tid=17585">.....&nbsp;C. luzulifolia</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHX16.">16'</a><a name="AHX16'"> </a> Spikelets 3&ndash;20 cm, green; peri generally > 75, margins not flat; leaves blue-green, at least when young; &lt; 1200 m
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AHX17'">17.</a><a name="AHX17."> </a> Peri body elliptic, 1.1&ndash;1.5 mm wide; stem base red to purple; pistillate spikelets 5&ndash;8 mm wide <a href="/cgi-bin/get_IJM.pl?tid=80276">.....&nbsp;C. pendula</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AHX17.">17'</a><a name="AHX17'"> </a> Peri body obovate, 1.5&ndash;2.5 mm wide; stem base brown; pistillate spikelets 7&ndash;12 mm wide <a href="/cgi-bin/get_IJM.pl?tid=17845">.....&nbsp;C. spissa</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHX13.">13'</a><a name="AHX13'"> </a> Wider leaves generally 1&ndash;8 mm wide; stems erect or leaning
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHX18'">18.</a><a name="AHX18."> </a> Spikelets &plusmn; sessile, erect; inflorescence bracts &plusmn; stiff, ascending or spreading; peri green to &plusmn; yellow or brown
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHX19'">19.</a><a name="AHX19."> </a> Peri body lanceolate, gradually narrowed to indistinct beak <a href="/cgi-bin/get_IJM.pl?tid=17548">.....&nbsp;C. lemmonii</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHX19.">19'</a><a name="AHX19'"> </a> Peri body elliptic to ovate or obovate, abruptly narrowed to distinct beak <a href="/cgi-bin/get_IJM.pl?tid=49721">.....&nbsp;C. viridula subsp. viridula</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHX18.">18'</a><a name="AHX18'"> </a> Spikelets stalked, erect or arching to drooping; inflorescence bracts &plusmn; weak, spreading; peri white, green, brown, red-brown, or purple
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHX20'">20.</a><a name="AHX20."> </a> Peri beak distinct, &lt;= 0.5 mm, or indistinct
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AHX21'">21.</a><a name="AHX21."> </a> Peri 1.3&ndash;2.3 mm, 0.4&ndash;0.9 mm wide; pistillate flower bract white <a href="/cgi-bin/get_IJM.pl?tid=76555">.....&nbsp;C. tiogana</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AHX21.">21'</a><a name="AHX21'"> </a> Peri 3&ndash;5.5 mm, 0.9&ndash;2 mm wide; pistillate flower bract red-brown or dark purple
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AHX22'">22.</a><a name="AHX22."> </a> Peri body ovate to lanceolate, gradually narrowed to indistinct beak <a href="/cgi-bin/get_IJM.pl?tid=17586">.....&nbsp;C. luzulina</a> (4)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AHX22.">22'</a><a name="AHX22'"> </a> Peri body obovate to wide-elliptic, abruptly narrowed to distinct beak <a href="/cgi-bin/get_IJM.pl?tid=17770">.....&nbsp;C. raynoldsii</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AHX20.">20'</a><a name="AHX20'"> </a> Peri beak distinct, generally > 0.5 mm
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AHX23'">23.</a><a name="AHX23."> </a> Pistillate spikelets (15)20&ndash;60 mm, linear; peri beak ciliate on inner side of teeth
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AHX24'">24.</a><a name="AHX24."> </a> Distal lateral spikelets arching or drooping, 0.7&ndash;3.5(&ndash;6) mm between peri at mid-spikelet; proximal staminate flower bract awns 0.5&ndash;5 mm; pistillate flower bracts, including awns, (2.2–)3–4.8(–6.8) mm, awns (0&ndash;)0.5&ndash;2.2(&ndash;3.1) mm <a href="/cgi-bin/get_IJM.pl?tid=99296">.....&nbsp;C. cyrtostachya</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AHX24.">24'</a><a name="AHX24'"> </a> Distal lateral spikelets erect or ascending, 0.3&ndash;0.6(&ndash;1.2) mm between peri at mid-spikelet; proximal staminate flower bract awns 0 (0.3&ndash;0.5 mm); pistillate flower bracts, including awns, 1.7&ndash;3.2(&ndash;3.7) mm, awns 0&ndash;0.3(&ndash;2) mm <a href="/cgi-bin/get_IJM.pl?tid=17616">.....&nbsp;C. mendocinensis</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AHX23.">23'</a><a name="AHX23'"> </a> Pistillate spikelets generally &lt;= 20 mm, oblong; peri beak generally not ciliate on inner side of teeth, but beak margins and outer side of teeth generally with spreading, stiff bristles
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AHX25'">25.</a><a name="AHX25."> </a> Peri faces, at least near beak, with sparse, spreading-ascending, short, stiff, bristles; pistillate flower bract margins ciliate distally <a href="/cgi-bin/get_IJM.pl?tid=17421">.....&nbsp;C. fissuricola</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AHX25.">25'</a><a name="AHX25'"> </a> Peri faces generally glabrous (or with sparse, weak hairs); pistillate flower bract margins glabrous
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AHX26'">26.</a><a name="AHX26."> </a> Peri flat margin > 1/2 fruit width; peri 1.7&ndash;2.5 mm wide; inflorescence bract sheath expanded toward shallow-U-shaped mouth (1.8)2&ndash;3 mm wide <a href="/cgi-bin/get_IJM.pl?tid=17585">.....&nbsp;C. luzulifolia</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AHX26.">26'</a><a name="AHX26'"> </a> Peri flat margin 0 or &lt; 1/2 fruit width; peri 0.9&ndash;2 mm wide; inflorescence bract sheath not (or &plusmn;) expanded toward shallow Y- or V-shaped mouth 0.6&ndash;2 mm wide
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AHX27'">27.</a><a name="AHX27."> </a> Peri beak tip to fruit tip &lt; 1.5 mm; lowest spikelet stalk generally exserted &lt; 10 mm; pistillate flower bracts white, green, gold, or red-brown to dark purple, margin white <a href="/cgi-bin/get_IJM.pl?tid=17548">.....&nbsp;C. lemmonii</a> (2)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AHX27.">27'</a><a name="AHX27'"> </a> Peri beak tip to fruit tip >= 1.5 mm; lowest spikelet stalk exserted > 10 (> 5) mm; pistillate flower bracts generally red-brown to dark purple <a href="/cgi-bin/get_IJM.pl?tid=17586">.....&nbsp;C. luzulina</a> (4)</blockquote><blockquote><h3><a name=Group5>Group 5</a>: Stigmas 3; inflorescence bract sheath &lt; 6 mm; peri inflated at least near beak</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AHZ1'">1.</a><a name="AHZ1."> </a> Lower lateral spikelets nodding on drooping stalks
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHZ2'">2.</a><a name="AHZ2."> </a> Peri strongly 7&ndash;11-veined, beak teeth without eroded tips, 0.3&ndash;2.8 mm
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHZ3'">3.</a><a name="AHZ3."> </a> Peri beak teeth spreading or strongly curved, 1.3&ndash;2.8 mm, not prickle-like; stem base brown <a href="/cgi-bin/get_IJM.pl?tid=17339">.....&nbsp;C. comosa</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHZ3.">3'</a><a name="AHZ3'"> </a> Peri beak teeth erect, straight, 0.3&ndash;0.9 mm, prickle-like; stem base red-purple <a href="/cgi-bin/get_IJM.pl?tid=17510">.....&nbsp;C. hystericina</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHZ2.">2'</a><a name="AHZ2'"> </a> Peri weakly 0&ndash;7-veined, beak teeth with eroded tips or &lt; 0.5 mm
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHZ4'">4.</a><a name="AHZ4."> </a> Peri obovate; leaf margins very sharply scabrous <a href="/cgi-bin/get_IJM.pl?tid=17845">.....&nbsp;C. spissa</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHZ4.">4'</a><a name="AHZ4'"> </a> Peri elliptic to ovate; leaf margins smooth to &plusmn; serrate
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHZ5'">5.</a><a name="AHZ5."> </a> Plant rhizomed; peri beak 0.7&ndash;1.2 mm <a href="/cgi-bin/get_IJM.pl?tid=17239">.....&nbsp;C. amplifolia</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHZ5.">5'</a><a name="AHZ5'"> </a> Plant cespitose; peri beak 0.5 mm <a href="/cgi-bin/get_IJM.pl?tid=80276">.....&nbsp;C. pendula</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AHZ1.">1'</a><a name="AHZ1'"> </a> Lower lateral spikelets generally erect, stalks sometimes 0
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHZ6'">6.</a><a name="AHZ6."> </a> Lateral spikelets 4&ndash;20 mm; peri 1.8&ndash;4.5 mm
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHZ7'">7.</a><a name="AHZ7."> </a> Pistillate flower bracts dark purple or black; peri 1.6&ndash;2.1 mm wide <a href="/cgi-bin/get_IJM.pl?tid=17770">.....&nbsp;C. raynoldsii</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHZ7.">7'</a><a name="AHZ7'"> </a> Pistillate flower bracts green to rusty; peri 0.8&ndash;1.6 mm wide <a href="/cgi-bin/get_IJM.pl?tid=49721">.....&nbsp;C. viridula subsp. viridula</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AHZ6.">6'</a><a name="AHZ6'"> </a> Lateral spikelets 20&ndash;100 mm; peri 3.6&ndash;12.7 mm
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHZ8'">8.</a><a name="AHZ8."> </a> Peri widest above middle, weakly veined; leaf margins very sharply scabrous; young leaves blue-green <a href="/cgi-bin/get_IJM.pl?tid=17845">.....&nbsp;C. spissa</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AHZ8.">8'</a><a name="AHZ8'"> </a> Peri widest below middle, strongly veined; leaf margins entire or weakly serrate; young leaves green
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHZ9'">9.</a><a name="AHZ9."> </a> Plant long-rhizomed; stem base spongy-thickened, brown or red-tinged, crosswalls between veins many, well developed, yielding brick-like pattern, sheaths generally not fibrous; ligule length generally &lt; width on lower leaves; widest leaves to 15 mm wide <a href="/cgi-bin/get_IJM.pl?tid=17917">.....&nbsp;C. utriculata</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AHZ9.">9'</a><a name="AHZ9'"> </a> Plant &plusmn; cespitose; stem base not spongy-thickened, generally red- or purple-tinged, crosswalls between veins generally few, weakly developed, not yielding brick-like pattern; sheaths often fibrous; ligule length > width on lower leaves; widest leaves to 6.5 mm wide
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHZ10'">10.</a><a name="AHZ10."> </a> Larger peri 7.5&ndash;12.7 mm, length 3.4&ndash;7.4 &times; width, tip gradually narrowed to an indistinct beak; &lt; 1800 m <a href="/cgi-bin/get_IJM.pl?tid=17413">.....&nbsp;C. exsiccata</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AHZ10.">10'</a><a name="AHZ10'"> </a> Larger peri 3.6&ndash;8.2 mm, length generally 2&ndash;3.5 &times; width, tip &plusmn; abruptly narrowed to &plusmn; distinct beak; &lt; 3300 m <a href="/cgi-bin/get_IJM.pl?tid=17928">.....&nbsp;C. vesicaria</a></blockquote><blockquote><h3><a name=Group6>Group 6</a>: Stigmas 3; inflorescence bract sheath &lt; 6 mm; peri not inflated</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIB1'">1.</a><a name="AIB1."> </a> Peri beak teeth curved, 1.3&ndash;2.8 mm <a href="/cgi-bin/get_IJM.pl?tid=17339">.....&nbsp;C. comosa</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIB1.">1'</a><a name="AIB1'"> </a> Peri beak teeth 0 or inconspicuous, straight, 0&ndash;1 mm
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIB2'">2.</a><a name="AIB2."> </a> Leaves 8&ndash;23 mm wide; lateral spikelets often with > 100 peri
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIB3'">3.</a><a name="AIB3."> </a> Stem brown at base; upper 2&ndash;4 spikelets staminate; sheaths, peri red-dotted <a href="/cgi-bin/get_IJM.pl?tid=17845">.....&nbsp;C. spissa</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIB3.">3'</a><a name="AIB3'"> </a> Stem &plusmn; red or &plusmn; purple at base; uppermost spikelet staminate; sheaths, peri not red-dotted
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIB4'">4.</a><a name="AIB4."> </a> Plant rhizomed; peri beak 0.7&ndash;1.1 mm <a href="/cgi-bin/get_IJM.pl?tid=17239">.....&nbsp;C. amplifolia</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIB4.">4'</a><a name="AIB4'"> </a> Plant cespitose; peri beak 0.5 mm <a href="/cgi-bin/get_IJM.pl?tid=80276">.....&nbsp;C. pendula</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIB2.">2'</a><a name="AIB2'"> </a> Leaves &lt; 8.5 mm wide; lateral spikelets with &lt; 70 peri
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIB5'">5.</a><a name="AIB5."> </a> Plant long-rhizomed; peri beak 0&ndash;0.5 mm; leaves glaucous; peri papillate
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIB6'">6.</a><a name="AIB6."> </a> Peri abruptly narrowed to distinct beak
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIB7'">7.</a><a name="AIB7."> </a> Peri beak straight, beak, upper body often minute-serrate or bristly; moist mountain meadows over dolomite, 2800&ndash;3400 m, White and Inyo Mountains (White Mtns) <a href="/cgi-bin/get_IJM.pl?tid=17511">.....&nbsp;C. idahoa</a> (3)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIB7.">7'</a><a name="AIB7'"> </a> Peri beak bent to side, beak, upper body not minute-serrate, not bristly; serpentine fens, 450&ndash;900 m, Klamath Ranges, Inner North Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=17347">.....&nbsp;C. klamathensis</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIB6.">6'</a><a name="AIB6'"> </a> Peri tapered to indistinct beak
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIB8'">8.</a><a name="AIB8."> </a> Spikelets nodding; roots with dense felt-like hairs <a href="/cgi-bin/get_IJM.pl?tid=17569">.....&nbsp;C. limosa</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIB8.">8'</a><a name="AIB8'"> </a> Spikelets erect or ascending; roots without dense felt-like hairs
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIB9'">9.</a><a name="AIB9."> </a> Pistillate flower bracts prominently awned; sheaths fibrous; terminal spikelet pistillate/staminate <a href="/cgi-bin/get_IJM.pl?tid=17317">.....&nbsp;C. buxbaumii</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIB9.">9'</a><a name="AIB9'"> </a> Pistillate flower bracts awnless; sheaths not fibrous; terminal spikelet staminate <a href="/cgi-bin/get_IJM.pl?tid=17572">.....&nbsp;C. livida</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIB5.">5'</a><a name="AIB5'"> </a> Plant cespitose to loosely so; peri beak &lt; to > 0.5 mm; leaves green or glaucous; peri papillate or not
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIB10'">10.</a><a name="AIB10."> </a> Spikelets green to gold, pistillate flower bracts without dark purple or black
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIB11'">11.</a><a name="AIB11."> </a> Peri 1.3&ndash;2 mm, beak 0.2&ndash;0.4 mm; pistillate flower bracts blunt or mucronate; 3100&ndash;3350 m, c High Sierra Nevada (Mono Co.) <a href="/cgi-bin/get_IJM.pl?tid=76555">.....&nbsp;C. tiogana</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIB11.">11'</a><a name="AIB11'"> </a> Peri 4.5&ndash;7.3 mm, beak 0 or 1.9&ndash;2.8 mm; pistillate flower bracts long-awned; &lt; 1800 m, Klamath Ranges, Sierra Nevada
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIB12'">12.</a><a name="AIB12."> </a> Terminal spikelet staminate; lateral spikelets 2&ndash;4, generally nodding, dense; peri rounded, > 25, ribs 3, veins 13&ndash;21, beak 1.9&ndash;2.8 mm, teeth prominent, 0.3&ndash;0.9 mm <a href="/cgi-bin/get_IJM.pl?tid=17510">.....&nbsp;C. hystericina</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIB12.">12'</a><a name="AIB12'"> </a> Terminal spikelet staminate flowers above pistillate; lateral spikelet 1, erect, not dense; peri 3-angled, 1&ndash;5, ribs 3, veins 0, beak 0, teeth 0 <a href="/cgi-bin/get_IJM.pl?tid=17896">.....&nbsp;C. tompkinsii</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIB10.">10'</a><a name="AIB10'"> </a> Spikelets darker than green to gold, pistillate flower bracts at least partly dark brown to dark purple or black
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIB13'">13.</a><a name="AIB13."> </a> Terminal spikelet staminate (some species variable, keying here or at 13')
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIB14'">14.</a><a name="AIB14."> </a> Peri ascending, &lt;= 1/2 filled by fruit; lower spikelets often nodding on drooping stalks <a href="/cgi-bin/get_IJM.pl?tid=17839">.....&nbsp;C. spectabilis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIB14.">14'</a><a name="AIB14'"> </a> Peri spreading, > 1/2 filled by fruit; lower spikelets generally erect
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AIB15'">15.</a><a name="AIB15."> </a> Peri body ovate to widely elliptic, beak 0.3&ndash;1 mm, teeth generally bristly, 0.2&ndash;0.5 mm; &lt; 1800 m, often on serpentine <a href="/cgi-bin/get_IJM.pl?tid=17829">.....&nbsp;C. serratodens</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AIB15.">15'</a><a name="AIB15'"> </a> Peri body elliptic to obovate, beak 0.1&ndash;0.5 mm, teeth 0 or smooth to bristly, &lt; 0.2 mm; 1800&ndash;3200 m, not on serpentine
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AIB16'">16.</a><a name="AIB16."> </a> Lateral spikelets &lt; terminal; peri 2&ndash;3 mm <a href="/cgi-bin/get_IJM.pl?tid=17511">.....&nbsp;C. idahoa</a> (3)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AIB16.">16'</a><a name="AIB16'"> </a> Lateral spikelets >= terminal; peri 3.5&ndash;4.5 mm <a href="/cgi-bin/get_IJM.pl?tid=17770">.....&nbsp;C. raynoldsii</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIB13.">13'</a><a name="AIB13'"> </a> Terminal spikelet pistillate or pistillate/staminate (or staminate/pistillate/staminate in some <I>Carex helleri</I>)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIB17'">17.</a><a name="AIB17."> </a> Peri flat, &lt; 1/2 filled by fruit, generally not papillate (&plusmn; papillate near beak)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AIB18'">18.</a><a name="AIB18."> </a> Lateral spikelets spreading or drooping, often > 2 cm, generally pistillate/staminate, basal flowers with remnant filaments <a href="/cgi-bin/get_IJM.pl?tid=17619">.....&nbsp;C. mertensii</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AIB18.">18'</a><a name="AIB18'"> </a> Lateral spikelets generally erect or ascending, generally &lt; 2 cm, generally pistillate
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AIB19'">19.</a><a name="AIB19."> </a> Lower pistillate flower bracts acuminate, awns generally 0.5&ndash;2 mm; peri elliptic to obovate; stem 5&ndash;40 cm <a href="/cgi-bin/get_IJM.pl?tid=17484">.....&nbsp;C. helleri</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AIB19.">19'</a><a name="AIB19'"> </a> Lower pistillate flower bracts acute to acuminate, awns &lt; 0.5 mm or generally 0; peri ovate to &plusmn; round or obovate; stem 25&ndash;100 cm <a href="/cgi-bin/get_IJM.pl?tid=17487">.....&nbsp;C. heteroneura</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIB17.">17'</a><a name="AIB17'"> </a> Peri plump, > 1/2 filled by fruit, papillate or not
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AIB20'">20.</a><a name="AIB20."> </a> Peri ovate to widely elliptic, generally 3&ndash;5 mm <a href="/cgi-bin/get_IJM.pl?tid=17829">.....&nbsp;C. serratodens</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AIB20.">20'</a><a name="AIB20'"> </a> Peri elliptic to obovate, generally 2&ndash;3 mm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AIB21'">21.</a><a name="AIB21."> </a> Peri green to olive, obvious, strongly contrasting with, not hidden by shorter, darker pistillate flower bracts <a href="/cgi-bin/get_IJM.pl?tid=17671">.....&nbsp;C. stevenii</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AIB21.">21'</a><a name="AIB21'"> </a> Peri yellow to dark brown to dark purple, hidden by or not contrasting with pistillate flower bracts
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AIB22'">22.</a><a name="AIB22."> </a> Peri upper body, beak not minute-serrate or bristly; pistillate flower bracts oblong or lanceolate to widely elliptic, tips not bristly <a href="/cgi-bin/get_IJM.pl?tid=98712">.....&nbsp;C. orestera</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AIB22.">22'</a><a name="AIB22'"> </a> Peri upper body, beak minute-serrate or bristly; pistillate flower bracts obovate to widely elliptic, tips or awns bristly or not <a href="/cgi-bin/get_IJM.pl?tid=17511">.....&nbsp;C. idahoa</a> (3)</blockquote><blockquote><h3><a name=Group7>Group 7</a>: Spikelets 2+; stigmas 2; stems generally unisexual</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AID1'">1.</a><a name="AID1."> </a> Stems staminate or mostly so
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AID2'">2.</a><a name="AID2."> </a> Plant cespitose to loosely so (<I>Carex alma</I> cespitose to rhizomed); spikelets >= 1 per lower node or branch; leaf sheath front red-dotted or not
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AID3'">3.</a><a name="AID3."> </a> Leaf sheath front not red-dotted; anther tips acute, awn 0 <a href="/cgi-bin/get_IJM.pl?tid=82101">.....&nbsp;C. infirminervia</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AID3.">3'</a><a name="AID3'"> </a> Leaf sheath front red-dotted; anther tips with bristle-like awn &lt;= 0.3 mm
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AID4'">4.</a><a name="AID4."> </a> Leaf sheath front not cross-wrinkled, colorless at mouth, rim not thick or dark, generally with contraligule <a href="/cgi-bin/get_IJM.pl?tid=17232">.....&nbsp;C. alma</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AID4.">4'</a><a name="AID4'"> </a> Leaf sheath front occasionally cross-wrinkled, copper or &plusmn; purple at mouth, rim often thick or dark, without contraligule <a href="/cgi-bin/get_IJM.pl?tid=17361">.....&nbsp;C. cusickii</a> (2)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AID2.">2'</a><a name="AID2'"> </a> Plant rhizomed; spikelets generally 1 per node or branch; leaf sheath front generally not red-dotted
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AID5'">5.</a><a name="AID5."> </a> Stem angles smooth near tip; rhizomes 0.6&ndash;1.9 mm thick
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AID6'">6.</a><a name="AID6."> </a> Anther awns 0.2&ndash;1 mm, bristly at 30&times;; leaf blades 1&ndash;3.5 mm wide; inflorescence 12&ndash;45 mm <a href="/cgi-bin/get_IJM.pl?tid=17384">.....&nbsp;C. douglasii</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AID6.">6'</a><a name="AID6'"> </a> Anther awns &lt; 0.1 mm, smooth to warty at 30&times;; leaf blades &lt; 1.5 mm wide; inflorescence &lt;= 20 mm <a href="/cgi-bin/get_IJM.pl?tid=17386">.....&nbsp;C. duriuscula</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AID5.">5'</a><a name="AID5'"> </a> Stem angles &plusmn; scabrous near tip; rhizomes 1.5&ndash;5 mm thick
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AID7'">7.</a><a name="AID7."> </a> Longest anther awns 0.2&ndash;0.4 mm, filaments generally included; stem generally &lt; 40 cm; coastal, islands <a href="/cgi-bin/get_IJM.pl?tid=17706">.....&nbsp;C. pansa</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AID7.">7'</a><a name="AID7'"> </a> Longest anther awns 0.1&ndash;0.2 mm, filaments exserted; stem 20&ndash;75 cm; coastal or inland
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AID8'">8.</a><a name="AID8."> </a> Anther awns generally hairy at 20&times;; leaf sheath mouth occasionally with dark or &plusmn; thick rim; leaf blades 1.5&ndash;3 mm wide <a href="/cgi-bin/get_IJM.pl?tid=17745">.....&nbsp;C. praegracilis</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AID8.">8'</a><a name="AID8'"> </a> Anther awns glabrous (warty) at 20&times;; leaf sheath mouth with or without dark stripe, generally without thick rim; leaf blades 2&ndash;5 mm wide <a href="/cgi-bin/get_IJM.pl?tid=17834">.....&nbsp;C. simulata</a> (2)
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AID1.">1'</a><a name="AID1'"> </a> Stems pistillate or mostly so
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AID9'">9.</a><a name="AID9."> </a> Plant cespitose (<I>Carex alma</I> cespitose to rhizomed)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AID10'">10.</a><a name="AID10."> </a> Leaf sheath front copper or &plusmn; purple at mouth, often with thick or dark rim, mouth generally concave or truncate <a href="/cgi-bin/get_IJM.pl?tid=17361">.....&nbsp;C. cusickii</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AID10.">10'</a><a name="AID10'"> </a> Leaf sheath front colorless at mouth, without thick or dark rim, mouth concave to convex
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AID11'">11.</a><a name="AID11."> </a> Leaf sheath front red-dotted; peri ovate to triangular-ovate; inflorescence a dense panicle of spikelets, spikelets generally several per lower node, or lower node long-branched with 3+ spikelets <a href="/cgi-bin/get_IJM.pl?tid=17232">.....&nbsp;C. alma</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AID11.">11'</a><a name="AID11'"> </a> Leaf sheath front not red-dotted; peri narrow-lanceolate; inflorescence a raceme of spikelets, spikelets 1 per node <a href="/cgi-bin/get_IJM.pl?tid=82101">.....&nbsp;C. infirminervia</a> (2)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AID9.">9'</a><a name="AID9'"> </a> Plant rhizomed
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AID12'">12.</a><a name="AID12."> </a> Upper stem smooth on angles; rhizomes 0.6&ndash;1.8 mm thick; shoots often 2&ndash;several in small clusters, 0 at many nodes
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AID13'">13.</a><a name="AID13."> </a> Pistillate flower bracts 4.3&ndash;7.5 mm, pale brown to &plusmn; white; peri beak 0.9&ndash;1.9 mm; spikelets generally unisexual; anthers 2.5&ndash;3.9 mm, tip 0.2&ndash;1 mm, bristly at 30&times; <a href="/cgi-bin/get_IJM.pl?tid=17384">.....&nbsp;C. douglasii</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AID13.">13'</a><a name="AID13'"> </a> Pistillate flower bracts 2.4&ndash;4.1 mm, red-brown; peri beak 0.3&ndash;0.9 mm; spikelets occasionally with staminate flowers above pistillate (as in Group 9); anthers 1.4&ndash;3 mm, awn &lt; 0.1 mm, smooth to warty at 30&times; <a href="/cgi-bin/get_IJM.pl?tid=17386">.....&nbsp;C. duriuscula</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AID12.">12'</a><a name="AID12'"> </a> Upper stem &plusmn; scabrous on angles; rhizomes 1.5&ndash;5 mm thick; shoots generally 1 every few nodes
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AID14'">14.</a><a name="AID14."> </a> Peri beak 0.25&ndash;0.5 mm; contraligule 0.3&ndash;1.6 mm; anthers occasionally present, tip smooth to warty at 30&times; <a href="/cgi-bin/get_IJM.pl?tid=17834">.....&nbsp;C. simulata</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AID14.">14'</a><a name="AID14'"> </a> Peri beak 0.5&ndash;1.5 mm; contraligule 0; anthers occasionally present, tip bristly-hairy at 30&times;
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AID15'">15.</a><a name="AID15."> </a> Pistillate flower bracts, base of spikelet bracts dark brown or purple-brown, generally shiny, darker than peri; pistillate inflorescence not elongate, ovate to elliptic; coastal, islands <a href="/cgi-bin/get_IJM.pl?tid=17706">.....&nbsp;C. pansa</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AID15.">15'</a><a name="AID15'"> </a> Pistillate flower bracts, base of spikelet bracts pale brown to pale red-brown, &plusmn; dull, lighter than peri; pistillate inflorescence elongate, generally oblong-elliptic; generally inland <a href="/cgi-bin/get_IJM.pl?tid=17745">.....&nbsp;C. praegracilis</a> (2)</blockquote><blockquote><h3><a name=Group8>Group 8</a>: Stigmas 2, terminal spikelets generally staminate, lateral generally pistillate, rarely staminate-tipped</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIF1'">1.</a><a name="AIF1."> </a> Peri fleshy, plump, often dense-papillate, tip blunt or with beak &lt;= 0.3 mm; sheath of inflorescence bract generally > 4 mm; plants long-rhizomed
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIF2'">2.</a><a name="AIF2."> </a> Mature peri, just before dropping, bright orange (green to white when immature, as in many herbarium specimens), &plusmn; spheric, &plusmn; spreading; pistillate flower bracts spreading, often falling before peri; ripe peri smooth (often papillate when immature)<a href="/cgi-bin/get_IJM.pl?tid=17282">.....&nbsp;C. aurea</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIF2.">2'</a><a name="AIF2'"> </a> Mature peri, just before dropping, green to white, occasionally purple- or red-brown-marked, elliptic to elliptic-obovate, ascending; pistillate flower bracts ascending, generally &plusmn; persistent with peri; ripe peri dense-papillate at 10&times;
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIF3'">3.</a><a name="AIF3."> </a> Upper 1/2 of peri generally green or white, &plusmn; abruptly rounded, blunt, or only slightly narrowed, red-brown generally only on small, occasionally bent beak, if present; lower staminate flower bracts blunt or short-awned, generally &lt; 4 mm, not like inflorescence bract; spikelets 1 per lower node <a href="/cgi-bin/get_IJM.pl?tid=17476">.....&nbsp;C. hassei</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIF3.">3'</a><a name="AIF3'"> </a> Upper 1/2 of peri red-brown- or purple-splotched, gradually narrowed to tip or short straight beak; lower staminate flower bracts generally long-awned, >= 4.5 mm, like inflorescence bract; spikelets occasionally > 1 per lower node <a href="/cgi-bin/get_IJM.pl?tid=17477">.....&nbsp;C. saliniformis</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIF1.">1'</a><a name="AIF1'"> </a> Peri not fleshy, &plusmn; flat, papillate or not, tip distinctly beaked &lt; or > 0.3 mm; sheath of inflorescence bract generally &lt; 2 mm; plants long-rhizomed or cespitose
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIF4'">4.</a><a name="AIF4."> </a> Plant cespitose; peri veined
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIF5'">5.</a><a name="AIF5."> </a> Leaf sheath fronts fibrous; lower sheaths scabrous, red-brown to shiny dark brown
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIF6'">6.</a><a name="AIF6."> </a> Stem 30&ndash;70 cm, &lt; 1 cm wide at base; staminate spikelets 1&ndash;2, terminal &lt; 5 cm; peri purple-splotched on upper 2/3; below high water mark on rocky streams <a href="/cgi-bin/get_IJM.pl?tid=17676">.....&nbsp;C. nudata</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIF6.">6'</a><a name="AIF6'"> </a> Stem 75&ndash;150 cm, &plusmn; 1 cm wide at base; staminate spikelets 2&ndash;7, terminal generally > 5 cm; peri red-spotted, generally more densely so toward base; creekbanks, wet meadows, swamps <a href="/cgi-bin/get_IJM.pl?tid=17814">.....&nbsp;C. schottii</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIF5.">5'</a><a name="AIF5'"> </a> Leaf sheath fronts not fibrous; lower sheaths glabrous, dull light brown <a href="/cgi-bin/get_IJM.pl?tid=17549">.....&nbsp;C. lenticularis</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIF7'">7.</a><a name="AIF7."> </a> Lower spikelets 4&ndash;6 mm wide; peri stalks 0.4&ndash;0.7 mm; lower spikelets crowded, overlapping; peri = pistillate flower bracts; North Coast, &lt; 20 m <a href="/cgi-bin/get_IJM.pl?tid=55772">.....&nbsp;var. limnophila</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIF7.">7'</a><a name="AIF7'"> </a> Lower spikelets generally 3&ndash;4 mm wide; peri stalks 0.1&ndash;0.5 mm; lower spikelets generally more separated; peri > pistillate flower bracts; Central Coast, San Francisco Bay Area or montane, &lt; 3000 m
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIF8'">8.</a><a name="AIF8."> </a> Upper 1/2 of peri purple-dotted, abaxially 1&ndash;3-veined, beak generally purple; peri stalks 0.1&ndash;0.2 mm <a href="/cgi-bin/get_IJM.pl?tid=55766">.....&nbsp;var. impressa</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIF8.">8'</a><a name="AIF8'"> </a> Upper 1/2 of peri generally green, abaxially generally 5&ndash;7-veined, beak generally green, tip purple; peri stalks 0.2&ndash;0.5 mm <a href="/cgi-bin/get_IJM.pl?tid=55773">.....&nbsp;var. lipocarpa</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIF4.">4'</a><a name="AIF4'"> </a> Plant rhizomed; peri veined or not
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIF9'">9.</a><a name="AIF9."> </a> Leaf sheath fronts generally fibrous; lower sheaths generally scabrous
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIF10'">10.</a><a name="AIF10."> </a> Peri &plusmn; soft, thin
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIF11'">11.</a><a name="AIF11."> </a> Bladeless sheaths present on lower stem; peri 2.2&ndash;3.1 mm, 1.2&ndash;2 mm wide, weakly 1&ndash;3-veined adaxially on lower 1/2 <a href="/cgi-bin/get_IJM.pl?tid=17242">.....&nbsp;C. angustata</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIF11.">11'</a><a name="AIF11'"> </a> Bladeless sheaths 0 on lower stem; peri 3&ndash;4 mm, 2&ndash;2.2 mm wide, strongly 3&ndash;7-veined abaxially, adaxially <a href="/cgi-bin/get_IJM.pl?tid=17827">.....&nbsp;C. senta</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIF10.">10'</a><a name="AIF10'"> </a> Peri &plusmn; tough, thick
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIF12'">12.</a><a name="AIF12."> </a> Peri generally red-spotted, faintly veined, dull, beak teeth bristly; pistillate flower bract awns bristly; fruit 0 or lenticular, not indented <a href="/cgi-bin/get_IJM.pl?tid=17289">.....&nbsp;C. barbarae</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIF12.">12'</a><a name="AIF12'"> </a> Peri generally not red-spotted, not veined, shiny, beak teeth 0 or minute, not bristly; pistillate flower bract awns generally entire; fruit generally indented on 1&ndash;2 sides, like a bent beer can <a href="/cgi-bin/get_IJM.pl?tid=17680">.....&nbsp;C. obnupta</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIF9.">9'</a><a name="AIF9'"> </a> Leaf sheath fronts not fibrous (generally fibrous in <I>Carex barbarae</I>); lower sheaths generally not scabrous
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIF13'">13.</a><a name="AIF13."> </a> Spikelets drooping or nodding (generally erect when immature)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIF14'">14.</a><a name="AIF14."> </a> Longest spikelets 1.8&ndash;5 cm; fruit often indented on 1&ndash;2 sides, like a bent beer can; coastal salt marshes, freshwater intertidal zones <a href="/cgi-bin/get_IJM.pl?tid=17588">.....&nbsp;C. lyngbyei</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIF14.">14'</a><a name="AIF14'"> </a> Longest spikelets 4.55&ndash;11.5 cm; fruit not indented; coastal or inland, freshwater <a href="/cgi-bin/get_IJM.pl?tid=55640">.....&nbsp;C. aquatilis var. dives</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIF13.">13'</a><a name="AIF13'"> </a> Spikelets generally erect or ascending
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIF15'">15.</a><a name="AIF15."> </a> Mature peri faces veined, walls tough or thick
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIF16'">16.</a><a name="AIF16."> </a> Leaves green, generally not glaucous, sheath front red-dotted, generally dark copper or purple near tip, lower generally fibrous <a href="/cgi-bin/get_IJM.pl?tid=17289">.....&nbsp;C. barbarae</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIF16.">16'</a><a name="AIF16'"> </a> Leaves generally blue-green, &plusmn; glaucous, sheath fronts generally white, occasionally sparse-red-dotted or &plusmn; coppery, lower not fibrous <a href="/cgi-bin/get_IJM.pl?tid=17650">.....&nbsp;C. nebrascensis</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIF15.">15'</a><a name="AIF15'"> </a> Mature peri faces not veined, walls delicate or thin
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIF17'">17.</a><a name="AIF17."> </a> Leaf sheaths red-dotted or white; inflorescence bract generally > inflorescence; flower stem base spongy-thickened <a href="/cgi-bin/get_IJM.pl?tid=55637">.....&nbsp;C. aquatilis var. aquatilis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIF17.">17'</a><a name="AIF17'"> </a> Leaf sheaths brown- or purple-dotted; inflorescence bract &lt; inflorescence; flower stem base thin, not spongy-thickened <a href="/cgi-bin/get_IJM.pl?tid=55892">.....&nbsp;C. scopulorum var. bracteosa</a></blockquote><blockquote><h3><a name=Group9>Group 9</a>: Stigmas 2; spikelets with staminate flowers above pistillate flowers</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIH1'">1.</a><a name="AIH1."> </a> Plants rhizomed (loosely cespitose)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIH2'">2.</a><a name="AIH2."> </a> Inflorescence ovoid to oblong, open to dense; lowest spikelets generally obvious at arm's length
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIH3'">3.</a><a name="AIH3."> </a> Inflorescence 3&ndash;4 mm wide; lateral spikelets with 1&ndash;3 peri <a href="/cgi-bin/get_IJM.pl?tid=17377">.....&nbsp;C. disperma</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIH3.">3'</a><a name="AIH3'"> </a> Inflorescence > 5 mm wide; lateral spikelets with > 3 peri
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIH4'">4.</a><a name="AIH4."> </a> Peri bulging, marginal veins occasionally not visible abaxially; pistillate flower bracts often with awns > 1 mm, the bracts covering peri <a href="/cgi-bin/get_IJM.pl?tid=17908">.....&nbsp;C. tumulicola</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIH4.">4'</a><a name="AIH4'"> </a> Peri not bulging, marginal veins visible abaxially; pistillate flower bracts with awns 0 or &lt; 1 mm, the bracts &lt; or > peri, covering peri or not <a href="#Group7, couplet 12">.....&nbsp;Group 7, couplet 12</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIH2.">2'</a><a name="AIH2'"> </a> Inflorescence spheric to ovoid, dense; lowest spikelets not obvious at arm's length
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIH5'">5.</a><a name="AIH5."> </a> Spikelets generally pistillate <a href="#Group7, couplet 12">.....&nbsp;Group 7, couplet 12</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIH5.">5'</a><a name="AIH5'"> </a> Spikelets staminate/pistillate
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIH6'">6.</a><a name="AIH6."> </a> Leaves inrolled, &plusmn; = stem, 0.5&ndash;1.5 mm wide; stem curved; peri &plusmn; not inflated, > pistillate flower bracts, beak indistinct, 0.4&ndash;0.9 mm; anthers 0.9&ndash;1.4 mm <a href="/cgi-bin/get_IJM.pl?tid=17514">.....&nbsp;C. incurviformis</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIH6.">6'</a><a name="AIH6'"> </a> Leaves flat, &lt; stem, (1.5)2&ndash;3.5(4) mm wide; stem straight; peri not inflated, &plusmn; = pistillate flower bracts, beak distinct, 0.9&ndash;1.5 mm; anthers 1.5&ndash;2.8 mm <a href="/cgi-bin/get_IJM.pl?tid=17925">.....&nbsp;C. vernacula</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIH1.">1'</a><a name="AIH1'"> </a> Plants cespitose to loosely so
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIH7'">7.</a><a name="AIH7."> </a> Inflorescence branched, lower nodes or branches generally with > 1 spikelet; spikelets often > 10
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIH8'">8.</a><a name="AIH8."> </a> Leaf sheath faces red-dotted
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIH9'">9.</a><a name="AIH9."> </a> Peri pale to medium brown
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIH10'">10.</a><a name="AIH10."> </a> Peri, beak, pistillate flower bract dull yellow-brown to medium- or red-brown; pistillate flower bract awns 0.5&ndash;2 mm; peri adaxial veins 0&ndash;5, abaxial 3&ndash;7; inflorescence often continuous, obvious bracts generally 0&ndash;few; flowering stems generally longer than leaves <a href="/cgi-bin/get_IJM.pl?tid=17373">.....&nbsp;C. densa</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIH10.">10'</a><a name="AIH10'"> </a> Peri, beak, pistillate flower bract dull yellow-green to pale gray-brown; pistillate flower bract awns to 3 mm; peri adaxial veins 0, abaxial 0&ndash;3; inflorescence often interrupted, obvious bracts often > few; flowering stems generally &lt; leaves <a href="/cgi-bin/get_IJM.pl?tid=17943">.....&nbsp;C. vulpinoidea</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIH9.">9'</a><a name="AIH9'"> </a> Peri dark brown to black
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIH11'">11.</a><a name="AIH11."> </a> Leaf sheath faces widely dark or coppery at top <a href="/cgi-bin/get_IJM.pl?tid=17361">.....&nbsp;C. cusickii</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIH11.">11'</a><a name="AIH11'"> </a> Leaf sheaths faces pale, not dark or coppery at top (narrowly copper-margined)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIH12'">12.</a><a name="AIH12."> </a> Peri 3&ndash;4.5 mm, 1.4&ndash;2.1 mm wide, beak 1&ndash;1.5 mm fruit 1&ndash;1.3 mm wide <a href="/cgi-bin/get_IJM.pl?tid=17232">.....&nbsp;C. alma</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIH12.">12'</a><a name="AIH12'"> </a> Peri 2&ndash;2.9 mm, 0.9&ndash;1.4 mm wide, beak 0.9&ndash;1.1 mm; fruit 0.7&ndash;1 mm wide <a href="/cgi-bin/get_IJM.pl?tid=17375">.....&nbsp;C. diandra</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIH8.">8'</a><a name="AIH8'"> </a> Leaf sheath faces white, not red-dotted
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIH13'">13.</a><a name="AIH13."> </a> Peri widest near base, gradually narrowed to indistinct beak, length > 2 &times; width; sheath faces generally cross-wrinkled
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIH14'">14.</a><a name="AIH14."> </a> Stem not winged, mid-stem generally &lt;= 1.5 mm wide, not easily compressed between fingers; lower inflorescence branches &lt; 1 cm <a href="/cgi-bin/get_IJM.pl?tid=17659">.....&nbsp;C. neurophora</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIH14.">14'</a><a name="AIH14'"> </a> Stem wide-3-winged, mid-stem generally 2.5&ndash;7 mm wide, easily compressed between fingers; lower inflorescence branches generally 1&ndash;3+ cm <a href="/cgi-bin/get_IJM.pl?tid=55906">.....&nbsp;C. stipata var. stipata</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIH13.">13'</a><a name="AIH13'"> </a> Peri generally widest near middle, &plusmn; abruptly narrowed to distinct beak, length generally &lt; 2 &times; width; sheath faces cross-wrinkled or not
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIH15'">15.</a><a name="AIH15."> </a> Inflorescence open, lowest internode generally 2+ &times; lowest spikelet <a href="/cgi-bin/get_IJM.pl?tid=49672">.....&nbsp;C. divulsa subsp. divulsa</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIH15.">15'</a><a name="AIH15'"> </a> Inflorescence dense, lowest internode &lt; lowest spikelet (see couplet 12)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIH7.">7'</a><a name="AIH7'"> </a> Inflorescence not branched, lower nodes with 1 spikelet; spikelets generally &lt; 10
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIH16'">16.</a><a name="AIH16."> </a> Peri widest near base, gradually narrowed to indistinct beak
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIH17'">17.</a><a name="AIH17."> </a> Peri beak pale or green; introduced weeds at low elevations <a href="/cgi-bin/get_IJM.pl?tid=17891">.....&nbsp;C. texensis</a>
+
+<P class="keyText" style="padding-left : 10 ; color:blue"><font color="blue">17A. Spikelets densely clustered, indistinct at arm's length; inflorescence ovate; peri ovate <a href="/cgi-bin/get_IJM.pl?tid=17547">.....&nbsp;[C. leavenworthii]</a></font>
+
+<P class="keyText" style="padding-left : 10 ; color:blue"><font color="blue">17A' Spikelets loosely clustered, at least lowest spikelets distinct at arm's length; inflorescence narrow-oblong; peri lanceolate <a href="/cgi-bin/get_IJM.pl?tid=17891">.....&nbsp;C. texensis</a></font>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIH17.">17'</a><a name="AIH17'"> </a> Peri beak dark brown; native, often montane
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIH18'">18.</a><a name="AIH18."> </a> Leaf sheath front generally cross-wrinkled; peri beak serrate at least on 1 side <a href="/cgi-bin/get_IJM.pl?tid=17659">.....&nbsp;C. neurophora</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIH18.">18'</a><a name="AIH18'"> </a> Leaf sheath front not cross-wrinkled; peri beak entire
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIH19'">19.</a><a name="AIH19."> </a> Peri adaxial veins 5&ndash;7; lower leaves generally overlapped and hiding sheaths; sheath mouth without thick rim <a href="/cgi-bin/get_IJM.pl?tid=17524">.....&nbsp;C. jonesii</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIH19.">19'</a><a name="AIH19'"> </a> Peri adaxial veins 7&ndash;12; lower leaves generally not overlapped and hiding sheaths; sheath mouth generally with thick rim <a href="/cgi-bin/get_IJM.pl?tid=17658">.....&nbsp;C. nervina</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIH16.">16'</a><a name="AIH16'"> </a> Peri widest near middle, often abruptly narrowed to distinct beak
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIH20'">20.</a><a name="AIH20."> </a> Peri pale green or light brown; peri > pistillate flower bracts, easily visible
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIH21'">21.</a><a name="AIH21."> </a> Inflorescence lowest internode generally 2+ &times; lowest spikelet <a href="/cgi-bin/get_IJM.pl?tid=49672">.....&nbsp;C. divulsa subsp. divulsa</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIH21.">21'</a><a name="AIH21'"> </a> Inflorescence lowest internode &lt;= lowest spikelet <a href="/cgi-bin/get_IJM.pl?tid=17921">.....&nbsp;C. vallicola</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIH20.">20'</a><a name="AIH20'"> </a> Peri center brown or copper, margins generally contrasting pale or green; peri >= pistillate flower bracts, often obscured
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIH22'">22.</a><a name="AIH22."> </a> Inflorescence ovoid or spheric, 0.8&ndash;2 cm, 6&ndash;15 mm wide; lower spikelets generally not distinct <a href="/cgi-bin/get_IJM.pl?tid=17499">.....&nbsp;C. hoodii</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIH22.">22'</a><a name="AIH22'"> </a> Inflorescence oblong, 1.5&ndash;5 cm, 6&ndash;10 mm wide; lower spikelets &plusmn; distinct
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIH23'">23.</a><a name="AIH23."> </a> Peri ascending to spreading, beak 0.6&ndash;1.3 mm; pistillate flower bracts 3.4&ndash;4 mm, 1.6&ndash;2 mm wide; lower bracts generally &lt; spikelets, inflorescence <a href="/cgi-bin/get_IJM.pl?tid=17683">.....&nbsp;C. occidentalis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIH23.">23'</a><a name="AIH23'"> </a> Peri erect, beak 1.2&ndash;3 mm; pistillate flower bracts 4&ndash;5.2 mm, 2&ndash;2.8 mm wide; lower bracts > spikelets, often > inflorescence <a href="/cgi-bin/get_IJM.pl?tid=17908">.....&nbsp;C. tumulicola</a> (2)</blockquote><blockquote><h3><a name=Group10>Group 10</a>: Stigmas 2; spikelets with pistillate flowers above staminate flowers; peri not winged; stems generally solid</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIJ1'">1.</a><a name="AIJ1."> </a> Inflorescence bracts >> inflorescence; plant rhizomed; &lt; 100 m <a href="/cgi-bin/get_IJM.pl?tid=91115">.....&nbsp;C. inversa</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIJ1.">1'</a><a name="AIJ1'"> </a> Inflorescence bracts generally &lt; inflorescence; plant cespitose to loosely so; generally &lt; 3500 m
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIJ2'">2.</a><a name="AIJ2."> </a> Peri spreading or reflexed, beak obvious, spikelet outline jagged at arm's length
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIJ3'">3.</a><a name="AIJ3."> </a> Staminate flower bracts inconspicuous in wide terminal spikelet
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIJ4'">4.</a><a name="AIJ4."> </a> Pistillate flower bracts green, white, or light brown, spikelets green or pale brown; inflorescence oblong, elliptic, or lanceolate, >= 1.5 cm <a href="/cgi-bin/get_IJM.pl?tid=17263">.....&nbsp;C. arcta</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIJ4.">4'</a><a name="AIJ4'"> </a> Pistillate flower bracts &plusmn; black, spikelets dark; inflorescence ovoid, &lt;= 1.5 cm <a href="/cgi-bin/get_IJM.pl?tid=17512">.....&nbsp;C. illota</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIJ3.">3'</a><a name="AIJ3'"> </a> Staminate flower bracts obvious at narrowed base of terminal spikelet
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIJ5'">5.</a><a name="AIJ5."> </a> Peri ascending to spreading, beak 15&ndash;40% peri length, peri attached at base <a href="/cgi-bin/get_IJM.pl?tid=17535">.....&nbsp;C. laeviculmis</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIJ5.">5'</a><a name="AIJ5'"> </a> Peri widely spreading or reflexed, beak generally 20&ndash;85% peri length, peri attached near base abaxially
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIJ6'">6.</a><a name="AIJ6."> </a> Lower peri in spikelet &plusmn; abruptly narrowed to short beak, margin with slight bulge or shoulder; beak 0.4&ndash;0.95, 18&ndash;44% length of body, peri generally 1.9&ndash;3.3 mm, length 1&ndash;2(2.2) &times; width <a href="/cgi-bin/get_IJM.pl?tid=17519">.....&nbsp;C. interior</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIJ6.">6'</a><a name="AIJ6'"> </a> Lower peri in spikelet more gradually narrowed to longer beak, margin without bulge or shoulder; beak 0.95&ndash;2 mm, 35&ndash;86% length of body, peri generally 2.9&ndash;4.75 mm, length 1.7&ndash;3.6 &times; width <a href="/cgi-bin/get_IJM.pl?tid=76612">.....&nbsp;C. echinata</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIJ7'">7.</a><a name="AIJ7."> </a> Peri generally 2.9&ndash;4 mm, veins generally 0 over fruit adaxially; widest leaves generally 0.7&ndash;2.7 mm wide; inflorescence open to dense; Klamath Ranges, Outer North Coast Ranges, High Cascade Range, High Sierra Nevada, San Bernardino Mountains, &lt; 3200 m <a href="/cgi-bin/get_IJM.pl?tid=49674">.....&nbsp;subsp. echinata</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIJ7.">7'</a><a name="AIJ7'"> </a> Peri generally 3.5&ndash;4.75 mm, veins 2&ndash;12 over fruit adaxially; widest leaves generally 1.7&ndash;3.8 mm wide; inflorescence dense; North Coast, Central Coast, &lt; 200 m <a href="/cgi-bin/get_IJM.pl?tid=49675">.....&nbsp;subsp. phyllomanica</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIJ2.">2'</a><a name="AIJ2'"> </a> Peri ascending or beak inconspicuous, spikelet outline generally smooth at arm's length
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIJ8'">8.</a><a name="AIJ8."> </a> Peri beak 0&ndash;0.5 mm; peri widest near middle
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIJ9'">9.</a><a name="AIJ9."> </a> Peri fleshy; terminal spikelet generally obviously staminate at base, some terminal spikelets entirely staminate (see Group 8, couplet 2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIJ9.">9'</a><a name="AIJ9'"> </a> Peri not fleshy; terminal spikelet inconspicuously staminate at base, not entirely staminate
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIJ10'">10.</a><a name="AIJ10."> </a> Peri beak abaxial flap pale, non-contrasting, not reaching to just below base of beak; stem generally erect, (10)30&ndash;90 cm <a href="/cgi-bin/get_IJM.pl?tid=49662">.....&nbsp;C. canescens subsp. canescens</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIJ10.">10'</a><a name="AIJ10'"> </a> Peri beak abaxial flap dark, contrasting, reaching to just below base of beak; stems generally leaning at 45&deg; angle, 10&ndash;30 cm <a href="/cgi-bin/get_IJM.pl?tid=17744">.....&nbsp;C. praeceptorum</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIJ8.">8'</a><a name="AIJ8'"> </a> Peri beak generally 0.5&ndash;2.5 mm; peri widest below middle or near base
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIJ11'">11.</a><a name="AIJ11."> </a> Inflorescence straight; spikelets clustered, lowest > lowest internode <a href="/cgi-bin/get_IJM.pl?tid=17263">.....&nbsp;C. arcta</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIJ11.">11'</a><a name="AIJ11'"> </a> Inflorescence generally bent at lowest spikelet; spikelets separated, lowest generally &lt; lowest internode
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIJ12'">12.</a><a name="AIJ12."> </a> Peri beak 15&ndash;38% peri length (beak measured from fruit top, on peri from middle of spikelet)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIJ13'">13.</a><a name="AIJ13."> </a> Peri ascending or spreading, 2.3&ndash;3.7 mm, beak occasionally recurved; leaves 0.9&ndash;2.3 mm wide <a href="/cgi-bin/get_IJM.pl?tid=17535">.....&nbsp;C. laeviculmis</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIJ13.">13'</a><a name="AIJ13'"> </a> Peri erect or ascending, 2.8&ndash;4.5 mm, beak not recurved; leaves 2.4&ndash;5.9 mm wide <a href="/cgi-bin/get_IJM.pl?tid=17564">.....&nbsp;C. leptopoda</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIJ12.">12'</a><a name="AIJ12'"> </a> Peri beak 39&ndash;53% peri length (beak measured from fruit top, on peri from middle of spikelet)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIJ14'">14.</a><a name="AIJ14."> </a> Peri beak teeth prominent, 0.2&ndash;1 mm; mid-stem glabrous or &plusmn; scabrous at 20&times; <a href="/cgi-bin/get_IJM.pl?tid=17303">.....&nbsp;C. bolanderi</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIJ14.">14'</a><a name="AIJ14'"> </a> Peri beak teeth not prominent, 0&ndash;0.2(0.4) mm; mid-stem papillate at 20&times; <a href="/cgi-bin/get_IJM.pl?tid=82101">.....&nbsp;C. infirminervia</a></blockquote><blockquote><h3><a name=Group11>Group 11</a>: (sect. <I>Ovales</I>) Stigmas 2; spikelets with pistillate flowers above staminate; peri winged; stem hollow. Inflorescence bracts generally elongate on first flush of growth of some species, but other species sporadically produce elongate inflorescence bracts on late season shoots (e.g., <I>C. fracta</I>, <I>C. specifica</I>, <I>C. subfusca</I>). Late season shoots often with atypically elongate or compact inflorescence, and/or atypically shaped peri. Peri beak shape variable in some species (e.g., <I>C. fracta</I>, <I>C. preslii</I>, <I>C. subfusca</I>), &plusmn; uniform, important in others, e.g., <I>C. specifica</I> (see illustration), with beak margin either &plusmn; flat and serrate or &plusmn; so, except tip entire 0&ndash;0.3 mm, or e.g., <I>C. abrupta</I> (see illustration), beak tips &plusmn; cylindric, tip entire for >= 0.4 mm. [Note: For keying, use subbasal peri in mature spikelets from first flush of growth; avoid peri from upper 1/2 of spikelet, they are narrow and not diagnostic; similarly basal-most peri are occasionally malformed; use ripe peri, immature peri generally do not show critical ventral veins]</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIL1'">1.</a><a name="AIL1."> </a> Leaf sheath front green &plusmn; to top, white-translucent triangular area extending &lt; 6 mm below top <a href="#Group11A">.....&nbsp;Group 11A</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIL1.">1'</a><a name="AIL1'"> </a> Leaf sheath front with extensive white-translucent zone extending > 10 mm below top
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIL2'">2.</a><a name="AIL2."> </a> Contraligule 3&ndash;13 mm <a href="#Group11B">.....&nbsp;Group 11B</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIL2.">2'</a><a name="AIL2'"> </a> Contraligule 0&ndash;2 mm
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIL3'">3.</a><a name="AIL3."> </a> Peri margin entire and marginal wings 0 or &lt; 0.2 mm wide <a href="#Group11C">.....&nbsp;Group 11C</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIL3.">3'</a><a name="AIL3'"> </a> Peri margin minute-serrate, especially upper body or beak base or marginal wings generally > 0.2 mm wide
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIL4'">4.</a><a name="AIL4."> </a> Pistillate flower bracts uniformly covering and &plusmn; obscuring peri; peri generally with strong abaxial veins <a href="#Group11D">.....&nbsp;Group 11D</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIL4.">4'</a><a name="AIL4'"> </a> Pistillate flower bracts &lt; or narrower than peri, peri easily visible; peri with strong abaxial veins or not
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIL5'">5.</a><a name="AIL5."> </a> Larger peri 6&ndash;9.3 mm <a href="#Group11E">.....&nbsp;Group 11E</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIL5.">5'</a><a name="AIL5'"> </a> Larger peri &lt; 6 mm
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIL6'">6.</a><a name="AIL6."> </a> Inflorescence bract obvious, > inflorescence <a href="#Group11F">.....&nbsp;Group 11F</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIL6.">6'</a><a name="AIL6'"> </a> Inflorescence bract inconspicuous, &lt; inflorescence
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AIL7'">7.</a><a name="AIL7."> </a> Peri beak tip broadly winged and flattened, minute-serrate throughout or &plusmn; so (cylindric entire tip &lt;= 0.3 mm), generally pale or only slightly darkened <a href="#Group11G">.....&nbsp;Group 11G</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AIL7.">7'</a><a name="AIL7'"> </a> Peri beak tip cylindric, entire >= 0.4 mm, often darkened or &plusmn; black <a href="#Group11H">.....&nbsp;Group 11H</a></blockquote><blockquote><h3><a name=Group11A>Group 11A</a>: Leaf sheath front green &plusmn; to top</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIN1'">1.</a><a name="AIN1."> </a> Peri gradually narrowed to indistinct beak, generally lanceolate; pistillate flower bract tip acuminate to short-awned <a href="/cgi-bin/get_IJM.pl?tid=55888">.....&nbsp;C. scoparia var. scoparia</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIN1.">1'</a><a name="AIN1'"> </a> Peri abruptly narrowed to distinct beak, ovate to &plusmn; round to obovate or widely elliptic; pistillate flower bract tip blunt to acute
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIN2'">2.</a><a name="AIN2."> </a> Peri body widest at or below middle; vegetative stems not leaning or branching or rooting at nodes <a href="/cgi-bin/get_IJM.pl?tid=17416">.....&nbsp;C. feta</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIN2.">2'</a><a name="AIN2'"> </a> Peri body widest above middle; vegetative stems occasionally leaning or branching or rooting at nodes <a href="/cgi-bin/get_IJM.pl?tid=17576">.....&nbsp;C. longii</a></blockquote><blockquote><h3><a name=Group11B>Group 11B</a>: Ligules long, sleeve-like</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIP1'">1.</a><a name="AIP1."> </a> Inflorescence generally short, generally &plusmn; ovate, dense, &plusmn; head-like <a href="/cgi-bin/get_IJM.pl?tid=17643">.....&nbsp;C. pachycarpa</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIP1.">1'</a><a name="AIP1'"> </a> Inflorescence elliptic to oblong, dense or not, not head-like
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIP2'">2.</a><a name="AIP2."> </a> Peri wings generally 0.1&ndash;0.25 mm wide at mid-body; contraligule generally 5&ndash;13 mm; inflorescence often &plusmn;white or green (pale brown); peri abruptly narrowed to distinct beak <a href="/cgi-bin/get_IJM.pl?tid=17434">.....&nbsp;C. fracta</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIP2.">2'</a><a name="AIP2'"> </a> Peri wings generally 0.3&ndash;0.5 mm wide at mid-body; contraligule generally 1&ndash;5 mm; inflorescence green or light- to rusty-brown; peri abruptly or gradually narrowed to beak
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIP3'">3.</a><a name="AIP3."> </a> Peri adaxial veins generally 1&ndash;6, 0 exceeding fruit; peri ovate to narrow-ovate, 3.7&ndash;5.5 mm, walls translucent to opaque <a href="/cgi-bin/get_IJM.pl?tid=17642">.....&nbsp;C. multicostata</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIP3.">3'</a><a name="AIP3'"> </a> Peri adaxial veins generally 6&ndash;10, >= 3 exceeding fruit; peri generally lanceolate, 4.9&ndash;6.6 mm, walls generally translucent <a href="/cgi-bin/get_IJM.pl?tid=17838">.....&nbsp;C. specifica</a></blockquote><blockquote><h3><a name=Group11C>Group 11C</a>: Peri marginal wings entire (generally 0 in <I>Carex illota</I>)</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIR1'">1.</a><a name="AIR1."> </a> Peri spreading, margins sharp-edged but not winged at mid-body; pistillate flower bracts and spikelets dark brown to &plusmn; black; inflorescence dense, length &lt;= 2 &times; width, often wider than long; peri gradually narrowed to indistinct beak (beak base occasionally winged &plusmn; 0.1 mm); peri base with spongy or pithy interior around fruit <a href="/cgi-bin/get_IJM.pl?tid=17512">.....&nbsp;C. illota</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIR1.">1'</a><a name="AIR1'"> </a> Peri ascending, margins winged &lt;= 0.2 mm at mid-body; pistillate flower bracts and spikelets pale to dark brown; inflorescence often &plusmn; open, length 3+ &times; width; peri abruptly or gradually narrowed to &plusmn; distinct beak; peri base without spongy or pithy interior around fruit
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIR2'">2.</a><a name="AIR2."> </a> Peri wings often inrolled, beak generally with inconspicuous flap; fruit generally 1.7&ndash;2.3 mm, generally 1.1&ndash;1.5 mm wide; &lt; 850 m <a href="/cgi-bin/get_IJM.pl?tid=17453">.....&nbsp;C. gracilior</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIR2.">2'</a><a name="AIR2'"> </a> Peri wings flat, beak with obvious white-margined flap; fruit 1.1&ndash;1.4 mm, 0.7&ndash;1 mm wide; 1000&ndash;3400 m <a href="/cgi-bin/get_IJM.pl?tid=17518">.....&nbsp;C. integra</a></blockquote><blockquote><h3><a name=Group11D>Group 11D</a>: Peri covered by pistillate flower bracts; peri abaxially strongly 3&ndash;14-veined</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIT1'">1.</a><a name="AIT1."> </a> Inflorescence &plusmn; bent, flexible, or nodding
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIT2'">2.</a><a name="AIT2."> </a> Peri wing generally 0.1&ndash;0.2 mm wide, inrolled, not visible in abaxial view; peri generally without adaxial veins, margins often entire above widest point <a href="/cgi-bin/get_IJM.pl?tid=17453">.....&nbsp;C. gracilior</a> (2)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIT2.">2'</a><a name="AIT2'"> </a> Peri wing generally 0.2&ndash;0.6 mm wide, flat, visible in abaxial view; peri often with strong adaxial veins, margins serrate above widest point
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIT3'">3.</a><a name="AIT3."> </a> Peri beak tip brown, cylindric and entire > 0.4 mm, or flat and entire &lt; 0.4 mm; peri generally &plusmn; flat except over fruit, body generally wide-elliptic <a href="/cgi-bin/get_IJM.pl?tid=17557">.....&nbsp;C. leporina</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIT3.">3'</a><a name="AIT3'"> </a> Peri beak tip white, generally cylindric, entire > 0.4 mm; peri generally &plusmn; planoconvex, body generally narrow-elliptic <a href="/cgi-bin/get_IJM.pl?tid=17749">.....&nbsp;C. praticola</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIT1.">1'</a><a name="AIT1'"> </a> Inflorescence straight, stiff, erect
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIT4'">4.</a><a name="AIT4."> </a> Longer peri 6&ndash;8.1 mm
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIT5'">5.</a><a name="AIT5."> </a> Inflorescence open; peri beak with obvious white abaxial flap; peri walls thick, opaque <a href="/cgi-bin/get_IJM.pl?tid=17723">.....&nbsp;C. petasata</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIT5.">5'</a><a name="AIT5'"> </a> Inflorescence dense; peri beak with inconspicuous abaxial flap; peri walls thin, &plusmn; translucent <a href="/cgi-bin/get_IJM.pl?tid=17838">.....&nbsp;C. specifica</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIT4.">4'</a><a name="AIT4'"> </a> Longer peri &lt; 6 mm
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIT6'">6.</a><a name="AIT6."> </a> Peri 0.8&ndash;1.2 mm wide, beak indistinct, wings generally incurved <a href="/cgi-bin/get_IJM.pl?tid=17559">.....&nbsp;C. leporinella</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIT6.">6'</a><a name="AIT6'"> </a> Peri 1.3&ndash;2.6 mm wide, beak distinct or not, wings not incurved
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIT7'">7.</a><a name="AIT7."> </a> Peri generally widest near or above middle; inflorescence generally dense, spikelets overlapped; leaf sheath mouth white; subalpine to alpine, 2500&ndash;4000 m
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIT8'">8.</a><a name="AIT8."> </a> Strong adaxial peri veins generally 0(4); peri walls thin, &plusmn; translucent <a href="/cgi-bin/get_IJM.pl?tid=17726">.....&nbsp;C. phaeocephala</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIT8.">8'</a><a name="AIT8'"> </a> Strong adaxial peri veins 3&ndash;8; peri walls thick, opaque <a href="/cgi-bin/get_IJM.pl?tid=17884">.....&nbsp;C. tahoensis</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIT7.">7'</a><a name="AIT7'"> </a> Peri generally widest below middle; inflorescence dense or open, spikelets overlapped or not; leaf sheath mouth occasionally brown-tinged; coastal, montane, 0&ndash;3500 m
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIT9'">9.</a><a name="AIT9."> </a> Peri adaxial veins generally reaching beak base; peri walls sometimes thin, &plusmn; translucent
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIT10'">10.</a><a name="AIT10."> </a> Peri not shiny at 10&times;, beak tip &plusmn; flat, serrate; inflorescence elongate, generally open, green or gold; montane, 800&ndash;3500 m <a href="#Group11B, couplet 2">.....&nbsp;Group 11B, couplet 2</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIT10.">10'</a><a name="AIT10'"> </a> Peri &plusmn; shiny at 10&times;, beak tip cylindric, entire; inflorescence ovoid, dense, generally brown or coppery; coastal, insular, or montane, &lt; 900 m <a href="/cgi-bin/get_IJM.pl?tid=17474">.....&nbsp;C. harfordii</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIT9.">9'</a><a name="AIT9'"> </a> Peri adaxial veins 0 or generally reaching at most to fruit tip; peri walls generally &plusmn; thick, opaque
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIT11'">11.</a><a name="AIT11."> </a> Well-developed peri with wing at mid-body generally 0.4&ndash;0.6 mm wide <a href="/cgi-bin/get_IJM.pl?tid=17557">.....&nbsp;C. leporina</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIT11.">11'</a><a name="AIT11'"> </a> Well-developed peri with wing at mid-body &lt;= 0.4 mm wide
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AIT12'">12.</a><a name="AIT12."> </a> Inflorescence generally open, lower spikelets distinct; peri wings generally 0.1&ndash;0.2 mm wide at mid-body, generally inrolled, not visible abaxially, margins at 16&times; entire from base to above widest point; peri upper body entire or not, beak minute-serrate; leaf blades 1.2&ndash;3 mm wide <a href="/cgi-bin/get_IJM.pl?tid=17453">.....&nbsp;C. gracilior</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AIT12.">12'</a><a name="AIT12'"> </a> Inflorescence &plusmn; dense (except on late season stems), lower spikelets often clustered or overlapped, indistinct; peri wings generally 0.2&ndash;0.3(0.4) mm wide at mid-body, flat, visible abaxially, margins at 16&times; entire from base to &plusmn; widest point; peri upper body, most of beak minute-serrate; leaf blades 1.3&ndash;4.6 mm wide <a href="/cgi-bin/get_IJM.pl?tid=17866">.....&nbsp;C. subbracteata</a></blockquote><blockquote><h3><a name=Group11E>Group 11E</a>: Larger peri 6&ndash;9.3 mm</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIV1'">1.</a><a name="AIV1."> </a> Inflorescence &plusmn; ovate (elliptic, triangular), dense, head-like
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIV2'">2.</a><a name="AIV2."> </a> Pistillate flower bracts generally dark brown to &plusmn; black; peri flat except over fruit <a href="/cgi-bin/get_IJM.pl?tid=17478">.....&nbsp;C. haydeniana</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIV2.">2'</a><a name="AIV2'"> </a> Pistillate flower bracts light brown or red-brown; peri planoconvex <a href="/cgi-bin/get_IJM.pl?tid=17643">.....&nbsp;C. pachycarpa</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIV1.">1'</a><a name="AIV1'"> </a> Inflorescence elliptic to oblong, dense or not, not head-like
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIV3'">3.</a><a name="AIV3."> </a> Inflorescence bent or flexed at lower node, curved <a href="/cgi-bin/get_IJM.pl?tid=17749">.....&nbsp;C. praticola</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIV3.">3'</a><a name="AIV3'"> </a> Inflorescence straight
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIV4'">4.</a><a name="AIV4."> </a> Peri base abruptly narrowed to stalk 0.5&ndash;1 mm (measured below fruit base); inflorescence generally dense, elliptic, spikelets (4)6&ndash;14; peri margin crinkled or flat; pistillate flower bracts green to light brown or red-brown <a href="/cgi-bin/get_IJM.pl?tid=17838">.....&nbsp;C. specifica</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIV4.">4'</a><a name="AIV4'"> </a> Peri base abruptly narrowed to stalk 1&ndash;2 mm (measured below fruit base); inflorescence open, oblong, spikelets 1&ndash;7; peri margin flat; pistillate flower bracts red-brown
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIV5'">5.</a><a name="AIV5."> </a> Translucent pistillate flower bract margins &lt;= 0.4 mm; peri beak abaxial flap inconspicuous <a href="/cgi-bin/get_IJM.pl?tid=17365">.....&nbsp;C. davyi</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIV5.">5'</a><a name="AIV5'"> </a> Translucent pistillate flower bract margins generally > 0.4 mm wide; peri beak abaxial flap obvious <a href="/cgi-bin/get_IJM.pl?tid=17723">.....&nbsp;C. petasata</a></blockquote><blockquote><h3><a name=Group11F>Group 11F</a>: Inflorescence bract generally 2&ndash;3 &times; inflorescence</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIX1'">1.</a><a name="AIX1."> </a> Inflorescence &plusmn; lateral, lowest bract wide, leaf-like, erect, appearing to be continuation of stem; most peri beaks flat, winged, minute-serrate (cylindric, unwinged, entire portion &lt; 0.4 mm) <a href="/cgi-bin/get_IJM.pl?tid=17915">.....&nbsp;C. unilateralis</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIX1.">1'</a><a name="AIX1'"> </a> Inflorescence &plusmn; terminal, lowest bract often narrower, less leaf-like, ascending or spreading, not appearing to be continuation of stem; peri beaks &plusmn; flat or cylindric (unwinged, entire portion > 0.4 mm)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIX2'">2.</a><a name="AIX2."> </a> Peri adaxial veins exceeding fruit top
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIX3'">3.</a><a name="AIX3."> </a> Contraligule generally 5&ndash;13 mm; inflorescence 2.5&ndash;8 cm, generally &plusmn; white or green (to pale brown) <a href="/cgi-bin/get_IJM.pl?tid=17434">.....&nbsp;C. fracta</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIX3.">3'</a><a name="AIX3'"> </a> Contraligule 0 or &lt; 3 mm; inflorescence 1.5&ndash;4 cm, generally dark brown or &plusmn; black <a href="/cgi-bin/get_IJM.pl?tid=17474">.....&nbsp;C. harfordii</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIX2.">2'</a><a name="AIX2'"> </a> Peri adaxial veins 0 or not exceeding fruit top
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIX4'">4.</a><a name="AIX4."> </a> Peri base abruptly narrowed to distinct stalk (on dried material often bent or crumpled); peri strongly flattened except over fruit, or occasionally biconvex <a href="/cgi-bin/get_IJM.pl?tid=17271">.....&nbsp;C. athrostachya</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIX4.">4'</a><a name="AIX4'"> </a> Peri stalk indistinct or 0; peri planoconvex
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIX5'">5.</a><a name="AIX5."> </a> Peri generally 3.5&ndash;4.7(5.7) mm; inflorescence coarse, parts large at arm's length; &lt; 900 m <a href="/cgi-bin/get_IJM.pl?tid=17866">.....&nbsp;C. subbracteata</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIX5.">5'</a><a name="AIX5'"> </a> Peri generally 2.3&ndash;3.5 mm; inflorescence fine, parts small at arm's length; (75)700&ndash;3800 m <a href="/cgi-bin/get_IJM.pl?tid=17597">.....&nbsp;C. subfusca</a></blockquote><blockquote><h3><a name=Group11G>Group 11G</a>: Peri beak wide-winged, minute-serrate; tip cylindric, entire &lt; 0.4 mm</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIZ1'">1.</a><a name="AIZ1."> </a> Inflorescence bent or flexed at lowest node <a href="/cgi-bin/get_IJM.pl?tid=55888">.....&nbsp;C. scoparia var. scoparia</a> (2)
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AIZ1.">1'</a><a name="AIZ1'"> </a> Inflorescence erect, not bent or flexed at lowest node
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIZ2'">2.</a><a name="AIZ2."> </a> Widest peri 2.2&ndash;3.4 mm wide
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIZ3'">3.</a><a name="AIZ3."> </a> Peri wide-ovate or -elliptic or &plusmn; round, winged margin generally 0.5&ndash;1 mm wide <a href="/cgi-bin/get_IJM.pl?tid=17857">.....&nbsp;C. straminiformis</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIZ3.">3'</a><a name="AIZ3'"> </a> Peri lanceolate to ovate, winged margin generally 0.3&ndash;0.5 mm wide
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIZ4'">4.</a><a name="AIZ4."> </a> Inflorescence dense, &plusmn; spheric, 10&ndash;22 mm; peri 4.9&ndash;5.9(6) mm <a href="/cgi-bin/get_IJM.pl?tid=17643">.....&nbsp;C. pachycarpa</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIZ4.">4'</a><a name="AIZ4'"> </a> Inflorescence open, linear-oblong, 20&ndash;60 mm; peri (5.7)6&ndash;8.1 mm <a href="/cgi-bin/get_IJM.pl?tid=17723">.....&nbsp;C. petasata</a> (2)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AIZ2.">2'</a><a name="AIZ2'"> </a> Widest peri &lt;= 2.1 mm wide
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIZ5'">5.</a><a name="AIZ5."> </a> Wider peri wings generally 0.1&ndash;0.3 mm at midbody
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIZ6'">6.</a><a name="AIZ6."> </a> Inflorescence 2.5&ndash;8 cm; contraligule generally 5&ndash;13 mm; peri adaxial veins exceeding fruit generally >=3 <a href="/cgi-bin/get_IJM.pl?tid=17434">.....&nbsp;C. fracta</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIZ6.">6'</a><a name="AIZ6'"> </a> Inflorescence 1.1&ndash;3 cm; contraligule generally &lt; 3 mm; peri adaxial veins generally 0 or not exceeding fruit <a href="/cgi-bin/get_IJM.pl?tid=17597">.....&nbsp;C. subfusca</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AIZ5.">5'</a><a name="AIZ5'"> </a> Wider peri wings generally 0.3&ndash;0.5 mm at midbody
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIZ7'">7.</a><a name="AIZ7."> </a> Inflorescence &plusmn; ovate (elliptic, triangular), &plusmn; head-like
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIZ8'">8.</a><a name="AIZ8."> </a> Peri thick, planoconvex, abaxial veins 8&ndash;17, wide, tissue often sunken between veins; adaxial veins 0&ndash;12; individual spikelets generally indistinct at arm's length <a href="/cgi-bin/get_IJM.pl?tid=17643">.....&nbsp;C. pachycarpa</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIZ8.">8'</a><a name="AIZ8'"> </a> Peri thin, flat, abaxial veins 0&ndash;8, thin, tissue not sunken between veins; adaxial veins 0&ndash;5; individual spikelets distinct at arm's length <a href="/cgi-bin/get_IJM.pl?tid=55888">.....&nbsp;C. scoparia var. scoparia</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AIZ7.">7'</a><a name="AIZ7'"> </a> Inflorescence oblong, lanceolate, or elliptic, generally not head-like
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIZ9'">9.</a><a name="AIZ9."> </a> Inflorescence generally open, linear-oblong, spikelets distinct at arm's length <a href="/cgi-bin/get_IJM.pl?tid=17723">.....&nbsp;C. petasata</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AIZ9.">9'</a><a name="AIZ9'"> </a> Inflorescence often dense, elliptic to lanceolate or oblanceolate, at least upper spikelets indistinct at arm's length
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIZ10'">10.</a><a name="AIZ10."> </a> Peri adaxial veins exceeding fruit; peri generally 4.9&ndash;6.6 mm, generally lanceolate <a href="/cgi-bin/get_IJM.pl?tid=17838">.....&nbsp;C. specifica</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AIZ10.">10'</a><a name="AIZ10'"> </a> Peri adaxial veins generally shorter, not exceeding fruit or 0; peri 3.3&ndash;5.5 mm, generally ovate
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AIZ11'">11.</a><a name="AIZ11."> </a> Peri generally gradually narrowed to indistinct beak, adaxial veins obvious, (1)3&ndash;13; peri walls translucent to opaque <a href="/cgi-bin/get_IJM.pl?tid=17642">.....&nbsp;C. multicostata</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AIZ11.">11'</a><a name="AIZ11'"> </a> Peri abruptly narrowed to distinct beak, adaxial veins 0 (3, inconspicuous); peri walls opaque <a href="/cgi-bin/get_IJM.pl?tid=17750">.....&nbsp;C. preslii</a></blockquote><blockquote><h3><a name=Group11H>Group 11H</a>: Peri beak tip generally cylindric, generally entire >= 0.4 mm</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AJB1'">1.</a><a name="AJB1."> </a> Peri flat, thin except over fruit (&plusmn; inflated, convex both faces)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AJB2'">2.</a><a name="AJB2."> </a> Peri wide-elliptic to &plusmn; round, margins occasionally crinkled or ruffled, beak distinct, 20&ndash;25% of total peri length; anthers early-deciduous to persistent; pistillate flower bracts 1/2 peri width
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AJB3'">3.</a><a name="AJB3."> </a> Peri beak &lt;= 1.2 mm; leaves generally 0.5&ndash;2.7 mm wide when flat, in life generally folded or channeled toward base; inflorescence dense to more open, ovate, elliptic, or oblong <a href="/cgi-bin/get_IJM.pl?tid=17752">.....&nbsp;C. proposita</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AJB3.">3'</a><a name="AJB3'"> </a> Peri beak generally 1.2&ndash;1.5 mm; leaves (1.7)3&ndash;4 mm wide when flat, in life flat or folded; inflorescence generally dense, ovate <a href="/cgi-bin/get_IJM.pl?tid=17857">.....&nbsp;C. straminiformis</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AJB2.">2'</a><a name="AJB2'"> </a> Peri ovate to lanceolate, margins generally flat, beak indistinct or > 25% of total peri length; anthers generally deciduous; pistillate flower bracts > 1/2 peri width
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AJB4'">4.</a><a name="AJB4."> </a> Most peri distinctly short-stalked, dried stalks often bent or crumpled; inflorescence bract on some heads long-awned, wide at base <a href="/cgi-bin/get_IJM.pl?tid=17271">.....&nbsp;C. athrostachya</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AJB4.">4'</a><a name="AJB4'"> </a> Most or all peri not distinctly stalked; inflorescence bract rarely long-awned or wide at base
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AJB5'">5.</a><a name="AJB5."> </a> Peri 4&ndash;6.5 mm, (2.3)2.6&ndash;4.2 mm beak tip to fruit; peri green, dark brown, or coppery, margins often darker than wings; stem 9&ndash;20(40) cm; subalpine to alpine <a href="/cgi-bin/get_IJM.pl?tid=17478">.....&nbsp;C. haydeniana</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AJB5.">5'</a><a name="AJB5'"> </a> Peri (2.8)3.4&ndash;4.5(5.2) mm, 1.5&ndash;2.5(2.8) mm beak tip to fruit; peri green to light brown, center often brown, margin color generally same as wings; stem 20&ndash;110 cm; montane to alpine <a href="/cgi-bin/get_IJM.pl?tid=17628">.....&nbsp;C. microptera</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AJB1.">1'</a><a name="AJB1'"> </a> Peri generally planoconvex, thick
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AJB6'">6.</a><a name="AJB6."> </a> Peri adaxial veins generally 3&ndash;10, generally exceeding fruit
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AJB7'">7.</a><a name="AJB7."> </a> Inflorescence elongated, oblong to elliptic, not head-like, lower spikelets generally distinct, bases generally tapered; montane
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AJB8'">8.</a><a name="AJB8."> </a> Peri 2.5&ndash;4.8(5.3) mm <a href="/cgi-bin/get_IJM.pl?tid=17607">.....&nbsp;C. mariposana</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AJB8.">8'</a><a name="AJB8'"> </a> Peri (5.7)6&ndash;8.5 mm <a href="/cgi-bin/get_IJM.pl?tid=17723">.....&nbsp;C. petasata</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AJB7.">7'</a><a name="AJB7'"> </a> Inflorescence compact, often ovoid, head-like, lower spikelets indistinct, bases generally blunt; coastal or montane
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AJB9'">9.</a><a name="AJB9."> </a> Peri margins entire from base to &plusmn; widest point, minute-serrate on beak and upper body; stems erect, not branched at nodes; sheath face tops generally pale; generally without leaf-like inflorescence bract; 1200&ndash;3450 m <a href="/cgi-bin/get_IJM.pl?tid=17207">.....&nbsp;C. abrupta</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AJB9.">9'</a><a name="AJB9'"> </a> Peri margins entire from base often to above widest point, minute-serrate on beak and occasionally uppermost body; stems often leaning, occasionally branched at nodes, branches leafy or fertile; sheath face tops often brown-tinged; inflorescence bract occasionally leaf-like; &lt; 900 m <a href="/cgi-bin/get_IJM.pl?tid=17474">.....&nbsp;C. harfordii</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AJB6.">6'</a><a name="AJB6'"> </a> Peri adaxial veins 0 or short, 0 (1) exceeding fruit
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AJB10'">10.</a><a name="AJB10."> </a> Peri margins at 16&times; entire from base to above widest point; marginal wings at mid-body often inrolled so not visible from abaxial side <a href="/cgi-bin/get_IJM.pl?tid=17453">.....&nbsp;C. gracilior</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AJB10.">10'</a><a name="AJB10'"> </a> Peri margins at 16&times; entire from base to &plusmn; widest point; marginal wings at mid-body generally not inrolled, visible from abaxial side
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AJB11'">11.</a><a name="AJB11."> </a> Pistillate flower bracts generally 4.2&ndash;5.8 mm, &plusmn; hiding peri
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AJB12'">12.</a><a name="AJB12."> </a> Inflorescence generally open, often bent or flexed at lowest node, most spikelets distinct at arm's length <a href="/cgi-bin/get_IJM.pl?tid=17749">.....&nbsp;C. praticola</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AJB12.">12'</a><a name="AJB12'"> </a> Inflorescence generally dense, erect, most spikelets indistinct at arm's length <a href="/cgi-bin/get_IJM.pl?tid=17866">.....&nbsp;C. subbracteata</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AJB11.">11'</a><a name="AJB11'"> </a> Pistillate flower bracts generally &lt; 4.2 mm, not hiding peri
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AJB13'">13.</a><a name="AJB13."> </a> Peri generally 2.3&ndash;3.5 mm, wing margin at midbody generally 0.1&ndash;0.25 mm wide; inflorescence at arm's length fine-textured, parts small <a href="/cgi-bin/get_IJM.pl?tid=17597">.....&nbsp;C. subfusca</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AJB13.">13'</a><a name="AJB13'"> </a> Peri generally >= 3.5 mm, wing margin at midbody generally 0.3&ndash;0.4 mm wide; inflorescence at arm's length coarse-textured, parts large
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AJB14'">14.</a><a name="AJB14."> </a> Peri spreading; spikelet &plusmn; star-shaped, outline jagged at arm's length; pistillate flower bract dark throughout, or white margins narrow, &lt; 0.1 mm wide <a href="/cgi-bin/get_IJM.pl?tid=17697">.....&nbsp;C. pachystachya</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AJB14.">14'</a><a name="AJB14'"> </a> Peri &plusmn; ascending; spikelet not star-shaped, outline &plusmn; smooth at arm's length; pistillate flower bract generally with white margins 0.2&ndash;0.5 mm wide
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AJB15'">15.</a><a name="AJB15."> </a> Peri beaks of 2 kinds in an inflorescence, some &plusmn; flat, with smooth entire part &lt; 0.4 mm, some cylindric, with smooth entire part > 0.4 mm; generally dry soil; 1800&ndash;3400 m, Klamath Ranges, North Coast Ranges, High Cascade Range, High Sierra Nevada, San Jacinto Mountains <a href="/cgi-bin/get_IJM.pl?tid=17750">.....&nbsp;C. preslii</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AJB15.">15'</a><a name="AJB15'"> </a> Peri beaks of 1 kind, generally cylindric, smooth entire part > 0.4 mm; seasonally wet soil; &lt; 900 m, North Coast, Outer North Coast Ranges, Central Western California, South Coast, n Channel Islands, Western Transverse Ranges <a href="/cgi-bin/get_IJM.pl?tid=17866">.....&nbsp;C. subbracteata</a> (2)</blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

@@ -1,0 +1,615 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Cryptantha</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Cryptantha
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21187">Cryptantha affinis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21189">Cryptantha ambigua
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21190">Cryptantha angustifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21194">Cryptantha barbigera
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=71929">Cryptantha barbigera var. barbigera
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57107">Cryptantha barbigera var. fergusoniae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21200">Cryptantha celosioides
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57108">Cryptantha cinerea var. abortiva
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21208">Cryptantha circumscissa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57114">Cryptantha circumscissa var. circumscissa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57117">Cryptantha circumscissa var. rosulata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21209">Cryptantha clevelandii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57118">Cryptantha clevelandii var. clevelandii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57120">Cryptantha clevelandii var. florosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21270">Cryptantha clokeyi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21212">Cryptantha confertiflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21213">Cryptantha corollata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21214">Cryptantha costata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21219">Cryptantha crinita
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21220">Cryptantha crymophila
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21221">Cryptantha decipiens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91322">Cryptantha dissita
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21222">Cryptantha dumetorum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21223">Cryptantha echinella
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21225">Cryptantha excavata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21226">Cryptantha fendleri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21228">Cryptantha flaccida
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21230">Cryptantha flavoculata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21233">Cryptantha ganderi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21234">Cryptantha glomeriflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21235">Cryptantha gracilis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21237">Cryptantha hispidula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21238">Cryptantha hoffmannii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21239">Cryptantha holoptera
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21240">Cryptantha hooveri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21241">Cryptantha humilis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21244">Cryptantha inaequata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21245">Cryptantha incana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21247">Cryptantha intermedia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91894">Cryptantha intermedia var. hendersonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=71933">Cryptantha intermedia var. intermedia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21255">Cryptantha leiocarpa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21258">Cryptantha mariposae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21259">Cryptantha maritima
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21262">Cryptantha micrantha
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57140">Cryptantha micrantha var. lepida
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57141">Cryptantha micrantha var. micrantha
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21263">Cryptantha micromeres
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21264">Cryptantha microstachys
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21265">Cryptantha milobakeri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21268">Cryptantha mohavensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21269">Cryptantha muricata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57143">Cryptantha muricata var. denticulata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57144">Cryptantha muricata var. jonesii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57145">Cryptantha muricata var. muricata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21271">Cryptantha nemaclada
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21272">Cryptantha nevadensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57150">Cryptantha nevadensis var. nevadensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57151">Cryptantha nevadensis var. rigida
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21273">Cryptantha nubigena
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21277">Cryptantha oxygona
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21283">Cryptantha pterocarya
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57153">Cryptantha pterocarya var. cycloptera
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57154">Cryptantha pterocarya var. pterocarya
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57155">Cryptantha pterocarya var. purpusii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21285">Cryptantha racemosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21286">Cryptantha rattanii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21287">Cryptantha recurvata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21289">Cryptantha roosiorum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21290">Cryptantha rostellata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21302">Cryptantha schoolcraftii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21293">Cryptantha scoparia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21298">Cryptantha similis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21299">Cryptantha simulans
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21304">Cryptantha sparsiflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=77924">Cryptantha spithamaea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21303">Cryptantha subretusa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21312">Cryptantha torreyana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57161">Cryptantha torreyana var. pumila
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=71936">Cryptantha torreyana var. torreyana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21316">Cryptantha traskiae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21317">Cryptantha tumulosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21318">Cryptantha utahensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21320">Cryptantha virginensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=21321">Cryptantha watsonii
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=10465'><h3>View taxon page for Cryptantha</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#KH1'">1.</a><a name="KH1."> </a> Bracts present; generally annual, generally wider than tall, often rounded to cushion-like; root generally red-purple, staining
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#KH2'">2.</a><a name="KH2."> </a> Perennial herb from a woody, branched caudex; root not red-purple <a href="/cgi-bin/get_IJM.pl?tid=57108">.....&nbsp;C. cinerea var. abortiva</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#KH2.">2'</a><a name="KH2'"> </a> Annual; root generally red-purple, staining
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#KH3'">3.</a><a name="KH3."> </a> Calyx circumscissile below middle in fruit, upper tube, lobes falling as 1 unit, lower tube scarious, persistent, cup-like in fruit
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#KH4'">4.</a><a name="KH4."> </a> Corolla limb 3.5&ndash;6 mm diam, appendages larger than small to minute, yellow <a href="/cgi-bin/get_IJM.pl?tid=21298">.....&nbsp;C. similis</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#KH4.">4'</a><a name="KH4'"> </a> Corolla limb generally 1&ndash;2 mm diam, appendages small to minute, white to pale yellow <a href="/cgi-bin/get_IJM.pl?tid=21208">.....&nbsp;C. circumscissa</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#KH5'">5.</a><a name="KH5."> </a> Stem generally > 2 cm; calyx 3&ndash;4 mm in fruit; fruit axis &plusmn; = mature nutlets; nutlet beak 0; leaf margin rolled under <a href="/cgi-bin/get_IJM.pl?tid=57114">.....&nbsp;var. circumscissa</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#KH5.">5'</a><a name="KH5'"> </a> Stem 0.5&ndash;2 cm; calyx 2.5&ndash;3 mm in fruit; fruit axis &lt; mature nutlets; nutlet strongly beaked; leaf margin &plusmn; flat <a href="/cgi-bin/get_IJM.pl?tid=57117">.....&nbsp;var. rosulata</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#KH3.">3'</a><a name="KH3'"> </a> Calyx not circumscissile in fruit <a href="/cgi-bin/get_IJM.pl?tid=21262">.....&nbsp;C. micrantha</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#KH6'">6.</a><a name="KH6."> </a> Corolla limb 1.5&ndash;4 mm diam, appendages larger than minute, yellow <a href="/cgi-bin/get_IJM.pl?tid=57140">.....&nbsp;var. lepida</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#KH6.">6'</a><a name="KH6'"> </a> Corolla limb 0.5&ndash;1.2 mm diam, appendages minute, &plusmn; white <a href="/cgi-bin/get_IJM.pl?tid=57141">.....&nbsp;var. micrantha</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#KH1.">1'</a><a name="KH1'"> </a> Bracts generally 0; annual or perennial herb, generally taller than wide (rounded or cushion-like); root generally not red-purple
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#KH7'">7.</a><a name="KH7."> </a> Biennial to perennial herb; leaves generally basal or tufted; nutlet wide-rounded to obtuse at tip; tip of attachment scar groove well below nutlet tip
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#KH8'">8.</a><a name="KH8."> </a> Corolla tube > calyx; flowers heterostylous
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#KH9'">9.</a><a name="KH9."> </a> Corolla yellow <a href="/cgi-bin/get_IJM.pl?tid=21212">.....&nbsp;C. confertiflora</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#KH9.">9'</a><a name="KH9'"> </a> Corolla white <a href="/cgi-bin/get_IJM.pl?tid=21230">.....&nbsp;C. flavoculata</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#KH8.">8'</a><a name="KH8'"> </a> Corolla tube &lt;= calyx; flowers homostylous
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#KH10'">10.</a><a name="KH10."> </a> Stem 1&ndash;2(3) cm; basal leaves &lt; 1.5 cm <a href="/cgi-bin/get_IJM.pl?tid=21289">.....&nbsp;C. roosiorum</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#KH10.">10'</a><a name="KH10'"> </a> Stem generally > 2 cm; basal leaves generally > 1.5 cm
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#KH11'">11.</a><a name="KH11."> </a> Nutlet abaxially &plusmn; smooth
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#KH12'">12.</a><a name="KH12."> </a> Nutlet 4.5&ndash;6 mm, margin winged <a href="/cgi-bin/get_IJM.pl?tid=21220">.....&nbsp;C. crymophila</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#KH12.">12'</a><a name="KH12'"> </a> Nutlet generally &lt;= 4.5 mm, margin a &plusmn; flat narrow rim or occasionally sharp-angled
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#KH13'">13.</a><a name="KH13."> </a> Caudex generally woody, generally branched; basal leaves sparse-hairy <a href="/cgi-bin/get_IJM.pl?tid=21273">.....&nbsp;C. nubigena</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#KH13.">13'</a><a name="KH13'"> </a> Caudex not woody, unbranched; basal leaves dense-tomentose &mdash; e Modoc Plateau <a href="/cgi-bin/get_IJM.pl?tid=21302">.....&nbsp;C. schoolcraftii</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#KH11.">11'</a><a name="KH11'"> </a> Nutlet abaxially granular, tubercled, or wrinkled
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#KH14'">14.</a><a name="KH14."> </a> Nutlet adaxially &plusmn; smooth, especially near attachment scar
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#KH15'">15.</a><a name="KH15."> </a> Nutlet attachment scar edges gapped <a href="/cgi-bin/get_IJM.pl?tid=21303">.....&nbsp;C. subretusa</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#KH15.">15'</a><a name="KH15'"> </a> Nutlet attachment scar edges generally not gapped
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#KH16'">16.</a><a name="KH16."> </a> Caudex often woody, generally branched; basal leaves green, sparse-soft-bristly to dense-rough-hairy <a href="/cgi-bin/get_IJM.pl?tid=21273">.....&nbsp;C. nubigena</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#KH16.">16'</a><a name="KH16'"> </a> Caudex not woody, unbranched; basal leaves &plusmn; gray, dense-tomentose &mdash; e Modoc Plateau <a href="/cgi-bin/get_IJM.pl?tid=21302">.....&nbsp;C. schoolcraftii</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#KH14.">14'</a><a name="KH14'"> </a> Nutlet adaxially granular, tubercled, or wrinkled
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#KH17'">17.</a><a name="KH17."> </a> Pedicel in fruit 0&ndash;2(3) mm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#KH18'">18.</a><a name="KH18."> </a> Corolla limb 1&ndash;3 mm diam; 1 nutlet > 2&ndash;3 <a href="/cgi-bin/get_IJM.pl?tid=21285">.....&nbsp;C. racemosa</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#KH18.">18'</a><a name="KH18'"> </a> Corolla limb 3&ndash;10 mm diam; nutlets &plusmn; same size
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH19'">19.</a><a name="KH19."> </a> Corolla limb 7&ndash;10 mm diam; calyx in fruit 7.5&ndash;10 mm; nutlet attachment scar edges flat; e Warner Mountains <a href="/cgi-bin/get_IJM.pl?tid=21200">.....&nbsp;C. celosioides</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH19.">19'</a><a name="KH19'"> </a> Corolla limb 3&ndash;7 mm diam; calyx in fruit 3.5&ndash;8 mm; nutlet attachment scar edges raised; White and Inyo Mountains, n Desert Mountains <a href="/cgi-bin/get_IJM.pl?tid=21238">.....&nbsp;C. hoffmannii</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#KH17.">17'</a><a name="KH17'"> </a> Pedicel in fruit (2)3&ndash;12 mm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#KH20'">20.</a><a name="KH20."> </a> Corolla late-deciduous to persistent; nutlet attachment scar edges flat
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH21'">21.</a><a name="KH21."> </a> Corolla cream, aging brown, late-deciduous; nutlet abaxial ridge low <a href="/cgi-bin/get_IJM.pl?tid=21241">.....&nbsp;C. humilis</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH21.">21'</a><a name="KH21'"> </a> Corolla white, aging white, persistent; nutlet abaxial ridge 0 <a href="/cgi-bin/get_IJM.pl?tid=21285">.....&nbsp;C. racemosa</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#KH20.">20'</a><a name="KH20'"> </a> Corolla &plusmn; early-deciduous; nutlet attachment scar edges raised
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH22'">22.</a><a name="KH22."> </a> Plant long-lived perennial herb; caudex woody; nutlet abaxial ridge rounded, &plusmn; indistinct near base <a href="/cgi-bin/get_IJM.pl?tid=21317">.....&nbsp;C. tumulosa</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH22.">22'</a><a name="KH22'"> </a> Plant biennial or short-lived perennial herb; caudex not woody; nutlet abaxial ridge sharp-angled <a href="/cgi-bin/get_IJM.pl?tid=21320">.....&nbsp;C. virginensis</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#KH7.">7'</a><a name="KH7'"> </a> Generally annual; leaves generally cauline; nutlet narrow-acute to acuminate at tip; tip of attachment scar groove &plusmn; to nutlet tip
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#KH23'">23.</a><a name="KH23."> </a> Nutlets &plusmn; smooth
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#KH24'">24.</a><a name="KH24."> </a> Nutlet asymmetric, attachment scar off-center
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#KH25'">25.</a><a name="KH25."> </a> Nutlets 4, attachment scar strongly off-center, appearing marginal; inflorescence elongate spikes <a href="/cgi-bin/get_IJM.pl?tid=21187">.....&nbsp;C. affinis</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#KH25.">25'</a><a name="KH25'"> </a> Nutlet 1(2), attachment scar off-center; inflorescence spheric clusters <a href="/cgi-bin/get_IJM.pl?tid=21234">.....&nbsp;C. glomeriflora</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#KH24.">24'</a><a name="KH24'"> </a> Nutlet symmetric, attachment scar central
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#KH26'">26.</a><a name="KH26."> </a> Calyx hairs curved or hooked and &plusmn; straight; nutlets 1(2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#KH27'">27.</a><a name="KH27."> </a> Nutlet attachment scar edges widening into an open gap at base; fruit axis > 1/2 nutlet
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#KH28'">28.</a><a name="KH28."> </a> Corolla limb 1&ndash;2 mm diam; calyx lobe midveins with many stout, hooked or curved bristles, occasionally basally encrusted with exudate; nutlet 2.3&ndash;2.8 mm <a href="/cgi-bin/get_IJM.pl?tid=21290">.....&nbsp;C. rostellata</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#KH28.">28'</a><a name="KH28'"> </a> Corolla limb 3&ndash;6 mm diam; calyx lobe midveins with appressed to ascending curved hairs, with hooked or curved bristles only at tip, not basally encrusted with exudate; nutlet 1.6&ndash;2 mm <a href="/cgi-bin/get_IJM.pl?tid=77924">.....&nbsp;C. spithamaea</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#KH27.">27'</a><a name="KH27'"> </a> Nutlet attachment scar edges generally abutted to overlapped at base; fruit axis &lt; 1/2 nutlet
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#KH29'">29.</a><a name="KH29."> </a> Nutlet lance-ovate, swollen at base, margin rounded, tip acuminate, long-beaked; corolla limb 1&ndash;5(6) mm diam; calyx hairs generally basally encrusted with exudate <a href="/cgi-bin/get_IJM.pl?tid=21228">.....&nbsp;C. flaccida</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#KH29.">29'</a><a name="KH29'"> </a> Nutlet ovate, not swollen at base, margin sharp-angled, tip &plusmn; acute, short-beaked; corolla limb 0.5&ndash;1(1.5) mm diam; calyx hairs not basally encrusted with exudate <a href="/cgi-bin/get_IJM.pl?tid=21304">.....&nbsp;C. sparsiflora</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#KH26.">26'</a><a name="KH26'"> </a> Calyx hairs not hooked, &plusmn; straight (wavy); nutlets 1&ndash;4
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#KH30'">30.</a><a name="KH30."> </a> Calyx lobe tip bristles reflexed; corolla limb 0.5&ndash;1 mm diam &mdash; nutlets 1 or 2(4) <a href="/cgi-bin/get_IJM.pl?tid=21271">.....&nbsp;C. nemaclada</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#KH30.">30'</a><a name="KH30'"> </a> Calyx lobe tip bristles generally spreading or ascending; corolla limb 0.5&ndash;8 mm diam
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#KH31'">31.</a><a name="KH31."> </a> Calyx lobes 6&ndash;10 mm in fruit; longest calyx lobe bristles 3&ndash;4 mm in fruit &mdash; nutlets 1 or 2 <a href="/cgi-bin/get_IJM.pl?tid=21233">.....&nbsp;C. ganderi</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#KH31.">31'</a><a name="KH31'"> </a> Calyx lobes 1&ndash;6 mm in fruit; longest calyx lobe bristles 0 or &lt; 3 mm in fruit
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#KH32'">32.</a><a name="KH32."> </a> Bracts present
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH33'">33.</a><a name="KH33."> </a> Stem prostrate to decumbent, &plusmn; green in fruit; nutlets (3)4, smooth <a href="/cgi-bin/get_IJM.pl?tid=21255">.....&nbsp;C. leiocarpa</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH33.">33'</a><a name="KH33'"> </a> Stem erect to ascending, red-brown in fruit; nutlet 1, smooth or 2, 1 smooth, 1 rough <a href="/cgi-bin/get_IJM.pl?tid=21259">.....&nbsp;C. maritima</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#KH32.">32'</a><a name="KH32'"> </a> Bracts generally 0
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH34'">34.</a><a name="KH34."> </a> Nutlet margin a &plusmn; flat narrow rim, especially near tip, to sharp-angled; nutlets 4(3)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#KH35'">35.</a><a name="KH35."> </a> Corolla limb (4)5&ndash;7.5 mm diam; nutlets &plusmn; ovate <a href="/cgi-bin/get_IJM.pl?tid=21268">.....&nbsp;C. mohavensis</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#KH35.">35'</a><a name="KH35'"> </a> Corolla limb 0.5&ndash;1.5 mm diam; nutlets &plusmn; lanceolate <a href="/cgi-bin/get_IJM.pl?tid=21321">.....&nbsp;C. watsonii</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH34.">34'</a><a name="KH34'"> </a> Nutlet margin generally rounded, occasionally sharp-angled; nutlets 1&ndash;4
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#KH36'">36.</a><a name="KH36."> </a> Calyx (1)1.5&ndash;3 mm in fruit
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#KH37'">37.</a><a name="KH37."> </a> Nutlet 1.3&ndash;1.6 mm, abaxially &plusmn; round <a href="/cgi-bin/get_IJM.pl?tid=21264">.....&nbsp;C. microstachys</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#KH37.">37'</a><a name="KH37'"> </a> Nutlet 1.5&ndash;2.1 mm, abaxially &plusmn; flat
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#KH38'">38.</a><a name="KH38."> </a> Calyx obconic at base; corolla limb 1&ndash;2.5 mm diam; nutlets generally 1 <a href="/cgi-bin/get_IJM.pl?tid=21235">.....&nbsp;C. gracilis</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#KH38.">38'</a><a name="KH38'"> </a> Calyx rounded at base; corolla limb 3&ndash;6 mm diam; nutlets generally 2 <a href="/cgi-bin/get_IJM.pl?tid=21245">.....&nbsp;C. incana</a> (2)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#KH36.">36'</a><a name="KH36'"> </a> Calyx (2.5)3&ndash;6.5(8) mm in fruit
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#KH39'">39.</a><a name="KH39."> </a> Nutlet abaxially &plusmn; flat <a href="/cgi-bin/get_IJM.pl?tid=21312">.....&nbsp;C. torreyana</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#KH40'">40.</a><a name="KH40."> </a> Calyx 1&ndash;1.5(2) mm, (2.5)3&ndash;4.5 mm in fruit, lobe margin sparse-strigose; nutlet 1.3&ndash;1.5 mm <a href="/cgi-bin/get_IJM.pl?tid=57161">.....&nbsp;var. pumila</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#KH40.">40'</a><a name="KH40'"> </a> Calyx 2&ndash;2.5 mm, 4&ndash;6.5(8) mm in fruit, lobe margin dense-strigose; nutlet (1.6)1.7&ndash;2.2(2.5) mm <a href="/cgi-bin/get_IJM.pl?tid=71936">.....&nbsp;var. torreyana</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#KH39.">39'</a><a name="KH39'"> </a> Nutlet abaxially &plusmn; round
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#KH41'">41.</a><a name="KH41."> </a> Nutlet 1(2), adaxially &plusmn; rounded to convex, basally &plusmn; round in &times;-section <a href="/cgi-bin/get_IJM.pl?tid=21237">.....&nbsp;C. hispidula</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#KH41.">41'</a><a name="KH41'"> </a> Nutlets 1&ndash;4, adaxially &plusmn; flat, basally not round in &times;-section
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#KH42'">42.</a><a name="KH42."> </a> Corolla limb 0.5&ndash;1(1.5) mm diam; nutlets generally 4; stem often stiffly branched above; White and Inyo Mountains <a href="/cgi-bin/get_IJM.pl?tid=21226">.....&nbsp;C. fendleri</a>
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#KH42.">42'</a><a name="KH42'"> </a> Corolla limb 1&ndash;8 mm diam; nutlets 1&ndash;4; stem 0&ndash;few-branched &plusmn; above middle or branched throughout; California Floristic Province
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#KH43'">43.</a><a name="KH43."> </a> Stem 0&ndash;few branched &plusmn; above middle <a href="/cgi-bin/get_IJM.pl?tid=91322">.....&nbsp;C. dissita</a>
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#KH43.">43'</a><a name="KH43'"> </a> Stem branched throughout
+
+<P class="keyText" style="padding-left : 98 ;"><a href="#KH44'">44.</a><a name="KH44."> </a> Calyx long-soft-hairy, midveins not thickened, not bristly; nutlets 1(2) <a href="/cgi-bin/get_IJM.pl?tid=21265">.....&nbsp;C. milobakeri</a>
+
+<P class="keyText" style="padding-left : 98 ;"><a href="#KH44.">44'</a><a name="KH44'"> </a> Calyx minute-hairy, midveins thickened, bristly; nutlets 1&ndash;4 <a href="/cgi-bin/get_IJM.pl?tid=21209">.....&nbsp;C. clevelandii</a>
+
+<P class="keyText" style="padding-left : 105 ;"><a href="#KH45'">45.</a><a name="KH45."> </a> Pedicel 0&ndash;0.5 mm; calyx &plusmn; appressed to stem in fruit, narrow at base, lobes linear; corolla limb 1&ndash;2.5 mm diam; nutlets 1&ndash;2 <a href="/cgi-bin/get_IJM.pl?tid=57118">.....&nbsp;var. clevelandii</a>
+
+<P class="keyText" style="padding-left : 105 ;"><a href="#KH45.">45'</a><a name="KH45'"> </a> Pedicel 0.5&ndash;1 mm; calyx not appressed to stem in fruit, &plusmn; wide at base, lobes ovate; corolla limb (1.5)2&ndash;5 mm diam; nutlets (1&ndash;2)3&ndash;4 <a href="/cgi-bin/get_IJM.pl?tid=57120">.....&nbsp;var. florosa</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#KH23.">23'</a><a name="KH23'"> </a> Nutlets, or at least 1, rough
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#KH46'">46.</a><a name="KH46."> </a> At least 1 nutlet with all or part of margin a &plusmn; flat rim (occasionally seeming sharp-angled) or wing
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#KH47'">47.</a><a name="KH47."> </a> Pedicel 1&ndash;4(6) mm in fruit <a href="/cgi-bin/get_IJM.pl?tid=21239">.....&nbsp;C. holoptera</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#KH47.">47'</a><a name="KH47'"> </a> Pedicel generally 0&ndash;1(1.5) mm in fruit
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#KH48'">48.</a><a name="KH48."> </a> Nutlets 1 (2), margin a &plusmn; flat inward-bent narrow rim to basally sharp-angled, white-grainy papillate to minute-spiny; calyx narrow-urn-shaped in fruit <a href="/cgi-bin/get_IJM.pl?tid=21318">.....&nbsp;C. utahensis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#KH48.">48'</a><a name="KH48'"> </a> Nutlets generally 4(3), margin occasionally seeming sharp-angled, generally narrow- to wide-winged along entirety, not white-grainy papillate to minute-spiny; calyx wide-urn-shaped or ovoid in fruit
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#KH49'">49.</a><a name="KH49."> </a> At least some nutlet margins with a strongly lobed, wide wing <a href="/cgi-bin/get_IJM.pl?tid=21283">.....&nbsp;C. pterocarya</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#KH50'">50.</a><a name="KH50."> </a> Nutlets similar in 1 fruit, all winged <a href="/cgi-bin/get_IJM.pl?tid=57153">.....&nbsp;var. cycloptera</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#KH50.">50'</a><a name="KH50'"> </a> Nutlets dissimilar in 1 fruit, 3 winged, 1 not
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH51'">51.</a><a name="KH51."> </a> Nutlet wing wide, generally > 0.5 mm <a href="/cgi-bin/get_IJM.pl?tid=57154">.....&nbsp;var. pterocarya</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH51.">51'</a><a name="KH51'"> </a> Nutlet wing narrow, generally &lt; 0.5 mm <a href="/cgi-bin/get_IJM.pl?tid=57155">.....&nbsp;var. purpusii</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#KH49.">49'</a><a name="KH49'"> </a> Nutlet margin occasionally seeming sharp-angled, generally a &plusmn; flat narrow, occasionally uneven or minute-toothed rim, not strongly lobed, not a wide wing
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#KH52'">52.</a><a name="KH52."> </a> Nutlets similar in 1 fruit, not differing in persistence, size, or margin shape
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH53'">53.</a><a name="KH53."> </a> Corolla limb 1&ndash;2(2.5) mm diam; calyx 4&ndash;6 mm in fruit; nutlets 1.2&ndash;1.8(2) mm, not compressed, abaxially strongly convex, dome-like; bracts present <a href="/cgi-bin/get_IJM.pl?tid=21214">.....&nbsp;C. costata</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH53.">53'</a><a name="KH53'"> </a> Corolla limb 4&ndash;9 mm diam; calyx 2.5&ndash;4 mm in fruit; nutlets 1.8&ndash;2.5 mm, compressed, abaxially low-rounded; bracts 0 <a href="/cgi-bin/get_IJM.pl?tid=21277">.....&nbsp;C. oxygona</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#KH52.">52'</a><a name="KH52'"> </a> Nutlets dissimilar in 1 fruit, 1 more persistent, also differing in size or margin shape
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH54'">54.</a><a name="KH54."> </a> Nutlet 1.3&ndash;1.7 mm, in 1 fruit 1 > others, margins &plusmn; same; basal leaf rosette generally 0 at flower; calyx lobe midvein dense-spreading-bristly <a href="/cgi-bin/get_IJM.pl?tid=21244">.....&nbsp;C. inaequata</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH54.">54'</a><a name="KH54'"> </a> Nutlet 2&ndash;2.5 mm, in 1 fruit 1 not > others but with margin &plusmn; sharp-angled, (2)3 with margin a &plusmn; flat narrow rim or wing; basal leaf rosette generally well developed at flower; calyx lobe midvein with 0&ndash;few bristles <a href="/cgi-bin/get_IJM.pl?tid=57155">.....&nbsp;C. pterocarya var. purpusii</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#KH46.">46'</a><a name="KH46'"> </a> All nutlets with margin rounded or sharp-angled, not a &plusmn; flat rim or wing
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#KH55'">55.</a><a name="KH55."> </a> Nutlets 2&ndash;4, dissimilar in 1 fruit, 1 more persistent, > other(s), of similar textures or not
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#KH56'">56.</a><a name="KH56."> </a> Nutlets similar in texture
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#KH57'">57.</a><a name="KH57."> </a> Plant generally erect, not sprawling; inflorescence dense, flowers &plusmn; 2-rowed, axis not &plusmn; flat; corolla limb 1&ndash;4 mm diam; nutlets 0.9&ndash;1.7 mm <a href="/cgi-bin/get_IJM.pl?tid=21190">.....&nbsp;C. angustifolia</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#KH57.">57'</a><a name="KH57'"> </a> Plant generally decumbent, sprawling; inflorescence not dense, flowers not 2-rowed, axis &plusmn; flat; corolla limb 0.5&ndash;1 mm diam; nutlets 1.5&ndash;2.5 mm <a href="/cgi-bin/get_IJM.pl?tid=21222">.....&nbsp;C. dumetorum</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#KH56.">56'</a><a name="KH56'"> </a> Nutlets dissimilar in texture, largest &plusmn; smooth, with smaller papillae to tubercles
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#KH58'">58.</a><a name="KH58."> </a> Nutlets 2, 1.5&ndash;2 mm, lanceolate; bracts present; calyx 2&ndash;3 mm in fruit, oblong, lobe midvein hairs straight <a href="/cgi-bin/get_IJM.pl?tid=21259">.....&nbsp;C. maritima</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#KH58.">58'</a><a name="KH58'"> </a> Nutlets 4, 0.7&ndash;1 mm, triangular-ovate; bracts 0; calyx 1&ndash;1.5 mm in fruit, &plusmn; spheric, lobe midvein hairs occasionally hooked <a href="/cgi-bin/get_IJM.pl?tid=21263">.....&nbsp;C. micromeres</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#KH55.">55'</a><a name="KH55'"> </a> Nutlets 1&ndash;4, generally of similar persistence, size, texture
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#KH59'">59.</a><a name="KH59."> </a> Nutlets generally lanceolate to lance-ovate
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#KH60'">60.</a><a name="KH60."> </a> Nutlets generally 3&ndash;4
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#KH61'">61.</a><a name="KH61."> </a> Nutlets fine-papillate; spikes in 1s or 2s; ne East of Sierra Nevada, White and Inyo Mountains, ne Mojave Desert <a href="/cgi-bin/get_IJM.pl?tid=21293">.....&nbsp;C. scoparia</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#KH61.">61'</a><a name="KH61'"> </a> Nutlets coarsely tubercled to papillate; spikes in 2s or 3s; widespread, except ne East of Sierra Nevada, including White and Inyo Mountains, ne Mojave Desert <a href="/cgi-bin/get_IJM.pl?tid=21272">.....&nbsp;C. nevadensis</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH62'">62.</a><a name="KH62."> </a> Plant &plusmn; sprawling; nutlets lanceolate; spikes not elongated in fruit; calyx lobes recurved at tips; corolla limb 1&ndash;2 mm diam <a href="/cgi-bin/get_IJM.pl?tid=57150">.....&nbsp;var. nevadensis</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH62.">62'</a><a name="KH62'"> </a> Plant &plusmn; erect; nutlets lance-ovate; spikes elongated in fruit; calyx lobes erect to &plusmn; recurved at tips; corolla limb 2&ndash;5 mm diam <a href="/cgi-bin/get_IJM.pl?tid=57151">.....&nbsp;var. rigida</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#KH60.">60'</a><a name="KH60'"> </a> Nutlets 1(2&ndash;3)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#KH63'">63.</a><a name="KH63."> </a> Calyx in fruit strongly recurved from stem; nutlet incurved <a href="/cgi-bin/get_IJM.pl?tid=21287">.....&nbsp;C. recurvata</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#KH63.">63'</a><a name="KH63'"> </a> Calyx in fruit not recurved from stem; nutlet(s) straight
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH64'">64.</a><a name="KH64."> </a> Nutlet attachment scar edges a large, wide, deep-concave gap; calyx &plusmn; not constricted above nutlet(s) <a href="/cgi-bin/get_IJM.pl?tid=21225">.....&nbsp;C. excavata</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH64.">64'</a><a name="KH64'"> </a> Nutlet attachment scar edges a small, narrow, shallow groove; calyx &plusmn; tightly constricted above nutlet(s)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#KH65'">65.</a><a name="KH65."> </a> Corolla limb 1&ndash;2.5 mm diam
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#KH66'">66.</a><a name="KH66."> </a> Corolla limb 1&ndash;1.5 mm diam, appendages 0; calyx lobe tips recurved to spreading <a href="/cgi-bin/get_IJM.pl?tid=21221">.....&nbsp;C. decipiens</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#KH66.">66'</a><a name="KH66'"> </a> Corolla limb 1.5&ndash;2.5 mm diam, appendages minute, pale yellow; calyx lobe tips spreading to erect <a href="/cgi-bin/get_IJM.pl?tid=21233">.....&nbsp;C. ganderi</a> (2)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#KH65.">65'</a><a name="KH65'"> </a> Corolla limb 3&ndash;6 mm diam
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#KH67'">67.</a><a name="KH67."> </a> Calyx 1.5&ndash;2 mm, 3&ndash;3.5 mm in fruit, not appressed to stem in fruit, lobes oblong, not spreading-fine-bristly; nutlets 2.2&ndash;2.5 mm <a href="/cgi-bin/get_IJM.pl?tid=21213">.....&nbsp;C. corollata</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#KH67.">67'</a><a name="KH67'"> </a> Calyx 1&ndash;1.5 mm, 2.5&ndash;3(3.5) mm in fruit, appressed to stem in fruit, lobes linear, outer 3 spreading-fine-bristly; nutlets 1.5&ndash;2 mm <a href="/cgi-bin/get_IJM.pl?tid=21286">.....&nbsp;C. rattanii</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#KH59.">59'</a><a name="KH59'"> </a> Nutlets lance-ovate, ovate, or triangular-ovate
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#KH68'">68.</a><a name="KH68."> </a> Nutlet abaxial ridge &plusmn; present
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#KH69'">69.</a><a name="KH69."> </a> Corolla limb 3&ndash;8 mm diam
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH70'">70.</a><a name="KH70."> </a> Calyx 1&ndash;1.5, 2&ndash;2.5 mm in fruit, &plusmn; round; nutlet &plusmn; papillate <a href="/cgi-bin/get_IJM.pl?tid=21245">.....&nbsp;C. incana</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH70.">70'</a><a name="KH70'"> </a> Calyx 1.5&ndash;2, 3&ndash;4 mm in fruit, ovate; nutlet dense-sharp-papillate to tubercled <a href="/cgi-bin/get_IJM.pl?tid=57145">.....&nbsp;C. muricata var. muricata</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#KH69.">69'</a><a name="KH69'"> </a> Corolla limb 1&ndash;3.5 mm diam
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH71'">71.</a><a name="KH71."> </a> Stem few-branched, without an evident central axis; nutlets 1.8&ndash;2.2 mm, &plusmn; tubercled <a href="/cgi-bin/get_IJM.pl?tid=57143">.....&nbsp;C. muricata var. denticulata</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH71.">71'</a><a name="KH71'"> </a> Stem many-branched, with an evident central axis; nutlets 1.1&ndash;1.3(1.9) mm, sharp-papillate <a href="/cgi-bin/get_IJM.pl?tid=57144">.....&nbsp;C. muricata var. jonesii</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#KH68.">68'</a><a name="KH68'"> </a> Nutlet abaxial ridge generally 0
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#KH72'">72.</a><a name="KH72."> </a> Corolla limb (2)3&ndash;9 mm diam
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH73'">73.</a><a name="KH73."> </a> Pedicel 2&ndash;3 mm in fruit; calyx silky-hairy <a href="/cgi-bin/get_IJM.pl?tid=21219">.....&nbsp;C. crinita</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH73.">73'</a><a name="KH73'"> </a> Pedicel 0&ndash;1.5(2) mm in fruit; calyx rough-hairy to bristly
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#KH74'">74.</a><a name="KH74."> </a> Nutlets ovate, tip abruptly beaked; spikes generally in 1s to occasionally 3s, bracts generally sparse; leaves 1&ndash;2 cm, generally lowest 1&ndash;3 pairs opposite <a href="/cgi-bin/get_IJM.pl?tid=21258">.....&nbsp;C. mariposae</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#KH74.">74'</a><a name="KH74'"> </a> Nutlets lance-ovate to ovate, tip gradually tapered or acute; spikes generally in 2&ndash;4(5)s, bracts generally 0; leaves 1&ndash;5(8) cm, alternate
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#KH75'">75.</a><a name="KH75."> </a> Calyx lobes narrow-oblong, midvein without coarse, spreading bristles; nutlets generally 1&ndash;2, &plusmn; ovate, sparse-low-tubercled (smooth) <a href="/cgi-bin/get_IJM.pl?tid=91894">.....&nbsp;C. intermedia var. hendersonii</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#KH75.">75'</a><a name="KH75'"> </a> Calyx lobes lance-linear to lanceolate, midvein with few to many coarse, spreading bristles; nutlets generally 3&ndash;4, lance-ovate, dense-tubercled to warty
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#KH76'">76.</a><a name="KH76."> </a> Calyx 4.5&ndash;9 mm in fruit; leaves oblong to lanceolate; inflorescence generally in 2s; nutlet 1.9&ndash;2.5 mm <a href="/cgi-bin/get_IJM.pl?tid=57107">.....&nbsp;C. barbigera var. fergusoniae</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#KH76.">76'</a><a name="KH76'"> </a> Calyx 4&ndash;5.5 mm in fruit; leaves generally linear to lanceolate; inflorescence generally in 3s; nutlet 1.4&ndash;2.1(2.2) mm <a href="/cgi-bin/get_IJM.pl?tid=71933">.....&nbsp;C. intermedia var. intermedia</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#KH72.">72'</a><a name="KH72'"> </a> Corolla limb 0.5&ndash;2.5(3) mm diam
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH77'">77.</a><a name="KH77."> </a> Bracts present; nutlets 1.2&ndash;1.5 mm
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#KH78'">78.</a><a name="KH78."> </a> Calyx 4&ndash;6 mm in fruit, lanceolate; flower persistent; lowest stem leaves opposite; corolla limb generally &lt; 1 mm diam; n&c San Joaquin Valley <a href="/cgi-bin/get_IJM.pl?tid=21240">.....&nbsp;C. hooveri</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#KH78.">78'</a><a name="KH78'"> </a> Calyx 3&ndash;4 mm in fruit, oblanceolate; flower not persistent; lowest stem leaves alternate; corolla limb 1.5&ndash;2 mm diam; s Channel Islands <a href="/cgi-bin/get_IJM.pl?tid=21316">.....&nbsp;C. traskiae</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#KH77.">77'</a><a name="KH77'"> </a> Bracts generally 0; nutlets 1.4&ndash;2.8 mm
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#KH79'">79.</a><a name="KH79."> </a> Nutlet attachment scar edges triangular-flare-gapped at base
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#KH80'">80.</a><a name="KH80."> </a> Nutlets 1.5&ndash;2 mm, tubercle tips not translucent; nutlets 1&ndash;4, lance-ovate to ovate <a href="/cgi-bin/get_IJM.pl?tid=71929">.....&nbsp;C. barbigera var. barbigera</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#KH80.">80'</a><a name="KH80'"> </a> Nutlets &plusmn; 3 mm, tubercle tips translucent; nutlets 3&ndash;4, triangular-ovate <a href="/cgi-bin/get_IJM.pl?tid=21270">.....&nbsp;C. clokeyi</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#KH79.">79'</a><a name="KH79'"> </a> Nutlet attachment scar edges wide-forked, but generally abutted, not gapped, at base
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#KH81'">81.</a><a name="KH81."> </a> Nutlet tubercles very numerous, narrow, &plusmn; longer than broad; pedicel &lt; 0.5 mm in fruit <a href="/cgi-bin/get_IJM.pl?tid=21223">.....&nbsp;C. echinella</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#KH81.">81'</a><a name="KH81'"> </a> Nutlet tubercles fewer, wider than broad, rounded; pedicel 0.5&ndash;1 mm in fruit
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#KH82'">82.</a><a name="KH82."> </a> Spikes generally in 1s; stem branches 1&ndash;many; plant generally &plusmn; without main stem <a href="/cgi-bin/get_IJM.pl?tid=21189">.....&nbsp;C. ambigua</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#KH82.">82'</a><a name="KH82'"> </a> Spikes generally in 2s or 3s; stem branches few; plant with main stem <a href="/cgi-bin/get_IJM.pl?tid=21299">.....&nbsp;C. simulans</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

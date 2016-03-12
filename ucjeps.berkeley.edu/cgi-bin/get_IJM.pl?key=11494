@@ -1,0 +1,341 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Chenopodium</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Chenopodium
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19131">Chenopodium album
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19140">Chenopodium atrovirens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19144">Chenopodium berlandieri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56415">Chenopodium berlandieri var. sinuatum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56416">Chenopodium berlandieri var. zschackei
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19155">Chenopodium californicum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19156">Chenopodium capitatum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=71765">Chenopodium capitatum var. capitatum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56419">Chenopodium capitatum var. parvicapitatum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19152">Chenopodium chenopodioides
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19162">Chenopodium desiccatum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19167">Chenopodium foliosum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19169">Chenopodium fremontii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56430">Chenopodium glaucum var. salinum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19173">Chenopodium hians
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56437">Chenopodium incanum var. occidentale
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19178">Chenopodium leptophyllum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91892">Chenopodium littoreum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19179">Chenopodium macrospermum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19136">Chenopodium missouriense
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19182">Chenopodium murale
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19186">Chenopodium nevadense
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56448">Chenopodium polyspermum var. acutifolium
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19195">Chenopodium pratericola
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19200">Chenopodium rubrum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56454">Chenopodium rubrum var. humile
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=71774">Chenopodium rubrum var. rubrum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19204">Chenopodium simplex
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56455">Chenopodium strictum var. glaucophyllum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19212">Chenopodium vulvaria
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19213">Chenopodium watsonii
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=11494'><h3>View taxon page for Chenopodium</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#OZ1'">1.</a><a name="OZ1."> </a> Perennial herb from stout, fleshy caudex; calyx tube generally > lobes <a href="/cgi-bin/get_IJM.pl?tid=19155">.....&nbsp;C. californicum</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#OZ1.">1'</a><a name="OZ1'"> </a> Annual; calyx tube generally &lt; lobes
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#OZ2'">2.</a><a name="OZ2."> </a> Seeds all vertical or both horizontal and vertical; calyx lobes generally 3(4) in flowers with vertical fruit, 4&ndash;5 in flowers with horizontal fruit
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#OZ3'">3.</a><a name="OZ3."> </a> Leaf blade white-powdery abaxially, margins acutely-toothed <a href="/cgi-bin/get_IJM.pl?tid=56430">.....&nbsp;C. glaucum var. salinum</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#OZ3.">3'</a><a name="OZ3'"> </a> Leaf blade glabrous abaxially at least in age, margins entire to variously toothed
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OZ4'">4.</a><a name="OZ4."> </a> Leaf blade thick to fleshy, margin generally serrate, abaxially &plusmn; densely powdery and becoming glabrous <a href="/cgi-bin/get_IJM.pl?tid=19179">.....&nbsp;C. macrospermum</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OZ4.">4'</a><a name="OZ4'"> </a> Leaf blade thin, margin entire or toothed, generally glabrous
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OZ5'">5.</a><a name="OZ5."> </a> Flower clusters 3&ndash;10 mm diam, in unbranched terminal and/or axillary spikes; sepals generally red, fleshy in fruit; all seeds vertical
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OZ6'">6.</a><a name="OZ6."> </a> Flower clusters subtended by leafy bracts throughout inflorescence; stamens generally 1; fruit maturing from base to tip of plant <a href="/cgi-bin/get_IJM.pl?tid=19167">.....&nbsp;C. foliosum</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OZ6.">6'</a><a name="OZ6'"> </a> Flower clusters subtended by leafy bracts only in proximal 1/2 of inflorescence; stamens 3; fruit maturing from tip to base of plant <a href="/cgi-bin/get_IJM.pl?tid=19156">.....&nbsp;C. capitatum</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OZ7'">7.</a><a name="OZ7."> </a> Flower clusters 6&ndash;10 mm diam; fruit red, fleshy; leaf blade base truncate to cordate (hastate), margin generally sharply toothed <a href="/cgi-bin/get_IJM.pl?tid=71765">.....&nbsp;var. capitatum</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OZ7.">7'</a><a name="OZ7'"> </a> Flower clusters 3&ndash;5 mm diam; fruit green to red, not fleshy; leaf blade base tapered to truncate, margin entire or &plusmn; toothed <a href="/cgi-bin/get_IJM.pl?tid=56419">.....&nbsp;var. parvicapitatum</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OZ5.">5'</a><a name="OZ5'"> </a> Flower clusters 2&ndash;4 mm diam, in axillary branched spikes; sepals green, membranous; seeds generally vertical, occasionally horizontal
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OZ8'">8.</a><a name="OZ8."> </a> Calyx tube > lobes; stamen 1 <a href="/cgi-bin/get_IJM.pl?tid=19152">.....&nbsp;C. chenopodioides</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OZ8.">8'</a><a name="OZ8'"> </a> Calyx tube &lt; lobes; stamens 2&ndash;3 <a href="/cgi-bin/get_IJM.pl?tid=19200">.....&nbsp;C. rubrum</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OZ9'">9.</a><a name="OZ9."> </a> Stem prostrate to spreading; leaf margin entire or shallowly toothed <a href="/cgi-bin/get_IJM.pl?tid=56454">.....&nbsp;var. humile</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OZ9.">9'</a><a name="OZ9'"> </a> Stem erect to ascending; leaf margin deeply toothed <a href="/cgi-bin/get_IJM.pl?tid=71774">.....&nbsp;var. rubrum</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#OZ2.">2'</a><a name="OZ2'"> </a> Most or all seeds horizontal; calyx lobes generally 5
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#OZ10'">10.</a><a name="OZ10."> </a> Flowers 1 or in cymes, arranged in axillary and terminal panicles or branched spikes; leaf blade glabrous to &plusmn; powdery abaxially <a href="/cgi-bin/get_IJM.pl?tid=19204">.....&nbsp;C. simplex</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#OZ10.">10'</a><a name="OZ10'"> </a> Flower clusters in terminal and/or axillary spikes and/or panicles; leaf blade generally powdery
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OZ11'">11.</a><a name="OZ11."> </a> Primary leaves not fleshy, generally 2-lobed, generally toothed on margin
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OZ12'">12.</a><a name="OZ12."> </a> Fruit wall pitted at 20&times;
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OZ13'">13.</a><a name="OZ13."> </a> Plant scented; proximal leaf blades entire to 2-lobed or toothed near base, densely powdery; fruit wall, seed coat &plusmn; white <a href="/cgi-bin/get_IJM.pl?tid=19213">.....&nbsp;C. watsonii</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OZ13.">13'</a><a name="OZ13'"> </a> Plant generally not scented; all leaf blades entire, or 2-lobed near base and serrate or irregularly toothed, powdery; fruit wall brown, seed coat black <a href="/cgi-bin/get_IJM.pl?tid=19144">.....&nbsp;C. berlandieri</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OZ14'">14.</a><a name="OZ14."> </a> Style base not yellow in fruit; seed 1&ndash;1.3 mm diam <a href="/cgi-bin/get_IJM.pl?tid=56415">.....&nbsp;var. sinuatum</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OZ14.">14'</a><a name="OZ14'"> </a> Style base yellow in fruit; seed 1.2&ndash;1.5 mm diam <a href="/cgi-bin/get_IJM.pl?tid=56416">.....&nbsp;var. zschackei</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OZ12.">12'</a><a name="OZ12'"> </a> Fruit wall not pitted at 20&times;
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OZ15'">15.</a><a name="OZ15."> </a> Leaf powdery in youth, especially abaxially, or generally glabrous; fruit wall scale-like at 20&times;; seed margin sharply angled <a href="/cgi-bin/get_IJM.pl?tid=19182">.....&nbsp;C. murale</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OZ15.">15'</a><a name="OZ15'"> </a> Leaf powdery; fruit wall smooth or papillate at 20&times;; seed margin rounded or ridged
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OZ16'">16.</a><a name="OZ16."> </a> Leaf blade sides &plusmn; parallel from near base, generally not lobed, generally finely serrate; fruit wall smooth, generally attached to seed in age <a href="/cgi-bin/get_IJM.pl?tid=56455">.....&nbsp;C. strictum var. glaucophyllum</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OZ16.">16'</a><a name="OZ16'"> </a> Leaf blade sides not parallel, generally lobed or toothed; fruit wall papillate or smooth, generally free from seed in age
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OZ17'">17.</a><a name="OZ17."> </a> Plant to 1 m; inflorescence branches straight; flower clusters generally in axillary and terminal branched spikes <a href="/cgi-bin/get_IJM.pl?tid=19131">.....&nbsp;C. album</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OZ17.">17'</a><a name="OZ17'"> </a> Plant to 2 m; inflorescence branches &plusmn; curved or pendent; flower clusters in axillary and terminal spikes or panicles <a href="/cgi-bin/get_IJM.pl?tid=19136">.....&nbsp;C. missouriense</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OZ11.">11'</a><a name="OZ11'"> </a> Primary leaves &plusmn; fleshy, entire or 1&ndash;2 pairs of lobes or teeth near base
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OZ18'">18.</a><a name="OZ18."> </a> Leaf blade 1-veined from base, entire
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OZ19'">19.</a><a name="OZ19."> </a> Leaf blade 4&ndash;6 mm wide, generally linear to narrowly lanceolate (elliptic), powdery abaxially, tip generally acuminate; inflorescence dense <a href="/cgi-bin/get_IJM.pl?tid=19162">.....&nbsp;C. desiccatum</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OZ19.">19'</a><a name="OZ19'"> </a> Leaf blade generally &lt; 3.5 mm wide, linear, densely powdery abaxially, tip &plusmn; round; inflorescence open <a href="/cgi-bin/get_IJM.pl?tid=19178">.....&nbsp;C. leptophyllum</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OZ18.">18'</a><a name="OZ18'"> </a> Leaf blade 3-veined from base, entire or 1&ndash;2 pairs of lobes or teeth near base
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OZ20'">20.</a><a name="OZ20."> </a> Leaf blade length 3&ndash;many &times; width
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OZ21'">21.</a><a name="OZ21."> </a> Fruit wall attached to seed <a href="/cgi-bin/get_IJM.pl?tid=19173">.....&nbsp;C. hians</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OZ21.">21'</a><a name="OZ21'"> </a> Fruit wall free from seed
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OZ22'">22.</a><a name="OZ22."> </a> Plant erect to spreading; leaf blade length 3&ndash;many &times; width, entire; calyx lobes generally enclosing fruit in age; seed coat warty <a href="/cgi-bin/get_IJM.pl?tid=19162">.....&nbsp;C. desiccatum</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OZ22.">22'</a><a name="OZ22'"> </a> Plant generally erect; leaf blade length 3&ndash;5 &times; width, entire or generally 1&ndash;2 lobes near base; calyx lobes &plusmn; spreading in age; seed coat wrinkled <a href="/cgi-bin/get_IJM.pl?tid=19195">.....&nbsp;C. pratericola</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OZ20.">20'</a><a name="OZ20'"> </a> Leaf blade length to 3 &times; width
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OZ23'">23.</a><a name="OZ23."> </a> Leaf blade length 2&ndash;3 &times; width, elliptic, lanceolate, or oblong
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OZ24'">24.</a><a name="OZ24."> </a> Plant erect, branched; leaf base generally rounded to tapered, tip generally obtuse to round, petiole generally strongly upcurved; fruit wall smooth <a href="/cgi-bin/get_IJM.pl?tid=19140">.....&nbsp;C. atrovirens</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OZ24.">24'</a><a name="OZ24'"> </a> Plant prostrate to ascending, branched from base; leaf tip acute to round, petiole not upcurved; fruit wall papillate <a href="/cgi-bin/get_IJM.pl?tid=91892">.....&nbsp;C. littoreum</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OZ23.">23'</a><a name="OZ23'"> </a> Leaf blade length generally &lt; 2 &times; width, &plusmn; diamond-shaped to ovate, deltate, or elliptic
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OZ25'">25.</a><a name="OZ25."> </a> Fruit wall attached to seed
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OZ26'">26.</a><a name="OZ26."> </a> Plant not ill-smelling, spheric in fruit, many-branched distally, branches forked in pairs; leaves entire or generally 2-lobed, occasionally toothed; seed &lt; 0.8 mm <a href="/cgi-bin/get_IJM.pl?tid=19186">.....&nbsp;C. nevadense</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OZ26.">26'</a><a name="OZ26'"> </a> Plant ill-smelling, not spheric in fruit, few-branched from base, branches not forked in pairs; leaves entire; seed > 0.9 mm <a href="/cgi-bin/get_IJM.pl?tid=19212">.....&nbsp;C. vulvaria</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OZ25.">25'</a><a name="OZ25'"> </a> Fruit wall free from seed
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OZ27'">27.</a><a name="OZ27."> </a> Inflorescence clusters in spikes; leaves &plusmn; powdery abaxially; lobes near leaf base spreading; fruit visible between calyx lobes in age; seed margin thick, square in &times;-section <a href="/cgi-bin/get_IJM.pl?tid=19169">.....&nbsp;C. fremontii</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OZ27.">27'</a><a name="OZ27'"> </a> Inflorescence clusters in panicles; leaves moderately to densely powdery abaxially; lobes near leaf base occasionally spreading; fruit hidden by calyx lobes in age; seed margin obtuse in &times;-section <a href="/cgi-bin/get_IJM.pl?tid=56437">.....&nbsp;C. incanum var. occidentale</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

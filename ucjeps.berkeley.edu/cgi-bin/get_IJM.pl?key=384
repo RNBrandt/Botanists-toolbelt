@@ -1,0 +1,461 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Cirsium</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Cirsium
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=2093">Cirsium andersonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=2094">Cirsium andrewsii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=2099">Cirsium arizonicum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=7027">Cirsium arizonicum var. arizonicum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81503">Cirsium arizonicum var. tenuisectum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=2102">Cirsium arvense
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=2110">Cirsium brevistylum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=2122">Cirsium canescens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=2133">Cirsium ciliolatum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=2139">Cirsium crassicaule
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=2141">Cirsium cymosum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85585">Cirsium cymosum var. canovirens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85528">Cirsium cymosum var. cymosum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=2146">Cirsium douglasii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=77399">Cirsium douglasii var. breweri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=7046">Cirsium douglasii var. douglasii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=2164">Cirsium fontinale
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=77400">Cirsium fontinale var. campylon
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=7056">Cirsium fontinale var. fontinale
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=7057">Cirsium fontinale var. obispoense
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=2183">Cirsium hydrophilum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=7061">Cirsium hydrophilum var. hydrophilum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=7063">Cirsium hydrophilum var. vaseyi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=89256">Cirsium inamoenum var. inamoenum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=2198">Cirsium mohavense
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=2203">Cirsium neomexicanum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=2209">Cirsium occidentale
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=77401">Cirsium occidentale var. californicum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56556">Cirsium occidentale var. candidissimum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=7068">Cirsium occidentale var. compactum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81843">Cirsium occidentale var. coulteri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81502">Cirsium occidentale var. lucianum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=7069">Cirsium occidentale var. occidentale
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56557">Cirsium occidentale var. venustum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=70931">Cirsium ochrocentrum var. ochrocentrum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=2226">Cirsium praeteriens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=2232">Cirsium quercetorum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=2234">Cirsium remotifolium
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=7076">Cirsium remotifolium var. odontolepis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=7077">Cirsium remotifolium var. remotifolium
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56560">Cirsium remotifolium var. rivulare
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=2238">Cirsium rhothophilum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=2249">Cirsium scariosum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81903">Cirsium scariosum var. americanum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81904">Cirsium scariosum var. citrinum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=82460">Cirsium scariosum var. congdonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91893">Cirsium scariosum var. loncholepis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=86330">Cirsium scariosum var. robustum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=7078">Cirsium scariosum var. scariosum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=2268">Cirsium undulatum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=2285">Cirsium vulgare
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=384'><h3>View taxon page for Cirsium</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#FV1'">1.</a><a name="FV1."> </a> Adaxial leaf face with slender appressed bristle-like prickles <a href="/cgi-bin/get_IJM.pl?tid=2285">.....&nbsp;C. vulgare</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#FV1.">1'</a><a name="FV1'"> </a> Adaxial leaf face without prickles
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#FV2'">2.</a><a name="FV2."> </a> Plants dioecious or nearly so <a href="/cgi-bin/get_IJM.pl?tid=2102">.....&nbsp;C. arvense</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#FV2.">2'</a><a name="FV2'"> </a> Plants with bisexual flowers
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FV3'">3.</a><a name="FV3."> </a> Corolla lobes 1&ndash;2+ &times; tube
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FV4'">4.</a><a name="FV4."> </a> Corolla pink-purple to red-purple, red-pink, or red; heads generally erect; leaf adaxially tomentose (occasionally &plusmn; glabrous in age) <a href="/cgi-bin/get_IJM.pl?tid=2099">.....&nbsp;C. arizonicum</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FV5'">5.</a><a name="FV5."> </a> Corolla bright red or &plusmn; red-pink; corolla throat 2&ndash;5 mm, lobes 13&ndash;18 mm; High Sierra Nevada, White and Inyo Mountains <a href="/cgi-bin/get_IJM.pl?tid=7027">.....&nbsp;var. arizonicum</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FV5.">5'</a><a name="FV5'"> </a> Corolla pink- to &plusmn; red-purple; corolla throat 5&ndash;8 mm, lobes 10&ndash;14 mm; e Desert Mountains <a href="/cgi-bin/get_IJM.pl?tid=81503">.....&nbsp;var. tenuisectum</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FV4.">4'</a><a name="FV4'"> </a> Corolla white to pink or lavender; heads generally nodding; leaf adaxially densely velvety, with short, erect, jointed hairs, also cobwebby &mdash; serpentine wetlands; San Francisco Bay Area, Outer South Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=2164">.....&nbsp;C. fontinale</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FV6'">6.</a><a name="FV6."> </a> Fruit 4.1&ndash;5 mm; phyllary spines 1&ndash;2 mm <a href="/cgi-bin/get_IJM.pl?tid=7056">.....&nbsp;var. fontinale</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FV6.">6'</a><a name="FV6'"> </a> Fruit 3.4&ndash;4.1 mm; phyllary spines generally 2&ndash;6 mm
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FV7'">7.</a><a name="FV7."> </a> Longer spines of cauline leaves 10&ndash;18 mm; most phyllaries without marginal spines <a href="/cgi-bin/get_IJM.pl?tid=77400">.....&nbsp;var. campylon</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FV7.">7'</a><a name="FV7'"> </a> Longer spines of cauline leaves 4&ndash;7 mm; many outer phyllaries with marginal spines <a href="/cgi-bin/get_IJM.pl?tid=7057">.....&nbsp;var. obispoense</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FV3.">3'</a><a name="FV3'"> </a> Corolla lobes &lt; tube
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FV8'">8.</a><a name="FV8."> </a> Abaxial face of outer and middle phyllaries with long, sticky-resinous ridge (milky when fresh, dark when dry, occasionally very narrow), occasionally poorly developed or 0 in <I>Cirsium mohavense</I>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FV9'">9.</a><a name="FV9."> </a> Margins of phyllaries minutely spiny-fringed <a href="/cgi-bin/get_IJM.pl?tid=2183">.....&nbsp;C. hydrophilum</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FV10'">10.</a><a name="FV10."> </a> Heads generally 2.5&ndash;3 cm; fruit &plusmn; 5 mm, oblong, tapered near base; tidal marshes; deltaic Great Central Valley (Suisun Marsh, Solano Co.) <a href="/cgi-bin/get_IJM.pl?tid=7061">.....&nbsp;var. hydrophilum</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FV10.">10'</a><a name="FV10'"> </a> Heads generally 3&ndash;3.5 cm; fruit 4&ndash;5 mm, oblong or elliptic; serpentine springs; n San Francisco Bay Area (Mount Tamalpais, Marin Co.) <a href="/cgi-bin/get_IJM.pl?tid=7063">.....&nbsp;var. vaseyi</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FV9.">9'</a><a name="FV9'"> </a> Margins of phyllaries entire
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FV11'">11.</a><a name="FV11."> </a> Stem evidently coarse-hairy with multicellular hairs, also cobwebby to densely tomentose with long, fine hairs; cauline leaves generally &plusmn; clasping, with expanded basal lobes; leaf veins generally prominently raised abaxially <a href="/cgi-bin/get_IJM.pl?tid=2141">.....&nbsp;C. cymosum</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#FV12'">12.</a><a name="FV12."> </a> Larger heads 15&ndash;25 mm diam; outer phyllaries generally &lt;&lt; inner, sticky-resinous ridge prominent, well developed, appearing dark brown on dry specimens <a href="/cgi-bin/get_IJM.pl?tid=85585">.....&nbsp;var. canovirens</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#FV12.">12'</a><a name="FV12'"> </a> Larger heads 20&ndash;35 mm diam; outer phyllaries long, often nearly = inner, sticky-resinous ridge weakly developed <a href="/cgi-bin/get_IJM.pl?tid=85528">.....&nbsp;var. cymosum</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FV11.">11'</a><a name="FV11'"> </a> Stem with few or 0 coarse, multicellular hairs, thinly to densely cobwebby or tomentose with long fine hairs; cauline leaves generally not clasping with expanded basal lobes; leaf veins generally not prominently raised abaxially
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#FV13'">13.</a><a name="FV13."> </a> Involucre 2.5&ndash;4.5 cm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#FV14'">14.</a><a name="FV14."> </a> Mid and distal leaves not or scarcely decurrent <a href="/cgi-bin/get_IJM.pl?tid=2268">.....&nbsp;C. undulatum</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#FV14.">14'</a><a name="FV14'"> </a> Mid and distal leaves evidently decurrent as spiny wings to 5 cm
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#FV15'">15.</a><a name="FV15."> </a> Phyllary spines generally 2&ndash;4 mm; corolla &plusmn; white <a href="/cgi-bin/get_IJM.pl?tid=2122">.....&nbsp;C. canescens</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#FV15.">15'</a><a name="FV15'"> </a> Phyllary spines generally 5&ndash;12 mm; corolla white to pale lavender or pink <a href="/cgi-bin/get_IJM.pl?tid=70931">.....&nbsp;C. ochrocentrum var. ochrocentrum</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#FV13.">13'</a><a name="FV13'"> </a> Involucre 1.5&ndash;2.5(3) cm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#FV16'">16.</a><a name="FV16."> </a> Rosette arising from runner roots; leaf adaxially green, thinly gray-tomentose &mdash; n Klamath Ranges <a href="/cgi-bin/get_IJM.pl?tid=2133">.....&nbsp;C. ciliolatum</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#FV16.">16'</a><a name="FV16'"> </a> Rosette arising from taproot or woody caudex; leaf adaxially gray-tomentose or becoming &plusmn; green
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#FV17'">17.</a><a name="FV17."> </a> Phyllaries &plusmn; loosely appressed, generally ascending to spreading above appressed base
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#FV18'">18.</a><a name="FV18."> </a> Phyllary tip-spine generally 1&ndash;3 mm; South Coast Ranges and c Sierra Nevada Foothills to mtns of Southwestern California <a href="/cgi-bin/get_IJM.pl?tid=77401">.....&nbsp;C. occidentale var. californicum</a> (4)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#FV18.">18'</a><a name="FV18'"> </a> Phyllary tip-spine generally 3&ndash;10 mm
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#FV19'">19.</a><a name="FV19."> </a> Involucre, including phyllary tips generally ovoid to &plusmn; spheric; tip-spines of phyllaries generally 3&ndash;7 mm; outer phyllaries generally spreading or ascending &mdash; High Sierra Nevada, Great Basin Floristic Province <a href="/cgi-bin/get_IJM.pl?tid=89256">.....&nbsp;C. inamoenum var. inamoenum</a> (2)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#FV19.">19'</a><a name="FV19'"> </a> Involucre, including phyllary tips often wider than long; tip-spines of phyllaries generally 5&ndash;10 mm; outer phyllaries often reflexed <a href="/cgi-bin/get_IJM.pl?tid=2203">.....&nbsp;C. neomexicanum</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#FV17.">17'</a><a name="FV17'"> </a> Phyllaries tightly appressed, only tip-spines spreading
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#FV20'">20.</a><a name="FV20."> </a> Corolla &plusmn; white to pink or pale lavender; involucre pale green or straw-colored
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#FV21'">21.</a><a name="FV21."> </a> Distal leaves generally conspicuously decurrent as spiny wings; wet soils, streams, springs; East of Sierra Nevada, Mojave Desert <a href="/cgi-bin/get_IJM.pl?tid=2198">.....&nbsp;C. mohavense</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#FV21.">21'</a><a name="FV21'"> </a> Distal leaves not or only weakly decurrent; dry sites; South Coast Ranges and c Sierra Nevada Foothills to mtns of Southwestern California <a href="/cgi-bin/get_IJM.pl?tid=77401">.....&nbsp;C. occidentale var. californicum</a> (4)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#FV20.">20'</a><a name="FV20'"> </a> Corolla generally &plusmn; dark rose-purple (white); involucre generally dark green or &plusmn; purple &mdash; n California Floristic Province, Modoc Plateau <a href="/cgi-bin/get_IJM.pl?tid=2146">.....&nbsp;C. douglasii</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#FV22'">22.</a><a name="FV22."> </a> Larger spines of distal cauline leaves generally &lt;= 7 mm <a href="/cgi-bin/get_IJM.pl?tid=77399">.....&nbsp;var. breweri</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#FV22.">22'</a><a name="FV22'"> </a> Larger spines of distal cauline leaves generally 7&ndash;20 mm <a href="/cgi-bin/get_IJM.pl?tid=7046">.....&nbsp;var. douglasii</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FV8.">8'</a><a name="FV8'"> </a> Abaxial face of outer and middle phyllaries without sticky-resinous ridge
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FV23'">23.</a><a name="FV23."> </a> Margins of outer phyllaries irregularly toothed to spiny-ciliate
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FV24'">24.</a><a name="FV24."> </a> Leaves densely gray- or white-felty-tomentose on faces &mdash; coastal dunes, headlands; s Central Coast <a href="/cgi-bin/get_IJM.pl?tid=2238">.....&nbsp;C. rhothophilum</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FV24.">24'</a><a name="FV24'"> </a> Leaves adaxially green and glabrous to &plusmn; gray-hairy with multicellular hairs and/or finely cobwebby, abaxially sometimes densely gray- or white-tomentose
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#FV25'">25.</a><a name="FV25."> </a> Corolla 30&ndash;45 mm, &plusmn; bright rose-purple <a href="/cgi-bin/get_IJM.pl?tid=2093">.....&nbsp;C. andersonii</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#FV25.">25'</a><a name="FV25'"> </a> Corolla 17&ndash;28 mm, white or cream to purple
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#FV26'">26.</a><a name="FV26."> </a> Heads generally not closely subtended by well-developed distal leaves or clustered leafy bracts; phyllary tips flattened, generally ascending, connected side-to-side by cobwebby hairs or not
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#FV27'">27.</a><a name="FV27."> </a> Plant stout, generally 10&ndash;30 dm; stem 2&ndash;10 cm diam near base, evidently hollow; middle and inner phyllaries entire &mdash; San Joaquin Valley <a href="/cgi-bin/get_IJM.pl?tid=2139">.....&nbsp;C. crassicaule</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#FV27.">27'</a><a name="FV27'"> </a> Plant slender, generally 1&ndash;11 dm; stems generally &lt; 2 cm diam near base; middle and inner phyllaries irregularly toothed or spiny-ciliate <a href="/cgi-bin/get_IJM.pl?tid=2234">.....&nbsp;C. remotifolium</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#FV28'">28.</a><a name="FV28."> </a> Phyllary margins irregularly toothed or cut <a href="/cgi-bin/get_IJM.pl?tid=7076">.....&nbsp;var. odontolepis</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#FV28.">28'</a><a name="FV28'"> </a> Phyllary margins ciliate with minute spreading to recurved spines <a href="/cgi-bin/get_IJM.pl?tid=56560">.....&nbsp;var. rivulare</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#FV26.">26'</a><a name="FV26'"> </a> Heads generally closely subtended by &plusmn; well-developed distal leaves or clustered bract-like leaves; phyllary tips needle-like, ascending to radially spreading, connected side-to-side by long, cobwebby, or stouter, multicellular hairs
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#FV29'">29.</a><a name="FV29."> </a> Corolla lobes linear, tips not knob-like; style conspicuously exserted; stem cobwebby, &plusmn; glabrous in age, coarser, multicellular hairs 0 <a href="/cgi-bin/get_IJM.pl?tid=2094">.....&nbsp;C. andrewsii</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#FV29.">29'</a><a name="FV29'"> </a> Corolla lobes thread-like, tips knob-like; style included or exserted 1&ndash;2 mm; stem evidently hairy with &plusmn; coarse multicellular hairs, often cobwebby to densely tomentose with long, fine hairs <a href="/cgi-bin/get_IJM.pl?tid=2110">.....&nbsp;C. brevistylum</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FV23.">23'</a><a name="FV23'"> </a> Margins of outer phyllaries &plusmn; entire
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FV30'">30.</a><a name="FV30."> </a> Outer and middle phyllaries lance-linear to ovate, appressed; tip-spines 1&ndash;12 mm, generally ascending to erect
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#FV31'">31.</a><a name="FV31."> </a> Plant erect; stem openly branched distally &mdash; biennial; dry sites; South Coast Ranges and c Sierra Nevada Foothills to mtns of Southwestern California <a href="/cgi-bin/get_IJM.pl?tid=77401">.....&nbsp;C. occidentale var. californicum</a> (4)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#FV31.">31'</a><a name="FV31'"> </a> Plant generally &plusmn; compact, stemless or low-growing and branched &plusmn; throughout (if erect, generally distally unbranched)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#FV32'">32.</a><a name="FV32."> </a> Perennial herb from runner roots; generally from dry sites; North Coast, Outer North Coast Ranges, Central Western California <a href="/cgi-bin/get_IJM.pl?tid=2232">.....&nbsp;C. quercetorum</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#FV32.">32'</a><a name="FV32'"> </a> Biennial or perennial herb that flowers once, then dies, taprooted; generally from moist sites; widespread <a href="/cgi-bin/get_IJM.pl?tid=2249">.....&nbsp;C. scariosum</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#FV33'">33.</a><a name="FV33."> </a> Corolla pink to purple; High Sierra Nevada, San Bernardino Mountains, East of Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=82460">.....&nbsp;var. congdonii</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#FV33.">33'</a><a name="FV33'"> </a> Corolla white or faintly pink- or lilac-tinged
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#FV34'">34.</a><a name="FV34."> </a> Abaxial leaf face generally gray-tomentose; High Cascade Range, High Sierra Nevada, Warner Mountains <a href="/cgi-bin/get_IJM.pl?tid=81903">.....&nbsp;var. americanum</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#FV34.">34'</a><a name="FV34'"> </a> Abaxial leaf face generally &plusmn; glabrous (occasionally tomentose in <I>Cirsium scariosum</I> var. <I>citrinum</I>)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#FV35'">35.</a><a name="FV35."> </a> Plant generally stemless, or stemless and occasionally short-stemmed individuals in population
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#FV36'">36.</a><a name="FV36."> </a> Main leaf spines generally 2&ndash;7(10) mm; Tehachapi Mountain Area, Western Transverse Ranges, Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=81904">.....&nbsp;var. citrinum</a> (2)
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#FV36.">36'</a><a name="FV36'"> </a> Main leaf spines generally (3)7&ndash;10(12) mm; s Central Coast (sw San Luis Obispo, nw Santa Barbara cos.) <a href="/cgi-bin/get_IJM.pl?tid=91893">.....&nbsp;var. loncholepis</a> (2)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#FV35.">35'</a><a name="FV35'"> </a> Plant generally with evident branched or unbranched stem, or occasional stemless individuals present in population
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#FV37'">37.</a><a name="FV37."> </a> Stem generally erect, proximally unbranched; heads generally &plusmn; tightly clustered at stem tip; corolla 20&ndash;28 mm <a href="/cgi-bin/get_IJM.pl?tid=7078">.....&nbsp;var. scariosum</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#FV37.">37'</a><a name="FV37'"> </a> Stem generally branched proximally or throughout, plant often growing as low, rounded mound; most heads on short to &plusmn; long lateral branches; corolla 26&ndash;36 mm
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#FV38'">38.</a><a name="FV38."> </a> Inner phyllary tips generally expanded as scarious, irregularly toothed appendage &mdash; Klamath Ranges, nw Modoc Plateau <a href="/cgi-bin/get_IJM.pl?tid=86330">.....&nbsp;var. robustum</a>
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#FV38.">38'</a><a name="FV38'"> </a> Inner phyllary tips acuminate, entire or rarely toothed
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#FV39'">39.</a><a name="FV39."> </a> Main leaf spines generally 2&ndash;7(10) mm; Tehachapi Mountain Area, Western Transverse Ranges, Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=81904">.....&nbsp;var. citrinum</a> (2)
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#FV39.">39'</a><a name="FV39'"> </a> Main leaf spines generally (3)7&ndash;10(12) mm; s Central Coast (sw San Luis Obispo, nw Santa Barbara cos.) <a href="/cgi-bin/get_IJM.pl?tid=91893">.....&nbsp;var. loncholepis</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FV30.">30'</a><a name="FV30'"> </a> Outer and middle phyllaries with short-appressed bases and lanceolate to linear or needle-like, ascending to stiffly spreading tips; tip-spines generally 1&ndash;35 mm
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#FV40'">40.</a><a name="FV40."> </a> Outer phyllaries &plusmn; equal, narrowly lanceolate, rigidly spreading, tip-spines 5&ndash;10 mm; middle and inner phyllaries &plusmn; graduated, bodies appressed, tips spreading, spineless &mdash; s San Francisco Bay Area (Palo Alto, Santa Clara Co.) <a href="/cgi-bin/get_IJM.pl?tid=2226">.....&nbsp;C. praeteriens</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#FV40.">40'</a><a name="FV40'"> </a> Outer and middle phyllaries &plusmn; equal or graduated, tips ascending to spreading, needle-like to linear or lanceolate; middle phyllaries spine-tipped
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#FV41'">41.</a><a name="FV41."> </a> Phyllary tips conspicuously connected side-to-side by network of cobwebby or multicellular hairs
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#FV42'">42.</a><a name="FV42."> </a> Corolla lobes thread-like, tips knob-like; style included or exserted 1&ndash;2 mm; stem &plusmn; hairy, hairs coarse, jointed, generally also cobwebby to densely tomentose with long, fine hairs <a href="/cgi-bin/get_IJM.pl?tid=2110">.....&nbsp;C. brevistylum</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#FV42.">42'</a><a name="FV42'"> </a> Corolla lobes linear, tips not knob-like; style conspicuously exserted; stem cobwebby to densely tomentose, hairs long, fine <a href="/cgi-bin/get_IJM.pl?tid=2209">.....&nbsp;C. occidentale</a> (2)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#FV43'">43.</a><a name="FV43."> </a> Plant compact, low-growing, stemless or proximally branched, rounded, mound-like; heads generally not much elevated above leaves &mdash; Central Coast <a href="/cgi-bin/get_IJM.pl?tid=7068">.....&nbsp;var. compactum</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#FV43.">43'</a><a name="FV43'"> </a> Plant erect, main stem generally 1, proximally unbranched; heads generally elevated above leaves
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#FV44'">44.</a><a name="FV44."> </a> Phyllary tips &plusmn; equal, all needle-like, 13&ndash;30 mm; corolla light purple to rich red-purple or red <a href="/cgi-bin/get_IJM.pl?tid=81843">.....&nbsp;var. coulteri</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#FV44.">44'</a><a name="FV44'"> </a> Phyllary tips &plusmn; graduated, outer generally &lt; middle and inner, &plusmn; needle-like to lanceolate, 5&ndash;15 mm; corolla lavender to bright purple <a href="/cgi-bin/get_IJM.pl?tid=7069">.....&nbsp;var. occidentale</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#FV41.">41'</a><a name="FV41'"> </a> Phyllary tips glabrous or hairy to densely tomentose but generally not conspicuously connected side-to-side by network of cobwebby or multicellular hairs
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#FV45'">45.</a><a name="FV45."> </a> Corolla red to &plusmn; red-pink or bright rose-purple
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#FV46'">46.</a><a name="FV46."> </a> Perennial herb, rosettes from runner roots; corolla throat &plusmn; abruptly narrowed to tube; corolla &plusmn; bright rose-purple <a href="/cgi-bin/get_IJM.pl?tid=2093">.....&nbsp;C. andersonii</a> (2)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#FV46.">46'</a><a name="FV46'"> </a> Biennial; corolla throat gradually narrowed to tube, without a clear external separation between tube and throat <a href="/cgi-bin/get_IJM.pl?tid=2209">.....&nbsp;C. occidentale</a> (2)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#FV47'">47.</a><a name="FV47."> </a> Plant densely white-tomentose; phyllaries persistently white-tomentose (except tip-spines); outer phyllaries generally very long, spreading or reflexed <a href="/cgi-bin/get_IJM.pl?tid=56556">.....&nbsp;var. candidissimum</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#FV47.">47'</a><a name="FV47'"> </a> Plant variably tomentose, occasionally &plusmn; glabrous in age; phyllaries glabrous to &plusmn; loosely tomentose, occasionally some loosely cobwebby hairs extending between adjacent phyllary tips; outer phyllaries short to long, erect to spreading or reflexed
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#FV48'">48.</a><a name="FV48."> </a> Corolla 20&ndash;24 mm, red or dark red-purple; s Outer South Coast Ranges (s Santa Lucia Range, San Luis Obispo Co.) <a href="/cgi-bin/get_IJM.pl?tid=81502">.....&nbsp;var. lucianum</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#FV48.">48'</a><a name="FV48'"> </a> Corolla 23&ndash;35 mm, generally bright red-pink to red; widespread in California Floristic Province, White and Inyo Mountains, w Mojave Desert <a href="/cgi-bin/get_IJM.pl?tid=56557">.....&nbsp;var. venustum</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#FV45.">45'</a><a name="FV45'"> </a> Corolla white or cream to lavender, purple, or pale rose
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#FV49'">49.</a><a name="FV49."> </a> At least some inner phyllaries &plusmn; fringed <a href="/cgi-bin/get_IJM.pl?tid=7077">.....&nbsp;C. remotifolium var. remotifolium</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#FV49.">49'</a><a name="FV49'"> </a> Inner phyllaries entire
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#FV50'">50.</a><a name="FV50."> </a> Base of cauline leaves generally clasping with expanded basal lobes; leaf veins generally prominently raised abaxially <a href="/cgi-bin/get_IJM.pl?tid=85528">.....&nbsp;C. cymosum var. cymosum</a> (2)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#FV50.">50'</a><a name="FV50'"> </a> Base of cauline leaves generally not clasping with expanded basal lobes; leaf veins not prominently raised abaxially
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#FV51'">51.</a><a name="FV51."> </a> Phyllary tip-spine generally 1&ndash;3 mm; South Coast Ranges and c Sierra Nevada Foothills to mtns of Southwestern California <a href="/cgi-bin/get_IJM.pl?tid=77401">.....&nbsp;C. occidentale var. californicum</a> (4)
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#FV51.">51'</a><a name="FV51'"> </a> Phyllary tip-spine generally 3&ndash;10 mm
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#FV52'">52.</a><a name="FV52."> </a> Involucre, including phyllary tips generally ovoid to &plusmn; spheric; tip-spines of phyllaries (2)3&ndash;6 mm; outer phyllaries generally spreading or ascending &mdash; High Sierra Nevada, Great Basin Floristic Province <a href="/cgi-bin/get_IJM.pl?tid=89256">.....&nbsp;C. inamoenum var. inamoenum</a> (2)
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#FV52.">52'</a><a name="FV52'"> </a> Involucre, including phyllary tips often wider than long; tip-spines of phyllaries generally 5&ndash;10 mm; outer phyllaries often reflexed <a href="/cgi-bin/get_IJM.pl?tid=2203">.....&nbsp;C. neomexicanum</a> (2)</blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

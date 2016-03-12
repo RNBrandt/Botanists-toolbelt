@@ -1,0 +1,400 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Bromus</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Bromus
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16216">Bromus arenarius
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16217">Bromus arizonicus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16218">Bromus arvensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16219">Bromus berteroanus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16222">Bromus briziformis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16226">Bromus carinatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=71544">Bromus carinatus var. carinatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=82220">Bromus carinatus var. marginatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=86198">Bromus caroli-henrici
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16227">Bromus catharticus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85279">Bromus catharticus var. catharticus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85278">Bromus catharticus var. elatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16232">Bromus ciliatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16233">Bromus commutatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16235">Bromus diandrus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16242">Bromus grandis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=82280">Bromus hallii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16244">Bromus hordeaceus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16248">Bromus inermis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16250">Bromus japonicus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16255">Bromus laevipes
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16263">Bromus madritensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=70040">Bromus madritensis subsp. madritensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49473">Bromus madritensis subsp. rubens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16268">Bromus maritimus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16271">Bromus orcuttianus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16273">Bromus polyanthus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16215">Bromus porteri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16275">Bromus pseudolaevipes
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16278">Bromus racemosus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16225">Bromus richardsonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16283">Bromus secalinus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16284">Bromus sitchensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16286">Bromus squarrosus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16288">Bromus sterilis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16289">Bromus suksdorfii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16290">Bromus tectorum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16292">Bromus vulgaris
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=11003'><h3>View taxon page for Bromus</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AMD1'">1.</a><a name="AMD1."> </a> Spikelet strongly flattened; lemma strongly keeled (sect. <I>Ceratochloa</I>)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AMD2'">2.</a><a name="AMD2."> </a> Lemma awn 0&ndash;3.5 mm; lemma veins prominent <a href="/cgi-bin/get_IJM.pl?tid=85279">.....&nbsp;B. catharticus var. catharticus</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AMD2.">2'</a><a name="AMD2'"> </a> Lemma awn 4&ndash;15 mm; lemma veins obscure or prominent
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AMD3'">3.</a><a name="AMD3."> </a> Some lower inflorescence branches > 10 cm, spreading to nodding <a href="/cgi-bin/get_IJM.pl?tid=16284">.....&nbsp;B. sitchensis</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AMD3.">3'</a><a name="AMD3'"> </a> Lower inflorescence branches &lt; 10 cm, or if longer, erect to ascending
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AMD4'">4.</a><a name="AMD4."> </a> Upper glume &plusmn; = lowermost lemma
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AMD5'">5.</a><a name="AMD5."> </a> Annual; lower glume 3&ndash;5-veined, upper 9&ndash;15 mm, 5&ndash;9-veined; lemma 7&ndash;veined, margin generally hairy (occasionally glabrous), backs hairy or glabrous, awn 7&ndash;15 mm; anthers &lt;= 0.5 mm <a href="/cgi-bin/get_IJM.pl?tid=16217">.....&nbsp;B. arizonicus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AMD5.">5'</a><a name="AMD5'"> </a> Perennial herb; lower glume 5&ndash;7(9)-veined, upper 11&ndash;20 mm, 7&ndash;9-veined; lemma 9&ndash;11-veined, generally hairy at least distally, awn 6&ndash;12 mm; anthers 0.6&ndash;1 mm <a href="/cgi-bin/get_IJM.pl?tid=85278">.....&nbsp;B. catharticus var. elatus</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AMD4.">4'</a><a name="AMD4'"> </a> Upper glume generally &lt; lowermost lemma &mdash; lemma scabrous or variously hairy, marginal hairs if present similar in length to those on back
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AMD6'">6.</a><a name="AMD6."> </a> Inflorescence dense, pedicel generally &lt; spikelets; spikelets crowded, overlapping, stalks not visible; stem 20&ndash;80 cm, occasionally bent at base; stem, leaves glabrous or occasionally scabrous; ligule &lt;= 6 mm <a href="/cgi-bin/get_IJM.pl?tid=16268">.....&nbsp;B. maritimus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AMD6.">6'</a><a name="AMD6'"> </a> Inflorescence loose to compact, at least some pedicels > spikelets; spikelets not crowded or overlapping, stalk often visible; stem 30&ndash;120 cm, erect; stem, leaves often hairy; ligule generally &lt; 4 mm
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AMD7'">7.</a><a name="AMD7."> </a> Most awns >= (6)7 mm
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AMD8'">8.</a><a name="AMD8."> </a> Lemma generally uniformly hairy, occasionally scabrous, veins 7, obscure <a href="/cgi-bin/get_IJM.pl?tid=71544">.....&nbsp;B. carinatus var. carinatus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AMD8.">8'</a><a name="AMD8'"> </a> Lemma generally hairy at least distally, veins 9&ndash;11 on distal 1/2, prominent <a href="/cgi-bin/get_IJM.pl?tid=85278">.....&nbsp;B. catharticus var. elatus</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AMD7.">7'</a><a name="AMD7'"> </a> Most awns &lt; 7 mm
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AMD9'">9.</a><a name="AMD9."> </a> Sheath throat and/or lemma hairy <a href="/cgi-bin/get_IJM.pl?tid=82220">.....&nbsp;B. carinatus var. marginatus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AMD9.">9'</a><a name="AMD9'"> </a> Sheath throat, lemma glabrous <a href="/cgi-bin/get_IJM.pl?tid=16273">.....&nbsp;B. polyanthus</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AMD1.">1'</a><a name="AMD1'"> </a> Spikelet not strongly flattened; lemma rounded over midrib and not strongly keeled
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AMD10'">10.</a><a name="AMD10."> </a> Lemma tip conspicuously 2-toothed, teeth translucent, awn-like to acuminate, 1&ndash;7 mm; largest lemmas generally &lt; 2 mm wide
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AMD11'">11.</a><a name="AMD11."> </a> Lemma awn bent and/or twisted (sect. <I>Neobromus</I>) <a href="/cgi-bin/get_IJM.pl?tid=16219">.....&nbsp;B. berteroanus</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AMD11.">11'</a><a name="AMD11'"> </a> Lemma awn straight, not twisted (sect. <I>Genea</I>)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AMD12'">12.</a><a name="AMD12."> </a> Lemma mostly > 20 mm; awn 30&ndash;65 mm <a href="/cgi-bin/get_IJM.pl?tid=16235">.....&nbsp;B. diandrus</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AMD12.">12'</a><a name="AMD12'"> </a> Lemma mostly &lt; 20 mm; awn 8&ndash;30 mm
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AMD13'">13.</a><a name="AMD13."> </a> Inflorescence dense, branches erect to ascending <a href="/cgi-bin/get_IJM.pl?tid=16263">.....&nbsp;B. madritensis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AMD14'">14.</a><a name="AMD14."> </a> Inflorescence branches occasionally > spikelets, shortest branch on lowest inflorescence node 6&ndash;24 mm, longest branch on lowest node 0&ndash;1 &times; branched; sterile florets &lt;= 3; inflorescence internodes gradually reduced upwards; florets not overlapping at maturity <a href="/cgi-bin/get_IJM.pl?tid=70040">.....&nbsp;subsp. madritensis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AMD14.">14'</a><a name="AMD14'"> </a> Inflorescence branches &lt; spikelets, shortest branch on lowest inflorescence node &lt;= 6 mm, longest branch on lowest node 2&ndash;5 &times; branched; sterile florets 3+; inflorescence internodes abruptly reduced upwards; florets overlapping at maturity <a href="/cgi-bin/get_IJM.pl?tid=49473">.....&nbsp;subsp. rubens</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AMD13.">13'</a><a name="AMD13'"> </a> Inflorescence open, branches spreading to nodding
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AMD15'">15.</a><a name="AMD15."> </a> Spikelets 1(3) per inflorescence branch; inflorescence generally simple; branches > spikelets (&lt; when inflorescence reduced to 1(3) spikelets); lemma 13&ndash;20 mm; awn 15&ndash;30 mm <a href="/cgi-bin/get_IJM.pl?tid=16288">.....&nbsp;B. sterilis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AMD15.">15'</a><a name="AMD15'"> </a> Spikelets 1&ndash;14 per inflorescence branch; inflorescence branched 1&ndash;5 &times;; branches &lt; or > spikelets; lemma 9&ndash;13 mm; awn 8&ndash;18 mm <a href="/cgi-bin/get_IJM.pl?tid=16290">.....&nbsp;B. tectorum</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AMD10.">10'</a><a name="AMD10'"> </a> Lemma tip entire or inconspicuously 2-toothed, teeth generally not translucent, 0&ndash;3 mm; largest lemmas generally > 2 mm wide (except in <I>Bromus vulgaris</I>)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AMD16'">16.</a><a name="AMD16."> </a> Annual; lower glume 3(5)-veined; upper glume 5&ndash;9-veined (sect. <I>Bromus</I>)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AMD17'">17.</a><a name="AMD17."> </a> Lemma inflated, 6&ndash;8 mm wide; awn 0&ndash;1 mm; spikelet ovate <a href="/cgi-bin/get_IJM.pl?tid=16222">.....&nbsp;B. briziformis</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AMD17.">17'</a><a name="AMD17'"> </a> Lemma not inflated, 1&ndash;5 mm wide; awn 2&ndash;20 mm; spikelet lanceolate to lance-ovate
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AMD18'">18.</a><a name="AMD18."> </a> Lemma papery, veins generally strongly raised; inflorescence generally &plusmn; dense
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AMD19'">19.</a><a name="AMD19."> </a> Awn from > 3 mm below lemma tip, bent; all pedicels &lt;&lt; spikelets; inflorescence branches erect <a href="/cgi-bin/get_IJM.pl?tid=86198">.....&nbsp;B. caroli-henrici</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AMD19.">19'</a><a name="AMD19'"> </a> Awn from &lt; 1.5 mm below lemma tip, straight (curved); generally some pedicels > spikelets; inflorescence branches erect to spreading <a href="/cgi-bin/get_IJM.pl?tid=16244">.....&nbsp;B. hordeaceus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AMD18.">18'</a><a name="AMD18'"> </a> Lemma leathery, veins generally not strongly raised; inflorescence generally &plusmn; open
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AMD20'">20.</a><a name="AMD20."> </a> Lemma awn from 1.5&ndash;5 mm below tip
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AMD21'">21.</a><a name="AMD21."> </a> Lower glume 7&ndash;10 mm; upper glume 8&ndash;12 mm; inflorescence branches conspicuously S-curved <a href="/cgi-bin/get_IJM.pl?tid=16216">.....&nbsp;B. arenarius</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AMD21.">21'</a><a name="AMD21'"> </a> Lower glume 4&ndash;7 mm; upper glume 5&ndash;9.5 mm; inflorescence branches &plusmn; wavy, sometimes S-curved
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AMD22'">22.</a><a name="AMD22."> </a> Inflorescence panicle-like, branches generally with > 1 spikelet; membranous lemma margin 0.3&ndash;0.6 mm wide <a href="/cgi-bin/get_IJM.pl?tid=16250">.....&nbsp;B. japonicus</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AMD22.">22'</a><a name="AMD22'"> </a> Inflorescence generally raceme-like, branches generally with 1 spikelet; membranous lemma margin 0.6&ndash;0.9 mm wide <a href="/cgi-bin/get_IJM.pl?tid=16286">.....&nbsp;B. squarrosus</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AMD20.">20'</a><a name="AMD20'"> </a> Lemma awn from &lt; 1.5 mm below tip
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AMD23'">23.</a><a name="AMD23."> </a> Anthers 2.5&ndash;5 mm; spikelets lance-linear, narrowing only slightly towards tip; lower leaf sheaths with dense, softly appressed hairs; spikelets generally purple-tinged <a href="/cgi-bin/get_IJM.pl?tid=16218">.....&nbsp;[B. arvensis]</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AMD23.">23'</a><a name="AMD23'"> </a> Anthers &lt; 2.5(3) mm; spikelets lance-ovate, narrowing conspicuously towards tip; lower leaf sheaths glabrous or sparsely to densely stiff-hairy; spikelets not purple-tinged.
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AMD24'">24.</a><a name="AMD24."> </a> Lower leaf sheath glabrous or sparsely short-hairy; spikelet widening in fruit, stalk becoming tough, persistent, visible as lemma wraps around fruit; fruit U- and V-shaped in &times;-section <a href="/cgi-bin/get_IJM.pl?tid=16283">.....&nbsp;B. secalinus</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AMD24.">24'</a><a name="AMD24'"> </a> Lower leaf sheath long-hairy; spikelets not widening substantially in fruit, lemmas generally continuing to obscure stalks; fruit flat or C-shaped in &times;-section
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AMD25'">25.</a><a name="AMD25."> </a> Inflorescence broad, spreading, some inflorescence branches > 4 cm, 1&ndash;3 spikelets per branch; lowest lemma awn generally &lt; other awns; spikelets 15&ndash;30 mm; 2nd lowest lemma 7.5&ndash;11 mm, glabrous or hairy, margin often broadly angled; anthers 1.3&ndash;2.5 mm <a href="/cgi-bin/get_IJM.pl?tid=16233">.....&nbsp;B. commutatus</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AMD25.">25'</a><a name="AMD25'"> </a> Inflorescence narrow, generally unbranched, inflorescence branches &lt; 4 cm, 1 spikelet per branch; all awns &plusmn; equal; spikelet 11&ndash;18 mm; 2nd lowest lemma 7&ndash;9 mm, glabrous, margin often smoothly curved; anthers 1.5&ndash;3 mm <a href="/cgi-bin/get_IJM.pl?tid=16278">.....&nbsp;B. racemosus</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AMD16.">16'</a><a name="AMD16'"> </a> Perennial herb, bases fibrous, rhizomes generally 0; lower glume 1(3)-veined; upper glume 3(5)-veined (sect. <I>Bromopsis</I>)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AMD26'">26.</a><a name="AMD26."> </a> Plants from rhizomes; awn 0&ndash;3 mm <a href="/cgi-bin/get_IJM.pl?tid=16248">.....&nbsp;B. inermis</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AMD26.">26'</a><a name="AMD26'"> </a> Rhizomes 0; awn 1.5&ndash;11 mm
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AMD27'">27.</a><a name="AMD27."> </a> Lower glume generally 3-veined
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AMD28'">28.</a><a name="AMD28."> </a> Upper glume 5-veined
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AMD29'">29.</a><a name="AMD29."> </a> Ligule (1.5)2&ndash;4 mm; glume glabrous; upper glume 7&ndash;11 mm; leaf blade, sheath glabrous <a href="/cgi-bin/get_IJM.pl?tid=16255">.....&nbsp;B. laevipes</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AMD29.">29'</a><a name="AMD29'"> </a> Ligule 0.4&ndash;1(2) mm; glume scabrous or hairy; upper glume 6&ndash;9 mm; leaf blade, sheath hairy or glabrous <a href="/cgi-bin/get_IJM.pl?tid=16275">.....&nbsp;B. pseudolaevipes</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AMD28.">28'</a><a name="AMD28'"> </a> Upper glume 3-veined
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AMD30'">30.</a><a name="AMD30."> </a> Lemma awn 1.5&ndash;3(4) mm; blade 2&ndash;5 mm wide; anthers 1.5&ndash;3.5(4) mm <a href="/cgi-bin/get_IJM.pl?tid=16215">.....&nbsp;B. porteri</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AMD30.">30'</a><a name="AMD30'"> </a> Lemma awn 3&ndash;9 mm; blade 3&ndash;12 mm wide; anthers 3&ndash;7 mm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AMD31'">31.</a><a name="AMD31."> </a> Leaf blade, basal sheath hairy; stem nodes 3&ndash;7; inflorescence branches generally spreading > 90&deg; <a href="/cgi-bin/get_IJM.pl?tid=16242">.....&nbsp;B. grandis</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AMD31.">31'</a><a name="AMD31'"> </a> Leaf blade, basal sheath glabrous; stem nodes 2&ndash;3(4); inflorescence branches generally ascending to spreading &lt;= 90&deg; <a href="/cgi-bin/get_IJM.pl?tid=16271">.....&nbsp;B. orcuttianus</a> (3)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AMD27.">27'</a><a name="AMD27'"> </a> Lower glume generally 1-veined
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AMD32'">32.</a><a name="AMD32."> </a> Glumes glabrous or minutely scabrous
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AMD33'">33.</a><a name="AMD33."> </a> Inflorescence narrow in flower, &lt;= 2 cm wide; branches erect or tightly ascending <a href="/cgi-bin/get_IJM.pl?tid=16289">.....&nbsp;B. suksdorfii</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AMD33.">33'</a><a name="AMD33'"> </a> Inflorescence broader in flower, > 2 cm wide; branches erect, ascending, or nodding, generally &plusmn; widely spreading
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AMD34'">34.</a><a name="AMD34."> </a> Ligule (2)3&ndash;6(7) mm; lemma awn (4)6&ndash;11 mm <a href="/cgi-bin/get_IJM.pl?tid=16292">.....&nbsp;B. vulgaris</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AMD34.">34'</a><a name="AMD34'"> </a> Ligule 0.5&ndash;3 mm; lemma awn (2)3&ndash;7(9) mm
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AMD35'">35.</a><a name="AMD35."> </a> Lemma margin not densely hairy; lemma awn (4)5&ndash;7(9) mm; inflorescence branches generally ascending to spreading &lt;= 90&deg; <a href="/cgi-bin/get_IJM.pl?tid=16271">.....&nbsp;B. orcuttianus</a> (3)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AMD35.">35'</a><a name="AMD35'"> </a> Lemma margin densely hairy; lemma awn (2)3&ndash;5(6.5) mm; inflorescence branches spreading to nodding > 90&deg;
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AMD36'">36.</a><a name="AMD36."> </a> Lemma back glabrous or sparsely hairy with hairs to 0.1 mm; anthers(0.9)1&ndash;1.4(1.6) mm; upper glumes (6.2)7.1&ndash;8.5(9.5) mm; basal sheath glabrous or long-hairy; upper stem blade hairy on upper surface; upper stem sheath, nodes generally hairy; fruit (5.4)6.2&ndash;7.2(7.5) mm <a href="/cgi-bin/get_IJM.pl?tid=16232">.....&nbsp;B. ciliatus</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AMD36.">36'</a><a name="AMD36'"> </a> Lemma back sparsely to densely hairy with hairs > 0.1 mm; anthers (1.2)1.6&ndash;2.7(3.4) mm; upper glumes (7.8)8.9&ndash;11.3(13.2) mm; basal sheath densely, &plusmn; short-hairy, upper stem sheath glabrous; upper stem blade upper surface glabrous; upper stem nodes generally glabrous; fruit (6.9)7.7&ndash;9.7(10.5) mm <a href="/cgi-bin/get_IJM.pl?tid=16225">.....&nbsp;B. richardsonii</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AMD32.">32'</a><a name="AMD32'"> </a> Glumes hairy
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AMD37'">37.</a><a name="AMD37."> </a> Inflorescence narrow at flower, &lt;= 2 cm wide, branches erect or tightly ascending; leaf blade, sheath glabrous <a href="/cgi-bin/get_IJM.pl?tid=16289">.....&nbsp;B. suksdorfii</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AMD37.">37'</a><a name="AMD37'"> </a> Inflorescence broader at flower, > 2 cm wide, branches erect, ascending, or nodding; leaf blade, sheath hairy or glabrous
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AMD38'">38.</a><a name="AMD38."> </a> Ligule (2)3&ndash;6(7) mm; lemma awn (4)6&ndash;11 mm; inflorescence branches glabrous or scabrous <a href="/cgi-bin/get_IJM.pl?tid=16292">.....&nbsp;B. vulgaris</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AMD38.">38'</a><a name="AMD38'"> </a> Ligule 1&ndash;3 mm; lemma awn 3&ndash;7(9) mm; inflorescence branches hairy
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AMD39'">39.</a><a name="AMD39."> </a> Lower sheath long-soft-hairy, hairs 2&ndash;4 mm, or glabrous; leaf blade glabrous <a href="/cgi-bin/get_IJM.pl?tid=16271">.....&nbsp;B. orcuttianus</a> (3)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AMD39.">39'</a><a name="AMD39'"> </a> Lower sheath densely short-stiff-hairy, hairs &lt;=1 mm; leaf blade hairy
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AMD40'">40.</a><a name="AMD40."> </a> Longest leaf blade (13)18&ndash;38 cm; nodes 3&ndash;7 per stem <a href="/cgi-bin/get_IJM.pl?tid=16242">.....&nbsp;B. grandis</a> (2)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AMD40.">40'</a><a name="AMD40'"> </a> Longest leaf blade 7.5&ndash;16.5 cm; nodes 1&ndash;2(3) per stem <a href="/cgi-bin/get_IJM.pl?tid=82280">.....&nbsp;B. hallii</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

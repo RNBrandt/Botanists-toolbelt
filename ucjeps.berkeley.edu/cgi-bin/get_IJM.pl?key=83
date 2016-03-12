@@ -1,0 +1,240 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Campanulaceae</h2><a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=83'><h3>View taxon page for Campanulaceae</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#NT1'">1.</a><a name="NT1."> </a> Flower radial; filaments not fused (subfamily Campanuloideae)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#NT2'">2.</a><a name="NT2."> </a> Perennial herb
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#NT3'">3.</a><a name="NT3."> </a> Flowers generally 2&ndash;4+ per node; corolla cut >= 3/4 to base, lobes linear <a href="/cgi-bin/get_IJM.pl?tid=9225">.....&nbsp;ASYNEUMA</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#NT3.">3'</a><a name="NT3'"> </a> Flowers generally 1 per node; corolla cut 1/4&ndash;2/3 to base, lobes narrow- to wide-triangular <a href="/cgi-bin/get_IJM.pl?tid=9227">.....&nbsp;CAMPANULA</a> (2)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#NT2.">2'</a><a name="NT2'"> </a> Annual
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#NT4'">4.</a><a name="NT4."> </a> Flowers in axils of leaf-like bracts, sessile
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#NT5'">5.</a><a name="NT5."> </a> Corolla 3&ndash;5 mm, cylindric; sepals widely triangular, leaf-like <a href="/cgi-bin/get_IJM.pl?tid=9235">.....&nbsp;HETEROCODON</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#NT5.">5'</a><a name="NT5'"> </a> Corolla 5&ndash;10 mm, rotate; sepals narrowly triangular, not leaf-like <a href="/cgi-bin/get_IJM.pl?tid=10299">.....&nbsp;TRIODANIS</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#NT4.">4'</a><a name="NT4'"> </a> Flowers terminal, subtended, but generally not immediately so, by 1&ndash;several, generally non-leaf-like bracts, sessile or not
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#NT6'">6.</a><a name="NT6."> </a> Fruit open by lateral pores <a href="/cgi-bin/get_IJM.pl?tid=9227">.....&nbsp;CAMPANULA</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#NT6.">6'</a><a name="NT6'"> </a> Fruit open at top irregularly by tears where style falls off, within persistent sepals <a href="/cgi-bin/get_IJM.pl?tid=9234">.....&nbsp;GITHOPSIS</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#NT1.">1'</a><a name="NT1'"> </a> Flower bilateral; filaments, anthers fused into tube or filaments fused into tube above middle, anthers free
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#NT7'">7.</a><a name="NT7."> </a> Filaments free at base, fused above middle, anthers free; plants of dry areas (subfamily Nemacladoideae) <a href="/cgi-bin/get_IJM.pl?tid=10293">.....&nbsp;NEMACLADUS</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#NT7.">7'</a><a name="NT7'"> </a> Filaments, anthers fused; plants of wet areas (subfamily Lobelioideae)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#NT8'">8.</a><a name="NT8."> </a> Fruit open on sides by slits or irregular tears
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#NT9'">9.</a><a name="NT9."> </a> Pedicels 0; ovary long, narrow, &plusmn; pedicel-like; leaf lanceolate to awl-like <a href="/cgi-bin/get_IJM.pl?tid=9232">.....&nbsp;DOWNINGIA</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#NT9.">9'</a><a name="NT9'"> </a> Pedicels 1&ndash;4(8) mm; ovary ellipsoid, not pedicel-like; leaf linear <a href="/cgi-bin/get_IJM.pl?tid=9237">.....&nbsp;HOWELLIA</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#NT8.">8'</a><a name="NT8'"> </a> Fruit open at top, within sepals, by valves
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#NT10'">10.</a><a name="NT10."> </a> Fruit spheric; plant biennial, perennial herb <a href="/cgi-bin/get_IJM.pl?tid=10292">.....&nbsp;LOBELIA</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#NT10.">10'</a><a name="NT10'"> </a> Fruit narrowly obconic or cylindric; plant annual
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#NT11'">11.</a><a name="NT11."> </a> Corolla blue, abaxial lip with 2 low, yellow ridges; fruit narrowly obconic to cylindric <a href="/cgi-bin/get_IJM.pl?tid=10296">.....&nbsp;PORTERELLA</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#NT11.">11'</a><a name="NT11'"> </a> Corolla white or 0, abaxial lip without ridges; fruit cylindric <a href="/cgi-bin/get_IJM.pl?tid=10290">.....&nbsp;LEGENERE</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

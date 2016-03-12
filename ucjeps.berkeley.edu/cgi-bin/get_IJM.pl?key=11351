@@ -1,0 +1,322 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Collinsia</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Collinsia
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19987">Collinsia antonina
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19988">Collinsia bartsiifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56710">Collinsia bartsiifolia var. bartsiifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56711">Collinsia bartsiifolia var. davidsonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56713">Collinsia bartsiifolia var. stricta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19989">Collinsia callosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19990">Collinsia childii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19991">Collinsia concolor
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19992">Collinsia corymbosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=20001">Collinsia grandiflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19993">Collinsia greenei
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19994">Collinsia heterophylla
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56715">Collinsia heterophylla var. austromontana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56716">Collinsia heterophylla var. heterophylla
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19996">Collinsia linearis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19997">Collinsia multicolor
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19999">Collinsia parryi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=20000">Collinsia parviflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=20004">Collinsia rattanii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=20005">Collinsia sparsiflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56722">Collinsia sparsiflora var. collina
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56723">Collinsia sparsiflora var. sparsiflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=20008">Collinsia tinctoria
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=20009">Collinsia torreyi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=74747">Collinsia torreyi var. brevicarinata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56724">Collinsia torreyi var. latifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56725">Collinsia torreyi var. torreyi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56726">Collinsia torreyi var. wrightii
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=11351'><h3>View taxon page for Collinsia</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#ZR1'">1.</a><a name="ZR1."> </a> Corolla &plusmn; uniformly dark purple; base of each upper lobe with 2 crested projections bulging > 1 mm away from throat opening <a href="/cgi-bin/get_IJM.pl?tid=19993">.....&nbsp;C. greenei</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#ZR1.">1'</a><a name="ZR1'"> </a> Corolla uniformly pale, or with pale regions, especially throat and base of upper lip; base of each upper lobe with projection 0 or bulging away &lt; 1 mm away from throat opening
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#ZR2'">2.</a><a name="ZR2."> </a> Flower whorls dense; proximal pedicels &lt; calyx
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ZR3'">3.</a><a name="ZR3."> </a> Upper filaments with curved basal spur 1&ndash;2 mm, curved into pouch; corolla throat as wide as long <a href="/cgi-bin/get_IJM.pl?tid=19994">.....&nbsp;C. heterophylla</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ZR4'">4.</a><a name="ZR4."> </a> Corolla 10&ndash;15 mm, upper lip &lt; lower lip; leaf (sparsely) hairy abaxially <a href="/cgi-bin/get_IJM.pl?tid=56715">.....&nbsp;var. austromontana</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ZR4.">4'</a><a name="ZR4'"> </a> Corolla (13)15&ndash;20 mm, lips &plusmn; equal; leaf glabrous abaxially (at most ciliate on midvein) <a href="/cgi-bin/get_IJM.pl?tid=56716">.....&nbsp;var. heterophylla</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ZR3.">3'</a><a name="ZR3'"> </a> Filaments &plusmn; unspurred or spur &lt;= 0.5 mm (except 0.8 mm in <I>Collinsia tinctoria</I>); corolla throat longer than wide
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ZR5'">5.</a><a name="ZR5."> </a> Upper corolla lip &lt;= 2/3 lower lip
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ZR6'">6.</a><a name="ZR6."> </a> Upper lip 1/2 to 2/3 lower lip; corolla 8&ndash;12 mm &mdash; leaf glabrous abaxially; c High Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=56713">.....&nbsp;C. bartsiifolia var. stricta</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ZR6.">6'</a><a name="ZR6'"> </a> Upper lip &lt; 1/2 lower lip; corolla 12&ndash;22 mm
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ZR7'">7.</a><a name="ZR7."> </a> Leaf glabrous abaxially; inflorescence &plusmn; head-like; corolla upper lobes &plusmn; 1 mm, dry, &plusmn; brown, lateral lobes glabrous, throat barely angled to tube, pouch low; inflorescence sparsely and finely glandular; North Coast <a href="/cgi-bin/get_IJM.pl?tid=19992">.....&nbsp;C. corymbosa</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ZR7.">7'</a><a name="ZR7'"> </a> Leaf hairy abaxially; inflorescence generally of several whorls; corolla upper lobes >> 1 mm, red-banded, lateral lobes generally hairy, throat strongly angled to tube, pouch prominent; inflorescence densely glandular, staining; widespread <a href="/cgi-bin/get_IJM.pl?tid=20008">.....&nbsp;C. tinctoria</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ZR5.">5'</a><a name="ZR5'"> </a> Corolla lips &plusmn; = in fully open flowers
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ZR8'">8.</a><a name="ZR8."> </a> Corolla blue to blue-purple, not drying veiny, upper lobes notched, lateral lobes and tip of lowest lobe generally hairy; leaves thin, entire to toothed; South Coast (Riverside Co.), Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=19991">.....&nbsp;C. concolor</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ZR8.">8'</a><a name="ZR8'"> </a> Corolla generally white to &plusmn; purple, generally drying veiny, upper lobes &plusmn; toothed (backs often touching or parallel); leaves &plusmn; thick, crenate; widespread <a href="/cgi-bin/get_IJM.pl?tid=19988">.....&nbsp;C. bartsiifolia</a> (in part)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ZR9'">9.</a><a name="ZR9."> </a> Corolla 15&ndash;20 mm <a href="/cgi-bin/get_IJM.pl?tid=56710">.....&nbsp;var. bartsiifolia</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ZR9.">9'</a><a name="ZR9'"> </a> Corolla 9&ndash;14 mm <a href="/cgi-bin/get_IJM.pl?tid=56711">.....&nbsp;var. davidsonii</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#ZR2.">2'</a><a name="ZR2'"> </a> Flowers 1 to loosely whorled; proximal pedicels > calyx
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ZR10'">10.</a><a name="ZR10."> </a> Leaves generally &plusmn; lance-deltate, generally coarsely toothed; proximal-most pedicels >> calyx, distal pedicels &plusmn; = calyx &mdash; n&c Central Coast, San Francisco Bay Area (San Mateo Co.) <a href="/cgi-bin/get_IJM.pl?tid=19997">.....&nbsp;C. multicolor</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ZR10.">10'</a><a name="ZR10'"> </a> Leaves linear to ovate or oblong, generally entire, crenate, or finely toothed; all pedicels &plusmn; equal
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ZR11'">11.</a><a name="ZR11."> </a> Inner face of calyx lobes white-hairy &mdash; plants on white shale scree <a href="/cgi-bin/get_IJM.pl?tid=19987">.....&nbsp;C. antonina</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ZR11.">11'</a><a name="ZR11'"> </a> Inner face of calyx lobes not hairy
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ZR12'">12.</a><a name="ZR12."> </a> Calyx lobe tips sharp to long-tapered
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ZR13'">13.</a><a name="ZR13."> </a> Upper filaments, middle lower corolla lobe glabrous; calyx &plusmn; = fruit, lobes not widely spreading; seeds plump, oblong, unwinged
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ZR14'">14.</a><a name="ZR14."> </a> Corolla 8&ndash;15 mm, main lobes generally 2&ndash;6 mm wide, obovate, throat strongly angled to tube <a href="/cgi-bin/get_IJM.pl?tid=20001">.....&nbsp;C. grandiflora</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ZR14.">14'</a><a name="ZR14'"> </a> Corolla 4&ndash;8 mm, main lobes &plusmn; 1 mm wide, oblong, throat barely angled to tube <a href="/cgi-bin/get_IJM.pl?tid=20000">.....&nbsp;C. parviflora</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ZR13.">13'</a><a name="ZR13'"> </a> Upper filaments, middle lower corolla lobe sparsely long-hairy near tip; calyx generally >> fruit, lobes widely spreading in fruit; seeds flat, &plusmn; round, &plusmn; winged &mdash; fruit generally red-blotched <a href="/cgi-bin/get_IJM.pl?tid=20005">.....&nbsp;C. sparsiflora</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ZR15'">15.</a><a name="ZR15."> </a> Corolla 5&ndash;8 mm, throat barely angled to tube, pouch hidden by calyx <a href="/cgi-bin/get_IJM.pl?tid=56722">.....&nbsp;var. collina</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ZR15.">15'</a><a name="ZR15'"> </a> Corolla 7&ndash;20 mm, throat strongly angled to tube, pouch generally evident to prominent <a href="/cgi-bin/get_IJM.pl?tid=56723">.....&nbsp;var. sparsiflora</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ZR12.">12'</a><a name="ZR12'"> </a> Calyx lobe tips &plusmn; blunt
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ZR16'">16.</a><a name="ZR16."> </a> Inflorescence &plusmn; glandless <a href="/cgi-bin/get_IJM.pl?tid=19999">.....&nbsp;C. parryi</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ZR16.">16'</a><a name="ZR16'"> </a> Inflorescence conspicuously glandular
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ZR17'">17.</a><a name="ZR17."> </a> Pedicels spreading to ascending in fruit; distal-most bracts > 2 mm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ZR18'">18.</a><a name="ZR18."> </a> Middle and distal leaves oblong to ovate to (ob)lanceolate, generally &lt; 6 &times; longer than wide
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ZR19'">19.</a><a name="ZR19."> </a> Plant fleshy; distal leaves clasping; seeds 6&ndash;8, &plusmn; 2 mm; calyx &plusmn; = fruit <a href="/cgi-bin/get_IJM.pl?tid=19989">.....&nbsp;C. callosa</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ZR19.">19'</a><a name="ZR19'"> </a> Plant not fleshy; distal leaf bases tapered; seeds 2, &plusmn; 3 mm; calyx > fruit <a href="/cgi-bin/get_IJM.pl?tid=19990">.....&nbsp;C. childii</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ZR18.">18'</a><a name="ZR18'"> </a> Middle and distal leaves &plusmn; linear, generally > 6 &times; longer than wide
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ZR20'">20.</a><a name="ZR20."> </a> Corolla generally 8&ndash;12(15) mm, >> 2 &times; calyx, throat strongly angled to tube, pouch prominent <a href="/cgi-bin/get_IJM.pl?tid=19996">.....&nbsp;C. linearis</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ZR20.">20'</a><a name="ZR20'"> </a> Corolla 4&ndash;8 mm, generally &lt; 2 &times; calyx, throat barely angled to tube, pouch &plusmn; hidden by calyx <a href="/cgi-bin/get_IJM.pl?tid=20004">.....&nbsp;C. rattanii</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ZR17.">17'</a><a name="ZR17'"> </a> Some pedicels strongly reflexed in fruit; distal-most bracts 0&ndash;2 mm <a href="/cgi-bin/get_IJM.pl?tid=20009">.....&nbsp;C. torreyi</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ZR21'">21.</a><a name="ZR21."> </a> Lateral corolla lobes exceeding lowest by 1&ndash;2 mm
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ZR22'">22.</a><a name="ZR22."> </a> Corolla generally 6&ndash;9 mm <a href="/cgi-bin/get_IJM.pl?tid=74747">.....&nbsp;var. brevicarinata</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ZR22.">22'</a><a name="ZR22'"> </a> Corolla generally 4&ndash;6 mm <a href="/cgi-bin/get_IJM.pl?tid=56726">.....&nbsp;var. wrightii</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ZR21.">21'</a><a name="ZR21'"> </a> Lateral corolla lobes exceeding lowest by &lt;&lt; 1 mm, or not exceeding it
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ZR23'">23.</a><a name="ZR23."> </a> Leaves elliptic to ovate, generally 2&ndash;5 &times; longer than wide <a href="/cgi-bin/get_IJM.pl?tid=56724">.....&nbsp;var. latifolia</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ZR23.">23'</a><a name="ZR23'"> </a> Leaves &plusmn; linear; generally > 6 &times; longer than wide <a href="/cgi-bin/get_IJM.pl?tid=56725">.....&nbsp;var. torreyi</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

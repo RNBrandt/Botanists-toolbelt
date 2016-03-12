@@ -1,0 +1,287 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Downingia</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Downingia
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23272">Downingia bacigalupii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23273">Downingia bella
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23274">Downingia bicornuta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57808">Downingia bicornuta var. bicornuta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57809">Downingia bicornuta var. picta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23275">Downingia concolor
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57810">Downingia concolor var. brevior
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57811">Downingia concolor var. concolor
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23276">Downingia cuspidata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23277">Downingia elegans
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23278">Downingia insignis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23279">Downingia laeta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23280">Downingia montana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23281">Downingia ornatissima
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57816">Downingia ornatissima var. eximia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=57817">Downingia ornatissima var. ornatissima
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23282">Downingia pulchella
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81560">Downingia pulcherrima
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23283">Downingia pusilla
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23286">Downingia willamettensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23285">Downingia yina
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=9232'><h3>View taxon page for Downingia</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#NV1'">1.</a><a name="NV1."> </a> Anthers abruptly bent, > 70&deg; to filaments; lower corolla lip lobes &plusmn; parallel
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#NV2'">2.</a><a name="NV2."> </a> Corolla with 1 purple band or 3 distinct spots near throat; ovary chambers 2 <a href="/cgi-bin/get_IJM.pl?tid=23278">.....&nbsp;D. insignis</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#NV2.">2'</a><a name="NV2'"> </a> Corolla without purple near throat, or, if present, diffuse; ovary chambers 1
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#NV3'">3.</a><a name="NV3."> </a> Corolla 3-colored (blue, white, yellow); lower corolla lobes obtuse, mucronate <a href="/cgi-bin/get_IJM.pl?tid=23272">.....&nbsp;D. bacigalupii</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#NV3.">3'</a><a name="NV3'"> </a> Corolla 2-colored (blue, white); lower corolla lobes acute <a href="/cgi-bin/get_IJM.pl?tid=23277">.....&nbsp;D. elegans</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#NV1.">1'</a><a name="NV1'"> </a> Anthers not or &plusmn; bent, &lt; 45&deg; to filaments; lower corolla lip lobes divergent, not parallel
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#NV4'">4.</a><a name="NV4."> </a> Corolla &lt;= 7 mm; flower not inverting, upper corolla lip 3-lobed
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#NV5'">5.</a><a name="NV5."> </a> Corolla 4&ndash;7 mm, with blue or purple spots or band near throat; seeds with longitudinal lines <a href="/cgi-bin/get_IJM.pl?tid=23279">.....&nbsp;D. laeta</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#NV5.">5'</a><a name="NV5'"> </a> Corolla 2.5&ndash;4 mm, without blue or purple spots near throat; seeds with spiral lines, appearing twisted <a href="/cgi-bin/get_IJM.pl?tid=23283">.....&nbsp;D. pusilla</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#NV4.">4'</a><a name="NV4'"> </a> Corolla generally >= 7 mm; flower inverting, upper corolla lip 2-lobed
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#NV6'">6.</a><a name="NV6."> </a> Sinus between 2 upper corolla lobes with a backward-projecting horn <a href="/cgi-bin/get_IJM.pl?tid=23281">.....&nbsp;D. ornatissima</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#NV7'">7.</a><a name="NV7."> </a> Upper corolla lobes densely hairy adaxially near tips <a href="/cgi-bin/get_IJM.pl?tid=57816">.....&nbsp;var. eximia</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#NV7.">7'</a><a name="NV7'"> </a> Upper corolla lobes glabrous or sparsely hairy adaxially near tips <a href="/cgi-bin/get_IJM.pl?tid=57817">.....&nbsp;var. ornatissima</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#NV6.">6'</a><a name="NV6'"> </a> Sinus between 2 upper corolla lobes without a horn
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#NV8'">8.</a><a name="NV8."> </a> 2 largest bristles at tips of lower anthers twisted together (or not or 0) <a href="/cgi-bin/get_IJM.pl?tid=23274">.....&nbsp;D. bicornuta</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#NV9'">9.</a><a name="NV9."> </a> 2 largest bristles at tips of lower anthers generally >= anthers; corolla tube light blue to pale yellow, with prominent blue veins adaxially <a href="/cgi-bin/get_IJM.pl?tid=57809">.....&nbsp;var. picta</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#NV9.">9'</a><a name="NV9'"> </a> 2 largest bristles at tips of lower anthers &lt; anthers; corolla tube blue, without prominent veins adaxially <a href="/cgi-bin/get_IJM.pl?tid=57808">.....&nbsp;var. bicornuta</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#NV8.">8'</a><a name="NV8'"> </a> 2 largest bristles at tips of lower anthers not twisted
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#NV10'">10.</a><a name="NV10."> </a> Corolla without purple near throat; seeds with spiral lines, appearing twisted <a href="/cgi-bin/get_IJM.pl?tid=23276">.....&nbsp;D. cuspidata</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#NV10.">10'</a><a name="NV10'"> </a> Corolla with 1 purple, &plusmn; square spot or 2&ndash;3 purple, non-square spots or 1 purple band near throat; seeds with longitudinal lines
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#NV11'">11.</a><a name="NV11."> </a> Corolla with 1 purple, &plusmn; square spot (2-lobed or not) near throat; upper corolla lobes ciliate-scabrous <a href="/cgi-bin/get_IJM.pl?tid=23275">.....&nbsp;D. concolor</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#NV12'">12.</a><a name="NV12."> </a> Mature fruit generally 12&ndash;30 mm, readily dehiscent, lines translucent <a href="/cgi-bin/get_IJM.pl?tid=57810">.....&nbsp;var. brevior</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#NV12.">12'</a><a name="NV12'"> </a> Mature fruit (25)30&ndash;50 mm, tardily dehiscent, lines not translucent <a href="/cgi-bin/get_IJM.pl?tid=57811">.....&nbsp;var. concolor</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#NV11.">11'</a><a name="NV11'"> </a> Corolla with 2&ndash;3 purple, non-square spots or 1 purple band near throat; upper corolla lobes glabrous
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#NV13'">13.</a><a name="NV13."> </a> Anthers exserted, &plusmn; tapered, pointed at tip <a href="/cgi-bin/get_IJM.pl?tid=23282">.....&nbsp;D. pulchella</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#NV13.">13'</a><a name="NV13'"> </a> Anthers included to &plusmn; exserted, blunt at tip
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#NV14'">14.</a><a name="NV14."> </a> Ovary chambers 2; placentas axile; Great Central Valley, South Coast, n Western Transverse Ranges <a href="/cgi-bin/get_IJM.pl?tid=23273">.....&nbsp;D. bella</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#NV14.">14'</a><a name="NV14'"> </a> Ovary chambers 1; placentas parietal; Cascade Range, Sierra Nevada
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#NV15'">15.</a><a name="NV15."> </a> Upper 3 anthers densely hairy at tips; upper 3 sepals >> lower 2 <a href="/cgi-bin/get_IJM.pl?tid=23280">.....&nbsp;D. montana</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#NV15.">15'</a><a name="NV15'"> </a> Upper 3 anthers glabrous or &plusmn; hairy at tips; upper 3 sepals &plusmn; > lower 2
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#NV16'">16.</a><a name="NV16."> </a> Plants at 500&ndash;1550 m in Klamath Ranges, Cascade Range <a href="/cgi-bin/get_IJM.pl?tid=81560">.....&nbsp;D. pulcherrima</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#NV16.">16'</a><a name="NV16'"> </a> Plants at generally &lt; 200 m in Northwestern California (650 m, Lake Co.) <a href="/cgi-bin/get_IJM.pl?tid=23286">.....&nbsp;D. willamettensis</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

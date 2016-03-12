@@ -1,0 +1,283 @@
+<html>
+<head>
+<Meta NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<title>Consortium Georef</title>
+<link href="http://ucjeps.berkeley.edu/consortium/style_consortium.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+
+
+<!-- COMMON HEADER -->
+<table width="100%" class="banner" border="0" cellpadding="0" cellspacing="0">
+  <tr><td width="80" align="center"><a href="/consortium/"><img src="/consortium/images/CCH_logo_02_80.png" width="80" height="82"></a></td>
+  <td>
+        <table class="banner" width="100%" border="0">
+        <tr>
+        <td align="center">Consortium of California Herbaria</td>
+        </tr>
+        <tr><td>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                <td height="21" width="640" align="center">
+                <a href="http://ucjeps.berkeley.edu/consortium/participants.html" class="horizMenuActive">Participants</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/consortium/news.html" class="horizMenuActive">News</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/consortium/" class="horizMenuActive">Search</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/consortium/about.html" class="horizMenuActive">About</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/detail_help.html" class="horizMenuActive">Help</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://give.berkeley.edu/fund/?f=FU1259000" class="horizMenuActive">Donate</a>
+                    </td></tr>
+                </table>
+        </td></tr>
+        </table>
+</td></tr>
+</table>
+<!-- COMMON HEADER ENDS -->
+
+
+<center>
+<img src="topo.gif">
+</center>
+<h2 align="center">Georeferencing</h2>
+<table width="70%" align="center" bgcolor="#eeeeee">
+<tr>
+<td>
+<blockquote><b class="bodyText">
+Georeferencing (putting coordinates on a collecting site description) is not a trivial task; to do it well takes time and considerable knowledge as well as ready resources. It's easy to make a variety of mistakes.
+Awareness of geography (biogeography as well as political geography), botanical collecting history, collector's protocol, as well as of the numerous possibilities of data error will help the process immensely. 
+The tools on this page will allow you to map coordinates (1), to get coordinates for a place name and position them on a map (2), to map all Consortium records for a county (3), to select an area and retrieve all the Consortium records (or a list of taxa) (4),  and identify possible bad Consortium records (5).<!-- I think these tools will be very useful, but I think they should be available only to fairly sophisticated users.-->
+</b>
+</blockquote>
+</td>
+</tr>
+</table>
+<OL>
+<LI>
+<h3>
+<a href="http://ucjeps.berkeley.edu/consortium/load_mapper.html">Map Coordinates (click to link to a form)</a>
+</h3>
+<blockquote>
+Often it's useful to map a set of coordinates to see if they
+show up where they are supposed to.<br>
+This tool allows you to paste
+coordinates into a form and then map them with BerkeleyMapper.
+</blockquote>
+<LI>
+<h3>Look up and map locations using <a href="http://www.museum.tulane.edu/geolocate/web/WebGeoref.aspx">GeoLocate</a></h3>
+<LI><h3>Get coordinates from Google Maps: <a href="http://itouchmap.com/latlong.html">Itouch maps</a></h3>
+<LI>
+<h3>A list of georeferencing reference documents is maintained on the <a href="https://sites.google.com/a/rsabg.org/cch_georeferencing_resources/file-cabinet">RSABG Georeferencing site</a></h3>
+</LI>
+<!--<LI><h3>Store and share geographic insights: <a href="http://wikimapia.org/#lat=37.7798661&lon=-121.7620429&z=10&l=0&m=b">WikiMapia</a></h3>-->
+
+<!-- <h3>Look up and map locations using <a href="http://bg.berkeley.edu/latest/">BioGeomancer Workbench</a> (very cool!)</h3> -->
+
+<LI>
+<form method = "POST" action="http://ucjeps.berkeley.edu/cgi-bin/map_county_stripped.pl">
+
+<h3>Map records of all specimens with coordinate data for a county. Select source and county</h3>
+<table border=0  cellspacing=5 width="55%" bgcolor="#eeeeee" class="bodyText">
+<tr>
+<td >
+<b>Source</b> (1 or more; default is all sources)
+<SELECT NAME="source" size=16 multiple>
+<OPTION VALUE="All" SELECTED>All sources<br>
+<OPTION VALUE="UC">UC (University Herbarium, UC Berkeley)<br>
+<OPTION VALUE="JEPS">JEPS (Jepson Herbarium, UC Berkeley)<br>
+<OPTION VALUE="UCSB">UCSB (UC Santa Barbara)<br>
+<OPTION VALUE="UCSC">UCSC (UC Santa Cruz)<br>
+<OPTION VALUE="IRVC">IRVC (UC Irvine)<br>
+<OPTION VALUE="UCR">UCR (UC Riverside)<br>
+<OPTION VALUE="CAS">CAS (California Academy of Sciences)<br>
+<OPTION VALUE="DS">DS (Dudley Herbarium in CAS)<br>
+<OPTION VALUE="CDA">CDA (California Department of Food and Agriculture)<br>
+<OPTION VALUE="UCD">DAV (UC Davis)<br>
+<OPTION VALUE="SBBG">SBBG (Santa Barbara Botanic Garden)<br>
+<OPTION VALUE="CHSC">CHSC (Chico State Herbarium, CSU Chico)<br>
+<OPTION VALUE="RSA">RSA (Rancho Santa Ana Botanic Garden Herbarium)<br>
+<OPTION VALUE="POM">POM (Pomona Herbarium in RSA)<br>
+<OPTION VALUE="SJSU">SJSU (Carl W. Sharsmith Herbarium)<br>
+<OPTION VALUE="SD">SD (San Diego Natural History Museum)<br>
+<OPTION VALUE="SDSU">SDSU (San Diego State University)<br>
+</SELECT>
+</td>
+<td><strong>County</strong>&nbsp;(required)
+<br>
+<select name="county" size="15">
+ <option value = "ALAMEDA">Alameda
+  <option value = "ALPINE">Alpine
+   <option value = "AMADOR">Amador
+    <option value = "BUTTE">Butte
+ <option value = "CALAVERAS">Calaveras
+  <option value = "COLUSA">Colusa
+   <option value = "CONTRA COSTA">Contra Costa
+    <option value = "DEL NORTE">Del Norte
+ <option value = "EL DORADO">El Dorado
+  <option value = "FRESNO">Fresno
+   <option value = "GLENN">Glenn
+    <option value = "HUMBOLDT">Humboldt
+ <option value = "IMPERIAL">Imperial
+  <option value = "INYO">Inyo
+   <option value = "KERN">Kern
+    <option value = "KINGS">Kings
+ <option value = "LAKE">Lake
+  <option value = "LASSEN">Lassen
+   <option value = "LOS ANGELES">Los Angeles
+    <option value = "MADERA">Madera
+ <option value = "MARIN">Marin
+  <option value = "MARIPOSA">Mariposa
+   <option value = "MENDOCINO">Mendocino
+    <option value = "MERCED">Merced
+ <option value = "MODOC">Modoc
+  <option value = "MONO">Mono
+   <option value = "MONTEREY">Monterey
+    <option value = "NAPA">Napa
+ <option value = "NEVADA">Nevada
+  <option value = "ORANGE">Orange
+   <option value = "PLACER">Placer
+    <option value = "PLUMAS">Plumas
+ <option value = "RIVERSIDE">Riverside
+  <option value = "SACRAMENTO">Sacramento
+   <option value = "SAN BENITO">San Benito
+    <option value = "SAN BERNARDINO">San Bernardino
+ <option value = "SAN DIEGO">San Diego
+  <option value = "SAN FRANCISCO">San Francisco
+   <option value = "SAN JOAQUIN">San Joaquin
+    <option value = "SAN LUIS OBISPO">San Luis Obispo
+ <option value = "SAN MATEO">San Mateo
+  <option value = "SANTA BARBARA">Santa Barbara
+   <option value = "SANTA CLARA">Santa Clara
+    <option value = "SANTA CRUZ">Santa Cruz
+ <option value = "SHASTA">Shasta
+  <option value = "SIERRA">Sierra
+   <option value = "SISKIYOU">Siskiyou
+    <option value = "SOLANO">Solano
+ <option value = "SONOMA">Sonoma
+  <option value = "STANISLAUS">Stanislaus
+   <option value = "SUTTER">Sutter
+    <option value = "TEHAMA">Tehama
+ <option value = "TRINITY">Trinity
+  <option value = "TULARE">Tulare
+   <option value = "TUOLUMNE">Tuolumne
+    <option value = "VENTURA">Ventura
+ <option value = "YOLO">Yolo
+  <option value = "YUBA">Yuba
+   		<option value = "UNKNOWN">unknown
+</select>
+		<br>
+		<b class="pageSubheading">
+		If you want only the possibly dubious records ...
+		</b>
+		<input type ="checkbox" name="marginal" value=1 >
+<br>
+</td>
+</tr>
+<tr>
+<td align=center colspan="2">
+<input TYPE="submit" VALUE="Submit Query">
+<br>
+<input TYPE="reset" VALUE="Reset Form">
+</td>
+</tr>
+</table>
+</form>
+<a name="coords"> </a>
+<LI> 
+<h3>
+Retrieve all georeferenced records from a specified area
+</h3>
+<table border=0  cellspacing=5 width="55%" bgcolor="#eeeeee" class="bodyText">
+<tr><td>
+Note: Not all counties have been uniformly georeferenced!
+</td></tr>
+<tr><td>
+The area can be represented either by providing the corner coordinates of a rectangle (fill out #1 below)<br>
+or<br>
+by drawing a circle in BerkeleyMapper and pasting the circle information into the field at #2.
+</td></tr>
+<tr><td>
+<OL>
+<LI>
+<b>Provide bounding box coordinates, retrieve records inside the box</b>
+<br>
+Use decimal coordinates (e.g.: 33.4, -122.6). Limit the maximum box side length to 2 degrees.
+<form method = "POST" action="/cgi-bin/get_consort.pl">
+<table class="bodyText">
+<tr><td>Northern latitude</td><td><input type="text" name=lat_max size=10></input></td>
+<td>Southern latitude</td><td><input type="text" name=lat_min size=10></input></td>
+<td>Western longitude</td><td><input type="text" name=long_min size=10></input></td>
+<td>Eastern longitude</td><td><input type="text" name=long_max size=10></input></td></tr>
+</table>
+<LI>
+<FONT COLOR="RED"><b>OR</b> </FONT>
+<b>paste in coordinates and error radius using the circle-drawing tool at the top of the map in </b>
+<a href="http://berkeleymapper.berkeley.edu/index.html?ViewResults=tab&tabfile=http://ucjeps.berkeley.edu/basemap.txt&configfile=http%3A%2F%2Fucjeps.berkeley.edu%2Fucjeps_GR.xml&sourcename=Consortium+of+California+Herbaria+result+set&">
+<b>BerkeleyMapper</B> (click to get map).</a>
+<br>
+<b>Example of information to be copied from tool and pasted into form:</b>
+</OL>
+<table bgcolor="#eeeeee" class="bodyText" width="70%">
+<tr>
+<td>
+<b>Coordinate: 37.87654 / -121.93076 (3077 meters radius)</b>
+
+<!-- <br>
+<b>Text to use for coordinate source:</b>
+Generated visually using GoogleMaps v2 base layers<br>in BerkeleyMapper. -->
+</td></tr></table>
+<textarea name="sugg_loc" cols="50" rows="6">Paste contents here</textarea>
+		<br>
+		If you only want a list of names, not all the records:
+		<input type ="checkbox" name="make_tax_list" value=1 >
+		<b class="pageSubheading">
+		Taxon List
+		</b>
+<br>
+<input TYPE="submit" VALUE="Submit coordinates, return records, and generate map">
+</form>
+</td></tr>
+</table>
+<LI>
+<h3>
+Retrieve records with possible out-of-state coordinates
+</h3>
+<UL>
+<LI><a href="/cgi-bin/get_consort.pl?get_bad_coords=1">All herbaria</a>
+<LI><a href="/cgi-bin/get_consort.pl?get_bad_coords=1&source=CHSC">CHSC</a>
+<LI><a href="/cgi-bin/get_consort.pl?get_bad_coords=1&source=JEPS">JEPS</a>
+<LI><a href="/cgi-bin/get_consort.pl?get_bad_coords=1&source=POM">POM</a>
+<LI><a href="/cgi-bin/get_consort.pl?get_bad_coords=1&source=RSA">RSA</a>
+<LI><a href="/cgi-bin/get_consort.pl?get_bad_coords=1&source=SBBG">SBBG</a>
+<LI><a href="/cgi-bin/get_consort.pl?get_bad_coords=1&source=SD">SD</a>
+<LI><a href="/cgi-bin/get_consort.pl?get_bad_coords=1&source=UC">UC</a>
+<LI><a href="/cgi-bin/get_consort.pl?get_bad_coords=1&source=UCD">UCD</a>
+<LI><a href="/cgi-bin/get_consort.pl?get_bad_coords=1&source=UCR">UCR</a>
+</UL>
+<LI>
+<h3>
+Data cleanup (possible errors in georeferencing as well as data entry errors)
+</h3>
+<UL> 
+<LI><a href="/consortium/questionable_data.html">Records by the same collector on the same day that do not map closely</a>
+<LI><a href="/consortium/questionable_dups.html">Duplicates (Records by the same collector on the same day with the same number)  that do not map at the same spot</a>
+</UL>
+
+<LI>
+<H3>Links</H3>
+<UL>
+<LI><a href="http://historical-county.newberry.org/website/California/viewer.htm">Historical boundaries of California counties</a>
+<LI><a href="http://itouchmap.com/latlong.html">Itouch maps: Get coordinates from Google Maps</a>
+<LI><a href="http://california.hometownlocator.com/"> California Home Town Locator</a>
+<LI><a href="https://sites.google.com/a/rsabg.org/cch_georeferencing_resources/">RSABG Georeferencing Resources</a>
+</UL
+</OL>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1304595-1";
+urchinTracker();
+</script>
+</body>
+</html>

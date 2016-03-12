@@ -1,0 +1,572 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Ceanothus</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Ceanothus
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18428">Ceanothus arboreus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=86346">Ceanothus arcuatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18490">Ceanothus confusus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18432">Ceanothus cordulatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18433">Ceanothus crassifolius
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=71709">Ceanothus crassifolius var. crassifolius
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56082">Ceanothus crassifolius var. planus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18434">Ceanothus cuneatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=75440">Ceanothus cuneatus var. cuneatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56085">Ceanothus cuneatus var. fascicularis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80150">Ceanothus cuneatus var. ramulosus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18438">Ceanothus cyaneus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18439">Ceanothus dentatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18493">Ceanothus divergens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18440">Ceanothus diversifolius
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18444">Ceanothus ferrisiae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18446">Ceanothus foliosus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=75441">Ceanothus foliosus var. foliosus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56091">Ceanothus foliosus var. medius
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56092">Ceanothus foliosus var. vineatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18448">Ceanothus fresnensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18449">Ceanothus gloriosus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56093">Ceanothus gloriosus var. exaltatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=75442">Ceanothus gloriosus var. gloriosus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56094">Ceanothus gloriosus var. porrectus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18455">Ceanothus hearstiorum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18459">Ceanothus impressus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=71716">Ceanothus impressus var. impressus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56100">Ceanothus impressus var. nipomensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18460">Ceanothus incanus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18461">Ceanothus integerrimus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=94459">Ceanothus integerrimus var. integerrimus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56102">Ceanothus integerrimus var. macrothyrsus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18464">Ceanothus jepsonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18465">Ceanothus lemmonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18466">Ceanothus leucodermis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18469">Ceanothus maritimus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18450">Ceanothus masonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18471">Ceanothus megacarpus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56106">Ceanothus megacarpus var. insularis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=75444">Ceanothus megacarpus var. megacarpus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18475">Ceanothus oliganthus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=75445">Ceanothus oliganthus var. oliganthus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56108">Ceanothus oliganthus var. orcuttii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56109">Ceanothus oliganthus var. sorediatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18481">Ceanothus ophiochilus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18482">Ceanothus otayensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18483">Ceanothus palmeri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18484">Ceanothus papillosus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18486">Ceanothus parryi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18487">Ceanothus parvifolius
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18452">Ceanothus perplexans
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18488">Ceanothus pinetorum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18489">Ceanothus prostratus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56114">Ceanothus prostratus var. occidentalis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=75447">Ceanothus prostratus var. prostratus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18491">Ceanothus pumilus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18492">Ceanothus purpureus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18436">Ceanothus rigidus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18494">Ceanothus roderickii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18496">Ceanothus sanguineus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18437">Ceanothus sonomensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18500">Ceanothus spinosus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18501">Ceanothus thyrsiflorus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80855">Ceanothus thyrsiflorus var. griseus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=71719">Ceanothus thyrsiflorus var. thyrsiflorus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18502">Ceanothus tomentosus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18505">Ceanothus velutinus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18506">Ceanothus verrucosus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=18453">Ceanothus vestitus
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=8834'><h3>View taxon page for Ceanothus</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#ACT1'">1.</a><a name="ACT1."> </a> Stipules knob-like, corky, thick, bases persistent; leaves generally opposite (generally alternate in <I>Ceanothus megacarpus</I> var. <I>megacarpus</I>, <I>Ceanothus verrucosus</I>), clustered or not; inflorescence generally umbel-like (subg. <I>Cerastes</I>)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#ACT2'">2.</a><a name="ACT2."> </a> Leaves generally alternate
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ACT3'">3.</a><a name="ACT3."> </a> Leaf blade 10&ndash;25 mm, 5&ndash;12 mm wide, length generally > 2 &times; width, elliptic to widely oblanceolate, margin entire; fruit 7&ndash;12 mm wide <a href="/cgi-bin/get_IJM.pl?tid=75444">.....&nbsp;C. megacarpus var. megacarpus</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ACT3.">3'</a><a name="ACT3'"> </a> Leaf blade 5&ndash;14 mm, 3&ndash;10 mm wide, length generally &lt; 2 &times; width, widely obovate to round, margin entire or teeth &plusmn; sharp; fruit 4&ndash;6 mm wide <a href="/cgi-bin/get_IJM.pl?tid=18506">.....&nbsp;C. verrucosus</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#ACT2.">2'</a><a name="ACT2'"> </a> Leaves generally opposite, occasionally clustered
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ACT4'">4.</a><a name="ACT4."> </a> Plant mat- to mound-like, generally &lt; 1 m; stems spreading, &plusmn; ascending, occasionally arched, rooting at nodes or not
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ACT5'">5.</a><a name="ACT5."> </a> Leaf margin generally entire, occasionally &plusmn; 3&ndash;5-toothed distally
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ACT6'">6.</a><a name="ACT6."> </a> Leaf blade 8&ndash;20 mm, gray-tomentose abaxially, margin thick or &plusmn; rolled under; Central Coast (nw San Luis Obispo Co.), &lt; 60 m <a href="/cgi-bin/get_IJM.pl?tid=18469">.....&nbsp;C. maritimus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ACT6.">6'</a><a name="ACT6'"> </a> Leaf blade generally 4&ndash;12 mm, &plusmn; glabrous to strigose abaxially, margin not thick, &plusmn; not rolled under; Klamath Ranges, n North Coast Ranges, n&c Sierra Nevada, > 260 m
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACT7'">7.</a><a name="ACT7."> </a> Leaves generally clustered, generally erect <a href="/cgi-bin/get_IJM.pl?tid=18494">.....&nbsp;C. roderickii</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACT7.">7'</a><a name="ACT7'"> </a> Leaves &plusmn; evenly spaced, generally not clustered, spreading to ascending
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT8'">8.</a><a name="ACT8."> </a> Plant generally mound-like, generally 0.3&ndash;1 m, stems not rooting at nodes; twigs brown to gray-brown <a href="/cgi-bin/get_IJM.pl?tid=86346">.....&nbsp;C. arcuatus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT8.">8'</a><a name="ACT8'"> </a> Plant mat-like, &lt; 0.3 m, stems rooting at nodes; twigs generally red-brown <a href="/cgi-bin/get_IJM.pl?tid=18448">.....&nbsp;C. fresnensis</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ACT5.">5'</a><a name="ACT5'"> </a> Leaf blade margin 2&ndash;35-toothed
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ACT9'">9.</a><a name="ACT9."> </a> Leaf blade generally wide-elliptic or -obovate or round, length generally &lt; 2 &times; width;, margin 5&ndash;35-toothed
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACT10'">10.</a><a name="ACT10."> </a> Twigs generally not angled; flowers white to pale blue or blue-lavender
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT11'">11.</a><a name="ACT11."> </a> Leaf blade 10&ndash;20 mm; fruit 6&ndash;9 mm wide; horns 1&ndash;2 mm, wrinkled; Klamath Ranges (Trinity Mtns), s High Sierra Nevada (Kern Plateau), 1050&ndash;2750 m <a href="/cgi-bin/get_IJM.pl?tid=18488">.....&nbsp;C. pinetorum</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT11.">11'</a><a name="ACT11'"> </a> Leaf blade 4&ndash;10 mm; fruit 4&ndash;6 mm wide; horns &lt; 1 mm, smooth; Central Coast, &lt; 400 m <a href="/cgi-bin/get_IJM.pl?tid=18436">.....&nbsp;C. rigidus</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACT10.">10'</a><a name="ACT10'"> </a> Twigs generally angled distally; flowers blue to blue-purple <a href="/cgi-bin/get_IJM.pl?tid=18449">.....&nbsp;C. gloriosus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT12'">12.</a><a name="ACT12."> </a> Plant &lt; 0.3 m; stems generally spreading; leaf blade 23&ndash;31 mm, margin 13&ndash;35-toothed <a href="/cgi-bin/get_IJM.pl?tid=75442">.....&nbsp;var. gloriosus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT12.">12'</a><a name="ACT12'"> </a> Plant &lt; 0.5 m; stems spreading to &plusmn; ascending; leaf blade 10&ndash;21 mm, margin 9&ndash;19-toothed <a href="/cgi-bin/get_IJM.pl?tid=56094">.....&nbsp;var. porrectus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ACT9.">9'</a><a name="ACT9'"> </a> Leaf blade generally elliptic to obovate or oblanceolate, length generally > 2 &times; width; margin 2&ndash;11-toothed
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACT13'">13.</a><a name="ACT13."> </a> Leaf blade 2&ndash;6 mm wide, margin 0&ndash;5-toothed distally
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT14'">14.</a><a name="ACT14."> </a> Leaves not clustered, spreading, tips generally truncate, margin generally 2&ndash;3-toothed; Klamath Ranges, North Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=18491">.....&nbsp;C. pumilus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT14.">14'</a><a name="ACT14'"> </a> Leaves generally clustered, generally erect, tips obtuse to &plusmn; notched, margin 0&ndash;5-toothed; n Sierra Nevada Foothills (w El Dorado Co.) <a href="/cgi-bin/get_IJM.pl?tid=18494">.....&nbsp;C. roderickii</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACT13.">13'</a><a name="ACT13'"> </a> Leaf blade 4&ndash;16 mm wide, margin generally 2&ndash;11-toothed distally
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT15'">15.</a><a name="ACT15."> </a> Leaf blade generally not &plusmn; wavy, generally not &plusmn; folded lengthwise; fruit 6&ndash;9 mm wide, horns 1&ndash;2 mm, thick, wrinkled (slender in <I>Ceanothus prostratus</I> var. <I>occidentalis</I>) <a href="/cgi-bin/get_IJM.pl?tid=18489">.....&nbsp;C. prostratus</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACT16'">16.</a><a name="ACT16."> </a> Plant mound-like; leaf blade &plusmn; folded lengthwise, concave adaxially, teeth 5&ndash;9, in distal 1/2; fruit horns spreading <a href="/cgi-bin/get_IJM.pl?tid=56114">.....&nbsp;var. occidentalis</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACT16.">16'</a><a name="ACT16'"> </a> Plant generally mat-like; leaf blade &plusmn; not folded lengthwise, not concave adaxially, teeth 3&ndash;5(7), in distal 2/3; fruit horns erect <a href="/cgi-bin/get_IJM.pl?tid=75447">.....&nbsp;var. prostratus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT15.">15'</a><a name="ACT15'"> </a> Leaf blade generally &plusmn; wavy or &plusmn; folded; fruit 4&ndash;6 mm wide, horns 1.5&ndash;2.5 mm, &plusmn; slender, smooth
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACT17'">17.</a><a name="ACT17."> </a> Plant mound-like, 0.2&ndash;0.5 m, stems spreading to &plusmn; ascending, occasionally rooting at nodes <a href="/cgi-bin/get_IJM.pl?tid=18490">.....&nbsp;C. confusus</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACT17.">17'</a><a name="ACT17'"> </a> Plant erect to mound-like, 0.5&ndash;1.5 m, stems ascending to &plusmn; erect, generally not rooting at nodes <a href="/cgi-bin/get_IJM.pl?tid=18493">.....&nbsp;C. divergens</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ACT4.">4'</a><a name="ACT4'"> </a> Plant generally erect, 1&ndash;4+ m; stems ascending to erect, occasionally intricately branched, not rooting at nodes
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ACT18'">18.</a><a name="ACT18."> </a> Leaf blade &plusmn; wavy to &plusmn; folded lengthwise, margin teeth spine-like
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ACT19'">19.</a><a name="ACT19."> </a> Leaf blade elliptic to narrowly obovate <a href="/cgi-bin/get_IJM.pl?tid=18493">.....&nbsp;C. divergens</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ACT19.">19'</a><a name="ACT19'"> </a> Leaf blade widely elliptic to &plusmn; round
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACT20'">20.</a><a name="ACT20."> </a> Leaves &plusmn; spreading, margin 3&ndash;5-toothed <a href="/cgi-bin/get_IJM.pl?tid=18437">.....&nbsp;C. sonomensis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACT20.">20'</a><a name="ACT20'"> </a> Leaves generally reflexed, margin 7&ndash;15-toothed
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT21'">21.</a><a name="ACT21."> </a> Sepals, petals 6&ndash;8; fruit 5&ndash;7 mm, wrinkled, horns thick; flowers white to blue; generally serpentine <a href="/cgi-bin/get_IJM.pl?tid=18464">.....&nbsp;C. jepsonii</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT21.">21'</a><a name="ACT21'"> </a> Sepals, petals 5; fruit 4&ndash;5 mm, smooth, horns slender; flowers dark blue to purple; volcanic substrates <a href="/cgi-bin/get_IJM.pl?tid=18492">.....&nbsp;C. purpureus</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ACT18.">18'</a><a name="ACT18'"> </a> Leaf blade generally flat or convex to concave adaxially, margin entire or teeth &plusmn; sharp, not spine-like
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ACT22'">22.</a><a name="ACT22."> </a> Leaf blade densely tomentose abaxially, veins obscure, margin generally rolled under <a href="/cgi-bin/get_IJM.pl?tid=71709">.....&nbsp;C. crassifolius var. crassifolius</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ACT22.">22'</a><a name="ACT22'"> </a> Leaf blade generally glabrous to strigose or puberulent abaxially (sparsely tomentose in <I>Ceanothus crassifolius</I> var. <I>planus</I>, &plusmn; tomentose in <I>Ceanothus otayensis</I>), veins generally evident, margin not rolled under (except <I>Ceanothus otayensis</I>)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACT23'">23.</a><a name="ACT23."> </a> Leaf margin generally entire, or teeth &lt; 5, unevenly distributed
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT24'">24.</a><a name="ACT24."> </a> Leaf blade 3&ndash;7 mm, 1&ndash;3 mm wide, narrow-oblanceolate to -obovate; inflorescence generally &lt; 1 cm; flowers generally pale blue, occasionally &plusmn; pink <a href="/cgi-bin/get_IJM.pl?tid=18481">.....&nbsp;C. ophiochilus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT24.">24'</a><a name="ACT24'"> </a> Leaf blade 5&ndash;30 mm, 3&ndash;19 mm wide, elliptic, oblanceolate, obovate, or &plusmn; round; inflorescence generally 1&ndash;2 cm; flowers generally white (pale blue to lavender in some <I>Ceanothus cuneatus</I>)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACT25'">25.</a><a name="ACT25."> </a> Flower disk dark; fruit 5&ndash;12 mm wide
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACT26'">26.</a><a name="ACT26."> </a> Leaf tip obtuse to rounded; fruit 5&ndash;9 mm wide; s Outer South Coast Ranges, Western Transverse Ranges (Santa Barbara, Ventura cos.) <a href="/cgi-bin/get_IJM.pl?tid=56082">.....&nbsp;C. crassifolius var. planus</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACT26.">26'</a><a name="ACT26'"> </a> Leaf tip truncate to &plusmn; notched; fruit 7&ndash;12 mm wide; Channel Islands <a href="/cgi-bin/get_IJM.pl?tid=56106">.....&nbsp;C. megacarpus var. insularis</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACT25.">25'</a><a name="ACT25'"> </a> Flower disk generally not dark, white to pale blue or lavender; fruit 3&ndash;6 mm wide
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACT27'">27.</a><a name="ACT27."> </a> Twigs generally dense-puberulent to short-tomentose, pale gray to &plusmn; white; leaf blade short-curly-puberulent abaxially <a href="/cgi-bin/get_IJM.pl?tid=18453">.....&nbsp;C. vestitus</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACT27.">27'</a><a name="ACT27'"> </a> Twigs generally glabrous to &plusmn; puberulent, generally brown to gray-brown, leaf blade glabrous to &plusmn; strigose abaxially <a href="/cgi-bin/get_IJM.pl?tid=18434">.....&nbsp;C. cuneatus</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ACT28'">28.</a><a name="ACT28."> </a> Flower generally white; twigs generally gray-brown; leaf blade tip acute to &plusmn; rounded <a href="/cgi-bin/get_IJM.pl?tid=75440">.....&nbsp;var. cuneatus</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ACT28.">28'</a><a name="ACT28'"> </a> Flower generally blue to lavender; twigs generally brown; leaf blade tip truncate to notched
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#ACT29'">29.</a><a name="ACT29."> </a> Leaves at nodes and in axillary clusters, node leaves widely obovate, clustered leaves oblanceolate to narrowly obovate <a href="/cgi-bin/get_IJM.pl?tid=56085">.....&nbsp;var. fascicularis</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#ACT29.">29'</a><a name="ACT29'"> </a> Leaves at nodes, blades widely obovate to &plusmn; round <a href="/cgi-bin/get_IJM.pl?tid=80150">.....&nbsp;var. ramulosus</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACT23.">23'</a><a name="ACT23'"> </a> Leaf margin generally dentate to &plusmn; serrate, teeth generally 5&ndash;35 (occasionally &lt; 5 in <I>Ceanothus vestitus</I>), &plusmn; evenly distributed, or in distal 1/2, occasionally minute
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT30'">30.</a><a name="ACT30."> </a> Twigs generally angled, especially distally
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACT31'">31.</a><a name="ACT31."> </a> Leaf blade 13&ndash;45 mm, widely obovate to &plusmn; round, margin 13&ndash;35-toothed <a href="/cgi-bin/get_IJM.pl?tid=56093">.....&nbsp;C. gloriosus var. exaltatus</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACT31.">31'</a><a name="ACT31'"> </a> Leaf blade 7&ndash;21 mm, obovate to narrowly obovate, margin 9&ndash;17-toothed <a href="/cgi-bin/get_IJM.pl?tid=18450">.....&nbsp;C. masonii</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT30.">30'</a><a name="ACT30'"> </a> Twigs generally not angled
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACT32'">32.</a><a name="ACT32."> </a> Leaf blade generally 10&ndash;25+ mm
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACT33'">33.</a><a name="ACT33."> </a> Leaf blade dark green, obovate to widely elliptic; fruit 6&ndash;9 mm wide, &plusmn; wrinkled, horns 1&ndash;2 mm; se San Francisco Bay Area (Santa Clara Co.) <a href="/cgi-bin/get_IJM.pl?tid=18444">.....&nbsp;C. ferrisiae</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACT33.">33'</a><a name="ACT33'"> </a> Leaf blade green to yellow-green, widely elliptic to &plusmn; round; fruit 3&ndash;5 mm wide, generally smooth or &plusmn; 3-bulged distally, horns &lt; 1 mm or 0; e Transverse Ranges, Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=18452">.....&nbsp;C. perplexans</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACT32.">32'</a><a name="ACT32'"> </a> Leaf blade generally &lt;= 12 mm (except some <I>Ceanothus vestitus</I> 5&ndash;20 mm)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACT34'">34.</a><a name="ACT34."> </a> Leaf blade &plusmn; tomentose abaxially, glabrous in age, veins obscure, margin thick or rolled under &mdash; s Peninsular Ranges (Otay, San Miguel mtns) <a href="/cgi-bin/get_IJM.pl?tid=18482">.....&nbsp;C. otayensis</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACT34.">34'</a><a name="ACT34'"> </a> Leaf blade glabrous to short-strigose or short-curly-puberulent abaxially, occasionally glabrous in age, veins evident, margin generally not rolled under, occasionally thick
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ACT35'">35.</a><a name="ACT35."> </a> Flowers generally blue to lavender (white), leaf tip rounded to truncate, margin entire or 5&ndash;9-toothed <a href="/cgi-bin/get_IJM.pl?tid=18436">.....&nbsp;C. rigidus</a> (2)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ACT35.">35'</a><a name="ACT35'"> </a> Flowers generally white; leaf tip generally acute to obtuse, margin entire or 3&ndash;5-toothed <a href="/cgi-bin/get_IJM.pl?tid=18453">.....&nbsp;C. vestitus</a> (2)
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#ACT1.">1'</a><a name="ACT1'"> </a> Stipules scale-like, thin, deciduous; leaves alternate; inflorescence generally raceme- to panicle-, occasionally &plusmn; umbel-like (subg. <I>Ceanothus</I>)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#ACT36'">36.</a><a name="ACT36."> </a> Twigs rigid, generally thorn-like
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ACT37'">37.</a><a name="ACT37."> </a> Leaf blade 1-ribbed from base, shiny green adaxially; twigs green <a href="/cgi-bin/get_IJM.pl?tid=18500">.....&nbsp;C. spinosus</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ACT37.">37'</a><a name="ACT37'"> </a> Leaf blade 3-ribbed from base, dull green adaxially; twigs pale gray to gray-green
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ACT38'">38.</a><a name="ACT38."> </a> Plant generally &lt; 1.5 m; stems generally spreading; inflorescence 1&ndash;4 cm, generally sessile <a href="/cgi-bin/get_IJM.pl?tid=18432">.....&nbsp;C. cordulatus</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ACT38.">38'</a><a name="ACT38'"> </a> Plant generally 1.5&ndash;4 m; stems ascending to erect; inflorescence 3&ndash;15 cm, generally stalked
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ACT39'">39.</a><a name="ACT39."> </a> Leaf blade wide-elliptic to -ovate, 20&ndash;50+ mm, 10&ndash;45 mm wide; fruit coarse-wrinkled when dry <a href="/cgi-bin/get_IJM.pl?tid=18460">.....&nbsp;C. incanus</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ACT39.">39'</a><a name="ACT39'"> </a> Leaf blade elliptic to ovate, 12&ndash;30 mm, 3&ndash;15 mm wide; fruit smooth to &plusmn; wrinkled when dry <a href="/cgi-bin/get_IJM.pl?tid=18466">.....&nbsp;C. leucodermis</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#ACT36.">36'</a><a name="ACT36'"> </a> Twigs flexible, not thorn-like
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ACT40'">40.</a><a name="ACT40."> </a> Leaf blade generally 1-ribbed from base
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ACT41'">41.</a><a name="ACT41."> </a> Plant mat- to mound-like, generally &lt; 0.5 m; stem spreading to ascending
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ACT42'">42.</a><a name="ACT42."> </a> Leaf margin rolled under; blade tomentose abaxially, tip truncate to notched <a href="/cgi-bin/get_IJM.pl?tid=18455">.....&nbsp;C. hearstiorum</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ACT42.">42'</a><a name="ACT42'"> </a> Leaf margin not rolled under; blade glabrous, puberulent, or short-wavy-hairy abaxially, tip acute to &plusmn; rounded
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACT43'">43.</a><a name="ACT43."> </a> Petiole 1&ndash;3 mm; leaf blade &plusmn; wavy, &plusmn; folded lengthwise, glabrous abaxially except veins; margin entire to few-toothed distally <a href="/cgi-bin/get_IJM.pl?tid=56092">.....&nbsp;C. foliosus var. vineatus</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACT43.">43'</a><a name="ACT43'"> </a> Petiole 3&ndash;11 mm; leaf blade generally not &plusmn; wavy, not &plusmn; folded lengthwise, puberulent to tomentose abaxially; margin 27&ndash;45-toothed
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT44'">44.</a><a name="ACT44."> </a> Plant generally mat-like, generally &lt; 0.3 m, rooting at nodes; inflorescences on short, erect twigs; twigs green, occasionally tinged red <a href="/cgi-bin/get_IJM.pl?tid=18440">.....&nbsp;C. diversifolius</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT44.">44'</a><a name="ACT44'"> </a> Plant erect to mound-like, 0.5&ndash;1 m, not rooting at nodes; inflorescences not on short, erect twigs; twigs pale green to gray-green <a href="/cgi-bin/get_IJM.pl?tid=18465">.....&nbsp;C. lemmonii</a> (3)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ACT41.">41'</a><a name="ACT41'"> </a> Plant generally erect, occasionally tree-like, > 0.5 m (occasionally mound-like in <I>Ceanothus papillosus</I>); stem ascending to erect
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ACT45'">45.</a><a name="ACT45."> </a> Leaf blade margin thick or rolled under
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACT46'">46.</a><a name="ACT46."> </a> Leaf blade widely ovate to &plusmn; round, furrowed along veins adaxially, tip acute to obtuse <a href="/cgi-bin/get_IJM.pl?tid=18459">.....&nbsp;C. impressus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT47'">47.</a><a name="ACT47."> </a> Leaf blade 5&ndash;14 mm; plant 0.5&ndash;1.5 m, generally dense <a href="/cgi-bin/get_IJM.pl?tid=71716">.....&nbsp;var. impressus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT47.">47'</a><a name="ACT47'"> </a> Leaf blade 11&ndash;25 mm; plant 1&ndash;3 m, generally open <a href="/cgi-bin/get_IJM.pl?tid=56100">.....&nbsp;var. nipomensis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACT46.">46'</a><a name="ACT46'"> </a> Leaf blade &plusmn; oblong or narrowly elliptic, not furrowed adaxially, tip truncate to notched
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT48'">48.</a><a name="ACT48."> </a> Plant generally 0.5&ndash;1.5 m; leaf blade 4&ndash;16 mm, 2&ndash;8 mm wide, not glandular-papillate adaxially, glandular-papillate near margin <a href="/cgi-bin/get_IJM.pl?tid=18439">.....&nbsp;C. dentatus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT48.">48'</a><a name="ACT48'"> </a> Plant 1&ndash;3.5 m; leaf blade 11&ndash;50 mm, 6&ndash;15 mm wide, glandular-papillate adaxially and on margin <a href="/cgi-bin/get_IJM.pl?tid=18484">.....&nbsp;C. papillosus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ACT45.">45'</a><a name="ACT45'"> </a> Leaf blade margin generally not thick, generally not rolled under (partly rolled under in <I>Ceanothus parryi</I>)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACT49'">49.</a><a name="ACT49."> </a> Leaf margin generally gland-toothed, glands generally dark, &plusmn; persistent
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT50'">50.</a><a name="ACT50."> </a> Leaf margin &plusmn; rolled under, especially below middle, occasionally minutely glandular; blade cobwebby to loose-tomentose abaxially <a href="/cgi-bin/get_IJM.pl?tid=18486">.....&nbsp;C. parryi</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT50.">50'</a><a name="ACT50'"> </a> Leaf margin entire or minutely gland-toothed; blade glabrous to puberulent abaxially
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACT51'">51.</a><a name="ACT51."> </a> Twigs pale green to gray-green; petiole 3&ndash;6 mm; leaf blade flat <a href="/cgi-bin/get_IJM.pl?tid=18465">.....&nbsp;C. lemmonii</a> (3)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACT51.">51'</a><a name="ACT51'"> </a> Twigs green to red-green; petiole 1&ndash;3 mm; leaf blade generally wavy, &plusmn; folded lengthwise <a href="/cgi-bin/get_IJM.pl?tid=18446">.....&nbsp;C. foliosus</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACT52'">52.</a><a name="ACT52."> </a> Leaf blade &plusmn; glabrous to sparsely puberulent abaxially; plants &plusmn; open <a href="/cgi-bin/get_IJM.pl?tid=75441">.....&nbsp;var. foliosus</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACT52.">52'</a><a name="ACT52'"> </a> Leaf blade densely short-wavy-hairy abaxially; plants &plusmn; dense <a href="/cgi-bin/get_IJM.pl?tid=56091">.....&nbsp;var. medius</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACT49.">49'</a><a name="ACT49'"> </a> Leaf margin generally entire (or minutely gland-toothed, glands not dark, not persistent)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT53'">53.</a><a name="ACT53."> </a> Plant generally &lt; 1.5 m, stems &plusmn; spreading to generally ascending; leaf blade tip obtuse; inflorescence 4&ndash;9 cm, raceme- to panicle-like; High Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=18487">.....&nbsp;C. parvifolius</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT53.">53'</a><a name="ACT53'"> </a> Plant generally 1&ndash;6 m, occasionally tree-like, stems ascending to erect; leaf blade tip acute to obtuse; inflorescence 4&ndash;21 cm, generally panicle-like; not High Sierra Nevada
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACT54'">54.</a><a name="ACT54."> </a> Flowers blue to pale blue; leaf blade generally dark shiny green adaxially &mdash; s Outer South Coast Ranges, Western Transverse Ranges, Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=18500">.....&nbsp;C. spinosus</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACT54.">54'</a><a name="ACT54'"> </a> Flowers white; leaf blade generally dull to light green adaxially, occasionally shiny
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACT55'">55.</a><a name="ACT55."> </a> Leaf blade elliptic to &plusmn; oblong, thin; fruit 4&ndash;6.5 mm wide; sw San Francisco Bay Area (Santa Cruz Mtns) <a href="/cgi-bin/get_IJM.pl?tid=94459">.....&nbsp;C. integerrimus var. integerrimus</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACT55.">55'</a><a name="ACT55'"> </a> Leaf blade elliptic to oblong-ovate, &plusmn; thick; fruit 6&ndash;9 mm wide; n&c Sierra Nevada Foothills, s South Coast Ranges, Transverse Ranges, Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=18483">.....&nbsp;C. palmeri</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ACT40.">40'</a><a name="ACT40'"> </a> Leaf blade generally 3-ribbed from base
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ACT56'">56.</a><a name="ACT56."> </a> Leaf margin entire (minutely toothed)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ACT57'">57.</a><a name="ACT57."> </a> Main stem generally ascending to &plusmn; spreading; leaf blade 3&ndash;12 mm wide, shiny green adaxially <a href="/cgi-bin/get_IJM.pl?tid=18487">.....&nbsp;C. parvifolius</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ACT57.">57'</a><a name="ACT57'"> </a> Main stem ascending to erect; leaf blade 10&ndash;45 mm wide, dull green adaxially
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACT58'">58.</a><a name="ACT58."> </a> Twigs rigid, pale gray to gray-green; leaf blade abaxially gray-green, strigose; fruit wrinkled <a href="/cgi-bin/get_IJM.pl?tid=18460">.....&nbsp;C. incanus</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACT58.">58'</a><a name="ACT58'"> </a> Twigs flexible, generally green; leaf blade abaxially pale green, glabrous to sparsely short-hairy, especially veins; fruit smooth to bulged or &plusmn; 3-ridged distally <a href="/cgi-bin/get_IJM.pl?tid=56102">.....&nbsp;C. integerrimus var. macrothyrsus</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ACT56.">56'</a><a name="ACT56'"> </a> Leaf margin minutely toothed or serrate, teeth generally gland-tipped
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ACT59'">59.</a><a name="ACT59."> </a> Leaf blade generally tomentose abaxially, veins &plusmn; obscured by hairs
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACT60'">60.</a><a name="ACT60."> </a> Leaf blade 25&ndash;80 mm, thick, leathery; petiole 10&ndash;25 mm; Channel Islands <a href="/cgi-bin/get_IJM.pl?tid=18428">.....&nbsp;C. arboreus</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACT60.">60'</a><a name="ACT60'"> </a> Leaf blade 10&ndash;25 mm, generally thin, not leathery; petiole 1&ndash;3 mm; mainland <a href="/cgi-bin/get_IJM.pl?tid=18502">.....&nbsp;C. tomentosus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ACT59.">59'</a><a name="ACT59'"> </a> Leaf blade &plusmn; glabrous to puberulent or short-wavy-hairy abaxially, veins not obscured by hairs
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACT61'">61.</a><a name="ACT61."> </a> Leaf blade generally 25&ndash;80 mm, 13&ndash;60 mm wide, generally widely elliptic to ovate
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT62'">62.</a><a name="ACT62."> </a> Flowers generally blue; fruit 5&ndash;8 mm wide, black; Channel Islands <a href="/cgi-bin/get_IJM.pl?tid=18428">.....&nbsp;C. arboreus</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT62.">62'</a><a name="ACT62'"> </a> Flowers white; fruit 3&ndash;4.5 mm wide, brown; mainland
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACT63'">63.</a><a name="ACT63."> </a> Leaf deciduous, not aromatic; blade thin, not leathery, not sticky adaxially <a href="/cgi-bin/get_IJM.pl?tid=18496">.....&nbsp;C. sanguineus</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACT63.">63'</a><a name="ACT63'"> </a> Leaf evergreen, aromatic; blade leathery, &plusmn; sticky adaxially <a href="/cgi-bin/get_IJM.pl?tid=18505">.....&nbsp;C. velutinus</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ACT61.">61'</a><a name="ACT61'"> </a> Leaf blade generally 5&ndash;45 mm, 3&ndash;25 mm wide, elliptic, oblong-elliptic, oblanceolate (ovate)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT64'">64.</a><a name="ACT64."> </a> Plant mat- to mound-like, generally &lt; 1 m; stems &plusmn; ascending to spreading
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACT65'">65.</a><a name="ACT65."> </a> Twigs angled distally; leaf blade abaxial veins &plusmn; raised <a href="/cgi-bin/get_IJM.pl?tid=18501">.....&nbsp;C. thyrsiflorus</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACT66'">66.</a><a name="ACT66."> </a> Twigs &plusmn; puberulent; leaf blade ovate to widely elliptic, margin rolled under <a href="/cgi-bin/get_IJM.pl?tid=80855">.....&nbsp;var. griseus</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACT66.">66'</a><a name="ACT66'"> </a> Twigs &plusmn; glabrous; leaf blade oblong-ovate to elliptic, margin not to partly rolled under <a href="/cgi-bin/get_IJM.pl?tid=71719">.....&nbsp;var. thyrsiflorus</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACT65.">65'</a><a name="ACT65'"> </a> Twigs not angled distally; leaf blade abaxial veins &plusmn; not raised
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACT67'">67.</a><a name="ACT67."> </a> Plant generally mat-like, generally &lt; 0.3 m; stem rooting at nodes; twigs green, occasionally tinged red; fruit 4&ndash;5 mm wide <a href="/cgi-bin/get_IJM.pl?tid=18440">.....&nbsp;C. diversifolius</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACT67.">67'</a><a name="ACT67'"> </a> Plant &plusmn; mound-like, generally > 0.5 m, stem not rooting at nodes; twigs pale green to gray-green; fruit 3&ndash;4 mm wide <a href="/cgi-bin/get_IJM.pl?tid=18465">.....&nbsp;C. lemmonii</a> (3)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ACT64.">64'</a><a name="ACT64'"> </a> Plant not mat- to mound-like, generally 1&ndash;4 m; stems ascending to erect
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACT68'">68.</a><a name="ACT68."> </a> Twigs generally angled distally, internodes ridged
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACT69'">69.</a><a name="ACT69."> </a> Leaf blade &plusmn; oblong to narrowly elliptic, length generally > 2 &times; width, cobwebby to loose-tomentose abaxially, glabrous in age <a href="/cgi-bin/get_IJM.pl?tid=18486">.....&nbsp;C. parryi</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACT69.">69'</a><a name="ACT69'"> </a> Leaf blade generally ovate to elliptic, length generally &lt; 2 &times; width, glabrous to &plusmn; puberulent abaxially, especially on veins
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ACT70'">70.</a><a name="ACT70."> </a> Inflorescence 5&ndash;30 cm; twigs papillate; leaf blade abaxial veins &plusmn; not raised <a href="/cgi-bin/get_IJM.pl?tid=18438">.....&nbsp;C. cyaneus</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ACT70.">70'</a><a name="ACT70'"> </a> Inflorescence 1.5&ndash;7 cm; twigs not papillate; leaf blade abaxial veins &plusmn; raised <a href="/cgi-bin/get_IJM.pl?tid=18501">.....&nbsp;C. thyrsiflorus</a> (2)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#ACT71'">71.</a><a name="ACT71."> </a> Twigs &plusmn; puberulent; leaf blade ovate to widely elliptic, margin rolled under <a href="/cgi-bin/get_IJM.pl?tid=80855">.....&nbsp;var. griseus</a> (2)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#ACT71.">71'</a><a name="ACT71'"> </a> Twigs &plusmn; glabrous; leaf blade oblong-ovate to elliptic, margin not to partly rolled under <a href="/cgi-bin/get_IJM.pl?tid=71719">.....&nbsp;var. thyrsiflorus</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ACT68.">68'</a><a name="ACT68'"> </a> Twigs not angled distally, internodes not ridged
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACT72'">72.</a><a name="ACT72."> </a> Leaf blade flat or generally wavy, &plusmn; folded lengthwise; petiole 1&ndash;3 mm; fruit 3&ndash;4 mm wide <a href="/cgi-bin/get_IJM.pl?tid=18446">.....&nbsp;C. foliosus</a> (2)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ACT73'">73.</a><a name="ACT73."> </a> Leaf blade glabrous to sparsely puberulent abaxially; plant &plusmn; open <a href="/cgi-bin/get_IJM.pl?tid=75441">.....&nbsp;var. foliosus</a> (2)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ACT73.">73'</a><a name="ACT73'"> </a> Leaf blade densely short-wavy-hairy abaxially; plant &plusmn; dense <a href="/cgi-bin/get_IJM.pl?tid=56091">.....&nbsp;var. medius</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ACT72.">72'</a><a name="ACT72'"> </a> Leaf blade generally flat; petiole 3&ndash;7 mm; fruit 4&ndash;7 mm wide <a href="/cgi-bin/get_IJM.pl?tid=18475">.....&nbsp;C. oliganthus</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ACT74'">74.</a><a name="ACT74."> </a> Flower disk, ovary short-hairy; fruit prominently wrinkled <a href="/cgi-bin/get_IJM.pl?tid=56108">.....&nbsp;var. orcuttii</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ACT74.">74'</a><a name="ACT74'"> </a> Flower disk, ovary glabrous; fruit generally smooth or &plusmn; ridged to bulged near top
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#ACT75'">75.</a><a name="ACT75."> </a> Twigs puberulent; leaf blade short-hairy adaxially <a href="/cgi-bin/get_IJM.pl?tid=75445">.....&nbsp;var. oliganthus</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#ACT75.">75'</a><a name="ACT75'"> </a> Twigs &plusmn; glabrous; leaf blade glabrous to sparsely short-hairy adaxially <a href="/cgi-bin/get_IJM.pl?tid=56109">.....&nbsp;var. sorediatus</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

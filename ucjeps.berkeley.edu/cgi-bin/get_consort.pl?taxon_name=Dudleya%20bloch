@@ -1,0 +1,2348 @@
+<html>
+<head>
+<Meta NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>UC/JEPS: Consortium Search Results</title>
+<link href="http://ucjeps.berkeley.edu/consortium/style_consortium.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+
+
+
+
+<!-- COMMON HEADER -->
+<table width="100%" class="banner" border="0" cellpadding="0" cellspacing="0">
+  <tr><td width="80" align="center"><a href="/consortium/"><img src="/consortium/images/CCH_logo_02_80.png" width="80" height="82"></a></td>
+  <td>
+        <table class="banner" width="100%" border="0">
+        <tr>
+        <td align="center">Consortium of California Herbaria</td>
+        </tr>
+        <tr><td>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                <td height="21" width="640" align="center">
+                <a href="http://ucjeps.berkeley.edu/consortium/participants.html" class="horizMenuActive">Participants</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/consortium/news.html" class="horizMenuActive">News</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/consortium/" class="horizMenuActive">Search</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/consortium/about.html" class="horizMenuActive">About</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/detail_help.html" class="horizMenuActive">Help</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://give.berkeley.edu/fund/?f=FU1259000" class="horizMenuActive">Donate</a>
+                    </td></tr>
+                </table>
+        </td></tr>
+        </table>
+</td></tr>
+</table>
+<!-- COMMON HEADER ENDS -->
+
+
+
+
+<br />
+<table width="100%" cellpadding="5" class="bodyText"><tr><td>
+<span class="pageName">Search Results</span>
+<span class="pageSubheading"> &mdash; 170 specimen records retrieved (122 records with coordinates)</span>
+<br />
+<span class="bodyText">Results for search: Scientific name=Dudleya bloch;  &nbsp;&nbsp;<a href="/cgi-bin/get_cpn.pl?Dudleya+bloch">More information: Jepson Online Interchange</a></span>
+
+<table width="100%" cellpadding="5" class="bodyText"><tr><td width="50%" valign="top">
+<span class="pageSubheading"><br>Mapping Options:</span>
+<br>
+<a href="http://berkeleymapper.berkeley.edu/index.html?ViewResults=tab&tabfile=http://ucjeps.berkeley.edu/BerkeleyMapper/CHC_054224635.txt&configfile=http%3A%2F%2Fucjeps.berkeley.edu%2Fucjeps.xml&sourcename=Consortium+of+California+Herbaria+result+set&maptype=Terrain">BerkeleyMapper with county and bioregion layers</a> <br>
+<a href="http://berkeleymapper.berkeley.edu/index.html?ViewResults=tab&tabfile=http://ucjeps.berkeley.edu/BerkeleyMapper/CHC_054224635.txt&configfile=http%3A%2F%2Fucjeps.berkeley.edu%2Fucjeps_nolayers.xml&sourcename=Consortium+of+California+Herbaria+result">BerkeleyMapper without layers.</a> <br>
+<a href="/cgi-bin/x_to_k.pl?tabfile=http://ucjeps.berkeley.edu/BerkeleyMapper/CHC_054224635.txt"> KML export</a> <br>
+(Note: only records with coordinates are mappable)
+</td>
+
+</span>
+<td width = "50%" valign="top">
+<span class="pageSubheading"><br>Download Options:</span>
+<form method="post" action="/cgi-bin/get_consort.pl">
+
+<a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Dudleya bloch&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;check_all=1&amp;SO=0">Select all records</a>
+&middot;
+<a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Dudleya bloch&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;georef_only=1">Select records with coordinates</a><br>
+<input type="submit" value="Retrieve selected records as tab-separated list"> <br>
+<input type="checkbox" name="DL" value="UCR">Include annotations and voucher information
+</td></tr>
+</td></tr></table>
+
+<hr>
+<table width="100%" cellpadding="0" cellspacing="0" class="bodyText">
+<tr><td>&nbsp;</td><td>Please cite data retrieved from this page: Data provided by the participants of the Consortium of California Herbaria (ucjeps.berkeley.edu/consortium/).
+</td></tr>
+<tr><td>&nbsp;</td><td>Records are made available under the <a href="http://ucjeps.berkeley.edu/consortium/data_use_terms.html">CCH Data Use Terms</a>.</td></tr>
+</table>
+<hr>
+
+<table width="100%" cellpadding="5" cellspacing="0" class="bodyText">
+<tr><td colspan="11">
+Click on column header to sort data (* sorts by family); click in leftmost checkbox to select record. <a href="http://ucjeps.berkeley.edu/detail_help.html">CCH Help Page</a>.
+<br>
+<a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Dudleya bloch&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=1&amp;VTM=0">Turn on yellow flags</a> to show possible range discrepancies.
+<a href="http://ucjeps.berkeley.edu/consortium/about_yellow.html">Read more ... </a>
+</td>
+</tr>
+<tr bgcolor="#cccccc">
+<th></th>
+<th bgcolor=#eeeeee><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Dudleya bloch&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=21">?</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Dudleya bloch&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=10">Specimen ID</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Dudleya bloch&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=0-">Determination</a><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Dudleya bloch&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=11"> *</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Dudleya bloch&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=1">Collector</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Dudleya bloch&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=5">Collection Date</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Dudleya bloch&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=3">Collection Number</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Dudleya bloch&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=8">County</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Dudleya bloch&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=20">Locality</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Dudleya bloch&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=9">Elevation in meters</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Dudleya bloch&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=25">Feedback</a></th>
+</tr>
+
+
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=GH376802 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?GH376802&YF=0">GH376802</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>P. H. Raven & H. J. Thompson</td>
+<td>1959-06-04</td>
+<td>14337</td>
+<td>Los Angeles</td>
+<td>Point Dume</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=GH376802">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=GH376803 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?GH376803&YF=0">GH376803</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>F. E. Clements & E. G. Clements</td>
+<td>1914-05-23</td>
+<td>169</td>
+<td>San Diego</td>
+<td>La Jolla [No Additional Data]</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=GH376803">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=GH376805 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?GH376805&YF=0">GH376805</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>L. S. Rose</td>
+<td>1936-05-06</td>
+<td>36244</td>
+<td>San Luis Obispo</td>
+<td>Cayucos</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=GH376805">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=JEPS50032 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?JEPS50032&YF=0">JEPS50032</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>J. H. Barber</td>
+<td>May 22 1899</td>
+<td></td>
+<td>San Luis Obispo</td>
+<td>near Morro</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=JEPS50032">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=JEPS50032"><br>Read comments</a> 1
+</td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=OBI78808 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI78808&YF=0">OBI78808</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>Michael Walgren</td>
+<td>4/15/14</td>
+<td>391</td>
+<td>San Luis Obispo</td>
+<td>Chevron Oil Company property east of Del Mar Park in the City of Morro Bay.</td>
+<td>63</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI78808">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=POM311020 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?POM311020&YF=0">POM311020</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>Reid Moran</td>
+<td>Jun 8 1948</td>
+<td>3086</td>
+<td>Los Angeles</td>
+<td>Mouth of Winter canyon, Malibu Beach.</td>
+<td>76</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=POM311020">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=POM48528 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?POM48528&YF=0">POM48528</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>F. M. Reed</td>
+<td>May 7 1925</td>
+<td>4960</td>
+<td>Los Angeles</td>
+<td>Bluff near saltcreek Beach.</td>
+<td>15</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=POM48528">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=POM48528"><br>Read comments</a> Dec  7  2014
+</td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA167071 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA167071&YF=0">RSA167071</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>E. R. Blakley</td>
+<td>Jun 30 1960</td>
+<td>3491</td>
+<td>Santa Barbara</td>
+<td>Point Sal Ridge</td>
+<td>305</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA167071">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA18239 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA18239&YF=0">RSA18239</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>C. B. Wolf</td>
+<td>Apr 15 1929</td>
+<td>3611</td>
+<td>San Luis Obispo</td>
+<td>Between San Luis Obispo and Morro Bay; 8 miles west of San Luis Obispo</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA18239">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA423479A ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA423479A&YF=0">RSA423479A</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>Ralph Hoffmann</td>
+<td>May 31 1931</td>
+<td>374</td>
+<td>Santa Barbara</td>
+<td>Pt. Sal.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA423479A">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA43018 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA43018&YF=0">RSA43018</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>Robert F. Hoover</td>
+<td>May 12 1947</td>
+<td>7164</td>
+<td>San Luis Obispo</td>
+<td>West base of Mount Bishop near San Luis Obispo</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA43018">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA581661 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA581661&YF=0">RSA581661</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>Tony Bomkamp</td>
+<td>Jun 1995</td>
+<td>s.n.</td>
+<td>Ventura</td>
+<td>South Base of Conejo Mountain, Dos Vientos Ranch, west of Kimber school, ca. 1 mile north of Long Grade Canyon and 2 miles west of Arroyo Conejo (Potrero Road) on rocky summit of hillock due south of hill Ã'952&iacute;m T1N, R20 (unsectioned).</td>
+<td>290</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA581661">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD117099 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD117099&YF=0">SD117099</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>James C. Dice, Harold Wier</td>
+<td>May 15, 1983</td>
+<td>344</td>
+<td>San Diego</td>
+<td>Camp Pendleton, south bank of Las Flores Creek on bluff overlooking Interstate 5, east of highway (mak 10/07)</td>
+<td>29</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD117099">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD129816 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD129816&YF=0">SD129816</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>C. R. Orcutt</td>
+<td>Jun 15, 1920</td>
+<td>None</td>
+<td>San Diego</td>
+<td>La Jolla</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD129816">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD130029 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD130029&YF=0">SD130029</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>Reid Moran</td>
+<td>Jun 30, 1977</td>
+<td>24285</td>
+<td>San Luis Obispo</td>
+<td>Serpentine, NW slope, E of mouth of Corro Creek</td>
+<td>49</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD130029">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD2070 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD2070&YF=0">SD2070</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>unknown</td>
+<td>May 08, 1895</td>
+<td>None</td>
+<td>San Diego</td>
+<td>La Jolla</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD2070">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD21071 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD21071&YF=0">SD21071</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>Frank F. Gander</td>
+<td>May 07, 1938</td>
+<td>5494</td>
+<td>San Diego</td>
+<td>Imperial Beach</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD21071">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD29142 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD29142&YF=0">SD29142</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>Frank F. Gander</td>
+<td>Jun 19, 1941</td>
+<td>9579</td>
+<td>San Diego</td>
+<td>Pacific Beach</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD29142">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD45413 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD45413&YF=0">SD45413</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>Reid Moran</td>
+<td>Apr 24, 1950</td>
+<td>3388</td>
+<td>Orange</td>
+<td>San Clemente, atop sea bluffs.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD45413">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD56895 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD56895&YF=0">SD56895</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>E. R. Blakley</td>
+<td>Jun 30, 1960</td>
+<td>3491</td>
+<td>Santa Barbara</td>
+<td>Point Sal Ridge.</td>
+<td>305</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD56895">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD70395 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD70395&YF=0">SD70395</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>Rimo Bacigalupi, F. Chisaki, L. Dempster, C. Hardham</td>
+<td>May 11, 1960</td>
+<td>7420</td>
+<td>San Luis Obispo</td>
+<td>On serpentine outcrop directly above and east of Morro Beach, just south of town water tank.</td>
+<td>89</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD70395">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1127123 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1127123&YF=0">UC1127123</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>G. T. Nordstrom</td>
+<td>Jun 5 1937</td>
+<td>1315</td>
+<td>San Luis Obispo</td>
+<td>3.7 mi ssw Josephine School; Adelaida Quad.</td>
+<td>198</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1127123">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=UC1127123"><br>Read comments</a> Oct 14  2006
+</td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC137081 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC137081&YF=0">UC137081</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>E. Braunton</td>
+<td>Jan 30 1905-May 1 1905</td>
+<td>5124</td>
+<td>San Luis Obispo</td>
+<td>San Luis Obispo</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC137081">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC197142 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC197142&YF=0">UC197142</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>F. E. and E. S. Clements</td>
+<td>May 23 1914</td>
+<td>169</td>
+<td>San Diego</td>
+<td>La Jolla</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC197142">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC54824 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC54824&YF=0">UC54824</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>Mrs. R. W. Summers</td>
+<td>May 6 1882</td>
+<td>291</td>
+<td>San Luis Obispo</td>
+<td>Los Osos Valley</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC54824">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC572558 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC572558&YF=0">UC572558</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>G. T. Nordstrom</td>
+<td>Jun 5 1937</td>
+<td>1315</td>
+<td>San Luis Obispo</td>
+<td>3.7 mi ssw Josephine School, Santa Lucia Range; Santa Lucia Range, Adelaide Quad.</td>
+<td>198</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC572558">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC57504 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC57504&YF=0">UC57504</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>J. H. Barber</td>
+<td>May 22 1899</td>
+<td></td>
+<td>San Luis Obispo</td>
+<td>near Morro</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC57504">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR17605 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR17605&YF=0">UCR17605</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>T. W. Minthorn</td>
+<td>May 30 1924</td>
+<td>s.n.</td>
+<td>San Diego</td>
+<td>South Coast Between Point San Juan [Dana Point/San Juan Rocks] and Solana Beach</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR17605">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR51830 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR51830&YF=0">UCR51830</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>T. W. Minthorn</td>
+<td>May 30 1924</td>
+<td>s.n.</td>
+<td>San Diego</td>
+<td>South Coast Between Point San Juan [Dana Point/San Juan Rocks] and Solana Beach</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR51830">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB72392 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB72392&YF=0">UCSB72392</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>Rick Burgess</td>
+<td>04/02/1988</td>
+<td>609</td>
+<td>Ventura</td>
+<td>Simi Valley. Blakeley Swartz Ranch, north side of Madera Rd., cliffs due north of Wood Ranch Parking.</td>
+<td>301</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB72392">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=GH376804 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?GH376804&YF=0">GH376804</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>A. Eastwood & J. T. Howell</td>
+<td>1936-05-07</td>
+<td>2288</td>
+<td>San Luis Obispo</td>
+<td>Near Cayucos</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=GH376804">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=GH376806 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?GH376806&YF=0">GH376806</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>J. T. Howell</td>
+<td>1931-05-29</td>
+<td>6568</td>
+<td>Ventura</td>
+<td>Conejo Grade</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=GH376806">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=RSA127775 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA127775&YF=0">RSA127775</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>P. H. Raven, H. J. Thompson</td>
+<td>Jun 4 1959</td>
+<td>14337</td>
+<td>Los Angeles</td>
+<td>Point Dume, Lat. N. 34 00&iacute;, Long. 118 48&iacute; W.</td>
+<td>37</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA127775">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=RSA199058 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA199058&YF=0">RSA199058</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>R. F. Thorne</td>
+<td>Jun 8 1968</td>
+<td>37716</td>
+<td>Ventura</td>
+<td>Long Grade Canyon: lower end of Long Grade Canyon ca. 1 mi. E of Camarillo state Hospital, Santa Monica Mountains.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA199058">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=RSA306653 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA306653&YF=0">RSA306653</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>H. J. Ramsey</td>
+<td>Jun 16 1938</td>
+<td>I502</td>
+<td>Ventura</td>
+<td>Conejo Grade.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA306653">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=RSA397811 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA397811&YF=0">RSA397811</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>Anstruther Davidson</td>
+<td>1896</td>
+<td>s.n.</td>
+<td>Los Angeles</td>
+<td>Santa Monica Canyon</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA397811">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=RSA84215 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA84215&YF=0">RSA84215</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>Alice Eastwood, J. T. Howell</td>
+<td>May 7 1936</td>
+<td>s.n.</td>
+<td>San Luis Obispo</td>
+<td>Near Cayucos</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA84215">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=RSA84224 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA84224&YF=0">RSA84224</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>J. T. Howell</td>
+<td>May 29 1931</td>
+<td>6568</td>
+<td>Ventura</td>
+<td>Conejo Grade</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA84224">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=SD120881 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD120881&YF=0">SD120881</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>Daryl Koutnik</td>
+<td>May 30, 1978</td>
+<td>506</td>
+<td>Ventura</td>
+<td>Long Grade Canyon, east of State hospital.</td>
+<td>89</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD120881">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=SD207001 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD207001&YF=0">SD207001</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>Reid Moran, Dave Verity</td>
+<td>Jun 12, 1957</td>
+<td>6051</td>
+<td>Unknown</td>
+<td>Sierra Santa Monica; east end of Zuma Beach.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD207001">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=SD207001"><br>Read comments</a> Dec 18  2011
+</td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=SD207046 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD207046&YF=0">SD207046</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>Reid Moran</td>
+<td>May 15, 1958</td>
+<td>6792</td>
+<td>Ventura</td>
+<td>Point Mugu</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD207046">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=SD68974 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD68974&YF=0">SD68974</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>Robert F. Thorne, M. Z. Thorne</td>
+<td>Jun 08, 1968</td>
+<td>37716</td>
+<td>Ventura</td>
+<td>Santa Monica Mountains: Long Grade Canyon, at lower end, ca. 1.0 mile east of Camarill State Hospital.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD68974">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=SDSU5731 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SDSU5731&YF=0">SDSU5731</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>R. M. Beauchamp</td>
+<td>12/30/1966</td>
+<td>s.n.</td>
+<td>Ventura</td>
+<td>Beside Conejo Mtn. Memorial Park.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SDSU5731">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=SFV12462 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SFV12462&YF=0">SFV12462</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>M. H. Grayum, D. L. Koutnik, V. Dawes</td>
+<td>Jan 21 1978</td>
+<td>945</td>
+<td>Ventura</td>
+<td>Santa Monica Mountains Northern flanks of Conejo Mountians along Edison Road.</td>
+<td>274</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SFV12462">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC115360 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC115360&YF=0">UC115360</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>Alice Eastwood</td>
+<td>May 12 1896</td>
+<td></td>
+<td>Santa Barbara</td>
+<td>near boundary between Santa Barbara and San Luis Counties</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC115360">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UC1543909 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1543909&YF=0">UC1543909</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>Peter H. Raven and Henry J. Thompson</td>
+<td>Apr 24 1960</td>
+<td>15104</td>
+<td>Ventura</td>
+<td>n of Conejo Grade (w end of Santa Rosa Valley); Santa Monica Mountains, Santa Rosa Valley</td>
+<td>152</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1543909">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC583355 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC583355&YF=0">UC583355</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>Alice Eastwood and John Thomas Howell</td>
+<td>May 7 1936</td>
+<td>2288</td>
+<td>San Luis Obispo</td>
+<td>near Cayucos</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC583355">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UC933347 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC933347&YF=0">UC933347</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>Reid Moran</td>
+<td>Apr 9 1959</td>
+<td>3201</td>
+<td>Ventura</td>
+<td>Conejo Grade</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC933347">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UCD101856 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD101856&YF=0">UCD101856</a>&nbsp;</td>
+<td>Dudleya blochmaniae</td>
+<td>G. F. Hrusa</td>
+<td>06 21 1995</td>
+<td>12404</td>
+<td>San Luis Obispo</td>
+<td>Monterey County: at S base of Hollister Peak, approx. 0.25 m to NW of old homestead</td>
+<td>75</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD101856">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS353437 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS353437&YF=0">CAS353437</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Reid Moran</td>
+<td>8 June 1948</td>
+<td>3086</td>
+<td>Los Angeles</td>
+<td>Mouth of Winter Canyon, Malibu Beach.</td>
+<td>76</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS353437">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS384560 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS384560&YF=0">CAS384560</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Reid Moran</td>
+<td>8 June 1948</td>
+<td>3086</td>
+<td>Los Angeles</td>
+<td>Mouth of Winter Canyon, Malibu Beach.</td>
+<td>76</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS384560">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS384636 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS384636&YF=0">CAS384636</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Reid Moran</td>
+<td>24 April 1950</td>
+<td>3388</td>
+<td>Orange</td>
+<td>San Clemente.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS384636">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS448679 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS448679&YF=0">CAS448679</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>R. F. Hoover</td>
+<td>June 13, 1964</td>
+<td>9103</td>
+<td>San Luis Obispo</td>
+<td>San Bernardo Creek east of Morro Bay.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS448679">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS477260 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS477260&YF=0">CAS477260</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Peter H. Raven, Henry J. Thompson</td>
+<td>June 4, 1959.</td>
+<td>14337</td>
+<td>Los Angeles</td>
+<td>Santa Monica Mountains. Point Dume.</td>
+<td>36</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS477260">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS539797 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS539797&YF=0">CAS539797</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>E. R. Blakley</td>
+<td>30-June-1960</td>
+<td>3491</td>
+<td>Santa Barbara</td>
+<td>Point Sal Ridge.</td>
+<td>304</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS539797">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS652800 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS652800&YF=0">CAS652800</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>K. Nakai, D. Verity, J. Ross</td>
+<td>21 May 1981</td>
+<td>769</td>
+<td>Ventura</td>
+<td>Santa Monica Mountains, south slope of Mount Conejo across from a water treatment plant.</td>
+<td>36</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS652800">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS652801 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS652801&YF=0">CAS652801</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>K. Nakai, D. Verity, J. Ross</td>
+<td>21 May 1981</td>
+<td>770</td>
+<td>Ventura</td>
+<td>Santa Monica Mountains, south slope of Mount Conejo across from a water treatment plant.</td>
+<td>36</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS652801">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DS275151 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?DS275151&YF=0">DS275151</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Ira L. Wiggins</td>
+<td>April 15, 1929.</td>
+<td>3600</td>
+<td>San Luis Obispo</td>
+<td>Beside road 9 miles north of San Luis Obispo on road to Morro Bay.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=DS275151">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DS327727 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?DS327727&YF=0">DS327727</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Reid Moran</td>
+<td>12 June 1947</td>
+<td>2280</td>
+<td>Santa Barbara</td>
+<td>Ocean bluff 0.6 mile south of San Simeon.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=DS327727">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=DS327727"><br>Read comments</a> Oct 23  2015
+</td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DS327729 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?DS327729&YF=0">DS327729</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Reid Moran</td>
+<td>8 June 1948</td>
+<td>3086</td>
+<td>Los Angeles</td>
+<td>Mouth of Winter Canyon, Malibu Beach.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=DS327729">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=DS356847 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?DS356847&YF=0">DS356847</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Reid Moran</td>
+<td>24 April 1950</td>
+<td>3388</td>
+<td>Orange</td>
+<td>San Clemente, atop sea bluffs</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=DS356847">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=JEPS27040 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?JEPS27040&YF=0">JEPS27040</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Rimo Bacigalupi, F. Chisaki, L. Dempster, C. Hardham]</td>
+<td>May 11 1960</td>
+<td>7420</td>
+<td>San Luis Obispo</td>
+<td>above and e Morro Beach (just s of water tank)</td>
+<td>91</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=JEPS27040">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=JEPS50033 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?JEPS50033&YF=0">JEPS50033</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>T. W. Minthorn</td>
+<td>May 30 1924</td>
+<td></td>
+<td>Orange</td>
+<td>Pt. San Juan (Dana Point)</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=JEPS50033">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=LA195037 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?LA195037&YF=0">LA195037</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Peter H. Raven</td>
+<td>April 24 1960</td>
+<td>15104</td>
+<td>Ventura</td>
+<td></td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=LA195037">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=LA204783 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?LA204783&YF=0">LA204783</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>None</td>
+<td>April 26 1951</td>
+<td>sn</td>
+<td>Orange</td>
+<td>Salt Creek Beach, Laguna</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=LA204783">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=LA204783"><br>Read comments</a> Nov 15  2013
+</td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=LA204784 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?LA204784&YF=0">LA204784</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Joan Malloy</td>
+<td>May 18 1952</td>
+<td>sn</td>
+<td>Orange</td>
+<td>Salt Creek Beach, Laguna</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=LA204784">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=LA34170 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?LA34170&YF=0">LA34170</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Peter H. Raven, Henry J. Thompson</td>
+<td>June 4 1959</td>
+<td>14337</td>
+<td>Los Angeles</td>
+<td>Santa Monica Mountains, Pt. Dume</td>
+<td>36</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=LA34170">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=OBI15241 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI15241&YF=0">OBI15241</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Robert F. Hoover</td>
+<td>May 12, 1947</td>
+<td>7164</td>
+<td>San Luis Obispo</td>
+<td>W base of Mt. Bishop near SLO</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI15241">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=OBI26579 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI26579&YF=0">OBI26579</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>David J. Keil</td>
+<td>May 31, 1981</td>
+<td></td>
+<td>San Luis Obispo</td>
+<td>County Education Facility at Rancho el Chorro</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI26579">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=OBI52265 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI52265&YF=0">OBI52265</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>David J. Keil, Lynne Dee Oyler</td>
+<td>April 20, 1995</td>
+<td>24957</td>
+<td>Santa Barbara</td>
+<td>Vandenberg AFB. North Base. Vicnity of jctn of Cinco rd and Point Sal Rd</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI52265">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=OBI52308 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI52308&YF=0">OBI52308</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>David J. Keil, Lynne Dee Oyler</td>
+<td>April 20, 1995</td>
+<td>24957</td>
+<td>Santa Barbara</td>
+<td>Vandenberg AFB. North Base. Vicnity of jctn of Cinco rd and Point Sal Rd</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI52308">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=OBI52561 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI52561&YF=0">OBI52561</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>David J. Keil</td>
+<td>May 25, 1995</td>
+<td>25219</td>
+<td>Santa Barbara</td>
+<td>Vandenberg AFB. North Base. Point Sal Ridge along Pt. Sal Rd near N boundary of base</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI52561">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=OBI52630 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI52630&YF=0">OBI52630</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>David J. Keil, V. L. Holland and Lynne Dee Oyler</td>
+<td>June 13, 1995</td>
+<td>25356</td>
+<td>Santa Barbara</td>
+<td>Vandenberg AFB. North Base. Along 35th St just W of intersection with Calif Blvd and RR tracks</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI52630">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=OBI54348 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI54348&YF=0">OBI54348</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Rhonda Riggins</td>
+<td>May 14, 1991</td>
+<td></td>
+<td>San Luis Obispo</td>
+<td>El Chorro Regional Park</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI54348">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=OBI57557 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI57557&YF=0">OBI57557</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>David J. Keil</td>
+<td>June 23, 1998</td>
+<td>27849</td>
+<td>San Luis Obispo</td>
+<td>At Baldwin residence and on property to west of Baldwin property along O'Connor Way (2051 O'Connor Way, W of San Luis Obispo).</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI57557">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=OBI57564 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI57564&YF=0">OBI57564</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>David J. Keil</td>
+<td>May 18, 1998</td>
+<td>27289</td>
+<td>San Luis Obispo</td>
+<td>E of Cayucos along Old Creek Rd., 2.8 mi. from junction with californica. Rte. 1, about 500 ft. E of Whale Rock Reservoir.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI57564">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=OBI62737 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI62737&YF=0">OBI62737</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Cletis England</td>
+<td>April 14, 2003</td>
+<td>225</td>
+<td>San Luis Obispo</td>
+<td>San Geronimo Ranch. Immed S of the town of Harmony, W of hwy 1</td>
+<td>131</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI62737">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=OBI62737"><br>Read comments</a> Oct 23  2014
+</td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=OBI64845 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI64845&YF=0">OBI64845</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>David J. Keil</td>
+<td>May 3, 2001</td>
+<td>29406</td>
+<td>San Luis Obispo</td>
+<td>Campus of California Polytechnic State University. Chorro Creek Ranch south of Highway 1, west of Cuesta College campus. Ca. 35.32767&deg;N x 120.75103&deg;W</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI64845">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=OBI72927 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI72927&YF=0">OBI72927</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>David J. Keil</td>
+<td>June 23, 1988</td>
+<td>20810</td>
+<td>San Luis Obispo</td>
+<td>Morro Bay-hillsides between Little Morro Creek Road and South Bay Blvd, north of Highway 1</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI72927">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=OBI78781 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI78781&YF=0">OBI78781</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Michael Walgren</td>
+<td>4/15/14</td>
+<td>392</td>
+<td>San Luis Obispo</td>
+<td>Chevron Oil Company property at the peak of a hill at the end of north Morro Bay.</td>
+<td>163</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI78781">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=OBI78807 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI78807&YF=0">OBI78807</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Michael Walgren</td>
+<td>4/15/14</td>
+<td>390</td>
+<td>San Luis Obispo</td>
+<td>Chevron Oil Company property east of Del Mar Park in the City of Morro Bay.</td>
+<td>171</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI78807">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA678502 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA678502&YF=0">RSA678502</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Fred M. Roberts, Robt. Allen, Carol A. Roberts</td>
+<td>May 11 2003</td>
+<td>5863</td>
+<td>Orange</td>
+<td>Dana Point Headlands: hilltop, 0.6km SSW Richard Henry Dana School south of Pacific Coast Highway and north of Scenic Drive.(UTM: 11S - 04 33 104mE, 37 02 642mN)</td>
+<td>73</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA678502">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG103429 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG103429&YF=0">SBBG103429</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>E. R. Blakley</td>
+<td>May 2 1988</td>
+<td>7400</td>
+<td>Santa Barbara</td>
+<td>Casmalia Hills: Point Morrito, SW of Pt Sal, near Lions Head, near Casmalia Beach Rd</td>
+<td>45</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG103429">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG105012 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG105012&YF=0">SBBG105012</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>J. Sainz</td>
+<td>Jul 12 1991</td>
+<td></td>
+<td>Santa Barbara</td>
+<td>Casmalia Hills: summit of rd out of Corralitos Cyn, E of Point Sal</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG105012">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG105022 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG105022&YF=0">SBBG105022</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>J. Sainz</td>
+<td>Jun 27 1991</td>
+<td></td>
+<td>Santa Barbara</td>
+<td>Casmalia Hills: summit of rd out of Corralitos Cyn, E of Point Sal</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG105022">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG110993 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG110993&YF=0">SBBG110993</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>A. Parikh, N. Gale</td>
+<td>May 8 1998</td>
+<td>VAFBPS2</td>
+<td>Santa Barbara</td>
+<td>Casmalia Hills: Point Sal Rd, N of Lions Head</td>
+<td>25</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG110993">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG118281 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG118281&YF=0">SBBG118281</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>J. Clark, M. Petroelje</td>
+<td>Apr 28 1998</td>
+<td></td>
+<td>San Luis Obispo</td>
+<td>LCTA Plot 302, S of Vietnam Village; Camp San Luis Obispo</td>
+<td>185</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG118281">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG118344 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG118344&YF=0">SBBG118344</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>E. Painter, M. Wetherwax</td>
+<td>May 14 2000</td>
+<td>SLO114</td>
+<td>San Luis Obispo</td>
+<td>Santa Lucia Mtns: near California Mens Colony prison; Camp San Luis Obispo</td>
+<td>160</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG118344">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG12022 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG12022&YF=0">SBBG12022</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>E. R. Blakley</td>
+<td>Jun 30 1960</td>
+<td>3491</td>
+<td>Santa Barbara</td>
+<td>Casmalia Hills: Point Sal Ridge</td>
+<td>304</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG12022">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG120419 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG120419&YF=0">SBBG120419</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>R. Burgess, P. Munro</td>
+<td>May 20 1993</td>
+<td>1049</td>
+<td>Ventura</td>
+<td>Dos Vientos Ranch, W portion of ranch on flank of Conejo Mtn; Thousand Oaks</td>
+<td>304</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG120419">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG122100 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG122100&YF=0">SBBG122100</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>A. Parikh, N. Gale</td>
+<td>May 18 2000</td>
+<td>724</td>
+<td>Santa Barbara</td>
+<td>Burton Mesa: 0.75 km ESE of jct of Pine Cyn Rd and Utah Avenue, N side of Pine Cyn Rd; Vandenberg Air Force Base</td>
+<td>135</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG122100">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG126199 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG126199&YF=0">SBBG126199</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>D. Keil, L. D. Oyler</td>
+<td>Apr 20 1995</td>
+<td>24957</td>
+<td>Santa Barbara</td>
+<td>Casmalia Hills: vicinity of jct of Cinco Rd and Point Sal Rd, windswept coastal hills and cyns E of hwy; Vandenberg Air Force Base</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG126199">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG26803 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG26803&YF=0">SBBG26803</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>A. Eastwood, J. T. Howell</td>
+<td>May 7 1936</td>
+<td></td>
+<td>San Luis Obispo</td>
+<td>Santa Lucia Mtns: near Cayucos</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG26803">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG45516 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG45516&YF=0">SBBG45516</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>L. W. Edge</td>
+<td>Jun 8 1972</td>
+<td>216</td>
+<td>Santa Barbara</td>
+<td>Casmalia Hills: near top of Point Sal Ridge</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG45516">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG70349 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG70349&YF=0">SBBG70349</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>R. Hoffmann</td>
+<td>May 31 1931</td>
+<td></td>
+<td>Santa Barbara</td>
+<td>Casmalia Hills: Point Sal</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG70349">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG70350 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG70350&YF=0">SBBG70350</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>G. Sinsheimer</td>
+<td>May 28 1937</td>
+<td></td>
+<td>San Luis Obispo</td>
+<td>San Luis Obispo</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG70350">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG70351 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG70351&YF=0">SBBG70351</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>M. M. Miles</td>
+<td></td>
+<td></td>
+<td>San Luis Obispo</td>
+<td>San Luis Obispo County [no specific locality]</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG70351">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG81649 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG81649&YF=0">SBBG81649</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>T. Oberbauer, K. Geuhlsdorff, P. Zedler</td>
+<td>May 24 1978</td>
+<td>120</td>
+<td>Santa Barbara</td>
+<td>Casmalia Hills: 2 mi E of the end of Pt Sal Rd; Vandenberg Air Force Base</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG81649">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG84005 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG84005&YF=0">SBBG84005</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>E. R. Blakley</td>
+<td>May 30 1987</td>
+<td>7380</td>
+<td>Santa Barbara</td>
+<td>Casmalia Hills: Lions Head, S of Pt Sal; Vandenberg Air Force Base</td>
+<td>15</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG84005">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG94387 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG94387&YF=0">SBBG94387</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>R. Moran</td>
+<td>Apr 24 1950</td>
+<td>3388</td>
+<td>Orange</td>
+<td>San Clemente</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG94387">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD117097 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD117097&YF=0">SD117097</a>&nbsp;<a href="http://SDPlantAtlas.org/StarZoomPA/HiResSynopticSZ.aspx?H=117097"><img src="/common/images/ico_camera.gif" alt="Image available" border="0"></a></td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>James C. Dice, Harold Wier</td>
+<td>May 15, 1983</td>
+<td>343</td>
+<td>San Diego</td>
+<td>Northwestern San Diego Co., Camp Pendleton, mesa ca. 0.2 km northeast of Santa Margarita School.</td>
+<td>70</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD117097">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD200838 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD200838&YF=0">SD200838</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Margaret R. Mulligan, C. Daverin</td>
+<td>May 22, 2008</td>
+<td>2582</td>
+<td>San Diego</td>
+<td>Camp Pendleton Marine Corps Base, Oscar Two Training Area, ca. &frac12; mi E of I-5, ca. 1 mi SE of Las Flores Creek, ca. 1/5 mi W of Stuart Mesa Rd.</td>
+<td>31</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD200838">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD216918 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD216918&YF=0">SD216918</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Jon P. Rebman, W. Schmidtmann, J. Rocks & M. Mulligan</td>
+<td>May 11, 2011</td>
+<td>21652</td>
+<td>San Diego</td>
+<td>Camp Pendleton: Blue/Cockleburr Beach; north of the mouth of the Santa Margarita River and west of I-5; above the beach on a coastal bluff</td>
+<td>7</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD216918">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD216919 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD216919&YF=0">SD216919</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Jon P. Rebman, Warren Schmidtman</td>
+<td>May 09, 2011</td>
+<td>21620</td>
+<td>San Diego</td>
+<td>Camp Pendleton: Uniform Training Area; west of I-5, on a coastal mesa above the ocean; north of Las Pulgas Road, south of the ocean overlook pullout on southbound I-5 and south of San Onofre State Beach; just northwest of an airstrip</td>
+<td>24</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD216919">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD219464 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD219464&YF=0">SD219464</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Jon P. Rebman, P. Roullard, W. Schmidtmann, & J. Rocks</td>
+<td>Feb 17, 2012</td>
+<td>22502</td>
+<td>San Diego</td>
+<td>Border Field State Park: west of San Ysidro border crossing; south of Monument Road; just north of the USA/Mexico border fence; north-facing slope near top of Bunker Hill</td>
+<td>105</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD219464">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SDSU14680 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SDSU14680&YF=0">SDSU14680</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Craig H. Reiser, Fred T. Sproul</td>
+<td>03/10/1989</td>
+<td>10-III-89</td>
+<td>San Diego</td>
+<td>Camp Joseph Pendleton MCB. San Diego County, California. Base Section: Oscar I.</td>
+<td>122</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SDSU14680">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SDSU14681 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SDSU14681&YF=0">SDSU14681</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Craig H. Reiser, Fred T. Sproul</td>
+<td>03/23/1989</td>
+<td>23-III-89</td>
+<td>San Diego</td>
+<td>Camp Joseph Pendleton MCB. San Diego County, California. Base Section: North Victor.</td>
+<td>24</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SDSU14681">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SDSU18766 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SDSU18766&YF=0">SDSU18766</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>C. Matt Guilliams, W. Loeffler, J. MacAller</td>
+<td>04/30/2008</td>
+<td>666</td>
+<td>San Diego</td>
+<td>Marine Corps Base Camp Pendleton. Cockleburr Creek Lagoon, ca. 300m south of Navy LCAC Facility. West of Interstate 5.</td>
+<td>5</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SDSU18766">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC1015325 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1015325&YF=0">UC1015325</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Reid Moran</td>
+<td>Apr 24 1950</td>
+<td>3388</td>
+<td>Orange</td>
+<td>San Clemente</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1015325">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC792925 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC792925&YF=0">UC792925</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Reid Moran</td>
+<td>May 4 1947</td>
+<td>2175</td>
+<td>Santa Barbara</td>
+<td>Point Sal Road</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC792925">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC792928 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC792928&YF=0">UC792928</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Reid Moran</td>
+<td>Jun 8 1948</td>
+<td>3086</td>
+<td>Los Angeles</td>
+<td>Mouth of Winter Canyon Malibu Beach (Malibu Beach)</td>
+<td>76</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC792928">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC792962 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC792962&YF=0">UC792962</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Reid Moran</td>
+<td>Jun 12 1947</td>
+<td>2280</td>
+<td>San Luis Obispo</td>
+<td>0.6 mi s San Simeon</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC792962">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC933345 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC933345&YF=0">UC933345</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Reid Moran</td>
+<td>Apr 9 1949</td>
+<td>3205</td>
+<td>San Diego</td>
+<td>Las Flores</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC933345">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC933346 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC933346&YF=0">UC933346</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Reid Moran</td>
+<td>Apr 8 1949</td>
+<td>3200</td>
+<td>Santa Barbara</td>
+<td>road to Point Sal</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC933346">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC933349 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC933349&YF=0">UC933349</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Reid Moran</td>
+<td>May 1950</td>
+<td>3414</td>
+<td>Alameda</td>
+<td>Berkeley</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC933349">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC933350 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC933350&YF=0">UC933350</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Reid Moran</td>
+<td>May 1950</td>
+<td>3318</td>
+<td>Alameda</td>
+<td>Berkeley</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC933350">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR23253 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR23253&YF=0">UCR23253</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>John C. Roos</td>
+<td>May 22 1958</td>
+<td>s.n.</td>
+<td>Ventura</td>
+<td>Western Transverse Range; Santa Monica Mtns. Conejo Grade, north base of the Santa Monica Mtns.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR23253">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR232991 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR232991&YF=0">UCR232991</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Jim Andr&eacute;, Frank Smith</td>
+<td>Apr 21 1993</td>
+<td>17104</td>
+<td>San Diego</td>
+<td>South Coast USMC Camp Pendleton, coastal bluffs just south of Cockleburr Canyon</td>
+<td>10</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR232991">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR94517 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR94517&YF=0">UCR94517</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Tony Bomkamp</td>
+<td>Jun 1995</td>
+<td>s.n.</td>
+<td>Ventura</td>
+<td>S base of Conejo Mtn, Dos Vientos Ranch, west of Kimber School, c. 1 mi north of Long Grade Canyon and 2 mi west of Arroyo Conejo (Potrero Road) on rocky summit of hillock due south of hill "952"</td>
+<td>290</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR94517">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB40374 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB40374&YF=0">UCSB40374</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Dale Smith</td>
+<td>05/02/1982</td>
+<td>552</td>
+<td>Santa Barbara</td>
+<td>Northwest of cattle crossing with Vandenberg warning signs; Point Sal State Beach</td>
+<td>335</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB40374">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB52867 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB52867&YF=0">UCSB52867</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Fred Roberts</td>
+<td>04/24/1983</td>
+<td>1014</td>
+<td>Orange</td>
+<td>Dana Point Headlands: south of Pacific Coast Hwy.; 0.5 km. NW Dana Point Harbor; 0.5 km. SSW Richard Henery Dana Sch.</td>
+<td>85</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB52867">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB53087 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB53087&YF=0">UCSB53087</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Rick Burgess</td>
+<td>05/10/1985</td>
+<td>449</td>
+<td>Ventura</td>
+<td>Little Sycamore Cyn.; SW of Yerba Buena Rd. and Cotharin Rd.; Santa Monica Mtns.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB53087">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB53089 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB53089&YF=0">UCSB53089</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Rick Burgess</td>
+<td>05/06/1985</td>
+<td>440</td>
+<td>Ventura</td>
+<td>SE side of Conejo Crk.; between Hwy. 101 and Calleguas Crk.</td>
+<td>36</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB53089">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=UCSB53089"><br>Read comments</a> Oct 23  2014
+</td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB71674 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB71674&YF=0">UCSB71674</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>David Pritchett, Wayne Ferren</td>
+<td>05/23/1987</td>
+<td>VAFB-25-87</td>
+<td>Santa Barbara</td>
+<td>35th Street</td>
+<td>73</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB71674">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=CAS235077 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS235077&YF=0">CAS235077</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Alice Eastwood, John Thomas Howell</td>
+<td>May 7, 1936.</td>
+<td>2288</td>
+<td>San Luis Obispo</td>
+<td>Near Cayucos.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS235077">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=CAS539798 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS539798&YF=0">CAS539798</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Clare B. Hardham</td>
+<td>5-13-59</td>
+<td>3287</td>
+<td>San Luis Obispo</td>
+<td>Santa Lucia Mountains. San Bernardino Creek.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS539798">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=CAS637310 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS637310&YF=0">CAS637310</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>K. Nakai, B. Broadbent</td>
+<td>4 May 1980</td>
+<td>590</td>
+<td>Ventura</td>
+<td>Santa Monica Mountains, Conejo Grade across truck scale at the top of the grade. From Conejo Grade to near the base of Conejo Mountain.</td>
+<td>300</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS637310">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=DS206256 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?DS206256&YF=0">DS206256</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Roxana S. Ferris</td>
+<td>Apr. 15 1929</td>
+<td>7642</td>
+<td>San Luis Obispo</td>
+<td>2 miles east of Moro.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=DS206256">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=DS270866 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?DS270866&YF=0">DS270866</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Alice Eastwood, John Thomas Howell</td>
+<td>May 7, 1936</td>
+<td>2288</td>
+<td>San Luis Obispo</td>
+<td>Near Cayucos.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=DS270866">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=DS327250 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?DS327250&YF=0">DS327250</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Reid Moran</td>
+<td>May 29, 1948</td>
+<td>3081</td>
+<td>San Luis Obispo</td>
+<td>Ca. 0.25 mile south of San Simeon.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=DS327250">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=DS327730 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?DS327730&YF=0">DS327730</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Reid Moran</td>
+<td>29 May 1949</td>
+<td>3261</td>
+<td>San Diego</td>
+<td>Pacific Beach. Just north of Loring Street.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=DS327730">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=DS333731 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?DS333731&YF=0">DS333731</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Reid Moran</td>
+<td></td>
+<td>s.n.</td>
+<td>Unknown</td>
+<td>Unspecified.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=DS333731">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=LA105037 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?LA105037&YF=0">LA105037</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Peter H. Raven, Henry J. Thompson</td>
+<td>April 24 1960</td>
+<td>15104</td>
+<td>Ventura</td>
+<td>Santa Monica Mountains, W end of Santa Rosa Valley, N of Conejo Grade</td>
+<td>152</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=LA105037">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=LA200390 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?LA200390&YF=0">LA200390</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Kei Nakai, B. Broadbent</td>
+<td>May 4 1980</td>
+<td>590</td>
+<td>Ventura</td>
+<td>Santa Monica Mountains, Conejo Grade across truck scale at the top of the grade</td>
+<td>300.0</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=LA200390">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=OBI32448 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI32448&YF=0">OBI32448</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Rhonda Riggins</td>
+<td>May 23, 1983</td>
+<td>1488</td>
+<td>San Luis Obispo</td>
+<td>W side San Bernardo Crk Rd, 1.1 mi N CA 1</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI32448">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=OBI35758 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI35758&YF=0">OBI35758</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Allison Berry</td>
+<td>May 8, 1984</td>
+<td>178</td>
+<td>San Luis Obispo</td>
+<td>Camp San Luis Obispo Shooting Facility 6.5 mi N of San Luis Obispo on hwy 1</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI35758">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=OBI57563 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI57563&YF=0">OBI57563</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>David J. Keil</td>
+<td>May 18, 1998</td>
+<td>27298</td>
+<td>San Luis Obispo</td>
+<td>N of Cayucos between Hwy 1 and ocean N of Point Estero. Just S of China Harbor.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI57563">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=OBI57566 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI57566&YF=0">OBI57566</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>David J. Keil</td>
+<td>June 12, 1998</td>
+<td>27789</td>
+<td>San Luis Obispo</td>
+<td>Morro Bay State Park. Park Ridge area W of Holister Peak, near quarry trail.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI57566">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=OBI69476 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI69476&YF=0">OBI69476</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Jody Olson, Amy Millan, Peter Waldburger</td>
+<td>April 15, 2005</td>
+<td></td>
+<td>San Luis Obispo</td>
+<td>Camp San Luis Obispo: Range C. UTM E 708844 N 3913491 Site C</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI69476">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=OBI69482 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?OBI69482&YF=0">OBI69482</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Jody Olson, Amy Millan, Peter Waldburger</td>
+<td>April 14, 2005</td>
+<td></td>
+<td>San Luis Obispo</td>
+<td>Camp San Luis Obispo. Foxtrot range. Rock outcrop between Range Rd and Flattened area with bldg. UTM E 708005, N 3913377</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=OBI69482">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=POM224468 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?POM224468&YF=0">POM224468</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Alice Eastwood, J. T. Howell</td>
+<td>May 7 1936</td>
+<td>2288</td>
+<td>San Luis Obispo</td>
+<td>Near Cayucos</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=POM224468">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=SBBG38260 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG38260&YF=0">SBBG38260</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>C. B. Hardham</td>
+<td>May 13 1958</td>
+<td>3287</td>
+<td>San Luis Obispo</td>
+<td>Morro del Mar, San Bernardo Crk</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG38260">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC792926 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC792926&YF=0">UC792926</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Reid Moran</td>
+<td>May 3 1947</td>
+<td>2167</td>
+<td>San Luis Obispo</td>
+<td>near northern limit of Estero Bay; Estero Bay</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC792926">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UC792927 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC792927&YF=0">UC792927</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Reid Moran</td>
+<td>May 29 1949</td>
+<td>3261</td>
+<td>San Diego</td>
+<td>just n Loring Street, Pacific Beach; Pacific Beach</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC792927">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC792934 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC792934&YF=0">UC792934</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Reid Moran</td>
+<td>May 31 1946</td>
+<td>2068</td>
+<td>Ventura</td>
+<td>0.5 mi e Camarillo State Hospital; Long Grade Canyon</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC792934">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UC933344 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC933344&YF=0">UC933344</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Reid Moran</td>
+<td>Apr 9 1949-May 12 1950</td>
+<td>3202</td>
+<td>Unknown</td>
+<td></td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC933344">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC933348 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC933348&YF=0">UC933348</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Reid Moran</td>
+<td>Apr 8 1949</td>
+<td>3199</td>
+<td>San Luis Obispo</td>
+<td>n side Estero Bay</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC933348">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UCD101857 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCD101857&YF=0">UCD101857</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Daryl Koutnik</td>
+<td>05 30 1978</td>
+<td>506</td>
+<td>Ventura</td>
+<td>Ventura County: Long Grade Canyon, east of state hospital</td>
+<td>91</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCD101857">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UCSB61104 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB61104&YF=0">UCSB61104</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>K. Danielsen</td>
+<td>06/04/1991</td>
+<td></td>
+<td>Santa Barbara</td>
+<td>At top of Soledad Rd.; approx. 100 ft. SE of Bldg. 1962</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB61104">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. blochmaniae --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UCSB63404 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB63404&YF=0">UCSB63404</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. blochmaniae</td>
+<td>Robert Hamilton</td>
+<td>05/26/1993</td>
+<td></td>
+<td>Santa Barbara</td>
+<td>E of Pt. Sal Rd.; 1.1 mi. SE of point where the rd. becomes unpaved</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB63404">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. brevifolia --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=LA105008 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?LA105008&YF=0">LA105008</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. brevifolia</td>
+<td>Kei Nakai</td>
+<td>March 31 1982</td>
+<td>858</td>
+<td>San Diego</td>
+<td>ca. 0.25 mi. N of Eastgate Mall and 0.25 mi. W of Hwy 805</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=LA105008">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. brevifolia --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD104294 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD104294&YF=0">SD104294</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. brevifolia</td>
+<td>Tom Oberbauer</td>
+<td>May 19, 1979</td>
+<td>165</td>
+<td>San Diego</td>
+<td>Depressions that appear like vernal pools, about &frac12; mile north of Eastgate Mall and &frac14; mile west of I-805 near Miramar (mak 10/07)</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD104294">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. brevifolia --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD114482 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD114482&YF=0">SD114482</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. brevifolia</td>
+<td>Darley F. Howe</td>
+<td>May 25, 1958</td>
+<td>2636</td>
+<td>San Diego</td>
+<td>On east side of canyon just east of Del Mar.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD114482">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. brevifolia --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD130030 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD130030&YF=0">SD130030</a>&nbsp;<a href="http://SDPlantAtlas.org/StarZoomPA/HiResSynopticSZ.aspx?H=130030"><img src="/common/images/ico_camera.gif" alt="Image available" border="0"></a></td>
+<td>Dudleya blochmaniae subsp. brevifolia</td>
+<td>Reid Moran</td>
+<td>May 13, 1990</td>
+<td>31031</td>
+<td>San Diego</td>
+<td>On mesa rim clear of shrubs, head of small canyon emptying just south of SIO [Scripps Institution Oceanography], La Jolla.</td>
+<td>120</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD130030">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. brevifolia --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC933208 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC933208&YF=0">UC933208</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. brevifolia</td>
+<td>Reid Moran</td>
+<td>Feb 15 1949</td>
+<td>3176</td>
+<td>San Diego</td>
+<td>Torrey Pines Park</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC933208">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. brevifolia --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC933209 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC933209&YF=0">UC933209</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. brevifolia</td>
+<td>Reid Moran</td>
+<td>May 29 1949</td>
+<td>3260</td>
+<td>San Diego</td>
+<td>Torrey Pines Park</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC933209">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. brevifolia --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC933210 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC933210&YF=0">UC933210</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. brevifolia</td>
+<td>Reid Moran</td>
+<td>Jul 5 1950</td>
+<td>3448</td>
+<td>San Diego</td>
+<td>Torrey Pines Park</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC933210">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. brevifolia --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCR13222 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCR13222&YF=0">UCR13222</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. brevifolia</td>
+<td>R. L. Irwin, Darline Irwin</td>
+<td>Jan 22 1973</td>
+<td>s.n.</td>
+<td>San Diego</td>
+<td>Southern Coastal Plain Torrey Pines State Reserve. west of and next to Broken Hills parking</td>
+<td>76</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCR13222">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. brevifolia --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC1025830 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC1025830&YF=0">UC1025830</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. brevifolia</td>
+<td>Reid Moran</td>
+<td>Jun 25 1949</td>
+<td>3212</td>
+<td>Unknown</td>
+<td></td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC1025830">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. brevifolia --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UC933207 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC933207&YF=0">UC933207</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. brevifolia</td>
+<td>Reid Moran</td>
+<td>Jun 16 1950</td>
+<td>3316</td>
+<td>Unknown</td>
+<td></td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC933207">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. brevifolia --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC933211 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC933211&YF=0">UC933211</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. brevifolia</td>
+<td>Reid Moran</td>
+<td>May 12 1950</td>
+<td>3392</td>
+<td>Unknown</td>
+<td></td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC933211">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. insularis --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CATA2712 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CATA2712&YF=0">CATA2712</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. insularis</td>
+<td>Robert F. Thorne, "G. Wallace, M. Hoefs"</td>
+<td>Apr 29, 1977</td>
+<td>49011</td>
+<td>Santa Barbara</td>
+<td>Santa Rosa Island: E end between Skunk and East Points</td>
+<td>6</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CATA2712">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. insularis --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA287794 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA287794&YF=0">RSA287794</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. insularis</td>
+<td>R. F. Thorne, Wallace, Haefs</td>
+<td>Apr 29 1977</td>
+<td>49011</td>
+<td>Santa Barbara</td>
+<td>Santa Rosa Island. E end between Skunk and East Point</td>
+<td>6</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA287794">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. insularis --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA341626 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA341626&YF=0">RSA341626</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. insularis</td>
+<td>C. F. Smith</td>
+<td>Jun 9 1963</td>
+<td>8254</td>
+<td>Santa Barbara</td>
+<td>Santa Rosa Island. Near mouth of Old Ranch House Canyon Creek at east end of island</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA341626">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. insularis --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG102280 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG102280&YF=0">SBBG102280</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. insularis</td>
+<td>M. Daily</td>
+<td>Mar 7 1982</td>
+<td>SR-498</td>
+<td>Santa Barbara</td>
+<td>Santa Rosa Island: Old Ranch House Cyn</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG102280">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. insularis --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG105486 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG105486&YF=0">SBBG105486</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. insularis</td>
+<td>R. F. Thorne, G. D. Wallace, M. L. Hoefs</td>
+<td>Apr 29 1977</td>
+<td></td>
+<td>Santa Barbara</td>
+<td>Santa Rosa Island: E end between Skunk and East Pts</td>
+<td>6</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG105486">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. insularis --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG115812 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG115812&YF=0">SBBG115812</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. insularis</td>
+<td>S. Chaney</td>
+<td>Apr 25 1997</td>
+<td></td>
+<td>Santa Barbara</td>
+<td>Santa Rosa Island: Old Ranch Cyn, at saddle with ridge that has Pk 470 on it</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG115812">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. insularis --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG49915 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG49915&YF=0">SBBG49915</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. insularis</td>
+<td>R. N. Philbrick, D. Leaberry</td>
+<td>May 10 1975</td>
+<td>B75-92</td>
+<td>Santa Barbara</td>
+<td>Santa Rosa Island: low NW-SE ridge, just S of mouth of stream, N of Old Ranch Lagoon and S of Triangulation Pt Oar</td>
+<td>3</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG49915">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. insularis --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SBBG70697 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SBBG70697&YF=0">SBBG70697</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. insularis</td>
+<td>C. F. Smith</td>
+<td>Jun 9 1963</td>
+<td>8254</td>
+<td>Santa Barbara</td>
+<td>Santa Rosa Island: beach near mouth of Old Ranch House Cyn Crk</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SBBG70697">Comment</a> </td>
+</tr>
+<!-- Dudleya blochmaniae subsp. insularis --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD107940 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD107940&YF=0">SD107940</a>&nbsp;</td>
+<td>Dudleya blochmaniae subsp. insularis</td>
+<td>Robert F. Thorne, G. Wallace and M. Haefs.</td>
+<td>Apr 29, 1977</td>
+<td>49011</td>
+<td>Santa Barbara</td>
+<td>Santa Rosa Island; east end between Skunk and East Points, on sandy plateau behind dunes.</td>
+<td>6</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD107940">Comment</a> </td>
+</tr>
+</table></form>
+
+<!-- Footer begins -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="18" bgcolor="9090AA"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  <tr>
+    <td height="20"><span class="copyrightText">&nbsp;&nbsp;Copyright &copy; 2010 Regents of the University of California &mdash; Database extract updated 2/17/2016 
+</span>
+
+
+
+  </tr>
+</table>
+<!-- Footer ends -->
+
+
+0.02 processing seconds
+
+<!-- <a href="/cgi-bin/clone_coords.pl?/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=Dudleya bloch&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0">Clone coords view</a>-->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1304595-1";
+urchinTracker();
+</script>
+</body></html>

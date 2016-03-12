@@ -1,0 +1,568 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>
+UC Bryophytes Search
+</title>
+<Meta Name="keywords" Content="Bryodiversity, UC Berkeley University Herbarium, bryophytes, bryolab, bryoflora of California, Norris, Mishler, Shevock, California Mosses, Moss database, moss biodiversity">
+<link href="http://ucjeps.berkeley.edu/style_moss.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<table class="banner" width="100%" border="0" cellspacing="10">
+  <tr>
+    <td align="center" valign="middle">Bryophytes in UC</td>
+  </tr>
+</table>
+
+<!-- Beginning of horizontal menu
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="21" width="640" align="right">
+	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<td />
+  </tr>
+ <tr>
+    <td colspan="6" bgcolor="#9FBFFF"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+
+</table>
+-->
+<table>
+<tr>
+<td valign="top"><IMG src="/tortula.jpg"></td>
+<td>
+<span class="bodyText">
+These pages currently present data from nearly 70,000 of Dan Norris's 110,000 bryophyte specimens, and 25,000 of Jim Shevock's specimens (Shevock's first set is at CAS but most are duplicated at UC), as well as specimens databased by Paul Wilson at California State University at Northridge.  These specimens, mostly georeferenced, are primarily from California, but also worldwide.  We are actively curating the UC bryophyte collection (currently about 200,000 specimens total) and we intend to add to this database regularly.  We anticipate adding data from other current collectors, including Brent Mishler and the <a href="http://ucjeps.berkeley.edu/bryolab/index.html">Bryolab graduate students</a>.  Eventually we will include the entire UC bryological collection. 
+</span>
+</td></tr>
+<tr><td colspan=2>
+<span class="bodyText">
+<center><img src="S_and_N.jpg"><br>
+Dan Norris (left) and Jim Shevock, central Sierra, 2003</center><hr width=30%?
+<P>
+For other information about UC bryophytes see
+<UL>
+<LI> <a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">
+California Moss eFlora</a>
+<LI> <a href="http://ucjeps.berkeley.edu/bryolab/moss_gen.html">
+A list of genera in the UC bryophyte herbarium</a>
+
+<LI> <a href="http://ucjeps.berkeley.edu/bryolab/Mossfolders.html">
+A list of specimen folders in the UC bryophyte herbarium (large file)</a>
+
+<LI><a href="http://ucjeps.berkeley.edu/bryolab/moss_types.html">
+A list of type specimens in the UC bryophyte herbarium</a>
+
+</UL
+
+</span></td>
+<td>&nbsp;&nbsp;</td>
+</tr>
+</table>
+
+	<form method = "POST"
+	action="http://ucjeps.berkeley.edu/cgi-bin/get_bex.pl">
+
+	<center>
+		<table cellspacing=10 width="96%">
+		<tr>
+		<td width="50%" valign="top"><span class="pageSubheading">Scientific Name</span>
+<br>
+		<INPUT NAME = "taxon_name" SIZE = 50 MAXLENGTH = 255>
+<br>
+<br />
+<span class="pageSubheading">County </span>
+<span class="bodySmallerText">(CA counties first; choose 1 or more; default is all counties)</span>
+<br>
+<select name="county" size = 5 multiple>
+<option value = "" selected="selected">All</option>
+<option value="UNKNOWN">UNKNOWN</option>
+<option value="ALAMEDA">ALAMEDA</option>
+<option value="ALPINE">ALPINE</option>
+<option value="AMADOR">AMADOR</option>
+<option value="BUTTE">BUTTE</option>
+<option value="CALAVERAS">CALAVERAS</option>
+<option value="CONTRA COSTA">CONTRA COSTA</option>
+<option value="DEL NORTE">DEL NORTE</option>
+<option value="EL DORADO">EL DORADO</option>
+<option value="FRESNO">FRESNO</option>
+<option value="GLENN">GLENN</option>
+<option value="HUMBOLDT">HUMBOLDT</option>
+<option value="IMPERIAL">IMPERIAL</option>
+<option value="INYO">INYO</option>
+<option value="LAKE">LAKE</option>
+<option value="LASSEN">LASSEN</option>
+<option value="LOS ANGELES">LOS ANGELES</option>
+<option value="MADERA">MADERA</option>
+<option value="MARIN">MARIN</option>
+<option value="MARIPOSA">MARIPOSA</option>
+<option value="MENDOCINO">MENDOCINO</option>
+<option value="MERCED">MERCED</option>
+<option value="MODOC">MODOC</option>
+<option value="MONO">MONO</option>
+<option value="MONTEREY">MONTEREY</option>
+<option value="NAPA">NAPA</option>
+<option value="NEVADA">NEVADA</option>
+<option value="ORANGE">ORANGE</option>
+<option value="PLACER">PLACER</option>
+<option value="PLUMAS">PLUMAS</option>
+<option value="RIVERSIDE">RIVERSIDE</option>
+<option value="SACRAMENTO">SACRAMENTO</option>
+<option value="SANTA BARBARA">SANTA BARBARA</option>
+<option value="SANTA CLARA">SANTA CLARA</option>
+<option value="SANTA CRUZ">SANTA CRUZ</option>
+<option value="SAN BENITO">SAN BENITO</option>
+<option value="SAN BERNARDINO">SAN BERNARDINO</option>
+<option value="SAN DIEGO">SAN DIEGO</option>
+<option value="SAN FRANCISCO">SAN FRANCISCO</option>
+<option value="SAN LUIS OBISPO">SAN LUIS OBISPO</option>
+<option value="SAN MATEO">SAN MATEO</option>
+<option value="SHASTA">SHASTA</option>
+<option value="SIERRA">SIERRA</option>
+<option value="SISKIYOU">SISKIYOU</option>
+<option value="SOLANO">SOLANO</option>
+<option value="SONOMA">SONOMA</option>
+<option value="STANISLAUS">STANISLAUS</option>
+<option value="SUTTER">SUTTER</option>
+<option value="TEHAMA">TEHAMA</option>
+<option value="TRINITY">TRINITY</option>
+<option value="TULARE">TULARE</option>
+<option value="TUOLUMNE">TUOLUMNE</option>
+<option value="VENTURA">VENTURA</option>
+<option value="YOLO">YOLO</option>
+<option value="YUBA">YUBA</option>
+<option value="ACAPONETA">ACAPONETA</option>
+<option value="ADA">ADA</option>
+<option value="ADAMS">ADAMS</option>
+<option value="ARTHUR">ARTHUR</option>
+<option value="ASHLAND">ASHLAND</option>
+<option value="ATHENS">ATHENS</option>
+<option value="BA">BA</option>
+<option value="BALTIMORE">BALTIMORE</option>
+<option value="BAOSHAN">BAOSHAN</option>
+<option value="BENTON">BENTON</option>
+<option value="BERNALILLO">BERNALILLO</option>
+<option value="BIBB">BIBB</option>
+<option value="BOTHWELL MUNICIPALITY">BOTHWELL MUNICIPALITY</option>
+<option value="BROOKS">BROOKS</option>
+<option value="BUCKINGHAM">BUCKINGHAM</option>
+<option value="BURNIE MUNICIPALITY">BURNIE MUNICIPALITY</option>
+<option value="CALEDONIA">CALEDONIA</option>
+<option value="CAMAS">CAMAS</option>
+<option value="CARSON CITY">CARSON CITY</option>
+<option value="CHARLES">CHARLES</option>
+<option value="CHELAN">CHELAN</option>
+<option value="CHURCHILL">CHURCHILL</option>
+<option value="CLACKAMAS">CLACKAMAS</option>
+<option value="CLALLAM">CLALLAM</option>
+<option value="CLARK">CLARK</option>
+<option value="CLATSOP">CLATSOP</option>
+<option value="CLEBURNE">CLEBURNE</option>
+<option value="COCHISE">COCHISE</option>
+<option value="COCKE">COCKE</option>
+<option value="COCONINO">COCONINO</option>
+<option value="COLFAX">COLFAX</option>
+<option value="COLUSA">COLUSA</option>
+<option value="COMANCHE">COMANCHE</option>
+<option value="COMPOSTELA">COMPOSTELA</option>
+<option value="CONEJOS">CONEJOS</option>
+<option value="COOS">COOS</option>
+<option value="COWLITZ">COWLITZ</option>
+<option value="CROOK">CROOK</option>
+<option value="CURRY">CURRY</option>
+<option value="DEKALB">DEKALB</option>
+<option value="DELORAINE MUNICIPALITY">DELORAINE MUNICIPALITY</option>
+<option value="DESCHUTES">DESCHUTES</option>
+<option value="DOUGLAS">DOUGLAS</option>
+<option value="DUCHESNE">DUCHESNE</option>
+<option value="EASTON">EASTON</option>
+<option value="EDDY">EDDY</option>
+<option value="ELKO">ELKO</option>
+<option value="ELMORE">ELMORE</option>
+<option value="ESMERALDA">ESMERALDA</option>
+<option value="ESPERANCE MUNICIPALITY">ESPERANCE MUNICIPALITY</option>
+<option value="EUREKA">EUREKA</option>
+<option value="FERRY">FERRY</option>
+<option value="FINGAL MUNICIPALITY">FINGAL MUNICIPALITY</option>
+<option value="FLATHEAD">FLATHEAD</option>
+<option value="FRANKLIN">FRANKLIN</option>
+<option value="FREDERICK">FREDERICK</option>
+<option value="FUGONG">FUGONG</option>
+<option value="GALLATIN">GALLATIN</option>
+<option value="GARRETT">GARRETT</option>
+<option value="GEM">GEM</option>
+<option value="GILA">GILA</option>
+<option value="GLENORCHY MUNICIPALITY">GLENORCHY MUNICIPALITY</option>
+<option value="GONGSHAN">GONGSHAN</option>
+<option value="GOODING">GOODING</option>
+<option value="GORMANSTON MUNICIPALITY">GORMANSTON MUNICIPALITY</option>
+<option value="GRANITE">GRANITE</option>
+<option value="GRANT">GRANT</option>
+<option value="GRAYS HARBOR">GRAYS HARBOR</option>
+<option value="GREENE">GREENE</option>
+<option value="HABERSHAM">HABERSHAM</option>
+<option value="HAMILTON MUNICIPALITY">HAMILTON MUNICIPALITY</option>
+<option value="HANCOCK">HANCOCK</option>
+<option value="HARNEY">HARNEY</option>
+<option value="HARRISON">HARRISON</option>
+<option value="HAWAII">HAWAII</option>
+<option value="HENRY">HENRY</option>
+<option value="HIDALGO">HIDALGO</option>
+<option value="HOBART MUNICIPALITY">HOBART MUNICIPALITY</option>
+<option value="HONOLULU">HONOLULU</option>
+<option value="HOOD RIVER">HOOD RIVER</option>
+<option value="HOWARD">HOWARD</option>
+<option value="HSINCHU">HSINCHU</option>
+<option value="HUALIEN">HUALIEN</option>
+<option value="HUEHUETENANGO">HUEHUETENANGO</option>
+<option value="ILAN">ILAN</option>
+<option value="ISLAND OF ROTA">ISLAND OF ROTA</option>
+<option value="IXTLAN">IXTLAN</option>
+<option value="JACKSON">JACKSON</option>
+<option value="JEFFERSON">JEFFERSON</option>
+<option value="JEFF DAVIS">JEFF DAVIS</option>
+<option value="JOHNSON">JOHNSON</option>
+<option value="JOSEPHINE">JOSEPHINE</option>
+<option value="JUQUILA">JUQUILA</option>
+<option value="KALAWAO">KALAWAO</option>
+<option value="KANE">KANE</option>
+<option value="KAUAI">KAUAI</option>
+<option value="KENAI PENINSULA">KENAI PENINSULA</option>
+<option value="KENTISH MUNICIPALITY">KENTISH MUNICIPALITY</option>
+<option value="KERN">KERN</option>
+<option value="KING">KING</option>
+<option value="KINGBOROUGH MUNICIPALITY">KINGBOROUGH MUNICIPALITY</option>
+<option value="KITSAP">KITSAP</option>
+<option value="KITTITAS">KITTITAS</option>
+<option value="KLAMATH">KLAMATH</option>
+<option value="KLICKITAT">KLICKITAT</option>
+<option value="KNOX">KNOX</option>
+<option value="KODIAK ISLAND">KODIAK ISLAND</option>
+<option value="KOYANG-SI">KOYANG-SI</option>
+<option value="KUNMING CITY">KUNMING CITY</option>
+<option value="LANDER">LANDER</option>
+<option value="LANE">LANE</option>
+<option value="LAUNCESTON MUNICIPALITY">LAUNCESTON MUNICIPALITY</option>
+<option value="LILYDALE MUNICIPALITY">LILYDALE MUNICIPALITY</option>
+<option value="LINCOLN">LINCOLN</option>
+<option value="LINN">LINN</option>
+<option value="LONGFORD MUNICIPALITY">LONGFORD MUNICIPALITY</option>
+<option value="LONGLING">LONGLING</option>
+<option value="LONGYANG QU">LONGYANG QU</option>
+<option value="LOUDON">LOUDON</option>
+<option value="LUCAS">LUCAS</option>
+<option value="LUSHUI">LUSHUI</option>
+<option value="LYON">LYON</option>
+<option value="MACON">MACON</option>
+<option value="MADISON">MADISON</option>
+<option value="MALHEUR">MALHEUR</option>
+<option value="MARION">MARION</option>
+<option value="MASON">MASON</option>
+<option value="MAUI">MAUI</option>
+<option value="MCCULLOCH">MCCULLOCH</option>
+<option value="MCDOWELL">MCDOWELL</option>
+<option value="MCKINLEY">MCKINLEY</option>
+<option value="MERRIMACK">MERRIMACK</option>
+<option value="MIAOLI">MIAOLI</option>
+<option value="MILLARD">MILLARD</option>
+<option value="MINERAL">MINERAL</option>
+<option value="MOHAVE">MOHAVE</option>
+<option value="MONROE">MONROE</option>
+<option value="MONTGOMERY">MONTGOMERY</option>
+<option value="MORGAN">MORGAN</option>
+<option value="MULTNOMAH">MULTNOMAH</option>
+<option value="MUSKINGUM">MUSKINGUM</option>
+<option value="NANTOU">NANTOU</option>
+<option value="NEW NORFOLK MUNICIPALITY">NEW NORFOLK MUNICIPALITY</option>
+<option value="NOWAN-GU">NOWAN-GU</option>
+<option value="NYE">NYE</option>
+<option value="OATLANDS MUNICIPALITY">OATLANDS MUNICIPALITY</option>
+<option value="OKANAGAN">OKANAGAN</option>
+<option value="OKANOGAN">OKANOGAN</option>
+<option value="ORANGE">ORANGE</option>
+<option value="OTERO">OTERO</option>
+<option value="PAGE">PAGE</option>
+<option value="PAJU-GUN">PAJU-GUN</option>
+<option value="PECOS">PECOS</option>
+<option value="PENGUIN MUNICIPALITY">PENGUIN MUNICIPALITY</option>
+<option value="PENNINGTON">PENNINGTON</option>
+<option value="PIERCE">PIERCE</option>
+<option value="PIMA">PIMA</option>
+<option value="PINGTUNG">PINGTUNG</option>
+<option value="POCH-ON-GUN">POCH-ON-GUN</option>
+<option value="POCHUTLA">POCHUTLA</option>
+<option value="POLK">POLK</option>
+<option value="PORTLAND MUNICIPALITY">PORTLAND MUNICIPALITY</option>
+<option value="PUKCHEJU-GUN">PUKCHEJU-GUN</option>
+<option value="PUTNAM">PUTNAM</option>
+<option value="QIAN JING TOWNSHIP">QIAN JING TOWNSHIP</option>
+<option value="RABUN">RABUN</option>
+<option value="RANDOLPH">RANDOLPH</option>
+<option value="RAPPAHANNOCK">RAPPAHANNOCK</option>
+<option value="REFUGIO">REFUGIO</option>
+<option value="RICHLAND">RICHLAND</option>
+<option value="RINGAROOMA MUNICIPALITY">RINGAROOMA MUNICIPALITY</option>
+<option value="RIO GRANDE">RIO GRANDE</option>
+<option value="RITCHIE">RITCHIE</option>
+<option value="SALINE">SALINE</option>
+<option value="SANDOVAL">SANDOVAL</option>
+<option value="SANTA MARIA DEL ORO">SANTA MARIA DEL ORO</option>
+<option value="SAN BLAS">SAN BLAS</option>
+<option value="SAN PEDRO LAGUNILLAS">SAN PEDRO LAGUNILLAS</option>
+<option value="SAN PEDRO LAGUNITAS">SAN PEDRO LAGUNITAS</option>
+<option value="SAUK">SAUK</option>
+<option value="SCOTTSDALE MUNICIPALITY">SCOTTSDALE MUNICIPALITY</option>
+<option value="SEOUL CITY">SEOUL CITY</option>
+<option value="SHANGRI-LA">SHANGRI-LA</option>
+<option value="SHEFFIELD MUNICIPALITY">SHEFFIELD MUNICIPALITY</option>
+<option value="SHELBY">SHELBY</option>
+<option value="SHENANDOAH">SHENANDOAH</option>
+<option value="SHERMAN">SHERMAN</option>
+<option value="SHOSHONE">SHOSHONE</option>
+<option value="SKAGIT">SKAGIT</option>
+<option value="SKAMANIA">SKAMANIA</option>
+<option value="SNOHOMISH">SNOHOMISH</option>
+<option value="SOGWIP-O-SHI">SOGWIP-O-SHI</option>
+<option value="SOLA DE VEGA">SOLA DE VEGA</option>
+<option value="SPRING BAY MUNICIPALITY">SPRING BAY MUNICIPALITY</option>
+<option value="ST. CLAIR">ST. CLAIR</option>
+<option value="ST. LEONARDS MUNICIPALITY">ST. LEONARDS MUNICIPALITY</option>
+<option value="STATE OF ALASKA">STATE OF ALASKA</option>
+<option value="SUMMIT">SUMMIT</option>
+<option value="SUSSEX">SUSSEX</option>
+<option value="TAICHUNG">TAICHUNG</option>
+<option value="TAIPEI">TAIPEI</option>
+<option value="TAIPEI CITY">TAIPEI CITY</option>
+<option value="TAITUNG">TAITUNG</option>
+<option value="TANYANG-SHI">TANYANG-SHI</option>
+<option value="TAOS">TAOS</option>
+<option value="TAOYUAN">TAOYUAN</option>
+<option value="TASMAN MUNICIPALITY">TASMAN MUNICIPALITY</option>
+<option value="TATTNALL">TATTNALL</option>
+<option value="TENGCHONG">TENGCHONG</option>
+<option value="TEPIC">TEPIC</option>
+<option value="THURSTON">THURSTON</option>
+<option value="TILLAMOOK">TILLAMOOK</option>
+<option value="TOBONG-GU">TOBONG-GU</option>
+<option value="TONGDUCH&APOS;ON-SHI">TONGDUCH&APOS;ON-SHI</option>
+<option value="TORRANCE">TORRANCE</option>
+<option value="TOWNS">TOWNS</option>
+<option value="TREUTLIN">TREUTLIN</option>
+<option value="UIJONGBU-SHI">UIJONGBU-SHI</option>
+<option value="ULSTER">ULSTER</option>
+<option value="ULVERSTONE MUNICIPALITY">ULVERSTONE MUNICIPALITY</option>
+<option value="UNION">UNION</option>
+<option value="UPSHUR">UPSHUR</option>
+<option value="VALLEY">VALLEY</option>
+<option value="WARATAH MUNICIPALITY">WARATAH MUNICIPALITY</option>
+<option value="WARREN">WARREN</option>
+<option value="WASCO">WASCO</option>
+<option value="WASHAKIE">WASHAKIE</option>
+<option value="WASHINGTON">WASHINGTON</option>
+<option value="WASHOE">WASHOE</option>
+<option value="WHATCOM">WHATCOM</option>
+<option value="WHEELER">WHEELER</option>
+<option value="WHITE">WHITE</option>
+<option value="WHITE PINE">WHITE PINE</option>
+<option value="WONJU-SHI">WONJU-SHI</option>
+<option value="WOOD">WOOD</option>
+<option value="YAKIMA">YAKIMA</option>
+<option value="YAMHILL">YAMHILL</option>
+<option value="YAVAPAI">YAVAPAI</option>
+<option value="YONGPING">YONGPING</option>
+<option value="YULONG">YULONG</option>
+<option value="ZEEHAN MUNICIPALITY">ZEEHAN MUNICIPALITY</option>
+		</select>
+		<br>
+&nbsp;
+<br><b class="pageSubheading">Geographic Locality</b>
+              <span class="bodySmallerText">
+(e.g.:
+<a href="http://ucjeps.berkeley.edu/cgi-bin/get_bex.pl?loc=Eucalyptus">Eucalyptus</a>;
+<a href="http://ucjeps.berkeley.edu/cgi-bin/get_bex.pl?loc=Tilden%20Park">Tilden Park</a>)
+</span>
+		<INPUT NAME = "loc" SIZE = 50 MAXLENGTH = 255>
+<br>
+<span class="bodySmallerText">N.B.: When multiple words are searched for, only records that contain both words (in any order) will be returned. Words may be truncated. Wild card characters are not used in searches.</span>
+<P>
+        <table class="pageSubheading">
+<tr>
+<td>Lower&nbsp;elevation&nbsp;(meters)</td><td><input name="elev_low" size="5"></td>
+</tr>
+<tr>
+<td>Upper&nbsp;elevation&nbsp;(meters)</td><td><input name="elev_high" size="5"></td>
+</tr>
+</table>
+</td>
+		<td width="50%" valign="top" >
+<span class="pageSubheading">Source </span><span class="bodySmallerText">(1 or more; default is all sources)</span>
+<br />
+<SELECT NAME="source" size=4 multiple>
+<OPTION VALUE="All" SELECTED>All sources</option>
+<OPTION VALUE="DHN">Norris collections, University Herbarium, UC Berkeley</option>
+<OPTION VALUE="JRS">Shevock collections, CAS and UC</option>
+<OPTION VALUE="SFV">Cal State Northridge Collections</option>
+</SELECT>	
+
+<p><span class="pageSubheading">Collector</span>
+              <span class="bodySmallerText">(2&deg; collectors also; last name only;
+              e.g.:
+<a href=  "http://ucjeps.berkeley.edu/cgi-bin/get_bex.pl?collector=Bratt">Bratt</a>,
+  <a href="http://ucjeps.berkeley.edu/cgi-bin/get_bex.pl?collector=Toren">Toren</a>)</span>
+<br />
+              <INPUT NAME = "collector" SIZE = 50 MAXLENGTH = 255>
+              <br>
+		      <b class="pageSubheading">Collection Number</b>
+              <span class="bodySmallerText">(numerical part only)</span>
+          <br>
+	      <INPUT NAME = "coll_num" SIZE = 50 MAXLENGTH = 40>
+<table width="200" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td class="pageSubheading" colspan=3>
+			  Collection Date(s)
+</td>
+          </tr>
+          <tr>
+            <td class="pageSubheading">Month</td>
+            <td class="pageSubheading">Day </td>
+            <td class="pageSubheading">Year </td>
+          </tr>
+          <tr>
+            <td valign="top">		<select name="month">
+ 		<option value = 0 SELECTED>
+ 		<option value = 1>Jan
+ 		<option value = 2>Feb
+ 		<option value = 3>Mar
+ 		<option value = 4>Apr
+ 		<option value = 5>May
+ 		<option value = 6>Jun
+ 		<option value = 7>Jul
+ 		<option value = 8>Aug
+ 		<option value = 9>Sep
+ 		<option value = 10>Oct
+ 		<option value = 11>Nov
+ 		<option value = 12>Dec
+ 		<!-- <option value = 12>Spring
+ 		<option value = 12>Summer
+ 		<option value = 12>Fall
+ 		<option value = 12>Winter -->
+</select>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+            <td valign="top">
+		<select name="day">
+ 		<option value = 0 SELECTED>
+ 		<option value = 1>1
+ 		<option value = 2>2
+ 		<option value = 3>3
+ 		<option value = 4>4
+ 		<option value = 5>5
+ 		<option value = 6>6
+ 		<option value = 7>7
+ 		<option value = 8>8
+ 		<option value = 9>9
+ 		<option value = 10>10
+ 		<option value = 11>11
+ 		<option value = 12>12
+ 		<option value = 13>13
+ 		<option value = 14>14
+ 		<option value = 15>15
+ 		<option value = 16>16
+ 		<option value = 17>17
+ 		<option value = 18>18
+ 		<option value = 19>19
+ 		<option value = 20>20
+ 		<option value = 21>21
+ 		<option value = 22>22
+ 		<option value = 23>23
+ 		<option value = 24>24
+ 		<option value = 25>25
+ 		<option value = 26>26
+ 		<option value = 27>27
+ 		<option value = 28>28
+ 		<option value = 29>29
+ 		<option value = 30>30
+ 		<option value = 31>31
+		</select>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+            <td valign="top">
+		<INPUT NAME = "year" SIZE = 4 MAXLENGTH = 4></td>
+          </tr>
+        </table>		</tr>
+<tr>
+<td width="50%" align="left">
+<input type ="checkbox" name="make_tax_list" value=1 >
+<b class="pageSubheading">
+Name List:
+</b>
+<span class="bodySmallerText">
+One record per name.
+</span>
+</td>
+</tr>
+ 
+<tr>
+		<td width="50%" align="left">
+<span class="pageSubheading">2000 records is default maximum: Contact us for larger searches.</span><br />
+ 
+</td>
+<td>
+			<input TYPE="submit" VALUE="Submit Query">&nbsp;&nbsp;&nbsp;&nbsp;			
+			<input TYPE="reset" VALUE="Reset Form">		
+</td>	
+</tr>
+	</table>
+
+	</form>
+Please cite data retrieved from this page: Data provided by the University Herbarium, University of California, Berkeley</span>
+<hr />
+
+	
+<table width="96%" border=0>
+		<tr>
+		  
+		<td align="left">
+<form action="http://ucjeps.berkeley.edu/cgi-bin/bex_detail.pl" method="GET">
+<b class="pageSubheading">Accession Number</b>&nbsp;<INPUT NAME = "aid" SIZE = 20 MAXLENGTH = 15 >&nbsp;<input TYPE="submit" VALUE="Get single record">
+<span class="bodySmallerText">(e.g., DHN1234, etc. Wildcards not recognized)</span>
+	</form>		  </td> <th align="left"><a href="UC_bryophytes_desiderata.html">Desiderata</a></th>
+
+</tr>
+<tr><td colspan=3><a href="/suggs_dhn.html">Look at all the comments</a></td></tr>
+</table>
+
+<table width="100%">
+  <tr class=banner>
+    <td height="18"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  <tr>
+<td class="copyrightText">
+<!-- Begin Navigation -->
+<CENTER>
+<Font size=1 Face="Verdana, Arial, Helvetica">
+<a href="/bryolab/index.html">Bryolab</a> | 
+<br>
+<a href="/index.html"> University & Jepson Herbaria Home Page </a> | 
+<BR>
+<a href="/gen_info.html">General Information </a> | 
+<a href="/ucherb.html"> University Herbarium </a> | 
+<a href="/active.html"> Jepson Herbarium </a> |
+<BR>
+<a href="/Visitor_Guidelines.html"> Visiting the Herbaria </a> | 
+<a href="/online_resources.html"> On-line Resources </a> | 
+<a href="/res_teach.html"> Research </a> | 
+<BR>
+<a href="/education.html"> Education </a> | 
+<a href="/other_sites_hosted.html"> Related Sites </a>
+<br><a href="/copyright.html">Copyright &copy; </a> by the Regents of the University of California
+</Font>
+</CENTER>
+<!-- End Navigation -->
+
+</td>
+  </tr>
+</table>
+
+
+</body>
+</html>
+

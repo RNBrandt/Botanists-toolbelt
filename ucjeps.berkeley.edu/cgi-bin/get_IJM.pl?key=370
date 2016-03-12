@@ -1,0 +1,304 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Chaenactis</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Chaenactis
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1957">Chaenactis alpigena
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1958">Chaenactis artemisiifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1959">Chaenactis carphoclinia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=6935">Chaenactis carphoclinia var. carphoclinia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=6937">Chaenactis carphoclinia var. peirsonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1961">Chaenactis douglasii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=6938">Chaenactis douglasii var. alpina
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=6939">Chaenactis douglasii var. douglasii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1973">Chaenactis fremontii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1974">Chaenactis glabriuscula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=6951">Chaenactis glabriuscula var. glabriuscula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=6954">Chaenactis glabriuscula var. heterocarpha
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=6957">Chaenactis glabriuscula var. lanosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=6953">Chaenactis glabriuscula var. megacephala
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=6958">Chaenactis glabriuscula var. orcuttiana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1982">Chaenactis macrantha
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1983">Chaenactis nevadensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1985">Chaenactis parishii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1986">Chaenactis santolinoides
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1987">Chaenactis stevioides
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1991">Chaenactis suffrutescens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1993">Chaenactis xantiana
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=370'><h3>View taxon page for Chaenactis</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#FT1'">1.</a><a name="FT1."> </a> Perennial herb (biennial) or subshrub, rarely flowering 1st year; inner fruit pappus generally of 10&ndash;20 scales in 3&ndash;4 &plusmn; equal series; leaf blade gland-pitted under hairs; heads discoid (sect. <I>Macrocarphus</I>)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#FT2'">2.</a><a name="FT2."> </a> Leaves generally cauline (also basal in <I>Chaenactis douglasii</I>); heads not scapose, (1)2&ndash;25+ per stem; plants not or scarcely cespitose or matted
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FT3'">3.</a><a name="FT3."> </a> Perennial herb or biennial, rarely flowering 1st year or slightly woody; proximal hairs cobwebby to tomentose, &plusmn; gray, thinning with age; basal leaves generally persistent, largest leaf blades &plusmn; elliptic, not flat <a href="/cgi-bin/get_IJM.pl?tid=6939">.....&nbsp;C. douglasii var. douglasii</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FT3.">3'</a><a name="FT3'"> </a> Generally subshrub; proximal hairs (especially stems) &plusmn; felty, &plusmn; white, persistent; basal leaves generally 0, largest leaf blades &plusmn; deltate, &plusmn; flat
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FT4'">4.</a><a name="FT4."> </a> Longest phyllaries 10&ndash;13 mm, outer &plusmn; tomentose, not or scarcely glandular; e Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=1985">.....&nbsp;C. parishii</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FT4.">4'</a><a name="FT4'"> </a> Longest phyllaries 14&ndash;18 mm, outer generally glandular-hairy, other hairs 0 or scarce; e Klamath Ranges <a href="/cgi-bin/get_IJM.pl?tid=1991">.....&nbsp;C. suffrutescens</a> (2)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#FT2.">2'</a><a name="FT2'"> </a> Leaves &plusmn; basal; heads &plusmn; scapose, 1(3) per stem; plants cespitose to &plusmn; matted
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FT5'">5.</a><a name="FT5."> </a> Outer phyllaries silky-tomentose, nonglandular <a href="/cgi-bin/get_IJM.pl?tid=1957">.....&nbsp;C. alpigena</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FT5.">5'</a><a name="FT5'"> </a> Outer phyllaries generally glandular-hairy, often also cobwebby to woolly or shaggy-hairy
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FT6'">6.</a><a name="FT6."> </a> Largest leaf blades &plusmn; deltate to ovate, &plusmn; flat; 1&deg; lobes generally 2&ndash;4(5) pairs, tips &plusmn; flat
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FT7'">7.</a><a name="FT7."> </a> Plant 2&ndash;10(12) cm; leaves 2.5&ndash;5 cm; longest phyllaries 9&ndash;12(14) mm; corolla 5.5&ndash;8 mm; longest pappus scales 3&ndash;5 mm <a href="/cgi-bin/get_IJM.pl?tid=1983">.....&nbsp;C. nevadensis</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FT7.">7'</a><a name="FT7'"> </a> Plant (10)25&ndash;45(60) cm; leaves 5&ndash;10 cm; longest phyllaries 14&ndash;18 mm; corolla 8.5&ndash;10 mm; longest pappus scales 7&ndash;9 mm <a href="/cgi-bin/get_IJM.pl?tid=1991">.....&nbsp;C. suffrutescens</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FT6.">6'</a><a name="FT6'"> </a> Largest leaf blades &plusmn; elliptic or cylindric to &plusmn; fusiform, not flat; 1&deg; lobes (4)5&ndash;18+ pairs, tips curled and/or twisted
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FT8'">8.</a><a name="FT8."> </a> Largest leaf blades &plusmn; elliptic; 1&deg; lobes (4)5&ndash;9(12) pairs, not or scarcely overlapping <a href="/cgi-bin/get_IJM.pl?tid=6938">.....&nbsp;C. douglasii var. alpina</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FT8.">8'</a><a name="FT8'"> </a> Largest leaf blades cylindric to &plusmn; fusiform; 1&deg; lobes (7)10&ndash;18+ pairs, &plusmn; overlapping <a href="/cgi-bin/get_IJM.pl?tid=1986">.....&nbsp;C. santolinoides</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#FT1.">1'</a><a name="FT1'"> </a> Annual; inner fruit pappus 0, crown-like, or of 4(5) or (7)8 scales in 1 or 2 unequal series, outer &lt;&lt; inner; leaf blades (except <I>Chaenactis macrantha</I>) not gland-pitted; heads discoid or radiant
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#FT9'">9.</a><a name="FT9."> </a> Proximal hairs mealy, scaly, or powdery; largest leaf blades generally &plusmn; deltate, (2)3&ndash;4-pinnately lobed (sect. <I>Acarphaea</I>)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FT10'">10.</a><a name="FT10."> </a> Phyllary tips acute or scarcely acuminate, &plusmn; flat, &plusmn; green; leaf lobe tips &plusmn; flat; receptacle epaleate; fruit compressed; pappus 0 or longest scales &lt;= 0.5 mm <a href="/cgi-bin/get_IJM.pl?tid=1958">.....&nbsp;C. artemisiifolia</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FT10.">10'</a><a name="FT10'"> </a> All or inner phyllary tips long-acuminate, needle-like, &plusmn; red; leaf lobe tips &plusmn; cylindric; receptacle paleate; fruit not compressed; longest inner fruit pappus scales generally 3&ndash;5 mm <a href="/cgi-bin/get_IJM.pl?tid=1959">.....&nbsp;C. carphoclinia</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FT11'">11.</a><a name="FT11."> </a> Leaves basal and cauline, longest 1&ndash;6(7) cm; petiole slender, flexible, base scarcely enlarged <a href="/cgi-bin/get_IJM.pl?tid=6935">.....&nbsp;var. carphoclinia</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FT11.">11'</a><a name="FT11'"> </a> Leaves generally basal, longest 7&ndash;10 cm; petiole thick, stiff, base strongly enlarged <a href="/cgi-bin/get_IJM.pl?tid=6937">.....&nbsp;var. peirsonii</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#FT9.">9'</a><a name="FT9'"> </a> Proximal hairs cobwebby to woolly or 0; largest leaf blades linear, entire, or &plusmn; elliptic (to ovate), 1&ndash;2-pinnately lobed (sect. <I>Chaenactis</I>)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FT12'">12.</a><a name="FT12."> </a> Corolla white to &plusmn; pink or rarely pale yellow; generally in or near Great Basin Floristic Province, D
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FT13'">13.</a><a name="FT13."> </a> Heads radiant; peduncle distally generally glandular-hairy, or &plusmn; glabrous in fruit; outer corollas bilateral, spreading, > inner; inner fruit pappus generally of 4 scales in 1 series
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FT14'">14.</a><a name="FT14."> </a> Longest pappus 6&ndash;8.5 mm, exceeding corolla, tips visible among buds; proximal hairs 0 by flowering time; largest leaf blades entire or 1-pinnately lobed, lobes generally 1&ndash;2(5) pairs; outer phyllaries &plusmn; glabrous in fruit, tip acute <a href="/cgi-bin/get_IJM.pl?tid=1973">.....&nbsp;C. fremontii</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FT14.">14'</a><a name="FT14'"> </a> Longest pappus 1.5&ndash;6 mm, not exceeding corolla, tips hidden; proximal hairs persisting at least at nodes by flowering time; largest leaf blades generally 1&ndash;2-pinnately lobed, 1&deg; lobes 4&ndash;8 pairs; outer phyllaries glandular-hairy and/or &plusmn; cobwebby in fruit, tip &plusmn; obtuse <a href="/cgi-bin/get_IJM.pl?tid=1987">.....&nbsp;C. stevioides</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FT13.">13'</a><a name="FT13'"> </a> Heads discoid; peduncle nonglandular; outer corollas radial, spreading or not, &plusmn; = inner; pappus of (6)8 scales in 2 unequal series, outer &lt;&lt; inner
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FT15'">15.</a><a name="FT15."> </a> Corolla open at night, anthers &plusmn; included; inner corollas 9&ndash;12(15) mm, 1.8&ndash;2.2 &times; fruit; leaf blades &plusmn; gland-pitted under hairs <a href="/cgi-bin/get_IJM.pl?tid=1982">.....&nbsp;C. macrantha</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FT15.">15'</a><a name="FT15'"> </a> Corolla open during day, anthers exserted; inner corolla 4&ndash;10 mm, &plusmn; = fruit; leaf blades not gland-pitted
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FT16'">16.</a><a name="FT16."> </a> Longest phyllaries 10&ndash;18 mm, outer nonglandular, glabrous proximally, densely puberulent distally, tip generally recurved, flexible; pappus scales 8 <a href="/cgi-bin/get_IJM.pl?tid=1993">.....&nbsp;C. xantiana</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FT16.">16'</a><a name="FT16'"> </a> Longest phyllaries 4.5&ndash;10(12) mm, outer generally glandular-hairy, hairs otherwise various, uniform, tip erect, stiff; pappus scales generally &lt; 8 (hybrids; see genus note)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FT12.">12'</a><a name="FT12'"> </a> Corolla bright to dark yellow; generally California Floristic Province <a href="/cgi-bin/get_IJM.pl?tid=1974">.....&nbsp;C. glabriuscula</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FT17'">17.</a><a name="FT17."> </a> Inner fruit pappus generally of 7&ndash;8 scales in 2 series, outer &lt;&lt; inner <a href="/cgi-bin/get_IJM.pl?tid=6954">.....&nbsp;var. heterocarpha</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FT17.">17'</a><a name="FT17'"> </a> Inner fruit pappus generally of 4 scales in 1 series
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FT18'">18.</a><a name="FT18."> </a> Proximal hairs tomentose to woolly, &plusmn; white; leaves &plusmn; basal, persistent <a href="/cgi-bin/get_IJM.pl?tid=6957">.....&nbsp;var. lanosa</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FT18.">18'</a><a name="FT18'"> </a> Proximal hairs 0 or &plusmn; cobwebby, &plusmn; gray; leaves basal (withering) and cauline
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FT19'">19.</a><a name="FT19."> </a> Largest leaf blades generally 2-pinnately lobed, fleshy; stem &plusmn; spreading; South Coast, coastal dunes, bluffs <a href="/cgi-bin/get_IJM.pl?tid=6958">.....&nbsp;var. orcuttiana</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FT19.">19'</a><a name="FT19'"> </a> Largest leaf blades 1(2)-pinnately lobed, scarcely fleshy; stem erect to ascending; inland from coast
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#FT20'">20.</a><a name="FT20."> </a> Longest phyllaries 5&ndash;7 mm, 1&ndash;2 mm wide, outer &plusmn; silky-cobwebby at least medially in fruit, often also &plusmn; glandular-hairy; longest pappus 2&ndash;4 mm, 0.4&ndash;0.7 &times; corolla <a href="/cgi-bin/get_IJM.pl?tid=6951">.....&nbsp;var. glabriuscula</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#FT20.">20'</a><a name="FT20'"> </a> Longest phyllaries 7&ndash;9 mm, 2&ndash;3 mm wide, outer becoming glabrous in fruit; longest pappus generally 5&ndash;8 mm, &plusmn; 0.9(1) &times; corolla <a href="/cgi-bin/get_IJM.pl?tid=6953">.....&nbsp;var. megacephala</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

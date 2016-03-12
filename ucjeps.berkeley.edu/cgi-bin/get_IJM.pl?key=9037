@@ -1,0 +1,272 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Botrychium</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Botrychium
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15910">Botrychium ascendens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15913">Botrychium crenulatum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15924">Botrychium lineare
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15925">Botrychium lunaria
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15929">Botrychium minganense
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15930">Botrychium montanum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15939">Botrychium paradoxum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15941">Botrychium pinnatum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15943">Botrychium pumicola
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15946">Botrychium simplex
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55231">Botrychium simplex var. compositum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55233">Botrychium simplex var. simplex
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91732">Botrychium tunux
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91733">Botrychium yaaxudakeit
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=9037'><h3>View taxon page for Botrychium</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AO1'">1.</a><a name="AO1."> </a> Leaf divided into 2 nearly identical sporophores and no trophophore <a href="/cgi-bin/get_IJM.pl?tid=15939">.....&nbsp;B. paradoxum</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AO1.">1'</a><a name="AO1'"> </a> Leaf divided into trophophore and sporophore (latter occasionally aborted)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AO2'">2.</a><a name="AO2."> </a> Trophophore ternate, appearing to be divided into 3 &plusmn; equal segments due to great enlargement and dissection of basal pinna pair
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AO3'">3.</a><a name="AO3."> </a> Trophophore sessile or nearly so, stalk of sporophore 0.3&ndash;0.7 &times; trophophore <a href="/cgi-bin/get_IJM.pl?tid=15943">.....&nbsp;B. pumicola</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AO3.">3'</a><a name="AO3'"> </a> Trophophore clearly stalked, sporophore stalk generally >= trophophore <a href="/cgi-bin/get_IJM.pl?tid=15946">.....&nbsp;B. simplex</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AO4'">4.</a><a name="AO4."> </a> Middle pinnae narrowly attached to rachis, slightly or not decurrent; plants yellow-green; generally in seasonally moist meadows <a href="/cgi-bin/get_IJM.pl?tid=55231">.....&nbsp;var. compositum</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AO4.">4'</a><a name="AO4'"> </a> Middle pinnae broadly attached to rachis, strongly decurrent; plants blue-green; generally in hard-water-saturated substrate <a href="/cgi-bin/get_IJM.pl?tid=55233">.....&nbsp;var. simplex</a> (2)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AO2.">2'</a><a name="AO2'"> </a> Trophophore pinnate; basal pinnae not disproportionately enlarged
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AO5'">5.</a><a name="AO5."> </a> Basal pinna pair pinnately dissected, midribbed; pinnae ovate to elliptic, broadest near base or middle <a href="/cgi-bin/get_IJM.pl?tid=15941">.....&nbsp;B. pinnatum</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AO5.">5'</a><a name="AO5'"> </a> Basal pinna pair entire or palmately dissected, fan-shaped, broadest at outer margin
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AO6'">6.</a><a name="AO6."> </a> Trophophore and sporophore joined well below mid-leaf, generally at ground level <a href="/cgi-bin/get_IJM.pl?tid=15946">.....&nbsp;B. simplex</a> or B. pumicola (small or shade pls, see couplet 3 to separate the species)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AO6.">6'</a><a name="AO6'"> </a> Trophophore and sporophore joined generally near or distal to mid-leaf
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AO7'">7.</a><a name="AO7."> </a> Side margins of simple pinnae &plusmn; parallel or, if cleft into segments, side margins of segments &plusmn; parallel
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AO8'">8.</a><a name="AO8."> </a> Trophophore &plusmn; sessile; sporophore stalk very short, pinnae elongate, longer than wide, not decurrent to rachis <a href="/cgi-bin/get_IJM.pl?tid=15924">.....&nbsp;B. lineare</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AO8.">8'</a><a name="AO8'"> </a> Trophophore and sporophore stalk long, pinnae rhomboid, as long as wide, strongly decurrent <a href="/cgi-bin/get_IJM.pl?tid=15930">.....&nbsp;B. montanum</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AO7.">7'</a><a name="AO7'"> </a> Side margins of simple pinnae converging at > 30&deg;, or, if cleft into segments, segments wedge-shaped
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AO9'">9.</a><a name="AO9."> </a> Side margins of basal pinnae converging at (90)150&ndash;180&deg;; pinnae touching to overlapping, especially toward tip
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AO10'">10.</a><a name="AO10."> </a> Middle pinnae spreading, &plusmn; perpendicular to rachis; pinna texture delicate, outer margins generally finely crenate to dentate; basal sporophore branches often downturned, occurring in or near saturated substrate <a href="/cgi-bin/get_IJM.pl?tid=15913">.....&nbsp;B. crenulatum</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AO10.">10'</a><a name="AO10'"> </a> Middle pinnae ascending; pinna texture firm, outer margins entire to wavy to coarsely toothed; basal sporophore branches generally not downturned
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AO11'">11.</a><a name="AO11."> </a> Spores 33&ndash;39 &micro;m in longest diam <a href="/cgi-bin/get_IJM.pl?tid=15925">.....&nbsp;B. lunaria</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AO11.">11'</a><a name="AO11'"> </a> Spores 46&ndash;57 &micro;m in longest diam <a href="/cgi-bin/get_IJM.pl?tid=91733">.....&nbsp;B. yaaxudakeit</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AO9.">9'</a><a name="AO9'"> </a> Side margins of basal pinnae converging at 30&ndash;120(160)&deg;; pinnae generally well-spaced to touching
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AO12'">12.</a><a name="AO12."> </a> Pinnae spreading, &plusmn; perpendicular to rachis; fertile portion of sporophore triangular to deltate; basal sporophore branches often downturned
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AO13'">13.</a><a name="AO13."> </a> Pinnae fan-shaped, texture delicate, deep green, outer margins generally finely crenate to dentate; occurring in or near saturated substrate <a href="/cgi-bin/get_IJM.pl?tid=15913">.....&nbsp;B. crenulatum</a> (2) (sun plants)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AO13.">13'</a><a name="AO13'"> </a> Pinnae oblong or rounded without a sharp angle between side and outer margin, texture thick, yellow-green, outer margins entire or shallowly cleft; occurring in well-drained sites <a href="/cgi-bin/get_IJM.pl?tid=91732">.....&nbsp;B. tunux</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AO12.">12'</a><a name="AO12'"> </a> Pinnae ascending; fertile portion of sporophore oblong to deltate; basal sporophore branches not downturned
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AO14'">14.</a><a name="AO14."> </a> Pinnae entire to symmetrically cleft into 2&ndash;4 segments, outer margins dentate; sporophore branches short, stiffly erect <a href="/cgi-bin/get_IJM.pl?tid=15910">.....&nbsp;B. ascendens</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AO14.">14'</a><a name="AO14'"> </a> Pinnae entire to irregularly cleft or shallowly lobed, outer margins entire to coarsely toothed or lobed; sporophore branches long, spreading <a href="/cgi-bin/get_IJM.pl?tid=15929">.....&nbsp;B. minganense</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

@@ -1,0 +1,380 @@
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora: Clarkia speciosa</title> 
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+<link href="common/css/jepson_eflora.css" rel="stylesheet" type="text/css" />
+
+<!--jquery script files-->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+
+<!-- google maps files and scripts -->
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript"> 
+function initialize() {
+  var myOptions = {
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  }
+
+  var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+
+	var TaxID = 19599;
+
+  var kmlLayer = new google.maps.KmlLayer("http://ucjeps.berkeley.edu/jepcodes-v7.kmz", { suppressInfoWindows: true });
+  kmlLayer.setMap(map);
+  var pmlLayer = new google.maps.KmlLayer("http://herbaria4.herb.berkeley.edu/interchange/coords/"+TaxID+".kml", { });
+  pmlLayer.setMap(map);
+
+}
+
+function JumpToIt(list) {
+    var newPage = list.options[list.selectedIndex].value
+    if (newPage != "None") {
+        location=newPage
+    }
+}
+</script>
+
+<style type="text/css" media="screen">
+    #map_canvas {
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+      float: left;
+      width: 467px;
+      height: 445px;
+      padding: 10px;
+    }
+</style>
+
+<!-- Google analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- jquery functions -->
+<script>
+//jquery ui functions that make the hidden higher taxonomy descriptions appear
+$(document).ready(function(){
+    $("#familylink").click(function(){
+        $("#familydesc").slideToggle(500);
+    });
+    $("#genuslink").click(function(){
+        $("#genusdesc").slideToggle(500);
+    });
+    $("#specieslink").click(function(){
+        $("#speciesdesc").slideToggle(500);
+    });
+});
+
+$(document).ready(function(){
+//jquery functions that grab the column widths from the hidden table
+//so they can be applied as a standard to the higher taxonomy table, which is made up of three separate tables
+	var width1 = $("#check1").width() + 1; // width() function turns out to be one pixel too small, so add 1
+	var width2 = $("#check2").width() + 1;
+	var width3 = $("#check3").width() + 1;
+	$(".column1").attr("width", width1);
+	$(".column2").attr("width", width2);
+	$(".column3").attr("width", width3);
+});
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>
+<!-- End banner -->
+
+<!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+            	<li><a href="http://ucjeps.berkeley.edu/images/">UC/JEPS Image Collection</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+<table border="0">
+	<tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td><span class="pageName"><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora:</a> Taxon page</span>
+		<br>
+			<span class="pageAuthorLine">
+				<a href="http://ucjeps.berkeley.edu/IJM_fam_key.html">Key to families</a>
+				|
+				<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+			</span>	  
+		</td>
+
+	</tr>
+</table>
+
+<table align="center" width="100%"><tr><td>
+<a href="eflora_display.php?tid=19598"><IMG SRC="http://ucjeps.berkeley.edu/icons/left.gif" BORDER=2 ALT="Previous taxon"></a></td>
+<td width=90%">
+<!--eFlora index-->
+<span class="pageAuthorLine">Index to accepted names and synonyms:</span><br>
+| 	<a href="eflora_index.php?index=A">A</a> | 
+	<a href="eflora_index.php?index=B">B</a> | 
+	<a href="eflora_index.php?index=C">C</a> | 
+	<a href="eflora_index.php?index=D">D</a> | 
+	<a href="eflora_index.php?index=E">E</a> | 
+	<a href="eflora_index.php?index=F">F</a> | 
+	<a href="eflora_index.php?index=G">G</a> | 
+	<a href="eflora_index.php?index=H">H</a> | 
+	<a href="eflora_index.php?index=I">I</a> | 
+	<a href="eflora_index.php?index=J">J</a> | 
+	<a href="eflora_index.php?index=K">K</a> | 
+	<a href="eflora_index.php?index=L">L</a> | 
+	<a href="eflora_index.php?index=M">M</a> | 
+	<a href="eflora_index.php?index=N">N</a> | 
+	<a href="eflora_index.php?index=O">O</a> | 
+	<a href="eflora_index.php?index=P">P</a> | 
+	<a href="eflora_index.php?index=Q">Q</a> | 
+	<a href="eflora_index.php?index=R">R</a> | 
+	<a href="eflora_index.php?index=S">S</a> | 
+	<a href="eflora_index.php?index=T">T</a> | 
+	<a href="eflora_index.php?index=U">U</a> | 
+	<a href="eflora_index.php?index=V">V</a> | 
+	<a href="eflora_index.php?index=W">W</a> | 
+	<a href="eflora_index.php?index=X">X</a> | 
+	<a href="eflora_index.php?index=Y">Y</a> | 
+	<a href="eflora_index.php?index=Z">Z</a> |
+<!--end eFlora index-->
+<hr width="10%">
+</td>
+<td align="right">
+<a href="eflora_display.php?tid=49910"><IMG SRC="http://ucjeps.berkeley.edu/icons/right.gif" BORDER=2 ALT="Next taxon"></a></td></tr>
+</table>
+
+<center><span align ='center' class='pageLargeHeading'>Clarkia speciosa</span></center>
+<center><span align ='center' class='pageMajorHeading'></span></center>
+<br>
+
+
+<!-- this hidden table provides the column width values (check1 through check3) which are used to assign consistent widths to the actual higher taxonomy tables-->
+<div class="hidden">
+	<table class='taxonomy_table'>
+	<tr><td id='check1'><b>Family: Onagraceae</b></td><td id='check2'><a href="#">View Description</a></b></td><td id='check3'><a href='#'>Dichotomous Key</a></td></tr>
+	<tr><td><b>Genus: Clarkia</b></td><td><a href="#">View Description</a></b></td><td><a href='#'>Dichotomous Key</a></td></tr>
+	<tr><td><b>Species: </b></td><td><a href="#">View Description</a></b></td><td><a href='#'>Dichotomous Key</a></td></tr>
+	</table>
+</div>
+
+
+	
+<table width=100%><tr><td width=100%><div class='pageMajorHeading'><b>Higher Taxonomy</b><br></div><table class='taxonomy_table'><tr><td class='column1'><b>Family: Onagraceae</b></td><td class='column2'><a id='familylink'>View Description</a></b></td><td class='column3'><a href='http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=208'>Dichotomous Key</a></td></tr></table><div id="familydesc" class="initiallyHidden"><blockquote class='bodyText'><br><b>Common Name:</b> EVENING-PRIMROSE FAMILY<br><b>Habit:</b> Annual to perennial herb (to tree). <b>Leaf:</b> cauline or basal, alternate, opposite, or whorled, generally simple and toothed (to pinnately compound); stipules 0 or generally deciduous. <b>Inflorescence:</b> spike, raceme, panicle, or flowers 1 in axils; bracted. <b>Flower:</b> generally bisexual, generally radial, often opening at either dawn or dusk; hypanthium generally prolonged beyond ovary (measured from ovary tip to sepal base); sepals 4(2--7); petals 4(2--7, rarely 0), often fading darker; stamens 2 &times; or = sepals in number, anthers 2-chambered, opening lengthwise, pollen interconnected by threads; ovary inferior, chambers generally as many as sepals (sometimes becoming 1), placentas axile or parietal, ovules 1--many per chamber, style 1, stigma 4-lobed (or lobes as many as sepals), club-shaped, spheric, or hemispheric. <b>Fruit:</b> capsule, loculicidal (sometimes berry or indehiscent and nut-like). <b>Seed:</b> sometimes winged or hair-tufted. <br><b>Genera In Family:</b> 22 genera, +- 657 species: worldwide, especially western North America; many cultivated (<i>Clarkia</i>, <i>Epilobium</i>, <i>Fuchsia</i>, <i>Oenothera</i>). <b>Note:</b> <i>Gaura</i> moved to <i>Oenothera</i>. <i>Fuchsia magellanica</i> Lam. naturalized in northern California. <br><b>eFlora Treatment Author:</b> Warren L. Wagner & Peter C. Hoch, family description, key to genera; treatment of genera by Warren L. Wagner, except as noted<br><b>Scientific Editor:</b> Robert Patterson, Bruce G. Baldwin.<br></blockquote></div><table class='taxonomy_table'><tr><td class='column1'><b>Genus: Clarkia</b></td><td class='column2'><a id='genuslink'>View Description</a></b></td><td class='column3'><a href='http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9760'>Dichotomous Key</a></td></tr></table><div id="genusdesc" class="initiallyHidden"><blockquote class='bodyText'><br><b>Habit:</b> Annual < 1.5 m. <b>Stem:</b> prostrate to erect, glabrous, often glaucous, or puberulent (hairs long, spreading). <b>Leaf:</b> pinnately veined; petiole < 4 cm or 0; blade 1--10 cm, linear to elliptic or ovate, entire or shallow-toothed, glabrous or sparsely puberulent. <b>Inflorescence:</b> spike, raceme; bracts leaf-like; axis in bud straight or recurved at tip, in flower +- straight; buds erect or not. <b>Flower:</b> hypanthium obconic to cup-shaped, or long, slender, generally with ring of hairs within; sepals 4, generally fused to tip in bud, reflexed at least at base, staying fused at least at tip, in 4s or 2s, or all coming free; corolla bowl-shaped to rotate, petals 5--60 mm, often lobed or clawed, lavender or pink to dark red, pale yellow, or white, often spotted, flecked, or streaked with red, purple, or white; stamens 8, in 2 like or unlike series, or 4, filaments cylindric to wider distally, subtended by ciliate scales or generally not, anthers attached at base, pollen white or yellow to blue-gray, lavender, or +- red; ovary 4-chambered, glabrous or not, cylindric, fusiform, or wider distally, generally shallowly to deeply 4- or 8-grooved, stigma lobes 4, generally prominent. <b>Fruit:</b> generally capsule, elongate (short, indehiscent, nut-like). <b>Seed:</b> generally many, rarely 1--2, 0.5--2 mm, angled, crested or not, brown, gray, or mottled. <br><b>Species In Genus:</b> +- 41 species: western North America, 1 South America. <b>Etymology:</b> (Captain William Clark, 1770--1838, of Lewis & Clark Expedition) <b>Note:</b> Self-fertile; self-pollinated or outcrossed; on herbarium specimens, curvature of inflorescence axis in bud generally reliable, pollen color generally not. <br><b>eFlora Treatment Author:</b> Harlan Lewis<br></div><br></table></tr></td><table width="100%"><tr><td width="100%" valign="top"><div class='pageMajorHeading'><b><i>Clarkia speciosa</i> H. Lewis & M. Lewis</b><br></div><div class='bodyText'><b>NATIVE</b><br><b>Stem:</b> < 6 dm, puberulent. <b>Leaf:</b> petiole 0--5 mm; blade 1--6 cm. <b>Inflorescence:</b> axis in bud straight; buds erect. <b>Flower:</b> hypanthium 5--15 mm; sepals generally all coming free; corolla bowl-shaped, petals 1--2.5 cm, fan-shaped, lavender to deep wine-red often shading to white or pale yellow at base; stamens 8, anthers alike; ovary 8-grooved, stigma exserted beyond anthers. <b>Chromosomes:</b> n=9.<br><b>Note:</b> Subspecies intergrade. <br><b>eFlora Treatment Author:</b> Harlan Lewis<br><a href="http://ucjeps.berkeley.edu/cgi-bin/get_cpn.pl?19599"><b>Jepson Online Interchange</b></a><br><P><FORM><SELECT WIDTH=20 onChange="JumpToIt(this)"><OPTION VALUE="None">List of species <OPTION VALUE="eflora_display.php?tid=19563">Clarkia affinis <OPTION VALUE="eflora_display.php?tid=19564">Clarkia amoena <OPTION VALUE="eflora_display.php?tid=49885">Clarkia amoena subsp. amoena <OPTION VALUE="eflora_display.php?tid=49887">Clarkia amoena subsp. huntiana <OPTION VALUE="eflora_display.php?tid=49889">Clarkia amoena subsp. whitneyi <OPTION VALUE="eflora_display.php?tid=19565">Clarkia arcuata <OPTION VALUE="eflora_display.php?tid=19566">Clarkia australis <OPTION VALUE="eflora_display.php?tid=19567">Clarkia biloba <OPTION VALUE="eflora_display.php?tid=49890">Clarkia biloba subsp. australis <OPTION VALUE="eflora_display.php?tid=49891">Clarkia biloba subsp. biloba <OPTION VALUE="eflora_display.php?tid=49892">Clarkia biloba subsp. brandegeeae <OPTION VALUE="eflora_display.php?tid=19568">Clarkia borealis <OPTION VALUE="eflora_display.php?tid=49893">Clarkia borealis subsp. arida <OPTION VALUE="eflora_display.php?tid=49894">Clarkia borealis subsp. borealis <OPTION VALUE="eflora_display.php?tid=19569">Clarkia bottae <OPTION VALUE="eflora_display.php?tid=19571">Clarkia breweri <OPTION VALUE="eflora_display.php?tid=19572">Clarkia concinna <OPTION VALUE="eflora_display.php?tid=49895">Clarkia concinna subsp. automixa <OPTION VALUE="eflora_display.php?tid=49896">Clarkia concinna subsp. concinna <OPTION VALUE="eflora_display.php?tid=49897">Clarkia concinna subsp. raichei <OPTION VALUE="eflora_display.php?tid=19573">Clarkia cylindrica <OPTION VALUE="eflora_display.php?tid=49898">Clarkia cylindrica subsp. clavicarpa <OPTION VALUE="eflora_display.php?tid=49899">Clarkia cylindrica subsp. cylindrica <OPTION VALUE="eflora_display.php?tid=19574">Clarkia davyi <OPTION VALUE="eflora_display.php?tid=19575">Clarkia delicata <OPTION VALUE="eflora_display.php?tid=19576">Clarkia dudleyana <OPTION VALUE="eflora_display.php?tid=19577">Clarkia epilobioides <OPTION VALUE="eflora_display.php?tid=19578">Clarkia exilis <OPTION VALUE="eflora_display.php?tid=19579">Clarkia franciscana <OPTION VALUE="eflora_display.php?tid=19580">Clarkia gracilis <OPTION VALUE="eflora_display.php?tid=49900">Clarkia gracilis subsp. albicaulis <OPTION VALUE="eflora_display.php?tid=49901">Clarkia gracilis subsp. gracilis <OPTION VALUE="eflora_display.php?tid=49902">Clarkia gracilis subsp. sonomensis <OPTION VALUE="eflora_display.php?tid=49903">Clarkia gracilis subsp. tracyi <OPTION VALUE="eflora_display.php?tid=19581">Clarkia heterandra <OPTION VALUE="eflora_display.php?tid=19582">Clarkia imbricata <OPTION VALUE="eflora_display.php?tid=19583">Clarkia jolonensis <OPTION VALUE="eflora_display.php?tid=19584">Clarkia lassenensis <OPTION VALUE="eflora_display.php?tid=19585">Clarkia lewisii <OPTION VALUE="eflora_display.php?tid=19586">Clarkia lingulata <OPTION VALUE="eflora_display.php?tid=19587">Clarkia mildrediae <OPTION VALUE="eflora_display.php?tid=77421">Clarkia mildrediae subsp. lutescens <OPTION VALUE="eflora_display.php?tid=77422">Clarkia mildrediae subsp. mildrediae <OPTION VALUE="eflora_display.php?tid=19588">Clarkia modesta <OPTION VALUE="eflora_display.php?tid=19589">Clarkia mosquinii <OPTION VALUE="eflora_display.php?tid=19590">Clarkia prostrata <OPTION VALUE="eflora_display.php?tid=19592">Clarkia purpurea <OPTION VALUE="eflora_display.php?tid=49906">Clarkia purpurea subsp. purpurea <OPTION VALUE="eflora_display.php?tid=49907">Clarkia purpurea subsp. quadrivulnera <OPTION VALUE="eflora_display.php?tid=49908">Clarkia purpurea subsp. viminea <OPTION VALUE="eflora_display.php?tid=19595">Clarkia rhomboidea <OPTION VALUE="eflora_display.php?tid=19596">Clarkia rostrata <OPTION VALUE="eflora_display.php?tid=19597">Clarkia rubicunda <OPTION VALUE="eflora_display.php?tid=19598">Clarkia similis <OPTION VALUE="eflora_display.php?tid=19599">Clarkia speciosa <OPTION VALUE="eflora_display.php?tid=49910">Clarkia speciosa subsp. immaculata <OPTION VALUE="eflora_display.php?tid=49911">Clarkia speciosa subsp. nitens <OPTION VALUE="eflora_display.php?tid=49912">Clarkia speciosa subsp. polyantha <OPTION VALUE="eflora_display.php?tid=49913">Clarkia speciosa subsp. speciosa <OPTION VALUE="eflora_display.php?tid=19601">Clarkia springvillensis <OPTION VALUE="eflora_display.php?tid=19602">Clarkia stellata <OPTION VALUE="eflora_display.php?tid=19603">Clarkia tembloriensis <OPTION VALUE="eflora_display.php?tid=49914">Clarkia tembloriensis subsp. calientensis <OPTION VALUE="eflora_display.php?tid=49915">Clarkia tembloriensis subsp. tembloriensis <OPTION VALUE="eflora_display.php?tid=19605">Clarkia unguiculata <OPTION VALUE="eflora_display.php?tid=19607">Clarkia virgata <OPTION VALUE="eflora_display.php?tid=19608">Clarkia williamsonii <OPTION VALUE="eflora_display.php?tid=19609">Clarkia xantiana <OPTION VALUE="eflora_display.php?tid=49916">Clarkia xantiana subsp. parviflora <OPTION VALUE="eflora_display.php?tid=49917">Clarkia xantiana subsp. xantiana</SELECT></FORM><a href="eflora_display.php?tid=19598">Previous taxon: Clarkia similis</a><br><a href="eflora_display.php?tid=49910">Next taxon: Clarkia speciosa subsp. immaculata</a><br>
+<br>
+<form action="search_eflora.php" method="POST">
+<b>Name Search </b>		<input type="text" id="query_text" name="query"></input>
+		<input type="submit" value="Submit Name" />
+</form>
+
+</td></tr>
+</table>
+
+
+
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+
+
+<P>
+<a href="&#109;&#97;&#105;&#108;to:interchange&#064;lists.berkeley.edu?subject=new eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+
+
+
+<P class=bodyText>
+Citation for this treatment: Harlan Lewis 2016. <i>Clarkia speciosa</i>, in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19599, accessed on March 11, 2016.
+</P>
+<P class=bodyText>Citation for the whole project: Jepson Flora Project (eds.) 2016. <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html, accessed on March 11, 2016.</P>
+
+
+
+
+<hr width=80%> 
+
+<table><tr><td width='200px'><i>Clarkia speciosa subsp. immaculata</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+0415+2333"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/0415/2333.jpeg alt="click for enlargement"></img></a><br>&copy; 2015 Aaron Schusteff<br></td><td width='200px'><i>Clarkia speciosa subsp. polyantha</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+1014+2674"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/1014/2674.jpeg alt="click for enlargement"></img></a><br>&copy; 2014 Neal Kramer<br></td><td width='200px'><i>Clarkia speciosa subsp. immaculata</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+0415+2336"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/0415/2336.jpeg alt="click for enlargement"></img></a><br>&copy; 2015 Aaron Schusteff<br></td><td width='200px'><i>Clarkia speciosa subsp. polyantha</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+0214+0604"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/0214/0604.jpeg alt="click for enlargement"></img></a><br>&copy; 2014 Neal Kramer<br></td><td width='200px'><i>Clarkia speciosa subsp. polyantha</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+1014+2675"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/1014/2675.jpeg alt="click for enlargement"></img></a><br>&copy; 2014 Neal Kramer<br></td><td width='200px'><i>Clarkia speciosa subsp. polyantha</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+0111+0654"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/0111/0654.jpeg alt="click for enlargement"></img></a><br>&copy; 2011 Aaron Schusteff<br></td></tr></table><p><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&where-genre=Plant&where-taxon=Clarkia speciosa&title_tag=Clarkia speciosa">More photos of <i>Clarkia speciosa</i> in CalPhotos</a></p><hr width=80%>
+
+
+<!--distribution panes-->
+<table border=0>
+<tr><td valign='bottom'>Geographic subdivisions for Clarkia speciosa:
+<br></td>
+<td>Markers link to CCH specimen records. If the markers are obscured, reload the page [or change window size and reload]. Yellow markers indicate records that may provide evidence for eFlora range revision or may have georeferencing or identification issues.
+<br><b><a href="http://ucjeps.berkeley.edu/consortium/about_yellow.html">READ ABOUT YELLOW FLAGS</a></b>
+</td></tr>
+<tr>
+<td valign="top">
+<img src="http://ucjeps.berkeley.edu/cgi-bin/new_jmap.pl?" border="0" alt="map of distribution 1"></td>
+<td>
+	<div id="map_canvas"></div>
+</td>
+</tr>
+
+<tr><td valign="top">
+(Note: any qualifiers in the taxon distribution description, such as 'northern', 'southern', 'adjacent' etc., are not reflected in the map above, and in some cases indication of a taxon in a subdivision is based on a single collection or author-verified occurence).
+<br><br>
+<a href="http://ucjeps.berkeley.edu/cgi-bin/map_cch_elev.pl?taxon_name=Clarkia speciosa&t=&g=">View elevation by latitude chart</a></td>
+<td valign="top">Data provided by the participants of the Consortium of California Herbaria.
+<br>
+<a href="http://ucjeps.berkeley.edu/cgi-bin/get_consort.pl?taxon_name=Clarkia speciosa">View all CCH records</a><br><br>
+CCH collections by month<br> 
+<img border=1 src="http://ucjeps.berkeley.edu/cgi-bin/hb2.pl?name=Clarkia speciosa&FT="><br>Duplicates counted once; synonyms included.
+<br>Species do not include records of infraspecific taxa.
+<br>Blue line denotes eFlora flowering time.
+</td></tr>
+</table>
+
+<!--Begin footer-->
+<table width="100%" id="footer">
+  <tr>
+    <td height="18" class="banner"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  <tr>
+    <td height="20"><span class="copyrightText"><a href="http://ucjeps.berkeley.edu/main/copyright.html"> Copyright</a> &copy; 2016  Regents of the University of California
+<br>We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.</span></td>
+  </tr>
+</table>
+<!--End footer-->

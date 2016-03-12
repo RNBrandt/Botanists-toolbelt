@@ -1,0 +1,442 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Chorizanthe</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Chorizanthe
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19325">Chorizanthe angustifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19326">Chorizanthe biloba
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56478">Chorizanthe biloba var. biloba
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56479">Chorizanthe biloba var. immemora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19327">Chorizanthe blakleyi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19328">Chorizanthe brevicornu
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56480">Chorizanthe brevicornu var. brevicornu
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56481">Chorizanthe brevicornu var. spathulata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19330">Chorizanthe breweri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19331">Chorizanthe clevelandii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19332">Chorizanthe corrugata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19333">Chorizanthe cuspidata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56484">Chorizanthe cuspidata var. cuspidata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56486">Chorizanthe cuspidata var. villosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19335">Chorizanthe diffusa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19337">Chorizanthe douglasii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19338">Chorizanthe fimbriata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56489">Chorizanthe fimbriata var. fimbriata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56490">Chorizanthe fimbriata var. laciniata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19340">Chorizanthe howellii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19341">Chorizanthe leptotheca
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19342">Chorizanthe membranacea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=99777">Chorizanthe minutiflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19343">Chorizanthe obovata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19344">Chorizanthe orcuttiana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19345">Chorizanthe palmeri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19346">Chorizanthe parryi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56493">Chorizanthe parryi var. fernandina
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56494">Chorizanthe parryi var. parryi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19348">Chorizanthe polygonoides
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56496">Chorizanthe polygonoides var. longispina
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56497">Chorizanthe polygonoides var. polygonoides
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19349">Chorizanthe procumbens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19352">Chorizanthe pungens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56500">Chorizanthe pungens var. hartwegiana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56501">Chorizanthe pungens var. pungens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19353">Chorizanthe rectispina
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19354">Chorizanthe rigida
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19355">Chorizanthe robusta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56503">Chorizanthe robusta var. hartwegii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56504">Chorizanthe robusta var. robusta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19356">Chorizanthe spinosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19357">Chorizanthe staticoides
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19360">Chorizanthe stellulata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19361">Chorizanthe uniaristata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19362">Chorizanthe valida
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19363">Chorizanthe ventricosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19364">Chorizanthe watsonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19365">Chorizanthe wheeleri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19366">Chorizanthe xanti
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56509">Chorizanthe xanti var. leucotheca
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=56510">Chorizanthe xanti var. xanti
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=11204'><h3>View taxon page for Chorizanthe</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#ABG1'">1.</a><a name="ABG1."> </a> Involucre 3&ndash;5-toothed or -ribbed
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#ABG2'">2.</a><a name="ABG2."> </a> Involucre teeth (4)5
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ABG3'">3.</a><a name="ABG3."> </a> Involucre awns straight; flower glabrous; stamens fused to perianth tube base &mdash; s Inner South Coast Ranges (Caliente Range), w Mojave Desert <a href="/cgi-bin/get_IJM.pl?tid=19356">.....&nbsp;C. spinosa</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ABG3.">3'</a><a name="ABG3'"> </a> Involucre awns hooked; flower hairy; stamens fused to perianth tube top
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ABG4'">4.</a><a name="ABG4."> </a> Involucre bell-shaped, tube 2&ndash;2.5 mm, abaxial tooth not longer, not wider than others; flower white to rose, 1.5&ndash;1.8(2) mm; c&n California <a href="/cgi-bin/get_IJM.pl?tid=56497">.....&nbsp;C. polygonoides var. polygonoides</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ABG4.">4'</a><a name="ABG4'"> </a> Involucre cylindric, tube 3&ndash;4.5 mm, abaxial tooth longer, wider than others; flower yellow, 1.5&ndash;2.5 mm; sw San Joaquin Valley, n edge Transverse Ranges, Great Basin Floristic Province, w Mojave Desert <a href="/cgi-bin/get_IJM.pl?tid=19364">.....&nbsp;C. watsonii</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#ABG2.">2'</a><a name="ABG2'"> </a> Involucre teeth 3
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ABG5'">5.</a><a name="ABG5."> </a> Involucre cylindric, markedly transversely ridged; stamens 6 &mdash; Desert <a href="/cgi-bin/get_IJM.pl?tid=19332">.....&nbsp;C. corrugata</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ABG5.">5'</a><a name="ABG5'"> </a> Involucre urn- to bell-shaped, not markedly transversely ridged; stamens 9
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ABG6'">6.</a><a name="ABG6."> </a> Plant prostrate; involucre bell-shaped; abaxial tooth 1.8&ndash;2 mm, awn hooked; s South Coast <a href="/cgi-bin/get_IJM.pl?tid=19344">.....&nbsp;C. orcuttiana</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ABG6.">6'</a><a name="ABG6'"> </a> Plant erect; involucre urn-shaped; abaxial tooth 5&ndash;10 mm, awn straight; East of Sierra Nevada, Desert <a href="/cgi-bin/get_IJM.pl?tid=19354">.....&nbsp;C. rigida</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#ABG1.">1'</a><a name="ABG1'"> </a> Involucre 6&ndash;toothed or -ribbed
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#ABG7'">7.</a><a name="ABG7."> </a> Involucre teeth with scarious margins
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ABG8'">8.</a><a name="ABG8."> </a> Involucre teeth scarious margins continuous across sinuses
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ABG9'">9.</a><a name="ABG9."> </a> Perianth lobes obcordate to 2-lobed &mdash; Inner North Coast Ranges, Cascade Range Foothills, Sierra Nevada Foothills, e San Francisco Bay Area <a href="/cgi-bin/get_IJM.pl?tid=19360">.....&nbsp;C. stellulata</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ABG9.">9'</a><a name="ABG9'"> </a> Perianth lobes entire
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ABG10'">10.</a><a name="ABG10."> </a> Involucre hairy, 3&ndash;5 mm; flower 3.5&ndash;4(4.5) mm; South Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=19337">.....&nbsp;C. douglasii</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ABG10.">10'</a><a name="ABG10'"> </a> Involucre tomentose to &plusmn; glabrous, 3&ndash;4 mm; flower (1.5)2.5&ndash;3 mm; more widespread in California Floristic Province <a href="/cgi-bin/get_IJM.pl?tid=19342">.....&nbsp;C. membranacea</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ABG8.">8'</a><a name="ABG8'"> </a> Involucre teeth scarious margins not continuous across sinuses
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ABG11'">11.</a><a name="ABG11."> </a> Involucre awns straight
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ABG12'">12.</a><a name="ABG12."> </a> Involucres 3&ndash;4 in small bracted clusters; perianth lobes alike &mdash; Inner North Coast Ranges, Cascade Range Foothills, Sierra Nevada Foothills, e San Francisco Bay Area <a href="/cgi-bin/get_IJM.pl?tid=19360">.....&nbsp;C. stellulata</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ABG12.">12'</a><a name="ABG12'"> </a> Involucres 1; perianth lobes not alike
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ABG13'">13.</a><a name="ABG13."> </a> Flower (3)3.5&ndash;4.5 mm, hairy generally throughout; plant generally spreading to decumbent; c North Coast <a href="/cgi-bin/get_IJM.pl?tid=19340">.....&nbsp;C. howellii</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ABG13.">13'</a><a name="ABG13'"> </a> Flower (4)5&ndash;6 mm, hairy on lower 1/2; plant erect to spreading; n Central Coast <a href="/cgi-bin/get_IJM.pl?tid=19362">.....&nbsp;C. valida</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ABG11.">11'</a><a name="ABG11'"> </a> Involucre awns hooked
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ABG14'">14.</a><a name="ABG14."> </a> Flower glabrous; perianth lobes entire, tube yellow &mdash; Central Coast, w San Francisco Bay Area, w Outer South Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=19335">.....&nbsp;C. diffusa</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ABG14.">14'</a><a name="ABG14'"> </a> Flower hairy; perianth lobes 2-lobed, jagged, or short-pointed, tube white
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ABG15'">15.</a><a name="ABG15."> </a> Involucre tube 2.5&ndash;4 mm, thinly hairy; flower 2.5&ndash;4 mm <a href="/cgi-bin/get_IJM.pl?tid=19355">.....&nbsp;C. robusta</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ABG16'">16.</a><a name="ABG16."> </a> Involucre lobes rose-pink; plant erect; s San Francisco Bay Area <a href="/cgi-bin/get_IJM.pl?tid=56503">.....&nbsp;var. hartwegii</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ABG16.">16'</a><a name="ABG16'"> </a> Involucre lobes white; plant spreading or decumbent; n-c Central Coast, sw San Francisco Bay Area <a href="/cgi-bin/get_IJM.pl?tid=56504">.....&nbsp;var. robusta</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ABG15.">15'</a><a name="ABG15'"> </a> Involucre tube 1&ndash;2.5(3) mm, densely hairy; flower 2&ndash;3.5 mm
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ABG17'">17.</a><a name="ABG17."> </a> Perianth lobes awned <a href="/cgi-bin/get_IJM.pl?tid=56484">.....&nbsp;C. cuspidata var. cuspidata</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ABG17.">17'</a><a name="ABG17'"> </a> Perianth lobes minutely jagged
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ABG18'">18.</a><a name="ABG18."> </a> Involucre teeth margins &plusmn; pink; involucre tube 1.5&ndash;2(2.5) mm; flower 2&ndash;3 mm; stamens 3 or 6&ndash;9 <a href="/cgi-bin/get_IJM.pl?tid=19325">.....&nbsp;C. angustifolia</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ABG18.">18'</a><a name="ABG18'"> </a> Involucre teeth margins white (&plusmn; pink) or dark &plusmn; pink to purple; involucre tube 2&ndash;2.5(3) mm; flower 2&ndash;3.5 mm; stamens 9 <a href="/cgi-bin/get_IJM.pl?tid=19352">.....&nbsp;C. pungens</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ABG19'">19.</a><a name="ABG19."> </a> Involucre teeth margins dark &plusmn; pink to purple; plant &plusmn; ascending to erect; 90&ndash;500 m <a href="/cgi-bin/get_IJM.pl?tid=56500">.....&nbsp;var. hartwegiana</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ABG19.">19'</a><a name="ABG19'"> </a> Involucre teeth margins white (&plusmn; pink); plant prostrate to &plusmn; ascending; 0&ndash;65 m <a href="/cgi-bin/get_IJM.pl?tid=56501">.....&nbsp;var. pungens</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#ABG7.">7'</a><a name="ABG7'"> </a> Involucre teeth without scarious margins (except <I>Chorizanthe fimbriata</I>, <I>Chorizanthe procumbens</I>)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ABG20'">20.</a><a name="ABG20."> </a> Involucre teeth of unequal, not of equal or alternating, lengths, abaxial tooth >> others
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ABG21'">21.</a><a name="ABG21."> </a> Abaxial awn hooked <a href="/cgi-bin/get_IJM.pl?tid=19331">.....&nbsp;C. clevelandii</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ABG21.">21'</a><a name="ABG21'"> </a> Abaxial awn straight
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ABG22'">22.</a><a name="ABG22."> </a> Outer perianth lobes entire or &plusmn; 2-lobed, inner jagged; stamens 9; Outer South Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=19353">.....&nbsp;C. rectispina</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ABG22.">22'</a><a name="ABG22'"> </a> Outer perianth lobes with 1 or 3 teeth, inner entire; stamens 3; s Sierra Nevada, e Central Western California, n Western Transverse Ranges <a href="/cgi-bin/get_IJM.pl?tid=19361">.....&nbsp;C. uniaristata</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#ABG20.">20'</a><a name="ABG20'"> </a> Involucre teeth of equal or alternating lengths, abaxial tooth not >> others
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ABG23'">23.</a><a name="ABG23."> </a> Perianth lobes all or at least inner fringed or 2-lobed
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ABG24'">24.</a><a name="ABG24."> </a> Outer and inner perianth lobes fringed &mdash; Southwestern California <a href="/cgi-bin/get_IJM.pl?tid=19338">.....&nbsp;C. fimbriata</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ABG25'">25.</a><a name="ABG25."> </a> Perianth lobes with terminal segment linear to lanceolate, wider than lateral; flower 6&ndash;7(8) mm <a href="/cgi-bin/get_IJM.pl?tid=56489">.....&nbsp;var. fimbriata</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ABG25.">25'</a><a name="ABG25'"> </a> Perianth lobes with terminal segment linear, barely wider than lateral; flower 8&ndash;9(10) mm <a href="/cgi-bin/get_IJM.pl?tid=56490">.....&nbsp;var. laciniata</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ABG24.">24'</a><a name="ABG24'"> </a> Outer and/or inner perianth lobes not fringed
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ABG26'">26.</a><a name="ABG26."> </a> Perianth lobes white to &plusmn; pink
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ABG27'">27.</a><a name="ABG27."> </a> Inner perianth lobes 2-lobed <a href="/cgi-bin/get_IJM.pl?tid=19327">.....&nbsp;C. blakleyi</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ABG27.">27'</a><a name="ABG27'"> </a> Inner perianth lobes fringed <a href="/cgi-bin/get_IJM.pl?tid=19343">.....&nbsp;C. obovata</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ABG26.">26'</a><a name="ABG26'"> </a> Perianth lobes red, rose, maroon, or dark purple
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ABG28'">28.</a><a name="ABG28."> </a> Outer perianth lobes entire; involucre tube 3.5&ndash;4 mm, awns 0.5&ndash;1 mm <a href="/cgi-bin/get_IJM.pl?tid=19345">.....&nbsp;C. palmeri</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ABG28.">28'</a><a name="ABG28'"> </a> Outer perianth lobes 2-lobed or minutely jagged; involucre tube 4&ndash;6 mm, awns 0.5&ndash;2 mm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ABG29'">29.</a><a name="ABG29."> </a> Outer perianth lobes minutely jagged or wavy-margined, inner fringed or &plusmn; 2-lobed; flower 4&ndash;4.5 mm; involucre tube 4&ndash;4.5 mm, swollen; Inner South Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=19363">.....&nbsp;C. ventricosa</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ABG29.">29'</a><a name="ABG29'"> </a> Outer perianth lobes 2-lobed or notched, inner fringed; flower (4.5)5&ndash;6 mm; involucre tube 4&ndash;6 mm, &plusmn; swollen; South Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=19326">.....&nbsp;C. biloba</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ABG30'">30.</a><a name="ABG30."> </a> Outer perianth lobes deeply 2-lobed <a href="/cgi-bin/get_IJM.pl?tid=56478">.....&nbsp;var. biloba</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ABG30.">30'</a><a name="ABG30'"> </a> Outer perianth lobes notched or &plusmn; cordate at tip <a href="/cgi-bin/get_IJM.pl?tid=56479">.....&nbsp;var. immemora</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#ABG23.">23'</a><a name="ABG23'"> </a> Perianth lobes entire, awned, or minutely jagged
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ABG31'">31.</a><a name="ABG31."> </a> Perianth lobes alike, outer and inner similar in width and length
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ABG32'">32.</a><a name="ABG32."> </a> Plant generally erect; branches breaking at nodes; stamens 3, fused to perianth tube top <a href="/cgi-bin/get_IJM.pl?tid=19328">.....&nbsp;C. brevicornu</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ABG33'">33.</a><a name="ABG33."> </a> Leaf blades 1&ndash;3(5) mm wide; involucres ribbed <a href="/cgi-bin/get_IJM.pl?tid=56480">.....&nbsp;var. brevicornu</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ABG33.">33'</a><a name="ABG33'"> </a> Leaf blades 5&ndash;10 mm wide; involucres obscurely ribbed <a href="/cgi-bin/get_IJM.pl?tid=56481">.....&nbsp;var. spathulata</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ABG32.">32'</a><a name="ABG32'"> </a> Plant prostrate to erect; branches not breaking at nodes; stamens 3&ndash;9 and fused to perianth tube base or (6)9 and fused to perianth tube top
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ABG34'">34.</a><a name="ABG34."> </a> Stamens fused to perianth tube top; perianth lobes entire or minutely notched; California Floristic Province <a href="/cgi-bin/get_IJM.pl?tid=19348">.....&nbsp;C. polygonoides</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ABG35'">35.</a><a name="ABG35."> </a> Involucre tube 1.5&ndash;2 mm, awns of prominent teeth 2&ndash;3 mm; Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=56496">.....&nbsp;var. longispina</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ABG35.">35'</a><a name="ABG35'"> </a> Involucre tube 2&ndash;2.5 mm, awns of prominent teeth 1.5&ndash;2 mm; Northwestern California, Cascade Range, n Sierra Nevada Foothills, Sacramento Valley, Central Western California <a href="/cgi-bin/get_IJM.pl?tid=56497">.....&nbsp;var. polygonoides</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ABG34.">34'</a><a name="ABG34'"> </a> Stamens fused to perianth tube base; perianth lobes entire, awned, or minutely jagged
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ABG36'">36.</a><a name="ABG36."> </a> Perianth lobes entire; stamens united basally &mdash; c&s South Coast, s Transverse Ranges, w Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=19349">.....&nbsp;C. procumbens</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ABG36.">36'</a><a name="ABG36'"> </a> Perianth lobes awned or minutely jagged; stamens free
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ABG37'">37.</a><a name="ABG37."> </a> Plants sparsely hairy, yellow-green; flowers 1.5&ndash;2 mm, sparsely hairy abaxially &mdash; c Central Coast (Fort Ord, nw Monterey Co.) <a href="/cgi-bin/get_IJM.pl?tid=99777">.....&nbsp;C. minutiflora</a> 
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ABG37.">37'</a><a name="ABG37'"> </a> Plants densely hairy, tannish to reddish or grayish; flowers 2&ndash;3.5 mm, hairy abaxially
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ABG38'">38.</a><a name="ABG38."> </a> Perianth lobes minutely jagged; Central Coast (Monterey and Santa Cruz cos. south to Santa Barbara Co.) <a href="/cgi-bin/get_IJM.pl?tid=19325">.....&nbsp;C. angustifolia</a> (2)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ABG38.">38'</a><a name="ABG38'"> </a> Perianth lobes awned; n Central Coast, San Francisco Bay Area (San Francisco Peninsula)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#ABG39'">39.</a><a name="ABG39."> </a> Involucre awns hooked, teeth with or without scarious margins; n Central Coast, San Francisco Bay Area <a href="/cgi-bin/get_IJM.pl?tid=56484">.....&nbsp;C. cuspidata var. cuspidata</a> (2)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#ABG39.">39'</a><a name="ABG39'"> </a> Involucre awns straight, teeth without scarious margins; n Central Coast <a href="/cgi-bin/get_IJM.pl?tid=56486">.....&nbsp;C. cuspidata var. villosa</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#ABG31.">31'</a><a name="ABG31'"> </a> Perianth lobes not alike, inner narrower and shorter
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ABG40'">40.</a><a name="ABG40."> </a> Involucre awns straight
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ABG41'">41.</a><a name="ABG41."> </a> Involucre tube 1.5&ndash;2 mm; Western Transverse Ranges <a href="/cgi-bin/get_IJM.pl?tid=56493">.....&nbsp;C. parryi var. fernandina</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ABG41.">41'</a><a name="ABG41'"> </a> Involucre tube 3&ndash;4(4.5) mm; n Central Coast <a href="/cgi-bin/get_IJM.pl?tid=19362">.....&nbsp;C. valida</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#ABG40.">40'</a><a name="ABG40'"> </a> Involucre awns hooked
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ABG42'">42.</a><a name="ABG42."> </a> Involucre tube 1.5&ndash;2 mm &mdash; Transverse Ranges <a href="/cgi-bin/get_IJM.pl?tid=56494">.....&nbsp;C. parryi var. parryi</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#ABG42.">42'</a><a name="ABG42'"> </a> Involucre tube 2.5&ndash;6 mm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ABG43'">43.</a><a name="ABG43."> </a> Proximal leaf-like bracts of stem early-deciduous or 0
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ABG44'">44.</a><a name="ABG44."> </a> Flower 4.5&ndash;6 mm; e Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=19341">.....&nbsp;C. leptotheca</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ABG44.">44'</a><a name="ABG44'"> </a> Flower 3&ndash;4(5) mm; c&s Central Coast, Outer South Coast Ranges, Southwestern California (except e Peninsular Ranges) <a href="/cgi-bin/get_IJM.pl?tid=19357">.....&nbsp;C. staticoides</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#ABG43.">43'</a><a name="ABG43'"> </a> Proximal leaf-like bracts of stem persistent
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ABG45'">45.</a><a name="ABG45."> </a> Flower 4.5&ndash;6 mm, long exserted from involucre <a href="/cgi-bin/get_IJM.pl?tid=19366">.....&nbsp;C. xanti</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ABG46'">46.</a><a name="ABG46."> </a> Involucre densely hairy; e San Bernardino Mountains, n San Jacinto Mountains <a href="/cgi-bin/get_IJM.pl?tid=56509">.....&nbsp;var. leucotheca</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ABG46.">46'</a><a name="ABG46'"> </a> Involucre thinly hairy; s Sierra Nevada, Tehachapi Mountain Area, s Inner South Coast Ranges, n&e Transverse Ranges (except e San Bernardino Mountains), East of Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=56510">.....&nbsp;var. xanti</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#ABG45.">45'</a><a name="ABG45'"> </a> Flower 2.5&ndash;3.5 mm, &plusmn; exserted from involucre
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ABG47'">47.</a><a name="ABG47."> </a> Flower 3&ndash;3.5 mm; involucre tube 2.5&ndash;3 mm; stamens 9; Outer South Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=19330">.....&nbsp;C. breweri</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#ABG47.">47'</a><a name="ABG47'"> </a> Flower 2.5&ndash;3 mm; involucre tube 2&ndash;2.5 mm; stamens 6; n Channel Islands <a href="/cgi-bin/get_IJM.pl?tid=19365">.....&nbsp;C. wheeleri</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

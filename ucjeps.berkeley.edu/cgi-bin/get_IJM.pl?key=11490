@@ -1,0 +1,511 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Atriplex</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Atriplex
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80696">Atriplex amnicola
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15188">Atriplex argentea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76504">Atriplex argentea var. argentea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76505">Atriplex argentea var. expansa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80740">Atriplex argentea var. hillmanii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=79679">Atriplex argentea var. longitrichoma
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15193">Atriplex canescens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54998">Atriplex canescens var. canescens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=54999">Atriplex canescens var. laciniata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80289">Atriplex canescens var. linearis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55000">Atriplex canescens var. macilenta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15195">Atriplex confertifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15199">Atriplex cordulata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=88895">Atriplex cordulata var. cordulata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=88894">Atriplex cordulata var. erecticaulis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15200">Atriplex coronata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55004">Atriplex coronata var. coronata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55005">Atriplex coronata var. notatior
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=88896">Atriplex coronata var. vallicola
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15202">Atriplex coulteri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76507">Atriplex depressa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15275">Atriplex dioica
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15206">Atriplex elegans
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55006">Atriplex elegans var. elegans
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55007">Atriplex elegans var. fasciculata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15211">Atriplex fruticulosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55012">Atriplex gardneri var. falcata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80927">Atriplex glauca
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=71458">Atriplex gmelinii var. gmelinii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15221">Atriplex hortensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15222">Atriplex hymenelytra
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15228">Atriplex lentiformis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15230">Atriplex leucophylla
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15231">Atriplex lindleyi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15235">Atriplex micrantha
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76509">Atriplex minuscula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15244">Atriplex nummularia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15249">Atriplex pacifica
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15250">Atriplex parishii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15251">Atriplex parryi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15252">Atriplex patula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76512">Atriplex persistens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15258">Atriplex polycarpa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15260">Atriplex prostrata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15264">Atriplex pusilla
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15265">Atriplex rosea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15267">Atriplex semibaccata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15268">Atriplex serenana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55035">Atriplex serenana var. davidsonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55036">Atriplex serenana var. serenana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15271">Atriplex spinifera
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15272">Atriplex suberecta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=77405">Atriplex subtilis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=71461">Atriplex torreyi var. torreyi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15282">Atriplex truncata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15283">Atriplex tularensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=15287">Atriplex watsonii
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=11490'><h3>View taxon page for Atriplex</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#OY1'">1.</a><a name="OY1."> </a> Shrub or subshrub; main stem clearly woody
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#OY2'">2.</a><a name="OY2."> </a> Leaf length generally > 5 &times; width, margins entire; fruit bracts together 4-winged or tips long, tubercles in vertical rows; branch tips not spiny
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#OY3'">3.</a><a name="OY3."> </a> Fruit bract tips long, tubercles in vertical rows; shrub or subshrub 1&ndash;6 dm <a href="/cgi-bin/get_IJM.pl?tid=55012">.....&nbsp;A. gardneri var. falcata</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#OY3.">3'</a><a name="OY3'"> </a> Fruit bract together 4-winged from base to tip, tubercles 0; shrub 3&ndash;25 dm
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OY4'">4.</a><a name="OY4."> </a> Twigs generally slender; shrub 10&ndash;25 dm; leaves 10&ndash;35 mm, 1&ndash;3 mm wide; fruit bracts 4&ndash;8 mm, 4&ndash;6 mm wide <a href="/cgi-bin/get_IJM.pl?tid=80289">.....&nbsp;A. canescens var. linearis</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OY4.">4'</a><a name="OY4'"> </a> Twigs generally not slender; shrub 3&ndash;20 dm; leaves 10&ndash;50 mm, 2&ndash;8 mm wide; fruit bracts 4&ndash;25 mm, 4&ndash;12 mm wide
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OY5'">5.</a><a name="OY5."> </a> Fruit bracts entire to dentate; widespread <a href="/cgi-bin/get_IJM.pl?tid=54998">.....&nbsp;A. canescens var. canescens</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OY5.">5'</a><a name="OY5'"> </a> Fruit bracts irregularly to deeply sharp-dentate; s California
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OY6'">6.</a><a name="OY6."> </a> Plant generally 10&ndash;20 dm; fruit bract 6&ndash;12 mm, deeply sharp-dentate <a href="/cgi-bin/get_IJM.pl?tid=54999">.....&nbsp;A. canescens var. laciniata</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OY6.">6'</a><a name="OY6'"> </a> Plant generally 3&ndash;15 dm; fruit bract 4&ndash;8 mm, irregularly dentate <a href="/cgi-bin/get_IJM.pl?tid=55000">.....&nbsp;A. canescens var. macilenta</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#OY2.">2'</a><a name="OY2'"> </a> Leaf length &lt; 5 &times; width, margins entire to dentate; fruit bracts not 4-winged, tubercled or not; branch tips spiny or not
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#OY7'">7.</a><a name="OY7."> </a> Branch tips not spiny
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OY8'">8.</a><a name="OY8."> </a> Leaf margin sharply dentate; shrub 3&ndash;10 dm; fruit bracts free &mdash; East of Sierra Nevada, Desert <a href="/cgi-bin/get_IJM.pl?tid=15222">.....&nbsp;A. hymenelytra</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OY8.">8'</a><a name="OY8'"> </a> Leaf margin entire to wavy or irregular-sparsely dentate; shrub or subshrub &lt;= 40 dm; fruit bracts free to fused above middle
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OY9'">9.</a><a name="OY9."> </a> Shrub or subshrub &lt; 5 dm; branches ascending to erect; leaf sessile &mdash; South Coast, Western Transverse Ranges; stem prostrate <a href="/cgi-bin/get_IJM.pl?tid=80927">.....&nbsp;A. glauca</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OY9.">9'</a><a name="OY9'"> </a> Shrub &lt;= 40 dm; branches spreading to erect; leaf sessile to petioled
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OY10'">10.</a><a name="OY10."> </a> Plant &lt; 15 dm; leaf blade narrowly elliptic to ovate, oblong to hastate <a href="/cgi-bin/get_IJM.pl?tid=80696">.....&nbsp;A. amnicola</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OY10.">10'</a><a name="OY10'"> </a> Plant 8&ndash;40 dm; leaf blade ovate to deltate (&plusmn; hastate)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OY11'">11.</a><a name="OY11."> </a> Fruit bracts 4.5&ndash;9(12) mm, round to &plusmn; reniform, generally tubercled <a href="/cgi-bin/get_IJM.pl?tid=15244">.....&nbsp;A. nummularia</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OY11.">11'</a><a name="OY11'"> </a> Fruit bracts 2&ndash;6 mm, ovate to round or &plusmn; spheric, smooth
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OY12'">12.</a><a name="OY12."> </a> Twigs generally smooth, not striate <a href="/cgi-bin/get_IJM.pl?tid=15228">.....&nbsp;A. lentiformis</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OY12.">12'</a><a name="OY12'"> </a> Twigs generally sharp-angled, striate <a href="/cgi-bin/get_IJM.pl?tid=71461">.....&nbsp;A. torreyi var. torreyi</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#OY7.">7'</a><a name="OY7'"> </a> Branch tips spiny &mdash; generally stiffly spreading
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OY13'">13.</a><a name="OY13."> </a> Fruit bracts 5&ndash;20(24) mm, margins wide, leaf-like
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OY14'">14.</a><a name="OY14."> </a> Fruit bracts &plusmn; free, wide-elliptic to &plusmn; round, few-dentate proximally, entire distally <a href="/cgi-bin/get_IJM.pl?tid=15195">.....&nbsp;A. confertifolia</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OY14.">14'</a><a name="OY14'"> </a> Fruit bracts fused &plusmn; to middle around fruit, entire and spheric proximally, compressed and irregularly dentate distally <a href="/cgi-bin/get_IJM.pl?tid=15271">.....&nbsp;A. spinifera</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OY13.">13'</a><a name="OY13'"> </a> Fruit bracts 2&ndash;6 mm, margins not wide and leaf-like
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OY15'">15.</a><a name="OY15."> </a> Distal leaves generally sessile to clasping <a href="/cgi-bin/get_IJM.pl?tid=15251">.....&nbsp;A. parryi</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OY15.">15'</a><a name="OY15'"> </a> Distal leaves generally &plusmn; sessile to short-petioled
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OY16'">16.</a><a name="OY16."> </a> Leaf blade oblong to narrowly oblanceolate, 2&ndash;4 mm wide <a href="/cgi-bin/get_IJM.pl?tid=15258">.....&nbsp;A. polycarpa</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OY16.">16'</a><a name="OY16'"> </a> Leaf blade ovate to deltate or &plusmn; hastate, 10&ndash;50 mm wide
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OY17'">17.</a><a name="OY17."> </a> Twigs generally smooth, not striate <a href="/cgi-bin/get_IJM.pl?tid=15228">.....&nbsp;A. lentiformis</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OY17.">17'</a><a name="OY17'"> </a> Twigs generally sharp-angled, striate <a href="/cgi-bin/get_IJM.pl?tid=71461">.....&nbsp;A. torreyi var. torreyi</a> (2)
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#OY1.">1'</a><a name="OY1'"> </a> Annual, perennial herb, or subshrub; main stem herbaceous to &plusmn; woody at base
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#OY18'">18.</a><a name="OY18."> </a> Perennial herb to subshrub
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#OY19'">19.</a><a name="OY19."> </a> Stem generally erect; leaves entire
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OY20'">20.</a><a name="OY20."> </a> Fruit bracts 2&ndash;3 mm, obovate; coastal <a href="/cgi-bin/get_IJM.pl?tid=15202">.....&nbsp;A. coulteri</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OY20.">20'</a><a name="OY20'"> </a> Fruit bracts 3&ndash;5 mm, obovate to fan-shaped to &plusmn; spheric, inland <a href="/cgi-bin/get_IJM.pl?tid=15211">.....&nbsp;A. fruticulosa</a> (3)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#OY19.">19'</a><a name="OY19'"> </a> Stem generally prostrate to decumbent; leaves entire to dentate, wavy-dentate, or crenate
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OY21'">21.</a><a name="OY21."> </a> Leaf bases long-tapered to short-petioled, entire to wavy-dentate, dentate, or crenate
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OY22'">22.</a><a name="OY22."> </a> Fruit bracts thin; leaves generally serrate <a href="/cgi-bin/get_IJM.pl?tid=15272">.....&nbsp;A. suberecta</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OY22.">22'</a><a name="OY22'"> </a> Fruit bracts spongy or fleshy; leaves entire to wavy-dentate
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OY23'">23.</a><a name="OY23."> </a> Fruit bract spongy <a href="/cgi-bin/get_IJM.pl?tid=15231">.....&nbsp;A. lindleyi</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OY23.">23'</a><a name="OY23'"> </a> Fruit bract fleshy, &plusmn; red <a href="/cgi-bin/get_IJM.pl?tid=15267">.....&nbsp;A. semibaccata</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OY21.">21'</a><a name="OY21'"> </a> Leaves generally sessile, entire
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OY24'">24.</a><a name="OY24."> </a> Fruit bracts &plusmn; free, entire <a href="/cgi-bin/get_IJM.pl?tid=95361">.....&nbsp;Extriplex californica</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OY24.">24'</a><a name="OY24'"> </a> Fruit bracts fused proximally to distally, entire to dentate or crenate
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OY25'">25.</a><a name="OY25."> </a> Fruit bracts dentate distally; leaves lanceolate to elliptic
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OY26'">26.</a><a name="OY26."> </a> Fruit bracts 2&ndash;3 mm, obovate; coastal <a href="/cgi-bin/get_IJM.pl?tid=15202">.....&nbsp;Atriplex coulteri </a>(2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OY26.">26'</a><a name="OY26'"> </a> Fruit bracts 3&ndash;5 mm, obovate to fan-shaped to &plusmn; spheric; inland <a href="/cgi-bin/get_IJM.pl?tid=15211">.....&nbsp;A. fruticulosa</a> (3)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OY25.">25'</a><a name="OY25'"> </a> Fruit bracts entire to shallowly dentate throughout; leaves elliptic to ovate
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OY27'">27.</a><a name="OY27."> </a> Fruit bracts &plusmn; spongy, &plusmn; spheric; not mat-like <a href="/cgi-bin/get_IJM.pl?tid=15230">.....&nbsp;A. leucophylla</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OY27.">27'</a><a name="OY27'"> </a> Fruit bracts thin, not spongy, ovate to diamond-shaped; generally mat-like <a href="/cgi-bin/get_IJM.pl?tid=15287">.....&nbsp;A. watsonii</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#OY18.">18'</a><a name="OY18'"> </a> Annual
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#OY28'">28.</a><a name="OY28."> </a> Leaves generally green, glabrous to sparsely powdery or fine-scaly
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OY29'">29.</a><a name="OY29."> </a> Pistillate flowers of 2 kinds; fruit bracts wide-elliptic to &plusmn; round, smooth, net-veined; seeds vertical between bracts, or horizontal in calyx <a href="/cgi-bin/get_IJM.pl?tid=15221">.....&nbsp;A. hortensis</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OY29.">29'</a><a name="OY29'"> </a> Pistillate flowers of 1 kind; fruit bracts generally not wide-elliptic to &plusmn; round, smooth to tubercled or ribbed, not net-veined; seeds vertical between bracts
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OY30'">30.</a><a name="OY30."> </a> Fruit bracts fused proximally, dentate distally; staminate flowers in clusters of elongated terminal spikes or panicles <a href="/cgi-bin/get_IJM.pl?tid=55036">.....&nbsp;A. serenana var. serenana</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OY30.">30'</a><a name="OY30'"> </a> Fruit bracts free to fused proximally, entire to dentate proximally; staminate, pistillate flowers mixed or staminate flowers in short spikes
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OY31'">31.</a><a name="OY31."> </a> Fruit bracts entire, &plusmn; round <a href="/cgi-bin/get_IJM.pl?tid=15235">.....&nbsp;A. micrantha</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OY31.">31'</a><a name="OY31'"> </a> Fruit bracts entire to variously dentate, not &plusmn; round
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OY32'">32.</a><a name="OY32."> </a> Fruit bracts few-dentate to dentate
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OY33'">33.</a><a name="OY33."> </a> Leaves triangular-hastate; fruit bract surfaces generally tubercled <a href="/cgi-bin/get_IJM.pl?tid=15260">.....&nbsp;A. prostrata</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OY33.">33'</a><a name="OY33'"> </a> Leaves linear to triangular-ovate; fruit bracts smooth or 2-tubercled
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OY34'">34.</a><a name="OY34."> </a> Brown seeds elliptic, wider than long; fruit bracts smooth or 2-tubercled &mdash; leaves generally thickened, &plusmn; scaly <a href="/cgi-bin/get_IJM.pl?tid=15275">.....&nbsp;A. dioica</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OY34.">34'</a><a name="OY34'"> </a> Brown seeds round; fruit bracts smooth <a href="/cgi-bin/get_IJM.pl?tid=15252">.....&nbsp;A. patula</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OY32.">32'</a><a name="OY32'"> </a> Fruit bracts entire
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OY35'">35.</a><a name="OY35."> </a> Seeds of 1 kind; fruit bract ribbed &mdash; fruit bracts 2&ndash;4 mm; leaves narrowly elliptic to deltate <a href="/cgi-bin/get_IJM.pl?tid=95362">.....&nbsp;Extriplex joaquinana </a>(2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OY35.">35'</a><a name="OY35'"> </a> Seeds of 2 kinds; fruit bract not ribbed
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OY36'">36.</a><a name="OY36."> </a> Fruit bracts 4&ndash;12(25) mm, margins entire; leaves linear to lanceolate <a href="/cgi-bin/get_IJM.pl?tid=71458">.....&nbsp;Atriplex gmelinii var. gmelinii</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OY36.">36'</a><a name="OY36'"> </a> Fruit bracts 3&ndash;7 mm, margins entire to finely dentate; leaves triangular-hastate <a href="/cgi-bin/get_IJM.pl?tid=15260">.....&nbsp;A. prostrata</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#OY28.">28'</a><a name="OY28'"> </a> Leaves &plusmn; gray- or &plusmn; white-green, densely fine-scaly
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OY37'">37.</a><a name="OY37."> </a> Fruit bracts free to fused proximally &mdash; stem generally striate; fruit bracts ribbed; inflorescence spike- or panicle-like, terminal, dense <a href="/cgi-bin/get_IJM.pl?tid=95362">.....&nbsp;Extriplex joaquinana </a>(2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OY37.">37'</a><a name="OY37'"> </a> Fruit bracts fused &plusmn; proximally to near tip
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OY38'">38.</a><a name="OY38."> </a> Fruit bract widest proximally, generally ovate to deltate or diamond-shaped
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OY39'">39.</a><a name="OY39."> </a> Leaves coarsely wavy-dentate, distal entire &mdash; fruit bracts hard; leaves densely fine-scaly abaxially, &plusmn; green adaxially, red in age <a href="/cgi-bin/get_IJM.pl?tid=15265">.....&nbsp;Atriplex rosea</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OY39.">39'</a><a name="OY39'"> </a> Leaves generally all entire
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OY40'">40.</a><a name="OY40."> </a> Stem 0&ndash;few-branched, ascending to erect, 1&ndash;8 dm; fruit bracts 2.5&ndash;5 mm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OY41'">41.</a><a name="OY41."> </a> Base of proximal leaf blades rounded; fruit bracts 2.5&ndash;3.5 mm; s San Joaquin Valley (Kern Lake bed) <a href="/cgi-bin/get_IJM.pl?tid=15283">.....&nbsp;A. tularensis</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OY41.">41'</a><a name="OY41'"> </a> Base of proximal leaf blades cordate; fruit bracts 3&ndash;5 mm; Great Central Valley <a href="/cgi-bin/get_IJM.pl?tid=15199">.....&nbsp;A. cordulata</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OY42'">42.</a><a name="OY42."> </a> Fruit bracts deltate-ovate, central tooth generally > others; Great Central Valley <a href="/cgi-bin/get_IJM.pl?tid=88895">.....&nbsp;var. cordulata</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OY42.">42'</a><a name="OY42'"> </a> Fruit bracts deltate to fan-shaped, central tooth generally &lt;= others; San Joaquin Valley <a href="/cgi-bin/get_IJM.pl?tid=88894">.....&nbsp;var. erecticaulis</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OY40.">40'</a><a name="OY40'"> </a> Stem many-branched, prostrate to erect, &lt; 4 dm; fruit bracts 1&ndash;4 mm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OY43'">43.</a><a name="OY43."> </a> Fruit bracts 1&ndash;2 mm, entire, surfaces smooth; Great Basin Floristic Province &mdash; stems &lt; 1.5 mm thick <a href="/cgi-bin/get_IJM.pl?tid=15264">.....&nbsp;A. pusilla</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OY43.">43'</a><a name="OY43'"> </a> Fruit bracts 2&ndash;4 mm, entire to few-dentate, surfaces smooth or tubercled; Great Central Valley, South Coast, Peninsular Ranges
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OY44'">44.</a><a name="OY44."> </a> Staminate flower clusters terminal, pistillate flower clusters axillary <a href="/cgi-bin/get_IJM.pl?tid=76512">.....&nbsp;A. persistens</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OY44.">44'</a><a name="OY44'"> </a> Staminate flower clusters axillary, or staminate and pistillate flowers mixed, generally in axillary clusters
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#OY45'">45.</a><a name="OY45."> </a> Stem woolly near tips; leaves generally opposite; South Coast, Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=15250">.....&nbsp;A. parishii</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#OY45.">45'</a><a name="OY45'"> </a> Stem glabrous to densely scaly near tips; leaves alternate or opposite; Great Central Valley, San Joaquin Valley
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#OY46'">46.</a><a name="OY46."> </a> Leaves generally alternate; fruit bracts smooth; San Joaquin Valley <a href="/cgi-bin/get_IJM.pl?tid=76509">.....&nbsp;A. minuscula</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#OY46.">46'</a><a name="OY46'"> </a> Leaves generally opposite; fruit bracts generally tubercled; Great Central Valley
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#OY47'">47.</a><a name="OY47."> </a> Fruit bracts generally tubercled on side facing stem <a href="/cgi-bin/get_IJM.pl?tid=76507">.....&nbsp;A. depressa</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#OY47.">47'</a><a name="OY47'"> </a> Fruit bracts generally tubercled on both surfaces &mdash; branches widely spreading <a href="/cgi-bin/get_IJM.pl?tid=77405">.....&nbsp;A. subtilis</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OY38.">38'</a><a name="OY38'"> </a> Fruit bracts generally widest at middle or distally, fan- to wedge-shaped or &plusmn; round
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OY48'">48.</a><a name="OY48."> </a> Staminate flowers in terminal clusters, pistillate flowers in axillary clusters
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OY49'">49.</a><a name="OY49."> </a> Plant prostrate to decumbent; fruit bracts 1&ndash;1.5 mm <a href="/cgi-bin/get_IJM.pl?tid=15249">.....&nbsp;A. pacifica</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OY49.">49'</a><a name="OY49'"> </a> Plant erect to decumbent (spreading); fruit bracts >= 2 mm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OY50'">50.</a><a name="OY50."> </a> Plant &lt; 3(5) dm; fruit bracts 3&ndash;5 mm; leaves entire
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OY51'">51.</a><a name="OY51."> </a> Leaves ovate to elliptic, 2&ndash;5 mm <a href="/cgi-bin/get_IJM.pl?tid=76512">.....&nbsp;A. persistens</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OY51.">51'</a><a name="OY51'"> </a> Leaves narrowly lanceolate to elliptic, 5&ndash;12(24) mm <a href="/cgi-bin/get_IJM.pl?tid=15211">.....&nbsp;A. fruticulosa</a> (3)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OY50.">50'</a><a name="OY50'"> </a> Plant 3&ndash;10 dm; fruit bracts 2&ndash;3.5 mm; leaves irregularly dentate (entire) <a href="/cgi-bin/get_IJM.pl?tid=15268">.....&nbsp;A. serenana</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OY52'">52.</a><a name="OY52."> </a> Leaf blades 5&ndash;20 mm; staminate inflorescence spheric, short; s South Coast <a href="/cgi-bin/get_IJM.pl?tid=55035">.....&nbsp;var. davidsonii</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OY52.">52'</a><a name="OY52'"> </a> Leaf blades 10&ndash;50 mm; staminate inflorescence spike or panicle, elongate; widespread <a href="/cgi-bin/get_IJM.pl?tid=55036">.....&nbsp;var. serenana</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OY48.">48'</a><a name="OY48'"> </a> Staminate flowers in axillary clusters, or staminate and pistillate flowers mixed, generally in axillary clusters
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OY53'">53.</a><a name="OY53."> </a> Fruit bracts spongy, 5&ndash;12 mm, obconic to &plusmn; spheric &mdash; s South Coast <a href="/cgi-bin/get_IJM.pl?tid=15231">.....&nbsp;A. lindleyi</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OY53.">53'</a><a name="OY53'"> </a> Fruit bracts not spongy, 2&ndash;6(8) mm, wedge-shaped to round, generally compressed, or if spheric, then densely tubercled
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OY54'">54.</a><a name="OY54."> </a> Fruit bracts round, crenate, &plusmn; dentate to cut <a href="/cgi-bin/get_IJM.pl?tid=15206">.....&nbsp;A. elegans</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OY55'">55.</a><a name="OY55."> </a> Fruit bracts deeply dentate to cut, teeth 0.5&ndash;1 mm wide <a href="/cgi-bin/get_IJM.pl?tid=55006">.....&nbsp;var. elegans</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OY55.">55'</a><a name="OY55'"> </a> Fruit bracts minutely crenate to finely dentate, teeth 0.3&ndash;0.5 mm wide <a href="/cgi-bin/get_IJM.pl?tid=55007">.....&nbsp;var. fasciculata</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OY54.">54'</a><a name="OY54'"> </a> Fruit bracts generally wedge-shaped to obovate or &plusmn; spheric, entire proximally, dentate distally
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OY56'">56.</a><a name="OY56."> </a> Fruit bract tip &plusmn; truncate to notched, 3&ndash;5-dentate &mdash; generally East of Sierra Nevada, Mojave Desert, including edges <a href="/cgi-bin/get_IJM.pl?tid=15282">.....&nbsp;A. truncata</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OY56.">56'</a><a name="OY56'"> </a> Fruit bract tip acute to rounded in outline
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#OY57'">57.</a><a name="OY57."> </a> Leaf margin coarsely serrate <a href="/cgi-bin/get_IJM.pl?tid=15272">.....&nbsp;A. suberecta</a> (2)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#OY57.">57'</a><a name="OY57'"> </a> Leaf margin entire, wavy or flat
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#OY58'">58.</a><a name="OY58."> </a> Leaf blade base &plusmn; obtuse to tapered; fruit bracts 2.5&ndash;6 mm, fused proximally <a href="/cgi-bin/get_IJM.pl?tid=15200">.....&nbsp;A. coronata</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#OY59'">59.</a><a name="OY59."> </a> Fruit bracts 2.5&ndash;4 mm, &plusmn; 2.5&ndash;4 mm wide <a href="/cgi-bin/get_IJM.pl?tid=88896">.....&nbsp;var. vallicola</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#OY59.">59'</a><a name="OY59'"> </a> Fruit bracts 4.5&ndash;6 mm, 3&ndash;5 mm wide
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#OY60'">60.</a><a name="OY60."> </a> Stem decumbent to ascending; fruit bracts together &plusmn; compressed, tubercles generally few, generally &lt; marginal teeth <a href="/cgi-bin/get_IJM.pl?tid=55004">.....&nbsp;var. coronata</a>
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#OY60.">60'</a><a name="OY60'"> </a> Stem &plusmn; erect; fruit bracts together &plusmn; spheric, tubercles dense, generally &plusmn; = marginal teeth <a href="/cgi-bin/get_IJM.pl?tid=55005">.....&nbsp;var. notatior</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#OY58.">58'</a><a name="OY58'"> </a> Leaf blade base generally &plusmn; hastate to tapering; fruit bracts 4&ndash;8 mm, fused to near tip <a href="/cgi-bin/get_IJM.pl?tid=15188">.....&nbsp;A. argentea</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#OY61'">61.</a><a name="OY61."> </a> Stem decumbent to erect, 15&ndash;30 cm; fruit bracts sessile
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#OY62'">62.</a><a name="OY62."> </a> Leaves sessile or proximal petioled; stems, leaves scaly, inflated hairs not elongate <a href="/cgi-bin/get_IJM.pl?tid=80740">.....&nbsp;var. hillmanii</a>
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#OY62.">62'</a><a name="OY62'"> </a> Leaves generally sessile; stems, leaves, fruit bracts densely scaly, with elongate inflated hairs <a href="/cgi-bin/get_IJM.pl?tid=79679">.....&nbsp;var. longitrichoma</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#OY61.">61'</a><a name="OY61'"> </a> Stem erect, 30&ndash;80 cm; fruit bracts short-stalked
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#OY63'">63.</a><a name="OY63."> </a> Distal leaves short-petioled; most proximal leaves alternate; Great Basin Floristic Province, Mojave Desert <a href="/cgi-bin/get_IJM.pl?tid=76504">.....&nbsp;var. argentea</a>
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#OY63.">63'</a><a name="OY63'"> </a> Distal leaves sessile; most proximal leaves opposite; Great Central Valley, Central Coast, e San Francisco Bay Area, Southwestern California, Desert <a href="/cgi-bin/get_IJM.pl?tid=76505">.....&nbsp;var. expansa</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

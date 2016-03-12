@@ -1,0 +1,380 @@
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora: Downingia bella</title> 
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+<link href="common/css/jepson_eflora.css" rel="stylesheet" type="text/css" />
+
+<!--jquery script files-->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+
+<!-- google maps files and scripts -->
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript"> 
+function initialize() {
+  var myOptions = {
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  }
+
+  var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+
+	var TaxID = 23273;
+
+  var kmlLayer = new google.maps.KmlLayer("http://ucjeps.berkeley.edu/jepcodes-v7.kmz", { suppressInfoWindows: true });
+  kmlLayer.setMap(map);
+  var pmlLayer = new google.maps.KmlLayer("http://herbaria4.herb.berkeley.edu/interchange/coords/"+TaxID+".kml", { });
+  pmlLayer.setMap(map);
+
+}
+
+function JumpToIt(list) {
+    var newPage = list.options[list.selectedIndex].value
+    if (newPage != "None") {
+        location=newPage
+    }
+}
+</script>
+
+<style type="text/css" media="screen">
+    #map_canvas {
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+      float: left;
+      width: 467px;
+      height: 445px;
+      padding: 10px;
+    }
+</style>
+
+<!-- Google analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- jquery functions -->
+<script>
+//jquery ui functions that make the hidden higher taxonomy descriptions appear
+$(document).ready(function(){
+    $("#familylink").click(function(){
+        $("#familydesc").slideToggle(500);
+    });
+    $("#genuslink").click(function(){
+        $("#genusdesc").slideToggle(500);
+    });
+    $("#specieslink").click(function(){
+        $("#speciesdesc").slideToggle(500);
+    });
+});
+
+$(document).ready(function(){
+//jquery functions that grab the column widths from the hidden table
+//so they can be applied as a standard to the higher taxonomy table, which is made up of three separate tables
+	var width1 = $("#check1").width() + 1; // width() function turns out to be one pixel too small, so add 1
+	var width2 = $("#check2").width() + 1;
+	var width3 = $("#check3").width() + 1;
+	$(".column1").attr("width", width1);
+	$(".column2").attr("width", width2);
+	$(".column3").attr("width", width3);
+});
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>
+<!-- End banner -->
+
+<!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+            	<li><a href="http://ucjeps.berkeley.edu/images/">UC/JEPS Image Collection</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+<table border="0">
+	<tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td><span class="pageName"><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora:</a> Taxon page</span>
+		<br>
+			<span class="pageAuthorLine">
+				<a href="http://ucjeps.berkeley.edu/IJM_fam_key.html">Key to families</a>
+				|
+				<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+			</span>	  
+		</td>
+
+	</tr>
+</table>
+
+<table align="center" width="100%"><tr><td>
+<a href="eflora_display.php?tid=23272"><IMG SRC="http://ucjeps.berkeley.edu/icons/left.gif" BORDER=2 ALT="Previous taxon"></a></td>
+<td width=90%">
+<!--eFlora index-->
+<span class="pageAuthorLine">Index to accepted names and synonyms:</span><br>
+| 	<a href="eflora_index.php?index=A">A</a> | 
+	<a href="eflora_index.php?index=B">B</a> | 
+	<a href="eflora_index.php?index=C">C</a> | 
+	<a href="eflora_index.php?index=D">D</a> | 
+	<a href="eflora_index.php?index=E">E</a> | 
+	<a href="eflora_index.php?index=F">F</a> | 
+	<a href="eflora_index.php?index=G">G</a> | 
+	<a href="eflora_index.php?index=H">H</a> | 
+	<a href="eflora_index.php?index=I">I</a> | 
+	<a href="eflora_index.php?index=J">J</a> | 
+	<a href="eflora_index.php?index=K">K</a> | 
+	<a href="eflora_index.php?index=L">L</a> | 
+	<a href="eflora_index.php?index=M">M</a> | 
+	<a href="eflora_index.php?index=N">N</a> | 
+	<a href="eflora_index.php?index=O">O</a> | 
+	<a href="eflora_index.php?index=P">P</a> | 
+	<a href="eflora_index.php?index=Q">Q</a> | 
+	<a href="eflora_index.php?index=R">R</a> | 
+	<a href="eflora_index.php?index=S">S</a> | 
+	<a href="eflora_index.php?index=T">T</a> | 
+	<a href="eflora_index.php?index=U">U</a> | 
+	<a href="eflora_index.php?index=V">V</a> | 
+	<a href="eflora_index.php?index=W">W</a> | 
+	<a href="eflora_index.php?index=X">X</a> | 
+	<a href="eflora_index.php?index=Y">Y</a> | 
+	<a href="eflora_index.php?index=Z">Z</a> |
+<!--end eFlora index-->
+<hr width="10%">
+</td>
+<td align="right">
+<a href="eflora_display.php?tid=23274"><IMG SRC="http://ucjeps.berkeley.edu/icons/right.gif" BORDER=2 ALT="Next taxon"></a></td></tr>
+</table>
+
+<center><span align ='center' class='pageLargeHeading'>Downingia bella</span></center>
+<center><span align ='center' class='pageMajorHeading'></span></center>
+<br>
+
+
+<!-- this hidden table provides the column width values (check1 through check3) which are used to assign consistent widths to the actual higher taxonomy tables-->
+<div class="hidden">
+	<table class='taxonomy_table'>
+	<tr><td id='check1'><b>Family: Campanulaceae</b></td><td id='check2'><a href="#">View Description</a></b></td><td id='check3'><a href='#'>Dichotomous Key</a></td></tr>
+	<tr><td><b>Genus: Downingia</b></td><td><a href="#">View Description</a></b></td><td><a href='#'>Dichotomous Key</a></td></tr>
+	<tr><td><b>Species: </b></td><td><a href="#">View Description</a></b></td><td><a href='#'>Dichotomous Key</a></td></tr>
+	</table>
+</div>
+
+
+	
+<table width=100%><tr><td width=100%><div class='pageMajorHeading'><b>Higher Taxonomy</b><br></div><table class='taxonomy_table'><tr><td class='column1'><b>Family: Campanulaceae</b></td><td class='column2'><a id='familylink'>View Description</a></b></td><td class='column3'><a href='http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=83'>Dichotomous Key</a></td></tr></table><div id="familydesc" class="initiallyHidden"><blockquote class='bodyText'><br><b>Common Name:</b> BELLFLOWER FAMILY<br><b>Habit:</b> Annual to perennial herb [tree]. <b>Leaf:</b> generally cauline, generally simple, generally alternate, petioled or not; stipules 0. <b>Inflorescence:</b> cyme, panicle, raceme, spike, or flowers 1; terminal or in axils of leaf-like or reduced bracts. <b>Flower:</b> bisexual, cleistogamous or open, radial or bilateral, inverted (pedicel twisted 180&deg;) or not; hypanthium generally present, +- fused to ovary; sepals generally 5; corolla radial to 2-lipped, petals generally fused, tube deeply divided on 1 side or not, lobes generally 5; stamens 5, free or +- fused (anthers, filaments fused into tube or filaments fused above middle); ovary inferior or 1/2 inferior (superior in fruit), chambers 1--3, placentas axile or parietal, ovules many, style generally 1, 2--5-branched. <b>Fruit:</b> generally capsule, open on sides or top by pores or short valves. <b>Seed:</b> many. <br><b>Genera In Family:</b> +- 90 genera, +- 2500 species: worldwide. <b>Note:</b> Some cultivated for ornamental (<i>Campanula</i>, <i>Jasione</i>, <i>Lobelia</i>). Subfamilies sometimes treated as families. Positions of flower parts given after flowering inversion, if any. <i>Parishella</i> moved to <i>Nemacladus</i>. <br><b>eFlora Treatment Author:</b> Nancy R. Morin, except as noted<br><b>Scientific Editor:</b> Thomas J. Rosatti.<br></blockquote></div><table class='taxonomy_table'><tr><td class='column1'><b>Genus: Downingia</b></td><td class='column2'><a id='genuslink'>View Description</a></b></td><td class='column3'><a href='http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9232'>Dichotomous Key</a></td></tr></table><div id="genusdesc" class="initiallyHidden"><blockquote class='bodyText'><br><b>Habit:</b> Annual, glabrous. <b>Stem:</b> decumbent to erect, (10)20--40 cm. <b>Leaf:</b> cauline, often deciduous before flower, 0.5--2(4) mm wide, lanceolate to awl-like (uppermost wider or not), sessile, generally entire. <b>Inflorescence:</b> spike; terminal flowers often aborted, overtopped by fertile; pedicels 0. <b>Flower:</b> bilateral, generally inverted at full bloom by twisted ovary; corolla generally >> calyx, blue to pink or white, generally with a symmetric white or yellow spot on lower lip, tube entire, limb strongly 2-lipped, upper lip lobes 2, lower lip generally with 2 low ridges, these often with 2 knob-like projections near throat, lobes 3, > upper, generally obovate, obtuse-mucronate; stamens fused (filaments, anthers in tubes), generally 2 smallest anthers each with terminal tuft of bristles, 1 bristle triangular or horn-like, generally 0.2--0.5 mm, others linear, shorter; ovary inferior, long, narrow, +- pedicel-like, chambers 1--2, placentas parietal or axile. <b>Fruit:</b> dehiscent on sides by 3--5 sometimes translucent slits, tardily so or not. <br><b>Species In Genus:</b> 15 species: western North America, Chile. <b>Etymology:</b> (A.J. Downing, American horticulturist, 1815--1852) <b>Note:</b> Flower part positions ("upper" is adaxial; "lower" is abaxial) given at full bloom. Corolla measurements are from base of tube to tip of longest lobe, color including albino for +- all species. Based on geography, interfertility, cytology, and sequences of nuclear as well as chloroplast DNA, <i>Downingia yina</i> Applegate (as recognized in TJM (1993)) split here into 3 morphologically indistinguishable species whose limits need further study, only 2 of which are documented for California: <i>Downingia pulcherrima</i>, <i>Downingia willamettensis</i>. <br><font color='blue'><b>Unabridged Note:</b> Flower part positions ("upper" is next to stem; "lower" is away from stem) given at full bloom. Corolla measurements are from base of tube to tip of longest lobe, color including albino for +- all species. Based on geography, interfertility, cytology, and sequences of nuclear as well as chloroplast DNA, <i>Downingia yina</i> (as recognized in TJM (1993)) split here into 3 morphologically indistinguishable species whose limits need further study: <i>Downingia yina</i> (as now circumscribed, not in California, although possibly in -- yet not documented for -- northern CaR), <i>Downingia pulcherrima</i>, and <i>Downingia willamettensis</i>. The present treatment comes after <i>Downingia pulcherrima</i> and <i>Downingia willamettensis</i> had been united under <i>Downingia willamettensis</i>, and that taxon in turn had been transferred to <i>Downingia yina</i>, as <i>Downingia yina</i> var. <i>major</i> (leaving the remainder of that sp. under <i>Downingia yina</i> var. <i>yina</i>).</font><br><b>eFlora Treatment Author:</b> Lisa M. Schultheis<br></div><br></table></tr></td><table width="100%"><tr><td width="60%" valign="top"><div class='pageMajorHeading'><b><i>Downingia bella</i> Hoover</b><br></div><div class='bodyText'><b>NATIVE</b><br><b>Flower:</b> corolla 10--12 mm, glabrous, lateral sinuses +- = upper, lower lip blue with central white area including 2 yellow spots generally alternate 2--3 purple spots near throat; anthers included to +- exserted, < 45&deg; to filaments; ovary glabrous to minutely spiny-scabrous, 2-chambered, placentas axile. <b>Fruit:</b> 18--60 mm, tardily dehiscent, lateral walls tough, lines not translucent. <b>Seed:</b> with longitudinal lines. <b>Chromosomes:</b> n=11.<br><b>Ecology:</b> Uncommon. Vernal pools; <b>Elevation:</b> < 200 m (GV), 610--655 m (PR), 1400--1600 m (WTR). <b>Bioregional Distribution:</b> GV, PR (Santa Rosa Plateau, Riverside Co.), n WTR. <b>Flowering Time:</b> Mar--May <b>Note:</b> Plants in PR, WTR (fruit < 30 mm, nectar guides +- unusual) possibly distinct. <br><b>eFlora Treatment Author:</b> Lisa M. Schultheis<br><a href="http://ucjeps.berkeley.edu/cgi-bin/get_cpn.pl?23273"><b>Jepson Online Interchange</b></a><br><P><FORM><SELECT WIDTH=20 onChange="JumpToIt(this)"><OPTION VALUE="None">List of species <OPTION VALUE="eflora_display.php?tid=23272">Downingia bacigalupii <OPTION VALUE="eflora_display.php?tid=23273">Downingia bella <OPTION VALUE="eflora_display.php?tid=23274">Downingia bicornuta <OPTION VALUE="eflora_display.php?tid=57808">Downingia bicornuta var. bicornuta <OPTION VALUE="eflora_display.php?tid=57809">Downingia bicornuta var. picta <OPTION VALUE="eflora_display.php?tid=23275">Downingia concolor <OPTION VALUE="eflora_display.php?tid=57810">Downingia concolor var. brevior <OPTION VALUE="eflora_display.php?tid=57811">Downingia concolor var. concolor <OPTION VALUE="eflora_display.php?tid=23276">Downingia cuspidata <OPTION VALUE="eflora_display.php?tid=23277">Downingia elegans <OPTION VALUE="eflora_display.php?tid=23278">Downingia insignis <OPTION VALUE="eflora_display.php?tid=23279">Downingia laeta <OPTION VALUE="eflora_display.php?tid=23280">Downingia montana <OPTION VALUE="eflora_display.php?tid=23281">Downingia ornatissima <OPTION VALUE="eflora_display.php?tid=57816">Downingia ornatissima var. eximia <OPTION VALUE="eflora_display.php?tid=57817">Downingia ornatissima var. ornatissima <OPTION VALUE="eflora_display.php?tid=23282">Downingia pulchella <OPTION VALUE="eflora_display.php?tid=81560">Downingia pulcherrima <OPTION VALUE="eflora_display.php?tid=23283">Downingia pusilla <OPTION VALUE="eflora_display.php?tid=23286">Downingia willamettensis <OPTION VALUE="eflora_display.php?tid=23285">Downingia yina</SELECT></FORM><a href="eflora_display.php?tid=23272">Previous taxon: Downingia bacigalupii</a><br><a href="eflora_display.php?tid=23274">Next taxon: Downingia bicornuta</a><br>
+<br>
+<form action="search_eflora.php" method="POST">
+<b>Name Search </b>		<input type="text" id="query_text" name="query"></input>
+		<input type="submit" value="Submit Name" />
+</form>
+
+</td><td valign="top"><center><img src="http://ucjeps.berkeley.edu/images/illustrations/fp-593-7.png" alt="botanical illustration including Downingia bella" height="475" border="0" align="center"/></center></td></tr>
+</table>
+
+
+
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+
+
+<P>
+<a href="&#109;&#97;&#105;&#108;to:interchange&#064;lists.berkeley.edu?subject=new eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+
+
+
+<P class=bodyText>
+Citation for this treatment: Lisa M. Schultheis 2016. <i>Downingia bella</i>, in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23273, accessed on March 12, 2016.
+</P>
+<P class=bodyText>Citation for the whole project: Jepson Flora Project (eds.) 2016. <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html, accessed on March 12, 2016.</P>
+
+
+
+
+<hr width=80%> 
+
+<table><tr><td width='200px'><i>Downingia bella</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+0703+0478"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/0703/0478.jpeg alt="click for enlargement"></img></a><br>&copy; 2003 Christopher L. Christie<br></td><td width='200px'><i>Downingia bella</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+0703+0477"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/0703/0477.jpeg alt="click for enlargement"></img></a><br>&copy; 2003 Christopher L. Christie<br></td><td width='200px'><i>Downingia bella</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+0404+1141"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/0404/1141.jpeg alt="click for enlargement"></img></a><br>&copy; 2004 Carol W. Witham<br></td><td width='200px'><i>Downingia bella</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+1200+0100"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/1200/0100.jpeg alt="click for enlargement"></img></a><br>&copy; 1996 Christopher Christie<br></td><td width='200px'><i>Downingia bella</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+1101+0252"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/1101/0252.jpeg alt="click for enlargement"></img></a><br>&copy; 1995 John Game<br></td><td width='200px'><i>Downingia bella</i><br><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&enlarge=0000+0000+0403+0810"><img border="0" src=http://calphotos.berkeley.edu/imgs/128x192/0000_0000/0403/0810.jpeg alt="click for enlargement"></img></a><br>&copy; 2003 George W. Hartwell<br></td></tr></table><p><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=ucjeps&where-genre=Plant&where-taxon=Downingia bella&title_tag=Downingia bella">More photos of <i>Downingia bella</i> in CalPhotos</a></p><hr width=80%>
+
+
+<!--distribution panes-->
+<table border=0>
+<tr><td valign='bottom'>Geographic subdivisions for Downingia bella:
+<br>GV, PR (Santa Rosa Plateau, Riverside Co.), n WTR.</td>
+<td>Markers link to CCH specimen records. If the markers are obscured, reload the page [or change window size and reload]. Yellow markers indicate records that may provide evidence for eFlora range revision or may have georeferencing or identification issues.
+<br><b><a href="http://ucjeps.berkeley.edu/consortium/about_yellow.html">READ ABOUT YELLOW FLAGS</a></b>
+</td></tr>
+<tr>
+<td valign="top">
+<img src="http://ucjeps.berkeley.edu/cgi-bin/new_jmap.pl?0040002201" border="0" alt="map of distribution 1"></td>
+<td>
+	<div id="map_canvas"></div>
+</td>
+</tr>
+
+<tr><td valign="top">
+(Note: any qualifiers in the taxon distribution description, such as 'northern', 'southern', 'adjacent' etc., are not reflected in the map above, and in some cases indication of a taxon in a subdivision is based on a single collection or author-verified occurence).
+<br><br>
+<a href="http://ucjeps.berkeley.edu/cgi-bin/map_cch_elev.pl?taxon_name=Downingia bella&t=&g=">View elevation by latitude chart</a></td>
+<td valign="top">Data provided by the participants of the Consortium of California Herbaria.
+<br>
+<a href="http://ucjeps.berkeley.edu/cgi-bin/get_consort.pl?taxon_name=Downingia bella">View all CCH records</a><br><br>
+CCH collections by month<br> 
+<img border=1 src="http://ucjeps.berkeley.edu/cgi-bin/hb2.pl?name=Downingia bella&FT=2,3,4"><br>Duplicates counted once; synonyms included.
+<br>Species do not include records of infraspecific taxa.
+<br>Blue line denotes eFlora flowering time.
+</td></tr>
+</table>
+
+<!--Begin footer-->
+<table width="100%" id="footer">
+  <tr>
+    <td height="18" class="banner"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  <tr>
+    <td height="20"><span class="copyrightText"><a href="http://ucjeps.berkeley.edu/main/copyright.html"> Copyright</a> &copy; 2016  Regents of the University of California
+<br>We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.</span></td>
+  </tr>
+</table>
+<!--End footer-->

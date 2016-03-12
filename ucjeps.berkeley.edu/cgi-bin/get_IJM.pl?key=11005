@@ -1,0 +1,285 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Calamagrostis</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Calamagrostis
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16534">Calamagrostis bolanderi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16535">Calamagrostis breweri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16538">Calamagrostis canadensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55387">Calamagrostis canadensis var. canadensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=88919">Calamagrostis canadensis var. langsdorffii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16552">Calamagrostis foliosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16557">Calamagrostis koelerioides
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=79436">Calamagrostis muiriana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16562">Calamagrostis nutkaensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16563">Calamagrostis ophitidis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16568">Calamagrostis purpurascens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16577">Calamagrostis rubescens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16582">Calamagrostis stricta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49506">Calamagrostis stricta subsp. inexpansa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49507">Calamagrostis stricta subsp. stricta
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=11005'><h3>View taxon page for Calamagrostis</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AME1'">1.</a><a name="AME1."> </a> Awn exserted 1&ndash;10 mm beyond glume tips, twisted and bent
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AME2'">2.</a><a name="AME2."> </a> Panicle open, branches spreading to ascending
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AME3'">3.</a><a name="AME3."> </a> Plant from rhizomes; stem 5&ndash;15 dm; leaf blade generally cauline, 3&ndash;10 mm wide, flat; coastal, &lt; 500 m <a href="/cgi-bin/get_IJM.pl?tid=16534">.....&nbsp;C. bolanderi</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AME3.">3'</a><a name="AME3'"> </a> Plant cespitose, rhizomes 0; stem generally 1.2&ndash;5.4 dm; leaf blade generally basal, 0.2&ndash;1.7 mm wide, inrolled to flat; > 1500 m
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AME4'">4.</a><a name="AME4."> </a> Leaf blade 7&ndash;11-veined, tip prow-shaped; inflorescence (4)5.7&ndash;8.5 cm; callus hairs 0.3&ndash;1.2 mm <a href="/cgi-bin/get_IJM.pl?tid=16535">.....&nbsp;C. breweri</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AME4.">4'</a><a name="AME4'"> </a> Leaf blade 3&ndash;5-veined, tip straight-sided; inflorescence 1.9&ndash;5.7(7.5) cm; callus hairs 0.3&ndash;0.6 mm <a href="/cgi-bin/get_IJM.pl?tid=79436">.....&nbsp;C. muiriana</a> (2)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AME2.">2'</a><a name="AME2'"> </a> Panicle dense, narrow, branches ascending to appressed
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AME5'">5.</a><a name="AME5."> </a> Awn 12&ndash;15(17) mm, exserted 4&ndash;10 mm beyond the glume tips; glumes 8&ndash;10 mm <a href="/cgi-bin/get_IJM.pl?tid=16552">.....&nbsp;C. foliosa</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AME5.">5'</a><a name="AME5'"> </a> Awn (4.6)5&ndash;7.5(9) mm, exserted 1&ndash;3 mm beyond the glume tips; glumes 4.5&ndash;8 mm
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AME6'">6.</a><a name="AME6."> </a> Leaf blade with small white-opaque hooks between the veins visible only with magnification, upper surface scabrous; generally on serpentine soils, &lt; 1065 m <a href="/cgi-bin/get_IJM.pl?tid=16563">.....&nbsp;C. ophitidis</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AME6.">6'</a><a name="AME6'"> </a> Leaf blade without small white-opaque hooks between the veins, upper surface soft-hairy; generally on rocky slopes, sandy soils, 1300&ndash;4000 m <a href="/cgi-bin/get_IJM.pl?tid=16568">.....&nbsp;C. purpurascens</a> (2)
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AME1.">1'</a><a name="AME1'"> </a> Awn included or occasionally prolonged &lt; 1 mm beyond glume tips, straight or twisted and bent
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AME7'">7.</a><a name="AME7."> </a> Leaf blade 0.2&ndash;1.7 mm wide; panicle 1.9&ndash;8.5 cm; callus hairs sparse
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AME8'">8.</a><a name="AME8."> </a> Leaf blade 7&ndash;11-veined, tip prow-shaped; panicle (4)5.7&ndash;8.5 cm; callus hairs 0.3&ndash;1.2 mm <a href="/cgi-bin/get_IJM.pl?tid=16535">.....&nbsp;C. breweri</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AME8.">8'</a><a name="AME8'"> </a> Leaf blade 3&ndash;5-veined, tip straight-sided; panicle 1.9&ndash;5.7(7.5) cm; callus hairs 0.3&ndash;0.6 mm <a href="/cgi-bin/get_IJM.pl?tid=79436">.....&nbsp;C. muiriana</a> (2)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AME7.">7'</a><a name="AME7'"> </a> Leaf blade (1.5)2&ndash;10(20) mm wide; panicle 4&ndash;30 cm; callus hairs abundant or sparse
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AME9'">9.</a><a name="AME9."> </a> Panicle &plusmn; open, lower branches spreading to ascending
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AME10'">10.</a><a name="AME10."> </a> Leaf collar generally puberulent or hairy-tufted; callus hairs &lt; 2 mm <a href="/cgi-bin/get_IJM.pl?tid=16577">.....&nbsp;C. rubescens</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AME10.">10'</a><a name="AME10'"> </a> Leaf collar smooth or scabrous, rarely hairy; callus hairs (1.5)2&ndash;3.5(4.5) mm
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AME11'">11.</a><a name="AME11."> </a> Glumes 5&ndash;7(7.5) mm; stems generally unbranched below with 1&ndash;2(3) nodes per stem; ligules 1&ndash;4 mm, entire, truncate, generally hidden by expanded collar below <a href="/cgi-bin/get_IJM.pl?tid=16562">.....&nbsp;C. nutkaensis</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AME11.">11'</a><a name="AME11'"> </a> Glumes 3&ndash;4.5 mm; stems generally branched below with (2)3&ndash;8 nodes per stem; ligules 3&ndash;8 mm, irregularly cut, obtuse to acute, not hidden by expanded collar below <a href="/cgi-bin/get_IJM.pl?tid=16538">.....&nbsp;C. canadensis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AME12'">12.</a><a name="AME12."> </a> Glumes smooth or scabrous, projections along keel straight, tips acute (acuminate); spikelets 2.5&ndash;3.5(4) mm <a href="/cgi-bin/get_IJM.pl?tid=55387">.....&nbsp;var. canadensis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AME12.">12'</a><a name="AME12'"> </a> Glumes scabrous across entire surface, rarely smooth, projections along keel often bent, tips acuminate; spikelets (3.5)4&ndash;4.5(5.2) mm <a href="/cgi-bin/get_IJM.pl?tid=88919">.....&nbsp;var. langsdorffii</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AME9.">9'</a><a name="AME9'"> </a> Panicle &plusmn; dense, narrow, lower branches appressed (occasionally ascending in <I>C. rubescens</I>, <I>C. stricta</I>)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AME13'">13.</a><a name="AME13."> </a> Glumes generally &lt; than 3 &times; longer than wide <a href="/cgi-bin/get_IJM.pl?tid=16582">.....&nbsp;C. stricta</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AME14'">14.</a><a name="AME14."> </a> Glumes 3&ndash;6 mm, generally thick, margin opaque; callus hairs 2&ndash;4.5 mm; spikelet axis 1&ndash;1.5 mm; longest panicle branches 1.5&ndash;9.5 cm <a href="/cgi-bin/get_IJM.pl?tid=49506">.....&nbsp;subsp. inexpansa</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AME14.">14'</a><a name="AME14'"> </a> Glumes 2&ndash;3(3.5) mm, generally thin, margin &plusmn; translucent; callus hairs 1&ndash;3 mm; spikelet axis 0.5&ndash;1 mm; longest panicle branches 1.5&ndash;4 cm <a href="/cgi-bin/get_IJM.pl?tid=49507">.....&nbsp;subsp. stricta</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AME13.">13'</a><a name="AME13'"> </a> Glumes generally > 3 &times; longer than wide
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AME15'">15.</a><a name="AME15."> </a> Leaf blade with small white-opaque hooks between the veins visible only with magnification <a href="/cgi-bin/get_IJM.pl?tid=16563">.....&nbsp;C. ophitidis</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AME15.">15'</a><a name="AME15'"> </a> Leaf blade without small white-opaque hooks between the veins
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AME16'">16.</a><a name="AME16."> </a> Leaf blade generally soft-hairy on the upper surface <a href="/cgi-bin/get_IJM.pl?tid=16568">.....&nbsp;C. purpurascens</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AME16.">16'</a><a name="AME16'"> </a> Leaf blade smooth or scabrous but not soft-hairy on the upper surface
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AME17'">17.</a><a name="AME17."> </a> Awn 4&ndash;5.5 mm; leaf collar scabrous or smooth; rhizomes 2&ndash;6 cm, 2&ndash;4 mm thick, stout <a href="/cgi-bin/get_IJM.pl?tid=16557">.....&nbsp;C. koelerioides</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AME17.">17'</a><a name="AME17'"> </a> Awn 2&ndash;4 mm; leaf collar generally puberulent or hairy-tufted; rhizomes 10&ndash;20 cm, 1.5&ndash;2 mm thick, slender <a href="/cgi-bin/get_IJM.pl?tid=16577">.....&nbsp;C. rubescens</a> (2)</blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

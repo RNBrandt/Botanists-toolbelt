@@ -1,0 +1,366 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Draba</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Draba
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23291">Draba albertina
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23307">Draba asterophora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23311">Draba aureola
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23317">Draba breweri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23318">Draba californica
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23319">Draba cana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23322">Draba carnosula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23325">Draba corrugata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23331">Draba cruciata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23332">Draba cuneifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23336">Draba densifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23353">Draba howellii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23361">Draba incrassata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23368">Draba lemmonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23370">Draba lonchocarpa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23369">Draba longisquamosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23378">Draba monoensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23380">Draba nemorosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23400">Draba novolympica
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23389">Draba oligosperma
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23407">Draba praealta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23410">Draba pterosperma
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23415">Draba reptans
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91746">Draba saxosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23421">Draba sharsmithii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23423">Draba sierrae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23439">Draba subumbellata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=23442">Draba verna
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=10578'><h3>View taxon page for Draba</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#MT1'">1.</a><a name="MT1."> </a> Annual or biennial
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#MT2'">2.</a><a name="MT2."> </a> Petals deeply 2-lobed; inflorescence axis generally wavy in fruit <a href="/cgi-bin/get_IJM.pl?tid=23442">.....&nbsp;D. verna</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#MT2.">2'</a><a name="MT2'"> </a> Petals not divided; inflorescence axis straight in fruit
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MT3'">3.</a><a name="MT3."> </a> Style (0.8)1&ndash;3.5 mm <a href="/cgi-bin/get_IJM.pl?tid=23325">.....&nbsp;D. corrugata</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MT3.">3'</a><a name="MT3'"> </a> Style &lt;= 0.4 mm
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MT4'">4.</a><a name="MT4."> </a> Inflorescence umbel-like in fruit <a href="/cgi-bin/get_IJM.pl?tid=23415">.....&nbsp;[D. reptans]</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MT4.">4'</a><a name="MT4'"> </a> Inflorescence elongated to &plusmn; congested, not umbel-like in fruit
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MT5'">5.</a><a name="MT5."> </a> Inflorescence axis glabrous
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MT6'">6.</a><a name="MT6."> </a> Cauline leaves (0)1&ndash;5; pedicels 3&ndash;14 mm, &lt;= fruit <a href="/cgi-bin/get_IJM.pl?tid=23291">.....&nbsp;D. albertina</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MT6.">6'</a><a name="MT6'"> </a> Cauline leaves 4&ndash;12(15); pedicels 7&ndash;28(35) mm, > fruit <a href="/cgi-bin/get_IJM.pl?tid=23380">.....&nbsp;[D. nemorosa]</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MT5.">5'</a><a name="MT5'"> </a> Inflorescence axis hairy
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MT7'">7.</a><a name="MT7."> </a> Basal leaves not rosetted, late-season flowers without petals; seeds 0.5&ndash;0.7 mm, ovoid <a href="/cgi-bin/get_IJM.pl?tid=23332">.....&nbsp;D. cuneifolia</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MT7.">7'</a><a name="MT7'"> </a> Basal leaves rosetted, late-season flowers with petals; seeds 0.8&ndash;1.1 mm, oblong <a href="/cgi-bin/get_IJM.pl?tid=23407">.....&nbsp;D. praealta</a> (2)
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#MT1.">1'</a><a name="MT1'"> </a> Perennial herb
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#MT8'">8.</a><a name="MT8."> </a> Basal leaves abaxially glabrous (leaf margins hairy)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MT9'">9.</a><a name="MT9."> </a> Style (1)1.6&ndash;3 mm
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MT10'">10.</a><a name="MT10."> </a> Fruit glabrous; seed 3&ndash;4.5 mm wide, round, winged <a href="/cgi-bin/get_IJM.pl?tid=23322">.....&nbsp;D. carnosula</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MT10.">10'</a><a name="MT10'"> </a> Fruit hairy; seed 1&ndash;1.6 mm, oblong, wingless <a href="/cgi-bin/get_IJM.pl?tid=23353">.....&nbsp;D. howellii</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MT9.">9'</a><a name="MT9'"> </a> Style 0.1&ndash;0.8 mm
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MT11'">11.</a><a name="MT11."> </a> Plant cushion-forming; leaf midvein prominent <a href="/cgi-bin/get_IJM.pl?tid=23336">.....&nbsp;D. densifolia</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MT11.">11'</a><a name="MT11'"> </a> Pl. not cushion-forming; leaf midvein obscure
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MT12'">12.</a><a name="MT12."> </a> Pedicel base not decurrent; fruit 1.5&ndash;3 mm wide, narrowly lanceolate <a href="/cgi-bin/get_IJM.pl?tid=23331">.....&nbsp;D. cruciata</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MT12.">12'</a><a name="MT12'"> </a> Pedicel base decurrent; fruit 2.2&ndash;4.5 mm wide, ovate to lance-elliptic <a href="/cgi-bin/get_IJM.pl?tid=23361">.....&nbsp;D. incrassata</a> (2)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#MT8.">8'</a><a name="MT8'"> </a> Basal leaves abaxially hairy
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MT13'">13.</a><a name="MT13."> </a> Plant cushion-forming; flowers yellow; cauline leaves 0
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MT14'">14.</a><a name="MT14."> </a> Style 1.5&ndash;3.8 mm; seeds winged <a href="/cgi-bin/get_IJM.pl?tid=23410">.....&nbsp;D. pterosperma</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MT14.">14'</a><a name="MT14'"> </a> Style 0.1&ndash;0.8(1) mm; seeds wingless
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MT15'">15.</a><a name="MT15."> </a> Leaf hairs sessile, comb-like, 7&ndash;16-rayed, long axis parallel to midvein <a href="/cgi-bin/get_IJM.pl?tid=23389">.....&nbsp;D. oligosperma</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MT15.">15'</a><a name="MT15'"> </a> Leaf hairs stalked, not comb-like, 2&ndash;12-rayed, long axis not parallel to midvein
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MT16'">16.</a><a name="MT16."> </a> Fruit not symmetric, flat, generally twisted <a href="/cgi-bin/get_IJM.pl?tid=23423">.....&nbsp;D. sierrae</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MT16.">16'</a><a name="MT16'"> </a> Fruit symmetric, flat or base inflated, not twisted
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MT17'">17.</a><a name="MT17."> </a> Leaves abaxially sparsely hairy, hairs 2&ndash;4-rayed; fruit flat <a href="/cgi-bin/get_IJM.pl?tid=23336">.....&nbsp;D. densifolia</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MT17.">17'</a><a name="MT17'"> </a> Leaves abaxially densely hairy, hairs 2&ndash;12-rayed; fruit inflated proximally
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MT18'">18.</a><a name="MT18."> </a> Inflorescence generally elongated in fruit; basal leaves ciliate, adaxial hairs simple, some 2-rayed <a href="/cgi-bin/get_IJM.pl?tid=23400">.....&nbsp;D. novolympica</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MT18.">18'</a><a name="MT18'"> </a> Inflorescence umbel-like in fruit; basal leaves not ciliate, adaxial hairs 5&ndash;12-rayed <a href="/cgi-bin/get_IJM.pl?tid=23439">.....&nbsp;D. subumbellata</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MT13.">13'</a><a name="MT13'"> </a> Plant not cushion-forming; flowers white (yellow); cauline leaves (0)1&ndash;many
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MT19'">19.</a><a name="MT19."> </a> Inflorescence axis glabrous
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MT20'">20.</a><a name="MT20."> </a> Hairs on basal leaves 8&ndash;12-rayed on abaxial surface <a href="/cgi-bin/get_IJM.pl?tid=23370">.....&nbsp;D. lonchocarpa</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MT20.">20'</a><a name="MT20'"> </a> Hairs on basal leaves 2&ndash;5-rayed on abaxial surface, occasionally also simple
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MT21'">21.</a><a name="MT21."> </a> Fruit base &plusmn; inflated; petals white; inflorescence umbel-like in fruit <a href="/cgi-bin/get_IJM.pl?tid=23378">.....&nbsp;D. monoensis</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MT21.">21'</a><a name="MT21'"> </a> Fruit base flat; petals yellow; inflorescence elongated in fruit
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MT22'">22.</a><a name="MT22."> </a> Seeds 8&ndash;12; pedicels decurrent at base <a href="/cgi-bin/get_IJM.pl?tid=23361">.....&nbsp;D. incrassata</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MT22.">22'</a><a name="MT22'"> </a> Seeds (12)14&ndash;44; pedicels not decurrent at base
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MT23'">23.</a><a name="MT23."> </a> Perennial herb, short-lived, not tufted; seeds 20&ndash;44; style &lt;= 0.1 mm; petals 2&ndash;3 mm <a href="/cgi-bin/get_IJM.pl?tid=23291">.....&nbsp;D. albertina</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MT23.">23'</a><a name="MT23'"> </a> Perennial herb, not short-lived, tufted; seeds 12&ndash;20; style (0.2)0.5&ndash;2 mm; petals 4&ndash;7 mm
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MT24'">24.</a><a name="MT24."> </a> Seeds winged; basal leaves not ciliate; fruit generally not twisted, straight, occasionally &plusmn; twisted <a href="/cgi-bin/get_IJM.pl?tid=23307">.....&nbsp;D. asterophora</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MT24.">24'</a><a name="MT24'"> </a> Seeds wingless; basal leaves ciliate; fruit twisted, curved <a href="/cgi-bin/get_IJM.pl?tid=23421">.....&nbsp;D. sharsmithii</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MT19.">19'</a><a name="MT19'"> </a> Inflorescence axis hairy
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MT25'">25.</a><a name="MT25."> </a> Basal leaves with simple hairs; petals persistent <a href="/cgi-bin/get_IJM.pl?tid=23369">.....&nbsp;D. longisquamosa</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MT25.">25'</a><a name="MT25'"> </a> Basal leaves with some branched hairs; petals deciduous
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MT26'">26.</a><a name="MT26."> </a> Style (0.8)1&ndash;3.5 mm; petals yellow
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MT27'">27.</a><a name="MT27."> </a> Cauline leaves 0(1) <a href="/cgi-bin/get_IJM.pl?tid=91746">.....&nbsp;D. saxosa</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MT27.">27'</a><a name="MT27'"> </a> Cauline leaves 4&ndash;33
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MT28'">28.</a><a name="MT28."> </a> Fruit oblong, not twisted; seeds 10&ndash;20; most proximal flowers bracted <a href="/cgi-bin/get_IJM.pl?tid=23311">.....&nbsp;D. aureola</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MT28.">28'</a><a name="MT28'"> </a> Fruit elliptic, generally twisted; seeds 16&ndash;28; flowers not bracted <a href="/cgi-bin/get_IJM.pl?tid=23325">.....&nbsp;D. corrugata</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MT26.">26'</a><a name="MT26'"> </a> Style 0.1&ndash;0.6 mm; petals white (yellow)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MT29'">29.</a><a name="MT29."> </a> Leaf hairs simple or 2-rayed
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MT30'">30.</a><a name="MT30."> </a> Flowers yellow; fruit flat, &plusmn; twisted, 2.5&ndash;5 mm wide <a href="/cgi-bin/get_IJM.pl?tid=23368">.....&nbsp;D. lemmonii</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MT30.">30'</a><a name="MT30'"> </a> Flowers white; fruit &plusmn; inflated proximally, not twisted, (1.2)1.5&ndash;2.5 mm wide <a href="/cgi-bin/get_IJM.pl?tid=23378">.....&nbsp;D. monoensis</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MT29.">29'</a><a name="MT29'"> </a> Leaf hairs generally 4&ndash;12-rayed
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MT31'">31.</a><a name="MT31."> </a> Fruit hairs 2&ndash;7-rayed only
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MT32'">32.</a><a name="MT32."> </a> Inflorescence not bracted; plant tufted; stem (1)2&ndash;10(15) cm <a href="/cgi-bin/get_IJM.pl?tid=23317">.....&nbsp;D. breweri</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MT32.">32'</a><a name="MT32'"> </a> Inflorescence bracted proximally; plant not tufted; stem (6)10&ndash;30(38) cm <a href="/cgi-bin/get_IJM.pl?tid=23319">.....&nbsp;D. cana</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MT31.">31'</a><a name="MT31'"> </a> At least some fruit hairs simple
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MT33'">33.</a><a name="MT33."> </a> Inflorescence 8&ndash;30(37)-flowered; leaves dentate; seeds (24)30&ndash;52 <a href="/cgi-bin/get_IJM.pl?tid=23407">.....&nbsp;D. praealta</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MT33.">33'</a><a name="MT33'"> </a> Inflorescence 3&ndash;13-flowered; leaves entire; seeds 16&ndash;32
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MT34'">34.</a><a name="MT34."> </a> Leaf hairs on both surfaces 4&ndash;8-rayed; inflorescence axis not wavy in fruit; sepals persistent <a href="/cgi-bin/get_IJM.pl?tid=23318">.....&nbsp;D. californica</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MT34.">34'</a><a name="MT34'"> </a> Leaf hairs on abaxial surface 8&ndash;12-rayed; inflorescence axis &plusmn; wavy in fruit; sepals deciduous <a href="/cgi-bin/get_IJM.pl?tid=23370">.....&nbsp;D. lonchocarpa</a> (2)</blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

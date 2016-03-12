@@ -1,0 +1,309 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Amaranthus</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Amaranthus
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12892">Amaranthus albus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12895">Amaranthus arenicola
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12900">Amaranthus blitoides
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=82143">Amaranthus blitum subsp. emarginatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12907">Amaranthus californicus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12911">Amaranthus caudatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12915">Amaranthus cruentus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12917">Amaranthus deflexus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12919">Amaranthus fimbriatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12924">Amaranthus hybridus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12928">Amaranthus hypochondriacus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12933">Amaranthus palmeri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12936">Amaranthus powellii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12941">Amaranthus retroflexus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12945">Amaranthus spinosus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76915">Amaranthus torreyi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91723">Amaranthus tuberculatus var. rudis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12952">Amaranthus viridis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12955">Amaranthus watsonii
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=9077'><h3>View taxon page for Amaranthus</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#CF1'">1.</a><a name="CF1."> </a> Dioecious
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#CF2'">2.</a><a name="CF2."> </a> Plant in hand pistillate
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#CF3'">3.</a><a name="CF3."> </a> Perianth parts 1&ndash;2, 1 narrowly lanceolate, 1 rudimentary or 0 <a href="/cgi-bin/get_IJM.pl?tid=91723">.....&nbsp;A. tuberculatus var. rudis</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#CF3.">3'</a><a name="CF3'"> </a> Perianth parts 5, well developed, fan- or spoon-shaped
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#CF4'">4.</a><a name="CF4."> </a> Bracts &lt;= perianth parts <a href="/cgi-bin/get_IJM.pl?tid=12895">.....&nbsp;A. arenicola</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#CF4.">4'</a><a name="CF4'"> </a> Bracts > than perianth parts
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#CF5'">5.</a><a name="CF5."> </a> Plant &plusmn; glabrous; outer perianth parts &plusmn; acuminate <a href="/cgi-bin/get_IJM.pl?tid=12933">.....&nbsp;A. palmeri</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#CF5.">5'</a><a name="CF5'"> </a> Plant glandular-hairy especially on bracts; outer perianth parts obtuse to &plusmn; notched, mucronate <a href="/cgi-bin/get_IJM.pl?tid=12955">.....&nbsp;A. watsonii</a> (2)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#CF2.">2'</a><a name="CF2'"> </a> Plant in hand staminate
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#CF6'">6.</a><a name="CF6."> </a> Bracts &lt;= 2 mm <a href="/cgi-bin/get_IJM.pl?tid=91723">.....&nbsp;A. tuberculatus var. rudis</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#CF6.">6'</a><a name="CF6'"> </a> Bracts (1.4)2&ndash;6 mm
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#CF7'">7.</a><a name="CF7."> </a> Outer perianth parts acuminate, spine-tipped; bracts >= perianth parts <a href="/cgi-bin/get_IJM.pl?tid=12933">.....&nbsp;A. palmeri</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#CF7.">7'</a><a name="CF7'"> </a> Outer perianth parts mucronate; bracts &lt;= perianth parts
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#CF8'">8.</a><a name="CF8."> </a> Inflorescence axis and bracts glabrous <a href="/cgi-bin/get_IJM.pl?tid=12895">.....&nbsp;A. arenicola</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#CF8.">8'</a><a name="CF8'"> </a> Inflorescence axis and bracts generally sparsely glandular-hairy <a href="/cgi-bin/get_IJM.pl?tid=12955">.....&nbsp;A. watsonii</a> (2)
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#CF1.">1'</a><a name="CF1'"> </a> Monoecious
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#CF9'">9.</a><a name="CF9."> </a> Nodes with 2 spines <a href="/cgi-bin/get_IJM.pl?tid=12945">.....&nbsp;[A. spinosus]</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#CF9.">9'</a><a name="CF9'"> </a> Nodes without spines
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#CF10'">10.</a><a name="CF10."> </a> Perianth parts 1&ndash;3, only 1 well developed <a href="/cgi-bin/get_IJM.pl?tid=12907">.....&nbsp;A. californicus</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#CF10.">10'</a><a name="CF10'"> </a> Perianth parts (2)3&ndash;5, all well developed.
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#CF11'">11.</a><a name="CF11."> </a> Pistillate perianth parts fan-shaped, margins fringed or finely dentate <a href="/cgi-bin/get_IJM.pl?tid=12919">.....&nbsp;A. fimbriatus</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#CF11.">11'</a><a name="CF11'"> </a> Pistillate perianth parts not fan-shaped, margins entire
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#CF12'">12.</a><a name="CF12."> </a> Inflorescence of axillary clusters only, or axillary and terminal
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#CF13'">13.</a><a name="CF13."> </a> Perianth parts (3)4&ndash;5
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CF14'">14.</a><a name="CF14."> </a> Perianth parts narrow-ovate to oblong; seeds 1.3&ndash;1.7 mm <a href="/cgi-bin/get_IJM.pl?tid=12900">.....&nbsp;A. blitoides</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CF14.">14'</a><a name="CF14'"> </a> Perianth parts narrow-spoon-shaped; seeds 0.9&ndash;1.1 mm <a href="/cgi-bin/get_IJM.pl?tid=76915">.....&nbsp;A. torreyi</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#CF13.">13'</a><a name="CF13'"> </a> Perianth parts (2)3
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CF15'">15.</a><a name="CF15."> </a> Fruit dehiscent; bracts 1.5&ndash;4 mm, tip &plusmn; spined <a href="/cgi-bin/get_IJM.pl?tid=12892">.....&nbsp;A. albus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CF15.">15'</a><a name="CF15'"> </a> Fruit indehiscent; bracts &lt;= 1 mm, tip not spined
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CF16'">16.</a><a name="CF16."> </a> Stem hairy distally; fruit 2&ndash;3 mm, smooth <a href="/cgi-bin/get_IJM.pl?tid=12917">.....&nbsp;A. deflexus</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CF16.">16'</a><a name="CF16'"> </a> Stem &plusmn; glabrous; fruit 1.2&ndash;1.5 mm, wrinkled
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#CF17'">17.</a><a name="CF17."> </a> Leaf tip entire or &plusmn; notched; seeds dull, dotted <a href="/cgi-bin/get_IJM.pl?tid=12952">.....&nbsp;[A. viridis]</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#CF17.">17'</a><a name="CF17'"> </a> Leaf tip deeply notched to 2-lobed; seeds shiny, only margins dotted <a href="/cgi-bin/get_IJM.pl?tid=82143">.....&nbsp;[A. blitum subsp. emarginatus]</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#CF12.">12'</a><a name="CF12'"> </a> Inflorescence terminal only
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#CF18'">18.</a><a name="CF18."> </a> Inflorescence green; bracts > stigma; seeds brown to black; often weedy
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CF19'">19.</a><a name="CF19."> </a> Perianth parts spoon-shaped to obovate, overlapping, reflexed in age, tip rounded to &plusmn; notched <a href="/cgi-bin/get_IJM.pl?tid=12941">.....&nbsp;A. retroflexus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CF19.">19'</a><a name="CF19'"> </a> Perianth parts linear to lance-oblong, not overlapping, erect, tip acute to awned
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CF20'">20.</a><a name="CF20."> </a> Leaf blades rhombic-ovate or widely lanceolate; inflorescence of many thin, flexible branches; bracts 2&ndash;4 mm <a href="/cgi-bin/get_IJM.pl?tid=12924">.....&nbsp;A. hybridus</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CF20.">20'</a><a name="CF20'"> </a> Leaf blades elliptic, rhombic to widely lanceolate; inflorescence of few rigid, erect branches; bracts 4.5&ndash;6(8) mm <a href="/cgi-bin/get_IJM.pl?tid=12936">.....&nbsp;A. powellii</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#CF18.">18'</a><a name="CF18'"> </a> Inflorescence brightly colored, not green; bracts generally &lt;= stigma; seeds white to &plusmn; red-brown or black; cultivated, rarely escaped
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CF21'">21.</a><a name="CF21."> </a> Inflorescence main axis generally drooping or nodding; perianth parts widely spoon-shaped, margins overlapping, tip obtuse to rounded <a href="/cgi-bin/get_IJM.pl?tid=12911">.....&nbsp;[A. caudatus]</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CF21.">21'</a><a name="CF21'"> </a> Inflorescence not drooping or nodding; perianth parts linear to elliptic (obovate), margins not overlapping, acute to acuminate (rounded)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CF22'">22.</a><a name="CF22."> </a> Inflorescence erect to flexible, lateral axes thin, flexible, 3&ndash;8(12) cm, 0.5&ndash;1 cm wide; bracts 1.8&ndash;2.5 mm; fruit tip abruptly narrowed to a beak <a href="/cgi-bin/get_IJM.pl?tid=12915">.....&nbsp;[A. cruentus]</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CF22.">22'</a><a name="CF22'"> </a> Inflorescence erect, lateral axes thick, stiff, 9&ndash;20(30) cm, 1.2&ndash;2 cm wide; bracts 3&ndash;5(6) mm; fruit tip gradually narrowed <a href="/cgi-bin/get_IJM.pl?tid=12928">.....&nbsp;[A. hypochondriacus]</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

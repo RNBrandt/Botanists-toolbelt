@@ -1,0 +1,230 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Search</title>
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<!-- Google analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+      <td colspan="5" align="center" valign="middle">&nbsp;</td>
+    </tr>
+
+  <tr>
+      <td rowspan="4" width="12" align="center" valign="middle"></td>
+      <td rowspan="3" width="120" align="center" valign="middle">
+        <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/logo_jeps_80.png" alt="Jepson Herbarium (JEPS)" width="80" height="79" border="0" /></a></td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle"></td>
+    <td rowspan="4" width="12" align="center" valign="middle"></td>
+  </tr>
+    <tr>
+
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+    <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+   </tr>
+
+     <tr>
+     <td colspan="3" align="center"></td>
+
+   </tr>
+     
+   <tr>
+       <td height="8" colspan="5" align="center">&nbsp;</td>
+     </tr>
+   <tr class="bannerBottomBorder">
+     	<td colspan="6" height="3"></td>
+  </tr>
+
+    <tr>
+
+    <td colspan="6"><img src="http://ucjeps.berkeley.edu/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  </table>
+<!-- End banner -->
+
+<!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+            	<li><a href="http://ucjeps.berkeley.edu/images/">UC/JEPS Image Collection</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+<table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora:</a> Search page</span>
+		<br>
+			<span class="pageAuthorLine">
+				<a href="http://ucjeps.berkeley.edu/IJM_fam_key.html">Key to families</a>
+				<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+			</span>	  
+		</td>
+	</tr>
+</table>
+
+<table align="center" width="100%"><tr><td>
+&nbsp;
+</td>
+<td width=90%">
+<!--eFlora index-->
+<span class="pageAuthorLine">Index to accepted names and synonyms:</span><br>
+| 	<a href="eflora_index.php?index=A">A</a> | 
+	<a href="eflora_index.php?index=B">B</a> | 
+	<a href="eflora_index.php?index=C">C</a> | 
+	<a href="eflora_index.php?index=D">D</a> | 
+	<a href="eflora_index.php?index=E">E</a> | 
+	<a href="eflora_index.php?index=F">F</a> | 
+	<a href="eflora_index.php?index=G">G</a> | 
+	<a href="eflora_index.php?index=H">H</a> | 
+	<a href="eflora_index.php?index=I">I</a> | 
+	<a href="eflora_index.php?index=J">J</a> | 
+	<a href="eflora_index.php?index=K">K</a> | 
+	<a href="eflora_index.php?index=L">L</a> | 
+	<a href="eflora_index.php?index=M">M</a> | 
+	<a href="eflora_index.php?index=N">N</a> | 
+	<a href="eflora_index.php?index=O">O</a> | 
+	<a href="eflora_index.php?index=P">P</a> | 
+	<a href="eflora_index.php?index=Q">Q</a> | 
+	<a href="eflora_index.php?index=R">R</a> | 
+	<a href="eflora_index.php?index=S">S</a> | 
+	<a href="eflora_index.php?index=T">T</a> | 
+	<a href="eflora_index.php?index=U">U</a> | 
+	<a href="eflora_index.php?index=V">V</a> | 
+	<a href="eflora_index.php?index=W">W</a> | 
+	<a href="eflora_index.php?index=X">X</a> | 
+	<a href="eflora_index.php?index=Y">Y</a> | 
+	<a href="eflora_index.php?index=Z">Z</a> |
+<hr width="10%">
+</td>
+
+<td align="right">
+&nbsp;
+</td></tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+<form action="search_eflora.php" method="POST">
+<b>Scientific Name<br></b>		<input type="text" id="query_text" name="query"></input>
+		<input type="submit" value="Submit Name" />
+</form>
+
+<p class="bodyText">Index Page: K<p><div class="eFloraTable"><table border="1"><tr><td>Scientific Name</td><td>Common Name</td><td></td></tr><tr><td><a href="eflora_display.php?tid=43028">Kali australis</a><br>(Under Salsola australis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=43033">Kali paulsenii</a><br>(Under Salsola paulsenii)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=9715">Kallstroemia</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9715">&#x21b3;&nbsp;&nbsp;Key to Kallstroemia</td><td></td><td></td><tr><td><a href="eflora_display.php?tid=29857">Kallstroemia californica</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29859">Kallstroemia grandiflora</a></td><td></td><td>Waif</td><tr><td><a href="eflora_display.php?tid=29862">Kallstroemia parviflora</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=8974">Kalmia</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=29874">Kalmia microphylla</a><br>(Under Kalmia polifolia)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29874">Kalmia microphylla var. microphylla</a><br>(Under Kalmia polifolia)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29874">Kalmia polifolia</a></td><td>SWAMP LAUREL, BOX LAUREL</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29874">Kalmia polifolia subsp. microphylla</a><br>(Under Kalmia polifolia)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29874">Kalmia polifolia subsp. polifolia</a><br>(Under Kalmia polifolia)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=11031">Karroochloa purpurea</a><br>(Under Danthonia)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=11365">Keckiella</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=11365">&#x21b3;&nbsp;&nbsp;Key to Keckiella</td><td>BUSH PENSTEMON</td><td></td><tr><td><a href="eflora_display.php?tid=29880">Keckiella antirrhinoides</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=76786">Keckiella antirrhinoides subsp. antirrhinoides</a><br>(Under Keckiella antirrhinoides var. antirrhinoides)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=76785">Keckiella antirrhinoides subsp. microphylla</a><br>(Under Keckiella antirrhinoides var. microphylla)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=76786">Keckiella antirrhinoides var. antirrhinoides</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=76785">Keckiella antirrhinoides var. microphylla</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29881">Keckiella breviflora</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=75718">Keckiella breviflora subsp. breviflora</a><br>(Under Keckiella breviflora var. breviflora)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=60466">Keckiella breviflora subsp. glabrisepala</a><br>(Under Keckiella breviflora var. glabrisepala)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=75718">Keckiella breviflora var. breviflora</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=60466">Keckiella breviflora var. glabrisepala</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29882">Keckiella cordifolia</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29883">Keckiella corymbosa</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29884">Keckiella lemmonii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29885">Keckiella rothrockii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=76787">Keckiella rothrockii subsp. jacintensis</a><br>(Under Keckiella rothrockii var. jacintensis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=76788">Keckiella rothrockii subsp. rothrockii</a><br>(Under Keckiella rothrockii var. rothrockii)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=76787">Keckiella rothrockii var. jacintensis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=76788">Keckiella rothrockii var. rothrockii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29886">Keckiella ternata</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=76789">Keckiella ternata subsp. septentrionalis</a><br>(Under Keckiella ternata var. septentrionalis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=76790">Keckiella ternata subsp. ternata</a><br>(Under Keckiella ternata var. ternata)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=76789">Keckiella ternata var. septentrionalis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=76790">Keckiella ternata var. ternata</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=11296">Kelloggia</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=29890">Kelloggia galioides</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=11366">Kickxia</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=11366">&#x21b3;&nbsp;&nbsp;Key to Kickxia</td><td></td><td></td><tr><td><a href="eflora_display.php?tid=29898">Kickxia elatine</a></td><td></td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=29899">Kickxia spuria</a></td><td></td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=9529">Kniphofia</a></td><td>RED-HOT POKER</td><td></td><tr><td><a href="eflora_display.php?tid=29921">Kniphofia uvaria</a></td><td></td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=8912">Kobresia</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=29928">Kobresia bellardii</a><br>(Under Kobresia myosuroides)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29928">Kobresia myosuroides</a></td><td>SEEP KOBRESIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=11500">Kochia</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=11500">&#x21b3;&nbsp;&nbsp;Key to Kochia</td><td></td><td></td><tr><td><a href="eflora_display.php?tid=29939">Kochia americana</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29941">Kochia americana var. californica</a><br>(Under Kochia californica)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29939">Kochia americana var. vestita</a><br>(Under Kochia americana)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29941">Kochia californica</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=91769">Kochia iranica</a><br>(Under Kochia scoparia subsp. scoparia)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=11492">Kochia scoparia</a><br>(Under Bassia)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=15511">Kochia scoparia</a><br>(Under Bassia hyssopifolia)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=11500">Kochia scoparia</a><br>(Under Kochia)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=91769">Kochia scoparia f. trichophylla</a><br>(Under Kochia scoparia subsp. scoparia)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=91769">Kochia scoparia subsp. culta</a><br>(Under Kochia scoparia subsp. scoparia)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=91769">Kochia scoparia subsp. scoparia</a></td><td></td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=91769">Kochia scoparia var. subvillosa</a><br>(Under Kochia scoparia subsp. scoparia)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=91769">Kochia trichophylla</a><br>(Under Kochia scoparia subsp. scoparia)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29939">Kochia vestita</a><br>(Under Kochia americana)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=10310">Koeberlinia</a></td><td>ALL THORN</td><td></td><tr><td><a href="eflora_display.php?tid=60478">Koeberlinia spinosa subsp. tenuispina</a><br>(Under Koeberlinia spinosa var. tenuispina)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=60478">Koeberlinia spinosa var. spinosa</a><br>(Under Koeberlinia spinosa var. tenuispina)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=60478">Koeberlinia spinosa var. tenuispina</a></td><td>SLENDER-SPINED ALL THORN</td><td>Native</td><tr><td><a href="eflora_display.php?tid=60478">Koeberlinia spinosa var. wivaggii</a><br>(Under Koeberlinia spinosa var. tenuispina)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=79167">Koeberliniaceae</a></td><td>JUNCO FAMILY</td><td></td><tr><td><a href="eflora_display.php?tid=11091">Koeleria</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=11091">&#x21b3;&nbsp;&nbsp;Key to Koeleria</td><td></td><td></td><tr><td><a href="eflora_display.php?tid=29951">Koeleria cristata</a><br>(Under Koeleria macrantha)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29951">Koeleria cristata var. longifolia</a><br>(Under Koeleria macrantha)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29957">Koeleria gerardi</a></td><td>ANNUAL JUNE GRASS, BRISTLY KOELERIA</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=29951">Koeleria gracilis</a><br>(Under Koeleria macrantha)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29951">Koeleria macrantha</a></td><td>JUNE GRASS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29951">Koeleria nitida</a><br>(Under Koeleria macrantha)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29957">Koeleria phleoides</a><br>(Under Koeleria gerardi)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29951">Koeleria pyramidata</a><br>(Under Koeleria macrantha)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=37370">Kohlrauschia velutina</a><br>(Under Petrorhagia dubia)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=93801">Kopsiopsis</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=93801">&#x21b3;&nbsp;&nbsp;Key to Kopsiopsis</td><td>GROUND-CONE</td><td></td><tr><td><a href="eflora_display.php?tid=93803">Kopsiopsis hookeri</a></td><td>SMALL GROUND-CONE</td><td>Native</td><tr><td><a href="eflora_display.php?tid=93802">Kopsiopsis strobilacea</a></td><td>CALIFORNIA GROUND-CONE</td><td>Native</td><tr><td><a href="eflora_display.php?tid=9961">Krameria</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9961">&#x21b3;&nbsp;&nbsp;Key to Krameria</td><td>RHATANY</td><td></td><tr><td><a href="eflora_display.php?tid=91905">Krameria bicolor</a></td><td>WHITE RHATANY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=91905">Krameria canescens</a><br>(Under Krameria bicolor)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=30007">Krameria erecta</a></td><td>PIMA RHATANY, PURPLE HEATHER, LITTLE-LEAVED RHATANY</td><td>Native</td><tr><td><a href="eflora_display.php?tid=30007">Krameria glandulosa</a><br>(Under Krameria erecta)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=91905">Krameria grayi</a><br>(Under Krameria bicolor)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=30007">Krameria parvifolia</a><br>(Under Krameria erecta)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=30007">Krameria parvifolia var. imparata</a><br>(Under Krameria erecta)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=165">Krameriaceae</a></td><td>RHATANY FAMILY</td><td></td><tr><td><a href="eflora_display.php?tid=11501">Krascheninnikovia</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=30017">Krascheninnikovia lanata</a></td><td>WINTER FAT</td><td>Native</td><tr><td><a href="eflora_display.php?tid=21263">Krynitzkia micromeres</a><br>(Under Cryptantha micromeres)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=40842">Kumlienia hystricula</a><br>(Under Ranunculus hystriculus)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=77552">Kyhosia</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=77553">Kyhosia bolanderi</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=8913">Kyllinga</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=30044">Kyllinga brevifolia</a></td><td></td><td>Naturalized</td></table></div><br>
+<a href="mailto:interchange@lists.berkeley.edu"><span class="feedbackLink">Feedback/Contact<span></a><br>
+</td>
+</tr>
+</table>
+
+
+
+<!--Begin footer-->
+<table width="100%" id="footer">
+  <tr>
+    <td height="18" class="banner"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  <tr>
+    <td height="20"><span class="copyrightText"><a href="http://ucjeps.berkeley.edu/main/copyright.html"> Copyright</a> &copy; 2016  Regents of the University of California
+<br>We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.</span></td>
+  </tr>
+</table>
+<!--End footer-->

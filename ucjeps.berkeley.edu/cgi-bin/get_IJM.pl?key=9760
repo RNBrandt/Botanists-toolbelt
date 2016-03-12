@@ -1,0 +1,504 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Clarkia</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Clarkia
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19563">Clarkia affinis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19564">Clarkia amoena
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49885">Clarkia amoena subsp. amoena
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49887">Clarkia amoena subsp. huntiana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49889">Clarkia amoena subsp. whitneyi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19565">Clarkia arcuata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19566">Clarkia australis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19567">Clarkia biloba
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49890">Clarkia biloba subsp. australis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49891">Clarkia biloba subsp. biloba
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49892">Clarkia biloba subsp. brandegeeae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19568">Clarkia borealis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49893">Clarkia borealis subsp. arida
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49894">Clarkia borealis subsp. borealis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19569">Clarkia bottae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19571">Clarkia breweri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19572">Clarkia concinna
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49895">Clarkia concinna subsp. automixa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49896">Clarkia concinna subsp. concinna
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49897">Clarkia concinna subsp. raichei
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19573">Clarkia cylindrica
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49898">Clarkia cylindrica subsp. clavicarpa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49899">Clarkia cylindrica subsp. cylindrica
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19574">Clarkia davyi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19575">Clarkia delicata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19576">Clarkia dudleyana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19577">Clarkia epilobioides
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19578">Clarkia exilis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19579">Clarkia franciscana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19580">Clarkia gracilis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49900">Clarkia gracilis subsp. albicaulis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49901">Clarkia gracilis subsp. gracilis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49902">Clarkia gracilis subsp. sonomensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49903">Clarkia gracilis subsp. tracyi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19581">Clarkia heterandra
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19582">Clarkia imbricata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19583">Clarkia jolonensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19584">Clarkia lassenensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19585">Clarkia lewisii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19586">Clarkia lingulata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19587">Clarkia mildrediae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=77421">Clarkia mildrediae subsp. lutescens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=77422">Clarkia mildrediae subsp. mildrediae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19588">Clarkia modesta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19589">Clarkia mosquinii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19590">Clarkia prostrata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19592">Clarkia purpurea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49906">Clarkia purpurea subsp. purpurea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49907">Clarkia purpurea subsp. quadrivulnera
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49908">Clarkia purpurea subsp. viminea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19595">Clarkia rhomboidea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19596">Clarkia rostrata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19597">Clarkia rubicunda
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19598">Clarkia similis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19599">Clarkia speciosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49910">Clarkia speciosa subsp. immaculata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49911">Clarkia speciosa subsp. nitens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49912">Clarkia speciosa subsp. polyantha
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49913">Clarkia speciosa subsp. speciosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19601">Clarkia springvillensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19602">Clarkia stellata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19603">Clarkia tembloriensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49914">Clarkia tembloriensis subsp. calientensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49915">Clarkia tembloriensis subsp. tembloriensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19605">Clarkia unguiculata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19607">Clarkia virgata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19608">Clarkia williamsonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19609">Clarkia xantiana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49916">Clarkia xantiana subsp. parviflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49917">Clarkia xantiana subsp. xantiana
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=9760'><h3>View taxon page for Clarkia</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#YB1'">1.</a><a name="YB1."> </a> Fruit 2&ndash;3 mm, nut-like, indehiscent, 1&ndash;2-seeded <a href="/cgi-bin/get_IJM.pl?tid=19581">.....&nbsp;C. heterandra</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#YB1.">1'</a><a name="YB1'"> </a> Fruit > 5 mm, not nut-like, dehiscent, many-seeded
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#YB2'">2.</a><a name="YB2."> </a> Stamens 4; petals 3-lobed
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#YB3'">3.</a><a name="YB3."> </a> Petal length &plusmn; = width, middle lobe narrower <a href="/cgi-bin/get_IJM.pl?tid=19571">.....&nbsp;C. breweri</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#YB3.">3'</a><a name="YB3'"> </a> Petal length &plusmn; 2 &times; width, lobes &plusmn; equally wide <a href="/cgi-bin/get_IJM.pl?tid=19572">.....&nbsp;C. concinna</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#YB4'">4.</a><a name="YB4."> </a> Stigma exserted beyond anthers; petals 15&ndash;30 mm <a href="/cgi-bin/get_IJM.pl?tid=49896">.....&nbsp;subsp. concinna</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#YB4.">4'</a><a name="YB4'"> </a> Stigma not exserted beyond anthers; petals 10&ndash;20 mm
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YB5'">5.</a><a name="YB5."> </a> Petal lobes prominent, separated by deep sinuses <a href="/cgi-bin/get_IJM.pl?tid=49895">.....&nbsp;subsp. automixa</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YB5.">5'</a><a name="YB5'"> </a> Petal lobes short, not separated by deep sinuses <a href="/cgi-bin/get_IJM.pl?tid=49897">.....&nbsp;subsp. raichei</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#YB2.">2'</a><a name="YB2'"> </a> Stamens 8; petals not 3-lobed
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#YB6'">6.</a><a name="YB6."> </a> Axis of inflorescence in bud straight; buds erect or reflexed
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#YB7'">7.</a><a name="YB7."> </a> Buds reflexed; corolla rotate or bowl-shaped; inner anthers &lt; outer, paler
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YB8'">8.</a><a name="YB8."> </a> Petal lobes 2, with slender tooth between <a href="/cgi-bin/get_IJM.pl?tid=19609">.....&nbsp;C. xantiana</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YB9'">9.</a><a name="YB9."> </a> Petals 6&ndash;12 mm; stigma not exserted beyond anthers <a href="/cgi-bin/get_IJM.pl?tid=49916">.....&nbsp;subsp. parviflora</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YB9.">9'</a><a name="YB9'"> </a> Petals 12&ndash;20 mm; stigma exserted beyond anthers <a href="/cgi-bin/get_IJM.pl?tid=49917">.....&nbsp;subsp. xantiana</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YB8.">8'</a><a name="YB8'"> </a> Petals entire
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YB10'">10.</a><a name="YB10."> </a> Corolla bowl-shaped; petals not clawed
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YB11'">11.</a><a name="YB11."> </a> Seeds brown; s Outer South Coast Ranges (San Luis Obispo Co. and s), South Coast, Western Transverse Ranges, nw Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=19569">.....&nbsp;C. bottae</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YB11.">11'</a><a name="YB11'"> </a> Seeds gray; n Outer South Coast Ranges (Monterey Co.) <a href="/cgi-bin/get_IJM.pl?tid=19583">.....&nbsp;C. jolonensis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YB10.">10'</a><a name="YB10'"> </a> Corolla rotate; petals clawed
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YB12'">12.</a><a name="YB12."> </a> Petal claw &lt; blade <a href="/cgi-bin/get_IJM.pl?tid=19575">.....&nbsp;C. delicata</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YB12.">12'</a><a name="YB12'"> </a> Petal claw >= blade
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YB13'">13.</a><a name="YB13."> </a> Calyx and ovary puberulent and with longer, straight, spreading hairs &lt; 3 mm <a href="/cgi-bin/get_IJM.pl?tid=19605">.....&nbsp;C. unguiculata</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YB13.">13'</a><a name="YB13'"> </a> Calyx and ovary sparsely to densely puberulent, longer straight spreading hairs 0
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YB14'">14.</a><a name="YB14."> </a> Leaves bright green, not glaucous <a href="/cgi-bin/get_IJM.pl?tid=19578">.....&nbsp;C. exilis</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YB14.">14'</a><a name="YB14'"> </a> Leaves gray-green or &plusmn; red, glaucous
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#YB15'">15.</a><a name="YB15."> </a> Sepals generally dark red-purple &mdash; stigma exserted beyond anthers <a href="/cgi-bin/get_IJM.pl?tid=19601">.....&nbsp;C. springvillensis</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#YB15.">15'</a><a name="YB15'"> </a> Sepals green, red-tinged or not <a href="/cgi-bin/get_IJM.pl?tid=19603">.....&nbsp;C. tembloriensis</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#YB16'">16.</a><a name="YB16."> </a> Petals &plusmn; 10 mm wide; stigma not exserted beyond anthers <a href="/cgi-bin/get_IJM.pl?tid=49914">.....&nbsp;subsp. calientensis</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#YB16.">16'</a><a name="YB16'"> </a> Petals generally &lt; 10 mm wide; stigma exserted beyond anthers or not <a href="/cgi-bin/get_IJM.pl?tid=49915">.....&nbsp;subsp. tembloriensis</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#YB7.">7'</a><a name="YB7'"> </a> Buds erect; corolla bowl-shaped; anthers alike
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YB17'">17.</a><a name="YB17."> </a> Sepals staying fused in 4s
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YB18'">18.</a><a name="YB18."> </a> Ovary and immature fruit 8-grooved
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YB19'">19.</a><a name="YB19."> </a> Petals 5&ndash;15 mm; immature fruit cylindric <a href="/cgi-bin/get_IJM.pl?tid=19563">.....&nbsp;C. affinis</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YB19.">19'</a><a name="YB19'"> </a> Petals 30&ndash;60 mm; immature fruit fusiform <a href="/cgi-bin/get_IJM.pl?tid=49889">.....&nbsp;C. amoena subsp. whitneyi</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YB18.">18'</a><a name="YB18'"> </a> Ovary and immature fruit 4-grooved
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YB20'">20.</a><a name="YB20."> </a> Petals with red spot or marks near middle <a href="/cgi-bin/get_IJM.pl?tid=19564">.....&nbsp;C. amoena</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YB21'">21.</a><a name="YB21."> </a> Stem decumbent; inflorescence dense; internode generally &lt; subtending flower <a href="/cgi-bin/get_IJM.pl?tid=49885">.....&nbsp;subsp. amoena</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YB21.">21'</a><a name="YB21'"> </a> Stem erect; inflorescence open; internode generally > subtending flower <a href="/cgi-bin/get_IJM.pl?tid=49887">.....&nbsp;subsp. huntiana</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YB20.">20'</a><a name="YB20'"> </a> Petals with &plusmn; red spot or zone at base
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YB22'">22.</a><a name="YB22."> </a> Petals 5&ndash;13 mm; stigma not exserted beyond anthers <a href="/cgi-bin/get_IJM.pl?tid=19579">.....&nbsp;C. franciscana</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YB22.">22'</a><a name="YB22'"> </a> Petals 10&ndash;30 mm; stigma exserted beyond anthers <a href="/cgi-bin/get_IJM.pl?tid=19597">.....&nbsp;C. rubicunda</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YB17.">17'</a><a name="YB17'"> </a> Sepals all coming free or staying fused in 2s
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YB23'">23.</a><a name="YB23."> </a> Stigma not exserted beyond anthers; petals 5&ndash;15 mm
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YB24'">24.</a><a name="YB24."> </a> Stem generally erect; leaves generally linear to lanceolate, acute <a href="/cgi-bin/get_IJM.pl?tid=49907">.....&nbsp;C. purpurea subsp. quadrivulnera</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YB24.">24'</a><a name="YB24'"> </a> Stem prostrate to decumbent; leaves elliptic to obovate, tip generally obtuse
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YB25'">25.</a><a name="YB25."> </a> Petals 5&ndash;11 mm, spot 0 <a href="/cgi-bin/get_IJM.pl?tid=19574">.....&nbsp;C. davyi</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YB25.">25'</a><a name="YB25'"> </a> Petals 10&ndash;15 mm, &plusmn; red spot above base <a href="/cgi-bin/get_IJM.pl?tid=19590">.....&nbsp;C. prostrata</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YB23.">23'</a><a name="YB23'"> </a> Stigma exserted beyond anthers; petals generally 15&ndash;30 mm
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YB26'">26.</a><a name="YB26."> </a> Sepals free at tip in bud <a href="/cgi-bin/get_IJM.pl?tid=19608">.....&nbsp;C. williamsonii</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YB26.">26'</a><a name="YB26'"> </a> Sepals fused to tip in bud
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YB27'">27.</a><a name="YB27."> </a> Inflorescence dense; ovary generally > distal internode
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YB28'">28.</a><a name="YB28."> </a> Hypanthium conspicuously veined; petals with a large wedge-shaped purple-red spot distally <a href="/cgi-bin/get_IJM.pl?tid=19582">.....&nbsp;C. imbricata</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YB28.">28'</a><a name="YB28'"> </a> Hypanthium not conspicuously veined; petal spot near middle
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#YB29'">29.</a><a name="YB29."> </a> Leaves broadly lanceolate to elliptic or ovate, glabrous to sparsely puberulent <a href="/cgi-bin/get_IJM.pl?tid=49906">.....&nbsp;C. purpurea subsp. purpurea</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#YB29.">29'</a><a name="YB29'"> </a> Leaves lanceolate, puberulent <a href="/cgi-bin/get_IJM.pl?tid=49911">.....&nbsp;C. speciosa subsp. nitens</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YB27.">27'</a><a name="YB27'"> </a> Inflorescence open; ovary generally &lt; distal internode
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YB30'">30.</a><a name="YB30."> </a> Petals lacking red or red-purple spot <a href="/cgi-bin/get_IJM.pl?tid=49910">.....&nbsp;C. speciosa subsp. immaculata</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YB30.">30'</a><a name="YB30'"> </a> Petals with red or red-purple spot
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#YB31'">31.</a><a name="YB31."> </a> Petal spot distal (darker proximally or not) <a href="/cgi-bin/get_IJM.pl?tid=49908">.....&nbsp;C. purpurea subsp. viminea</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#YB31.">31'</a><a name="YB31'"> </a> Petal spot near middle
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#YB32'">32.</a><a name="YB32."> </a> Flowers many on well-developed branches; s Sierra Nevada Foothills, Tehachapi Mountain Area <a href="/cgi-bin/get_IJM.pl?tid=49912">.....&nbsp;C. speciosa subsp. polyantha</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#YB32.">32'</a><a name="YB32'"> </a> Flowers few on well-developed branches; South Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=49913">.....&nbsp;C. speciosa subsp. speciosa</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#YB6.">6'</a><a name="YB6'"> </a> Axis of inflorescence in bud recurved at tip; buds pendent
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#YB33'">33.</a><a name="YB33."> </a> Petal claw broad, 2-lobed
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YB34'">34.</a><a name="YB34."> </a> Stigma not exserted beyond anthers; petals 6&ndash;12 mm
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YB35'">35.</a><a name="YB35."> </a> Petals generally spotted; pollen blue-gray <a href="/cgi-bin/get_IJM.pl?tid=19595">.....&nbsp;C. rhomboidea</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YB35.">35'</a><a name="YB35'"> </a> Petals unspotted; pollen yellow <a href="/cgi-bin/get_IJM.pl?tid=19602">.....&nbsp;C. stellata</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YB34.">34'</a><a name="YB34'"> </a> Stigma exserted beyond anthers; petals generally > 12 mm
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YB36'">36.</a><a name="YB36."> </a> Axis of inflorescence in bud recurved within 3 nodes of open flower; petal length 1.4&ndash;1.6 &times; width <a href="/cgi-bin/get_IJM.pl?tid=19587">.....&nbsp;C. mildrediae</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YB37'">37.</a><a name="YB37."> </a> Anthers yellow to orange-red or red; fresh pollen yellow to tan <a href="/cgi-bin/get_IJM.pl?tid=77421">.....&nbsp;subsp. lutescens</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YB37.">37'</a><a name="YB37'"> </a> Anthers magenta; fresh pollen blue-gray <a href="/cgi-bin/get_IJM.pl?tid=77422">.....&nbsp;subsp. mildrediae</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YB36.">36'</a><a name="YB36'"> </a> Axis of inflorescence straight 4 or more nodes distal to open flower; petal length 1.6&ndash;3 &times; width
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YB38'">38.</a><a name="YB38."> </a> Flower buds fusiform, tip acute <a href="/cgi-bin/get_IJM.pl?tid=19568">.....&nbsp;C. borealis</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YB39'">39.</a><a name="YB39."> </a> Seed 1.8&ndash;2.5 mm; se Klamath Ranges, Cascade Range Foothills <a href="/cgi-bin/get_IJM.pl?tid=49893">.....&nbsp;subsp. arida</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YB39.">39'</a><a name="YB39'"> </a> Seed 1.5&ndash;1.8 mm; Klamath Ranges <a href="/cgi-bin/get_IJM.pl?tid=49894">.....&nbsp;subsp. borealis</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YB38.">38'</a><a name="YB38'"> </a> Flower buds obovate, tip obtuse
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YB40'">40.</a><a name="YB40."> </a> Petal length 1.6&ndash;2 &times; width <a href="/cgi-bin/get_IJM.pl?tid=19589">.....&nbsp;C. mosquinii</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YB40.">40'</a><a name="YB40'"> </a> Petal length 1.9&ndash;3 &times; width
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YB41'">41.</a><a name="YB41."> </a> Leaves lance-linear <a href="/cgi-bin/get_IJM.pl?tid=19566">.....&nbsp;C. australis</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YB41.">41'</a><a name="YB41'"> </a> Leaves elliptic to ovate <a href="/cgi-bin/get_IJM.pl?tid=19607">.....&nbsp;C. virgata</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#YB33.">33'</a><a name="YB33'"> </a> Petal claw 0 or &lt; 2 mm, not lobed
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YB42'">42.</a><a name="YB42."> </a> Petals 2-lobed <a href="/cgi-bin/get_IJM.pl?tid=19567">.....&nbsp;C. biloba</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YB43'">43.</a><a name="YB43."> </a> Petals bright pink to magenta, length generally > 1.5 &times; width <a href="/cgi-bin/get_IJM.pl?tid=49890">.....&nbsp;subsp. australis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YB43.">43'</a><a name="YB43'"> </a> Petals lavender to purple-pink, length generally &lt; 1.5 &times; width
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YB44'">44.</a><a name="YB44."> </a> Petal lobes generally 1/5&ndash;1/2 petal length <a href="/cgi-bin/get_IJM.pl?tid=49891">.....&nbsp;subsp. biloba</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YB44.">44'</a><a name="YB44'"> </a> Petal lobes generally &lt; 1/5 petal length <a href="/cgi-bin/get_IJM.pl?tid=49892">.....&nbsp;subsp. brandegeeae</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#YB42.">42'</a><a name="YB42'"> </a> Petals entire, occasionally notched at tip
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YB45'">45.</a><a name="YB45."> </a> Anthers alike in size and color
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YB46'">46.</a><a name="YB46."> </a> Ovary and immature fruit conspicuously 8-grooved; fruit not wider distally
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YB47'">47.</a><a name="YB47."> </a> Stigma exserted beyond anthers; pedicel 5&ndash;15 mm <a href="/cgi-bin/get_IJM.pl?tid=19565">.....&nbsp;C. arcuata</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YB47.">47'</a><a name="YB47'"> </a> Stigma not exserted beyond anthers; pedicel 0&ndash;3 mm <a href="/cgi-bin/get_IJM.pl?tid=19584">.....&nbsp;C. lassenensis</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YB46.">46'</a><a name="YB46'"> </a> Ovary and immature fruit 4- or rarely shallowly 8-grooved; fruit generally wider distally <a href="/cgi-bin/get_IJM.pl?tid=19580">.....&nbsp;C. gracilis</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YB48'">48.</a><a name="YB48."> </a> Petals 6&ndash;23 mm, spot 0, base darker or not; stigma not exserted beyond anthers <a href="/cgi-bin/get_IJM.pl?tid=49901">.....&nbsp;subsp. gracilis</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YB48.">48'</a><a name="YB48'"> </a> Petals 20&ndash;40 mm with a red spot near middle or red at base; stigma exserted beyond anthers
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YB49'">49.</a><a name="YB49."> </a> Petals with a red spot near middle <a href="/cgi-bin/get_IJM.pl?tid=49902">.....&nbsp;subsp. sonomensis</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YB49.">49'</a><a name="YB49'"> </a> Petals red at base
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#YB50'">50.</a><a name="YB50."> </a> Petals generally 30&ndash;40 mm; s Cascade Range Foothills <a href="/cgi-bin/get_IJM.pl?tid=49900">.....&nbsp;subsp. albicaulis</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#YB50.">50'</a><a name="YB50'"> </a> Petals generally 20&ndash;30 mm; Inner North Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=49903">.....&nbsp;subsp. tracyi</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#YB45.">45'</a><a name="YB45'"> </a> Anthers in 2 unlike series, inner smaller, paler
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YB51'">51.</a><a name="YB51."> </a> Stigma not exserted beyond anthers; petals 5&ndash;12 mm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YB52'">52.</a><a name="YB52."> </a> Petals white, not flecked, fading pink <a href="/cgi-bin/get_IJM.pl?tid=19577">.....&nbsp;C. epilobioides</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YB52.">52'</a><a name="YB52'"> </a> Petals pale to dark pink, generally flecked, fading darker
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YB53'">53.</a><a name="YB53."> </a> Petals pink, not lighter near base, generally darker flecked <a href="/cgi-bin/get_IJM.pl?tid=19588">.....&nbsp;C. modesta</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YB53.">53'</a><a name="YB53'"> </a> Petals pale pink, shading lighter near base, purple flecked <a href="/cgi-bin/get_IJM.pl?tid=19598">.....&nbsp;C. similis</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#YB51.">51'</a><a name="YB51'"> </a> Stigma exserted beyond anthers; petals 10&ndash;35 mm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YB54'">54.</a><a name="YB54."> </a> Corolla rotate; petals oblanceolate <a href="/cgi-bin/get_IJM.pl?tid=19586">.....&nbsp;C. lingulata</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#YB54.">54'</a><a name="YB54'"> </a> Corolla bowl-shaped; petals fan-shaped
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YB55'">55.</a><a name="YB55."> </a> Ovary and immature fruit 8-grooved <a href="/cgi-bin/get_IJM.pl?tid=19576">.....&nbsp;C. dudleyana</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#YB55.">55'</a><a name="YB55'"> </a> Ovary and immature fruit 4-grooved
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#YB56'">56.</a><a name="YB56."> </a> Width of outer filaments &plusmn; 2 &times; inner; ring of hairs in hypanthium below rim <a href="/cgi-bin/get_IJM.pl?tid=19573">.....&nbsp;C. cylindrica</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#YB57'">57.</a><a name="YB57."> </a> Fruit wider distally <a href="/cgi-bin/get_IJM.pl?tid=49898">.....&nbsp;subsp. clavicarpa</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#YB57.">57'</a><a name="YB57'"> </a> Fruit cylindric <a href="/cgi-bin/get_IJM.pl?tid=49899">.....&nbsp;subsp. cylindrica</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#YB56.">56'</a><a name="YB56'"> </a> Width of all filaments &plusmn; equal; ring of hairs in hypanthium at rim
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#YB58'">58.</a><a name="YB58."> </a> Fruit beak 0&ndash;3 mm <a href="/cgi-bin/get_IJM.pl?tid=19585">.....&nbsp;C. lewisii</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#YB58.">58'</a><a name="YB58'"> </a> Fruit beak 7&ndash;15 mm <a href="/cgi-bin/get_IJM.pl?tid=19596">.....&nbsp;C. rostrata</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

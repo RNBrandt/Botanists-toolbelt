@@ -1,0 +1,474 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Calochortus</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Calochortus
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16710">Calochortus albus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16711">Calochortus amabilis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16713">Calochortus amoenus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76542">Calochortus argillosus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16716">Calochortus bruneaunis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16717">Calochortus catalinae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16718">Calochortus clavatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55452">Calochortus clavatus var. avius
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55453">Calochortus clavatus var. clavatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55454">Calochortus clavatus var. gracilis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55455">Calochortus clavatus var. pallidus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55456">Calochortus clavatus var. recurvifolius
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16719">Calochortus coeruleus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16721">Calochortus concolor
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16723">Calochortus dunnii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16724">Calochortus elegans
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16727">Calochortus excavatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91890">Calochortus fimbriatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16728">Calochortus flexuosus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16729">Calochortus greenei
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16733">Calochortus invenustus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16734">Calochortus kennedyi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=71578">Calochortus kennedyi var. kennedyi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55469">Calochortus kennedyi var. munzii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16735">Calochortus leichtlinii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55470">Calochortus longebarbatus var. longebarbatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16737">Calochortus luteus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16739">Calochortus macrocarpus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16742">Calochortus minimus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16743">Calochortus monanthus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16744">Calochortus monophyllus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16746">Calochortus nudus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16749">Calochortus obispoensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16750">Calochortus palmeri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55481">Calochortus palmeri var. munzii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55482">Calochortus palmeri var. palmeri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16752">Calochortus panamintensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16753">Calochortus persistens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16754">Calochortus plummerae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16755">Calochortus pulchellus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16757">Calochortus raichei
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16758">Calochortus simulans
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16759">Calochortus splendens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16761">Calochortus striatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16764">Calochortus superbus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=77510">Calochortus syntrophus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16765">Calochortus tiburonensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16766">Calochortus tolmiei
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16769">Calochortus umbellatus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16771">Calochortus uniflorus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16772">Calochortus venustus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16773">Calochortus vestae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16774">Calochortus weedii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55488">Calochortus weedii var. intermedius
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=55490">Calochortus weedii var. weedii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16775">Calochortus westonii
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=9494'><h3>View taxon page for Calochortus</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AKL1'">1.</a><a name="AKL1."> </a> Flower nodding; perianth &plusmn; closed, spheric to oblong
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AKL2'">2.</a><a name="AKL2."> </a> Petal white, pink, or rose
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AKL3'">3.</a><a name="AKL3."> </a> Sepal appressed to petals; lower nectary membrane 1/3&ndash;2/3 petal width; petal generally white to pink; s Cascade Range Foothills, n&c Sierra Nevada, Central Western California, n Channel Islands, Transverse Ranges, Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=16710">.....&nbsp;C. albus</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AKL3.">3'</a><a name="AKL3'"> </a> Sepal spreading, not appressed to petals; lower nectary membrane &plusmn; = petal width; petal rose; c&s Sierra Nevada (Madera, Fresno cos.) <a href="/cgi-bin/get_IJM.pl?tid=16713">.....&nbsp;C. amoenus</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AKL2.">2'</a><a name="AKL2'"> </a> Petal yellow
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AKL4'">4.</a><a name="AKL4."> </a> Stem generally simple above base; petals > sepals, hairy; plant generally 10&ndash;100 cm, very glaucous <a href="/cgi-bin/get_IJM.pl?tid=16757">.....&nbsp;C. raichei</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AKL4.">4'</a><a name="AKL4'"> </a> Stem generally branched above base; petals generally &lt;= sepals, glabrous to sparsely hairy; plant generally &lt; 30(50) cm, not very glaucous
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AKL5'">5.</a><a name="AKL5."> </a> Plant &plusmn; glaucous; petal deep yellow; Klamath Ranges, Outer North Coast Ranges, Inner North Coast Ranges, nw San Francisco Bay Area <a href="/cgi-bin/get_IJM.pl?tid=16711">.....&nbsp;C. amabilis</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AKL5.">5'</a><a name="AKL5'"> </a> Plant green; petal light yellow; ne San Francisco Bay Area (Mount Diablo, Contra Costa Co.) <a href="/cgi-bin/get_IJM.pl?tid=16755">.....&nbsp;C. pulchellus</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AKL1.">1'</a><a name="AKL1'"> </a> Flower erect to spreading; perianth open, bell-shaped or &plusmn; rotate
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AKL6'">6.</a><a name="AKL6."> </a> Fruit nodding; petal &plusmn; not spotted or striped (or above-ground stem &lt; 10 cm) (sect. <I>Calochortus</I> in part)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AKL7'">7.</a><a name="AKL7."> </a> Petal generally > 30 mm, pink to &plusmn; purple; ne Klamath Ranges (Siskiyou Co.) <a href="/cgi-bin/get_IJM.pl?tid=16753">.....&nbsp;C. persistens</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AKL7.">7'</a><a name="AKL7'"> </a> Petal generally &lt; 28 mm, color various; widespread except s California
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AKL8'">8.</a><a name="AKL8."> </a> Petal &plusmn; glabrous adaxially
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AKL9'">9.</a><a name="AKL9."> </a> Cauline leaves &plusmn; 0; s High Cascade Range, High Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=16742">.....&nbsp;C. minimus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AKL9.">9'</a><a name="AKL9'"> </a> Cauline leaves present; Northwestern California, n&c Central Coast, San Francisco Bay Area
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AKL10'">10.</a><a name="AKL10."> </a> Stem 8&ndash;25 cm, branched, bulblets 0; s Outer North Coast Ranges, San Francisco Bay Area <a href="/cgi-bin/get_IJM.pl?tid=16769">.....&nbsp;C. umbellatus</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AKL10.">10'</a><a name="AKL10'"> </a> Stem generally &lt; 5 cm, generally simple, bulblets present; Northwestern California, High Cascade Range, n&c Central Coast, San Francisco Bay Area <a href="/cgi-bin/get_IJM.pl?tid=16771">.....&nbsp;C. uniflorus</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AKL8.">8'</a><a name="AKL8'"> </a> Petal &plusmn; conspicuously hairy adaxially
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AKL11'">11.</a><a name="AKL11."> </a> Petal deep yellow &mdash; Cascade Range Foothills, sw High Cascade Range, n&c Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=16744">.....&nbsp;C. monophyllus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AKL11.">11'</a><a name="AKL11'"> </a> Petal white, pink, purple, or blue
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AKL12'">12.</a><a name="AKL12."> </a> Petal lanceolate to obovate, &plusmn; ciliate on sides but not tip
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AKL13'">13.</a><a name="AKL13."> </a> Petal obovate to wedge-shaped; stem simple or branched; Northwestern California, Cascade Range, n Sierra Nevada, n Sacramento Valley, n Central Coast, San Francisco Bay Area <a href="/cgi-bin/get_IJM.pl?tid=16766">.....&nbsp;C. tolmiei</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AKL13.">13'</a><a name="AKL13'"> </a> Petal lanceolate; stem simple; s High Sierra Nevada (Greenhorn Mtns) <a href="/cgi-bin/get_IJM.pl?tid=16775">.....&nbsp;C. westonii</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AKL12.">12'</a><a name="AKL12'"> </a> Petal &plusmn; oblanceolate to obovate, ciliate throughout
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AKL14'">14.</a><a name="AKL14."> </a> Petal &plusmn; blue (purple crescent 0), &plusmn; smooth (not bumpy) adaxially; Northwestern California, Cascade Range, High Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=16719">.....&nbsp;C. coeruleus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AKL14.">14'</a><a name="AKL14'"> </a> Petal green-white, base dark &plusmn; purple, minute-bumpy adaxially; e Klamath Ranges, Inner North Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=16724">.....&nbsp;C. elegans</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AKL6.">6'</a><a name="AKL6'"> </a> Fruit erect; petal spotted or striped (except <I>Calochortus nudus</I>, occasionally <I>Calochortus palmeri</I>)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AKL15'">15.</a><a name="AKL15."> </a> Basal leaf &plusmn; persistent at flower
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AKL16'">16.</a><a name="AKL16."> </a> Petal light yellow-green, flecked purple-brown; n Central Coast (Ring Mtn, Marin Co.) <a href="/cgi-bin/get_IJM.pl?tid=16765">.....&nbsp;C. tiburonensis</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AKL16.">16'</a><a name="AKL16'"> </a> Petal white to purple; Klamath Ranges, Cascade Range, Modoc Plateau
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AKL17'">17.</a><a name="AKL17."> </a> Petal with red-purple crescent above nectary adaxially <a href="/cgi-bin/get_IJM.pl?tid=55470">.....&nbsp;C. longebarbatus var. longebarbatus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AKL17.">17'</a><a name="AKL17'"> </a> Petal without crescent adaxially
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AKL18'">18.</a><a name="AKL18."> </a> Petal 30&ndash;40 mm with dark purple crescent abaxially; nectary deeply depressed; dry places; &lt; 1100 m <a href="/cgi-bin/get_IJM.pl?tid=16729">.....&nbsp;C. greenei</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AKL18.">18'</a><a name="AKL18'"> </a> Petal 14&ndash;16 mm, without crescent abaxially; nectary &plusmn; shallow; moist places; > 1200 m <a href="/cgi-bin/get_IJM.pl?tid=16746">.....&nbsp;C. nudus</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AKL15.">15'</a><a name="AKL15'"> </a> Basal leaf &plusmn; withered by flowering (except <I>Calochortus excavatus</I>, <I>Calochortus syntrophus</I>)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AKL19'">19.</a><a name="AKL19."> </a> Nectary surface &plusmn; glabrous but &plusmn; hidden by bordering hairs; bulb coat fibrous &mdash; s Central Western California, Southwestern California
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AKL20'">20.</a><a name="AKL20."> </a> Petal &plusmn; pink, generally toothed, not ciliate <a href="/cgi-bin/get_IJM.pl?tid=16754">.....&nbsp;C. plummerae</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AKL20.">20'</a><a name="AKL20'"> </a> Petal tan, yellow, &plusmn; purple to red-brown, generally &plusmn; ciliate
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AKL21'">21.</a><a name="AKL21."> </a> Petal tip dark-hair-tufted <a href="/cgi-bin/get_IJM.pl?tid=16749">.....&nbsp;C. obispoensis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AKL21.">21'</a><a name="AKL21'"> </a> Petal tip fringed, not hair-tufted
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AKL22'">22.</a><a name="AKL22."> </a> Petal margin fringed with 2 rows of hairs; anthers abruptly pointed; Outer South Coast Ranges, Western Transverse Ranges <a href="/cgi-bin/get_IJM.pl?tid=91890">.....&nbsp;C. fimbriatus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AKL22.">22'</a><a name="AKL22'"> </a> Petal margin fringed with 1 row of hairs; anthers rounded; Outer South Coast Ranges, South Coast, Western Transverse Ranges, Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=16774">.....&nbsp;C. weedii</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AKL23'">23.</a><a name="AKL23."> </a> Petal deep yellow <a href="/cgi-bin/get_IJM.pl?tid=55490">.....&nbsp;var. weedii</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AKL23.">23'</a><a name="AKL23'"> </a> Petal light yellow or tan or dark &plusmn; purple to red-brown <a href="/cgi-bin/get_IJM.pl?tid=55488">.....&nbsp;var. intermedius</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AKL19.">19'</a><a name="AKL19'"> </a> Nectary surface hairy; bulb coat membranous
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AKL24'">24.</a><a name="AKL24."> </a> Nectary &plusmn; round, clearly to &plusmn; depressed, encircled by fringed membrane
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AKL25'">25.</a><a name="AKL25."> </a> Petal generally orange to red <a href="/cgi-bin/get_IJM.pl?tid=71578">.....&nbsp;C. kennedyi var. kennedyi</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AKL25.">25'</a><a name="AKL25'"> </a> Petal yellow, gold, or white generally tinged lilac or lavender
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AKL26'">26.</a><a name="AKL26."> </a> Petal white, tinged lilac, or lavender, green-striped abaxially; sepal occasionally dark-spotted
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AKL27'">27.</a><a name="AKL27."> </a> Petal base marked dark purple; bracts generally 3&ndash;8 cm; anthers red-brown &mdash; sw East of Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=16727">.....&nbsp;C. excavatus</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AKL27.">27'</a><a name="AKL27'"> </a> Petal base white or tinged lilac; bracts 2&ndash;7 cm; anthers yellow, maroon, blue, purple, red or red-brown
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AKL28'">28.</a><a name="AKL28."> </a> Sepal base not spotted; petal obovate to wedge-shaped <a href="/cgi-bin/get_IJM.pl?tid=16733">.....&nbsp;C. invenustus</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AKL28.">28'</a><a name="AKL28'"> </a> Sepal base dark-spotted; petal narrowly obovate
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AKL29'">29.</a><a name="AKL29."> </a> Petal with red or purple arch above nectary; nectary in yellow spot; n High Sierra Nevada, e edges c&s High Sierra Nevada, Modoc Plateau, s East of Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=16716">.....&nbsp;C. bruneaunis</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AKL29.">29'</a><a name="AKL29'"> </a> Petal without dark arch above nectary; nectary in red or purple spot; n Desert Mountains (Panamint Range) <a href="/cgi-bin/get_IJM.pl?tid=16752">.....&nbsp;C. panamintensis</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AKL26.">26'</a><a name="AKL26'"> </a> Petal yellow or gold, not green-striped abaxially; sepal base generally dark-spotted
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AKL30'">30.</a><a name="AKL30."> </a> Perianth bell-shaped; nectary encircled by slender or club-shaped hairs; stem straight or occasionally twisted &mdash; San Bernardino Mountains, Peninsular Ranges, n&e Desert Mountains
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AKL31'">31.</a><a name="AKL31."> </a> Leaves flat or inrolled; nectary encircled by dense, slender hairs; stem straight, generally stout; San Bernardino Mountains (s slope), Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=16721">.....&nbsp;C. concolor</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AKL31.">31'</a><a name="AKL31'"> </a> Leaves channeled; nectary encircled by sparse, club-like hairs; stem occasionally twisted; n&e Desert Mountains (Panamint, Clark Mtn ranges, Providence Mtns) <a href="/cgi-bin/get_IJM.pl?tid=55469">.....&nbsp;C. kennedyi var. munzii</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AKL30.">30'</a><a name="AKL30'"> </a> Perianth cup-shaped; nectary encircled by club-shaped hairs; stem often zigzag <a href="/cgi-bin/get_IJM.pl?tid=16718">.....&nbsp;C. clavatus</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AKL32'">32.</a><a name="AKL32."> </a> Petal generally &lt; sepal; nectary deep &mdash; n Sierra Nevada Foothills (El Dorado, Amador cos.) <a href="/cgi-bin/get_IJM.pl?tid=55452">.....&nbsp;var. avius</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AKL32.">32'</a><a name="AKL32'"> </a> Petal >= sepal; nectary shallow to &plusmn; deep
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AKL33'">33.</a><a name="AKL33."> </a> Stem generally &lt; 30 cm, slender, straight
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#AKL34'">34.</a><a name="AKL34."> </a> Petal 30&ndash;40 mm, sparsely hairy; leaves not recurved; Western Transverse Ranges, San Gabriel Mountains <a href="/cgi-bin/get_IJM.pl?tid=55454">.....&nbsp;var. gracilis</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#AKL34.">34'</a><a name="AKL34'"> </a> Petal 40&ndash;50 mm, hairy; leaves strongly recurved; s-c Central Coast (nw San Luis Obispo Co.) <a href="/cgi-bin/get_IJM.pl?tid=55456">.....&nbsp;var. recurvifolius</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AKL33.">33'</a><a name="AKL33'"> </a> Stem generally 50&ndash;100 cm, coarse, zigzag
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#AKL35'">35.</a><a name="AKL35."> </a> Petal deep yellow, hairs very knobby; anther deep purple; s Outer South Coast Ranges, n Inner South Coast Ranges, Western Transverse Ranges, San Gabriel Mountains <a href="/cgi-bin/get_IJM.pl?tid=55453">.....&nbsp;var. clavatus</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#AKL35.">35'</a><a name="AKL35'"> </a> Petal light yellow, hairs not very knobby; anther yellow to purple; w San Joaquin Valley (and adjacent e San Francisco Bay Area, Inner South Coast Ranges), n Western Transverse Ranges <a href="/cgi-bin/get_IJM.pl?tid=55455">.....&nbsp;var. pallidus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AKL24.">24'</a><a name="AKL24'"> </a> Nectary not simultaneously &plusmn; round, clearly to &plusmn; depressed, encircled by fringed membrane (but occasionally 1 of these)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AKL36'">36.</a><a name="AKL36."> </a> Stem bulblets generally 0 (except some <I>Calochortus splendens</I>)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AKL37'">37.</a><a name="AKL37."> </a> Petal purple-veined, not spotted <a href="/cgi-bin/get_IJM.pl?tid=16761">.....&nbsp;C. striatus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AKL37.">37'</a><a name="AKL37'"> </a> Petal spotted, not obviously veined or striped
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AKL38'">38.</a><a name="AKL38."> </a> Stem twining or sprawling; perianth yellow-banded <a href="/cgi-bin/get_IJM.pl?tid=16728">.....&nbsp;C. flexuosus</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AKL38.">38'</a><a name="AKL38'"> </a> Stem &plusmn; erect; perianth not yellow-banded
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AKL39'">39.</a><a name="AKL39."> </a> Petal white or flushed pink, red-brown-spotted above nectary, nectary yellow-hairy; s Peninsular Ranges (s San Diego Co.) <a href="/cgi-bin/get_IJM.pl?tid=16723">.....&nbsp;C. dunnii</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AKL39.">39'</a><a name="AKL39'"> </a> Petal lavender to deep purple, base generally purple-spotted, not yellow-hairy; c&s Inner North Coast Ranges, w edge San Joaquin Valley, Central Western California, w Southwestern California, San Jacinto Mountains, w edge Sonoran Desert <a href="/cgi-bin/get_IJM.pl?tid=16759">.....&nbsp;C. splendens</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AKL36.">36'</a><a name="AKL36'"> </a> Stem bulblets generally present (except <I>Calochortus palmeri</I> var. <I>munzii</I>)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AKL40'">40.</a><a name="AKL40."> </a> Petal bright or deep yellow
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AKL41'">41.</a><a name="AKL41."> </a> Nectary generally &plusmn; square <a href="/cgi-bin/get_IJM.pl?tid=16772">.....&nbsp;C. venustus</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AKL41.">41'</a><a name="AKL41'"> </a> Nectary chevron- or crescent-shaped to oblong
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AKL42'">42.</a><a name="AKL42."> </a> Petal pale yellow <a href="/cgi-bin/get_IJM.pl?tid=76542">.....&nbsp;C. argillosus</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AKL42.">42'</a><a name="AKL42'"> </a> Petal deep yellow <a href="/cgi-bin/get_IJM.pl?tid=16737">.....&nbsp;C. luteus</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AKL40.">40'</a><a name="AKL40'"> </a> Petal white to pink, purple, lavender, or red
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AKL43'">43.</a><a name="AKL43."> </a> Petal light to deep lilac, lavender, or variably colored &mdash; generally with sparse white hairs near base; not striped, highly patterned <a href="/cgi-bin/get_IJM.pl?tid=16759">.....&nbsp;C. splendens</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AKL43.">43'</a><a name="AKL43'"> </a> Petal all or variably white, pink, purple, or red
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AKL44'">44.</a><a name="AKL44."> </a> Nectary &plusmn; ovate or oblong (occasionally &plusmn; round)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AKL45'">45.</a><a name="AKL45."> </a> Anther sagittate &mdash; High Cascade Range, High Sierra Nevada, Modoc Plateau, East of Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=16735">.....&nbsp;C. leichtlinii</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AKL45.">45'</a><a name="AKL45'"> </a> Anther not sagittate
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#AKL46'">46.</a><a name="AKL46."> </a> Fruit narrowly oblong, not angled <a href="/cgi-bin/get_IJM.pl?tid=16717">.....&nbsp;C. catalinae</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#AKL46.">46'</a><a name="AKL46'"> </a> Fruit linear, angled
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#AKL47'">47.</a><a name="AKL47."> </a> Petals generally 40&ndash;50 mm; nectary hairs slender; ne Klamath Ranges (near Yreka, Siskiyou Co.) <a href="/cgi-bin/get_IJM.pl?tid=16743">.....&nbsp;C. monanthus</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#AKL47.">47'</a><a name="AKL47'"> </a> Petals generally 20&ndash;30 mm; nectary hairs thick; Tehachapi Mountain Area, s Central Western California, Transverse Ranges, San Jacinto Mountains <a href="/cgi-bin/get_IJM.pl?tid=16750">.....&nbsp;C. palmeri</a>
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#AKL48'">48.</a><a name="AKL48."> </a> Nectary glabrous or purple-hairy; stem bulblets 0; bracts opposite; San Jacinto Mountains <a href="/cgi-bin/get_IJM.pl?tid=55481">.....&nbsp;var. munzii</a>
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#AKL48.">48'</a><a name="AKL48'"> </a> Nectary yellow-hairy; stem bulblets present; bracts alternate; Tehachapi Mountain Area, s Central Western California, Transverse Ranges, San Jacinto Mountains <a href="/cgi-bin/get_IJM.pl?tid=55482">.....&nbsp;var. palmeri</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AKL44.">44'</a><a name="AKL44'"> </a> Nectary 1&ndash;2 crescents or chevrons, &plusmn; triangular, &plusmn; square, or &plusmn; elliptic
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AKL49'">49.</a><a name="AKL49."> </a> Nectary &plusmn; triangular-sagittate; sepals generally > petals <a href="/cgi-bin/get_IJM.pl?tid=16739">.....&nbsp;C. macrocarpus</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AKL49.">49'</a><a name="AKL49'"> </a> Nectary 1&ndash;2 crescents or chevrons or &plusmn; square or &plusmn; elliptic; sepals &lt;= petals
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#AKL50'">50.</a><a name="AKL50."> </a> Nectary &plusmn; square
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#AKL51'">51.</a><a name="AKL51."> </a> Nectary in red spot; 2nd, distal, paler petal spot 0 (present); seed 5&ndash;6 mm, 3 mm wide <a href="/cgi-bin/get_IJM.pl?tid=16758">.....&nbsp;C. simulans</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#AKL51.">51'</a><a name="AKL51'"> </a> Nectary not in red spot; 2nd, distal, paler petal spot generally present; seed 4&ndash;5 mm, 1&ndash;2 mm wide <a href="/cgi-bin/get_IJM.pl?tid=16772">.....&nbsp;C. venustus</a> (2)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#AKL50.">50'</a><a name="AKL50'"> </a> Nectary 1&ndash;2 crescents, chevrons, or &plusmn; elliptic
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#AKL52'">52.</a><a name="AKL52."> </a> Nectary 2 crescents or chevrons <a href="/cgi-bin/get_IJM.pl?tid=16773">.....&nbsp;C. vestae</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#AKL52.">52'</a><a name="AKL52'"> </a> Nectary 1 crescent, chevron, or &plusmn; elliptic
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#AKL53'">53.</a><a name="AKL53."> </a> Nectary hairs orange; petal light yellow basally; basal leaves generally persistent; Klamath Ranges, Cascade Range (The Cove, Shasta Co.) <a href="/cgi-bin/get_IJM.pl?tid=77510">.....&nbsp;C. syntrophus</a>
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#AKL53.">53'</a><a name="AKL53'"> </a> Nectary hairs red-brown or brown; petal highly variable in color basally, often purple-lined near base; basal leaves generally withering; Northwestern California, Cascade Range Foothills, Sierra Nevada Foothills, s High Sierra Nevada, Central Western California, Southwestern California
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#AKL54'">54.</a><a name="AKL54."> </a> Fruit lanceolate; w Central Western California <a href="/cgi-bin/get_IJM.pl?tid=76542">.....&nbsp;C. argillosus</a> (2)
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#AKL54.">54'</a><a name="AKL54'"> </a> Fruit linear; Northwestern California, Cascade Range Foothills, Sierra Nevada Foothills, s High Sierra Nevada, Central Western California, Southwestern California <a href="/cgi-bin/get_IJM.pl?tid=16764">.....&nbsp;C. superbus</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

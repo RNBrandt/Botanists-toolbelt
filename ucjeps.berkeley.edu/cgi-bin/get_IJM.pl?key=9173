@@ -1,0 +1,703 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Arctostaphylos</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Arctostaphylos
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13904">Arctostaphylos andersonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13905">Arctostaphylos auriculata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13906">Arctostaphylos bakeri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49161">Arctostaphylos bakeri subsp. bakeri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49162">Arctostaphylos bakeri subsp. sublaevis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13909">Arctostaphylos canescens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49163">Arctostaphylos canescens subsp. canescens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49165">Arctostaphylos canescens subsp. sonomensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13912">Arctostaphylos catalinae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13918">Arctostaphylos columbiana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13920">Arctostaphylos confertiflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13986">Arctostaphylos crustacea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91855">Arctostaphylos crustacea subsp. crinita
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=89190">Arctostaphylos crustacea subsp. crustacea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=89189">Arctostaphylos crustacea subsp. eastwoodiana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=89191">Arctostaphylos crustacea subsp. insulicola
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91854">Arctostaphylos crustacea subsp. rosei
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=89192">Arctostaphylos crustacea subsp. subcordata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13921">Arctostaphylos cruzensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13922">Arctostaphylos densiflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13923">Arctostaphylos edmundsii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13931">Arctostaphylos franciscana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80888">Arctostaphylos gabilanensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13924">Arctostaphylos glandulosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49168">Arctostaphylos glandulosa subsp. adamsii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49169">Arctostaphylos glandulosa subsp. crassifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91856">Arctostaphylos glandulosa subsp. cushingiana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=86364">Arctostaphylos glandulosa subsp. gabrielensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49170">Arctostaphylos glandulosa subsp. glandulosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49174">Arctostaphylos glandulosa subsp. howellii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=85941">Arctostaphylos glandulosa subsp. leucophylla
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49172">Arctostaphylos glandulosa subsp. mollis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13926">Arctostaphylos glauca
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13927">Arctostaphylos glutinosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13929">Arctostaphylos hispidula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13930">Arctostaphylos hookeri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49176">Arctostaphylos hookeri subsp. hearstiorum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49177">Arctostaphylos hookeri subsp. hookeri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13934">Arctostaphylos hooveri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13935">Arctostaphylos imbricata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13937">Arctostaphylos insularis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13939">Arctostaphylos klamathensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13941">Arctostaphylos luciana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76563">Arctostaphylos malloryi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13942">Arctostaphylos manzanita
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76564">Arctostaphylos manzanita subsp. elegans
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49184">Arctostaphylos manzanita subsp. glaucescens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49185">Arctostaphylos manzanita subsp. laevigata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49186">Arctostaphylos manzanita subsp. manzanita
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49187">Arctostaphylos manzanita subsp. roofii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49188">Arctostaphylos manzanita subsp. wieslanderi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13949">Arctostaphylos mewukka
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=74689">Arctostaphylos mewukka subsp. mewukka
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76565">Arctostaphylos mewukka subsp. truei
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13933">Arctostaphylos montana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=89194">Arctostaphylos montana subsp. montana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=89193">Arctostaphylos montana subsp. ravenii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13936">Arctostaphylos montaraensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13950">Arctostaphylos montereyensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13951">Arctostaphylos morroensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13952">Arctostaphylos myrtifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13953">Arctostaphylos nevadensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49189">Arctostaphylos nevadensis subsp. knightii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49190">Arctostaphylos nevadensis subsp. nevadensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13955">Arctostaphylos nissenana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76566">Arctostaphylos nortensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13956">Arctostaphylos nummularia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=89195">Arctostaphylos nummularia subsp. mendocinoensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=69996">Arctostaphylos nummularia subsp. nummularia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13958">Arctostaphylos obispoensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=88878">Arctostaphylos ohloneana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=74486">Arctostaphylos osoensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13959">Arctostaphylos otayensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=77447">Arctostaphylos pacifica
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13961">Arctostaphylos pajaroensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13962">Arctostaphylos pallida
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13963">Arctostaphylos parryana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=81170">Arctostaphylos parryana subsp. desertica
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80196">Arctostaphylos parryana subsp. parryana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80195">Arctostaphylos parryana subsp. tumescens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13965">Arctostaphylos patula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13967">Arctostaphylos pechoensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76567">Arctostaphylos pilosula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49195">Arctostaphylos pringlei subsp. drupacea
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13972">Arctostaphylos pumila
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13973">Arctostaphylos pungens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13976">Arctostaphylos purissima
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76574">Arctostaphylos rainbowensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13977">Arctostaphylos refugioensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13978">Arctostaphylos regismontana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76568">Arctostaphylos rudis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13957">Arctostaphylos sensitiva
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76569">Arctostaphylos silvicola
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13983">Arctostaphylos stanfordiana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=74690">Arctostaphylos stanfordiana subsp. decumbens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49209">Arctostaphylos stanfordiana subsp. raichei
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49210">Arctostaphylos stanfordiana subsp. stanfordiana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13984">Arctostaphylos tomentosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49211">Arctostaphylos tomentosa subsp. bracteosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76570">Arctostaphylos tomentosa subsp. daciticola
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=91857">Arctostaphylos tomentosa subsp. hebeclada
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49218">Arctostaphylos tomentosa subsp. tomentosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13990">Arctostaphylos uva-ursi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13993">Arctostaphylos virgata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13994">Arctostaphylos viridissima
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=13995">Arctostaphylos viscida
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49228">Arctostaphylos viscida subsp. mariposa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49229">Arctostaphylos viscida subsp. pulchella
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49230">Arctostaphylos viscida subsp. viscida
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=9173'><h3>View taxon page for Arctostaphylos</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#QR1'">1.</a><a name="QR1."> </a> Burls at base of main stem, also above or not; plant sprouting after fire
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#QR2'">2.</a><a name="QR2."> </a> Leaves with stomata generally only abaxially, surfaces generally differing in color and/or hairiness
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#QR3'">3.</a><a name="QR3."> </a> Old stem bark persistent, gray, shredding <a href="/cgi-bin/get_IJM.pl?tid=13984">.....&nbsp;A. tomentosa</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#QR4'">4.</a><a name="QR4."> </a> Twig with glands <a href="/cgi-bin/get_IJM.pl?tid=49211">.....&nbsp;subsp. bracteosa</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#QR4.">4'</a><a name="QR4'"> </a> Twig without glands
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#QR5'">5.</a><a name="QR5."> </a> Twig short-tomentose and long-nonglandular-hairy <a href="/cgi-bin/get_IJM.pl?tid=76570">.....&nbsp;subsp. daciticola</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#QR5.">5'</a><a name="QR5'"> </a> Twig short-tomentose or short-nonglandular-hairy
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#QR6'">6.</a><a name="QR6."> </a> Leaves glabrous abaxially <a href="/cgi-bin/get_IJM.pl?tid=91857">.....&nbsp;subsp. hebeclada</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#QR6.">6'</a><a name="QR6'"> </a> Leaves tomentose abaxially <a href="/cgi-bin/get_IJM.pl?tid=49218">.....&nbsp;subsp. tomentosa</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#QR3.">3'</a><a name="QR3'"> </a> Old stem bark generally smooth or peeling, &plusmn; red
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#QR7'">7.</a><a name="QR7."> </a> Plant prostrate; burls at base of main stem or occasionally above; fruit spheric; leaf blades oblanceolate to obovate or narrowly elliptic; widespread <a href="/cgi-bin/get_IJM.pl?tid=13990">.....&nbsp;A. uva-ursi</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#QR7.">7'</a><a name="QR7'"> </a> Plant erect; burls at base of main stem; fruit depressed-spheric; leaf blades oblong-ovate to lance-oblong; Inner North Coast Ranges, Central Western California, n Channel Islands<a href="/cgi-bin/get_IJM.pl?tid=13986">.....&nbsp;A. crustacea</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#QR8'">8.</a><a name="QR8."> </a> Twig, nascent inflorescence axes densely glandular-hairy <a href="/cgi-bin/get_IJM.pl?tid=89192">.....&nbsp;subsp. subcordata</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#QR8.">8'</a><a name="QR8'"> </a> Twig, nascent inflorescence axes glabrous or nonglandular-hairy, occasionally sparsely glandular-hairy
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#QR9'">9.</a><a name="QR9."> </a> Twig with short and long hairs
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR10'">10.</a><a name="QR10."> </a> Leaf abaxially densely nonglandular-hairy <a href="/cgi-bin/get_IJM.pl?tid=91855">.....&nbsp;subsp. crinita</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR10.">10'</a><a name="QR10'"> </a> Leaf abaxially &plusmn; nonglandular-hairy, in age glabrous <a href="/cgi-bin/get_IJM.pl?tid=89190">.....&nbsp;subsp. crustacea</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#QR9.">9'</a><a name="QR9'"> </a> Twig with short hairs
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR11'">11.</a><a name="QR11."> </a> Leaf abaxially densely short-nonglandular-hairy <a href="/cgi-bin/get_IJM.pl?tid=89191">.....&nbsp;subsp. insulicola</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR11.">11'</a><a name="QR11'"> </a> Leaf abaxially glabrous
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR12'">12.</a><a name="QR12."> </a> Pedicel, ovary glabrous <a href="/cgi-bin/get_IJM.pl?tid=89189">.....&nbsp;subsp. eastwoodiana</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR12.">12'</a><a name="QR12'"> </a> Pedicel, ovary generally short-nonglandular-hairy <a href="/cgi-bin/get_IJM.pl?tid=91854">.....&nbsp;subsp. rosei</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#QR2.">2'</a><a name="QR2'"> </a> Leaves with stomata on both surfaces, occasionally fewer adaxially, surfaces generally the same in color and/or hairiness (except <I>Arctostaphylos pacifica</I>)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#QR13'">13.</a><a name="QR13."> </a> Old stem bark persistent, shredding, gray <a href="/cgi-bin/get_IJM.pl?tid=76568">.....&nbsp;A. rudis</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#QR13.">13'</a><a name="QR13'"> </a> Old stem bark smooth or peeling, &plusmn; red
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#QR14'">14.</a><a name="QR14."> </a> Plant prostrate to mounded; inflorescence raceme, 0&ndash;1-branched
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#QR15'">15.</a><a name="QR15."> </a> Leaf entire; fruit dark brown; Klamath Ranges, Outer North Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=49189">.....&nbsp;A. nevadensis subsp. knightii</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#QR15.">15'</a><a name="QR15'"> </a> Leaf serrate; fruit &plusmn; red; Central Coast (San Bruno Mtn) <a href="/cgi-bin/get_IJM.pl?tid=77447">.....&nbsp;A. pacifica</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#QR14.">14'</a><a name="QR14'"> </a> Plant erect; inflorescence panicle
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#QR16'">16.</a><a name="QR16."> </a> Twig and/or inflorescence axes and/or bracts glandular
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#QR17'">17.</a><a name="QR17."> </a> Glands golden, on short hairs; burl 0 or often flat, obscure; High North Coast Ranges, High Cascade Range, High Sierra Nevada, San Gabriel Mountains, San Bernardino Mountains, San Jacinto Mountains <a href="/cgi-bin/get_IJM.pl?tid=13965">.....&nbsp;A. patula</a> (3)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#QR17.">17'</a><a name="QR17'"> </a> Glands black or clear (pink), on short and long hairs; burl hemispheric; Klamath Ranges, North Coast Ranges, San Francisco Bay Area, South Coast Ranges, w San Bernardino Mountains, Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=13924">.....&nbsp;A. glandulosa</a> (in part) (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR18'">18.</a><a name="QR18."> </a> Leaves strongly white-glaucous <a href="/cgi-bin/get_IJM.pl?tid=85941">.....&nbsp;subsp. leucophylla</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR18.">18'</a><a name="QR18'"> </a> Leaves green to gray-green, &plusmn; glaucous
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR19'">19.</a><a name="QR19."> </a> Twig generally glandular; Klamath Ranges, North Coast Ranges, San Francisco Bay Area, South Coast Ranges, Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=49170">.....&nbsp;subsp. glandulosa</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR19.">19'</a><a name="QR19'"> </a> Twig not glandular; Outer South Coast Ranges (c&e Santa Lucia Range) <a href="/cgi-bin/get_IJM.pl?tid=49174">.....&nbsp;subsp. howellii</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#QR16.">16'</a><a name="QR16'"> </a> Twig, inflorescence axes, bracts not glandular (except twig minutely glandular, inflorescence axes sparsely short glandular in <I>Arctostaphylos rainbowensis</I>)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#QR20'">20.</a><a name="QR20."> </a> Fruit spheric (depressed-spheric in <I>Arctostaphylos mewukka</I>)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR21'">21.</a><a name="QR21."> </a> Stones generally free; fruit dark mahogany-brown; Sierra Nevada Foothills, n High Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=74689">.....&nbsp;A. mewukka subsp. mewukka</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR21.">21'</a><a name="QR21'"> </a> Stones fused; fruit dark red to dark brown with &plusmn; purple tinge; San Bernardino Mountains, Peninsular Ranges
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR22'">22.</a><a name="QR22."> </a> Twig minutely glandular; Peninsular Ranges (San Diego, Riverside cos.) <a href="/cgi-bin/get_IJM.pl?tid=76574">.....&nbsp;A. rainbowensis</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR22.">22'</a><a name="QR22'"> </a> Twig nonglandular; San Bernardino Mountains, Peninsular Ranges (San Jacinto, Santa Rosa, San Ysidro mtns) <a href="/cgi-bin/get_IJM.pl?tid=13963">.....&nbsp;A. parryana</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR23'">23.</a><a name="QR23."> </a> Leaves gray-glaucous; Peninsular Ranges (San Jacinto, Santa Rosa, San Ysidro mtns) <a href="/cgi-bin/get_IJM.pl?tid=81170">.....&nbsp;subsp. desertica</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR23.">23'</a><a name="QR23'"> </a> Leaves green; San Bernardino Mountains <a href="/cgi-bin/get_IJM.pl?tid=80195">.....&nbsp;subsp. tumescens</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#QR20.">20'</a><a name="QR20'"> </a> Fruit depressed-spheric, (to &plusmn; spheric in <I>Arctostaphylos patula</I>)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR24'">24.</a><a name="QR24."> </a> Nascent inflorescence bracts scale-like or awl-shaped
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR25'">25.</a><a name="QR25."> </a> Twig hairs 0 or nonglandular; leaves dull to bright green; burl prominent; Inner North Coast Ranges, Cascade Range Foothills (Butte Co.) <a href="/cgi-bin/get_IJM.pl?tid=49187">.....&nbsp;A. manzanita subsp. roofii</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR25.">25'</a><a name="QR25'"> </a> Twig hairs glandular or nonglandular; leaves bright green; burl 0 or often flat, obscure; High North Coast Ranges, High Cascade Range, High Sierra Nevada, San Gabriel Mountains, San Bernardino Mountains, San Jacinto Mountains <a href="/cgi-bin/get_IJM.pl?tid=13965">.....&nbsp;A. patula</a> (3)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR24.">24'</a><a name="QR24'"> </a> Nascent inflorescence bracts at least occasionally leaf-like <a href="/cgi-bin/get_IJM.pl?tid=13924">.....&nbsp;A. glandulosa</a> (in part) (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR26'">26.</a><a name="QR26."> </a> Leaves strongly white-glaucous; Southwestern California (except Channel Islands) <a href="/cgi-bin/get_IJM.pl?tid=49168">.....&nbsp;subsp. adamsii</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR26.">26'</a><a name="QR26'"> </a> Leaves green, yellow-, or gray-green; Klamath Ranges, North Coast Ranges, San Francisco Bay Area, South Coast Ranges, South Coast (San Diego Co.), Transverse Ranges, Peninsular Ranges
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR27'">27.</a><a name="QR27."> </a> Twig hairs soft-wavy <a href="/cgi-bin/get_IJM.pl?tid=49172">.....&nbsp;subsp. mollis</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR27.">27'</a><a name="QR27'"> </a> Twig hairs not soft-wavy
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#QR28'">28.</a><a name="QR28."> </a> Leaves shiny bright green; fruit depressed-spheric, stones fused or in 2(3) fused units <a href="/cgi-bin/get_IJM.pl?tid=86364">.....&nbsp;subsp. gabrielensis</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#QR28.">28'</a><a name="QR28'"> </a> Leaves not shiny or bright green; fruit depressed-spheric, stones generally free
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#QR29'">29.</a><a name="QR29."> </a> Leaf blades dark green, margins often &plusmn; red; fruit markedly depressed-spheric; South Coast (San Diego Co.) <a href="/cgi-bin/get_IJM.pl?tid=49169">.....&nbsp;subsp. crassifolia</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#QR29.">29'</a><a name="QR29'"> </a> Leaf blades green or gray-green; fruit not markedly depressed-spheric; Klamath Ranges, North Coast Ranges, San Francisco Bay Area, South Coast Ranges, Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=91856">.....&nbsp;subsp. cushingiana</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#QR1.">1'</a><a name="QR1'"> </a> Burls 0; plant not sprouting after fire
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#QR30'">30.</a><a name="QR30."> </a> Leaves with stomata abaxially, surfaces generally different in color and/or hairiness
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#QR31'">31.</a><a name="QR31."> </a> Flower parts in 4s; fruit 3&ndash;4 mm wide
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#QR32'">32.</a><a name="QR32."> </a> Old stem bark smooth, &plusmn; red; w San Francisco Bay Area (Bolinas Ridge, Mount Tamalpais, Santa Cruz Mtns) <a href="/cgi-bin/get_IJM.pl?tid=13957">.....&nbsp;A. sensitiva</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#QR32.">32'</a><a name="QR32'"> </a> Old stem bark generally rough or shredding, gray or red-gray; c North Coast (Mendocino Co.), c&s Outer North Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=13956">.....&nbsp;A. nummularia</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#QR33'">33.</a><a name="QR33."> </a> Plant prostrate to mounded; leaf blade 0.5&ndash;1.2 cm, 0.3&ndash;0.7 cm wide, oblong-elliptic; pygmy forest; c North Coast (Mendocino Co.) <a href="/cgi-bin/get_IJM.pl?tid=89195">.....&nbsp;subsp. mendocinoensis</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#QR33.">33'</a><a name="QR33'"> </a> Plant prostrate to erect; leaf blade 1&ndash;2.2 cm, 0.8&ndash;1.8 cm wide, round to round-ovate; coastal prairie, maritime chaparral, closed-cone forest; c North Coast/Outer North Coast Ranges (Mendocino Co.)<a href="/cgi-bin/get_IJM.pl?tid=69996">.....&nbsp;subsp. nummularia</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#QR31.">31'</a><a name="QR31'"> </a> Flower parts in 5s; fruit 5&ndash;15 mm wide
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#QR34'">34.</a><a name="QR34."> </a> Leaf abaxially generally tomentose, sparsely so in age
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#QR35'">35.</a><a name="QR35."> </a> Leaf blade oblong-ovate to -elliptic, 1.5&ndash;3 cm, base &plusmn; truncate to &plusmn; cordate; plant erect; s Central Coast (s Morro Bay, San Luis Obispo Co.) <a href="/cgi-bin/get_IJM.pl?tid=13951">.....&nbsp;A. morroensis</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#QR35.">35'</a><a name="QR35'"> </a> Leaf blade narrowly obovate to oblanceolate, 1&ndash;2 cm, base wedge-shaped; plant prostrate to mounded; c Central Coast (around Monterey Bay, Monterey Co.) <a href="/cgi-bin/get_IJM.pl?tid=13972">.....&nbsp;A. pumila</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#QR34.">34'</a><a name="QR34'"> </a> Leaf abaxially glabrous or sparsely nonglandular-hairy
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#QR36'">36.</a><a name="QR36."> </a> Plant generally prostrate to low-mounded
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#QR37'">37.</a><a name="QR37."> </a> Leaves oblanceolate to obovate, occasionally narrowly elliptic, base wedge-shaped; North Coast, c High Sierra Nevada (above Convict Lake, Mono Co), Central Coast <a href="/cgi-bin/get_IJM.pl?tid=13990">.....&nbsp;A. uva-ursi</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#QR37.">37'</a><a name="QR37'"> </a> Leaves elliptic to round-ovate, base truncate to &plusmn; lobed; c Central Coast (nw Monterey Co.) <a href="/cgi-bin/get_IJM.pl?tid=13923">.....&nbsp;A. edmundsii</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#QR36.">36'</a><a name="QR36'"> </a> Plant erect
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#QR38'">38.</a><a name="QR38."> </a> Petioles 4&ndash;8 mm; leaf oblong-elliptic, base rounded, tip obtuse; n Channel Islands (Santa Cruz Island) <a href="/cgi-bin/get_IJM.pl?tid=13937">.....&nbsp;A. insularis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#QR38.">38'</a><a name="QR38'"> </a> Petioles 1&ndash;2(4) mm; leaf oblong to triangular-ovate, base lobed, tip acute; n-c Central Coast, s&w San Francisco Bay Area
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR39'">39.</a><a name="QR39."> </a> Old stem bark smooth, &plusmn; red; leaf light green; w San Francisco Bay Area (Santa Cruz Mtns) <a href="/cgi-bin/get_IJM.pl?tid=13904">.....&nbsp;A. andersonii</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR39.">39'</a><a name="QR39'"> </a> Old stem bark persistent, shredding, gray or &plusmn; red; leaf blue-green; n-c Central Coast, s San Francisco Bay Area (Pajaro Hills) <a href="/cgi-bin/get_IJM.pl?tid=13961">.....&nbsp;A. pajaroensis</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#QR30.">30'</a><a name="QR30'"> </a> Leaves with stomata on both surfaces, surfaces similar in color and/or hairiness
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#QR40'">40.</a><a name="QR40."> </a> Plant prostrate to prostrate-mounded, 0.1&ndash;0.5(3) m
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#QR41'">41.</a><a name="QR41."> </a> Petioles to 2 mm; leaf base lobed, clasping; nascent inflorescence bracts leaf-like
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#QR42'">42.</a><a name="QR42."> </a> Twig, nascent inflorescences, pedicel, ovary nonglandular; &lt; 150 m, c Central Coast (s Monterey, nw San Luis Obispo cos.) <a href="/cgi-bin/get_IJM.pl?tid=13921">.....&nbsp;A. cruzensis</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#QR42.">42'</a><a name="QR42'"> </a> Twig, nascent inflorescence, pedicel, ovary glandular; 200&ndash;400 m, Central Coast (San Bruno Mtn) <a href="/cgi-bin/get_IJM.pl?tid=13935">.....&nbsp;A. imbricata</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#QR41.">41'</a><a name="QR41'"> </a> Petioles 1&ndash;12 mm; leaf base rounded or obtuse to wedge-shaped, not clasping; nascent inflorescence bracts scale-like (basal-most leaf-like in <I>Arctostaphylos franciscana</I>)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#QR43'">43.</a><a name="QR43."> </a> Twig, inflorescence axes, bracts glandular; e Klamath Ranges (Scott Mtn Divide, Slate Mtn) <a href="/cgi-bin/get_IJM.pl?tid=13939">.....&nbsp;A. klamathensis</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#QR43.">43'</a><a name="QR43'"> </a> Twig, inflorescence axes, bracts generally nonglandular; Sonoma Co. to San Luis Obispo Co.
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#QR44'">44.</a><a name="QR44."> </a> Inflorescence panicle, 3&ndash;5-branched; leaf blade generally 3&ndash;5 cm &mdash; s Outer North Coast Ranges (near Healdsburg and Santa Rosa, Sonoma Co.) <a href="/cgi-bin/get_IJM.pl?tid=74690">.....&nbsp;A. stanfordiana subsp. decumbens</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#QR44.">44'</a><a name="QR44'"> </a> Inflorescence &plusmn; raceme or panicle, 0&ndash;3(5)-branched; leaf blade generally 0.8&ndash;3 cm
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR45'">45.</a><a name="QR45."> </a> Fruit 3&ndash;5 mm wide
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR46'">46.</a><a name="QR46."> </a> Leaf blade &plusmn; elliptic, 0.8&ndash;1.2 cm, 0.4&ndash;0.7 cm wide; fruit 3&ndash;5 mm wide; s Central Coast (n San Luis Obispo Co.) <a href="/cgi-bin/get_IJM.pl?tid=49176">.....&nbsp;A. hookeri subsp. hearstiorum</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR46.">46'</a><a name="QR46'"> </a> Leaf blade round to round-elliptic, 1&ndash;2 cm, 1&ndash;1.5 cm wide; fruit 4&ndash;5 mm wide; n Central Coast (San Francisco Presidio) <a href="/cgi-bin/get_IJM.pl?tid=89193">.....&nbsp;A. montana subsp. ravenii</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR45.">45'</a><a name="QR45'"> </a> Fruit 6&ndash;8 mm wide
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR47'">47.</a><a name="QR47."> </a> Twig gray-tomentose; bracts 3&ndash;4 mm; c Central Coast (San Francisco) <a href="/cgi-bin/get_IJM.pl?tid=13931">.....&nbsp;A. franciscana</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR47.">47'</a><a name="QR47'"> </a> Twig sparsely short-nonglandular-hairy; bracts near inflorescence base occasionally 5&ndash;10 mm; Klamath Ranges, High North Coast Ranges, High Cascade Range, High Sierra Nevada, Modoc Plateau, n East of Sierra Nevada (Sweetwater Mtns) <a href="/cgi-bin/get_IJM.pl?tid=49190">.....&nbsp;A. nevadensis subsp. nevadensis</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#QR40.">40'</a><a name="QR40'"> </a> Plant generally erect, occasionally mounded to erect, (0.1)0.3&ndash;8 m
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#QR48'">48.</a><a name="QR48."> </a> Nascent inflorescence bracts fleshy, scoop-shaped or generally scale-like, deltate to awl-shaped, keeled or not
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#QR49'">49.</a><a name="QR49."> </a> Inflorescence generally &plusmn; raceme, occasionally 1&ndash;2-branched
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#QR50'">50.</a><a name="QR50."> </a> Old stem bark persistent, shredding, gray &mdash; s Central Coast, s Outer South Coast Ranges (Nipomo, Burton mesas, Point Sal; sw San Luis Obispo, nw Santa Barbara cos.) <a href="/cgi-bin/get_IJM.pl?tid=76568">.....&nbsp;A. rudis</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#QR50.">50'</a><a name="QR50'"> </a> Old stem bark smooth, dark red with &plusmn; gray or &plusmn; glaucous patches or &plusmn; red
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR51'">51.</a><a name="QR51."> </a> Twig glandular-hairy; old stems dark red with &plusmn; gray or &plusmn; glaucous patches; n Sierra Nevada Foothills (Amador, Calaveras cos.) <a href="/cgi-bin/get_IJM.pl?tid=13952">.....&nbsp;A. myrtifolia</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR51.">51'</a><a name="QR51'"> </a> Twig sparsely short-nonglandular-hairy; old stems &plusmn; red, without &plusmn; gray or &plusmn; glaucous patches; n Central Coast, s San Francisco Bay Area (s Santa Cruz Mtns), South Coast Ranges, San Bernardino Mountains, Peninsular Ranges, e Desert Mountains
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR52'">52.</a><a name="QR52."> </a> Nascent inflorescence spheric, cup-like, axis 0.3&ndash;1 cm, crook-necked, bracts &plusmn; spreading; fruit 3&ndash;8 mm wide; n Central Coast, s San Francisco Bay Area (s Santa Cruz Mtns) <a href="/cgi-bin/get_IJM.pl?tid=49177">.....&nbsp;A. hookeri subsp. hookeri</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR52.">52'</a><a name="QR52'"> </a> Nascent inflorescence club-like, axis 0.5&ndash;1.5 cm, not crook-necked, bracts recurved; fruit 8&ndash;14 mm wide; South Coast Ranges, San Bernardino Mountains, Peninsular Ranges, e Desert Mountains <a href="/cgi-bin/get_IJM.pl?tid=13973">.....&nbsp;A. pungens</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#QR49.">49'</a><a name="QR49'"> </a> Inflorescence panicle, (1)3&ndash;8-branched
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#QR53'">53.</a><a name="QR53."> </a> Leaf blade &plusmn; white, white-glaucous, gray-green, gray-glaucous
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR54'">54.</a><a name="QR54."> </a> Fruit (10)12&ndash;16 mm wide, spheric or &plusmn; spheric
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR55'">55.</a><a name="QR55."> </a> Stones free, occasionally some fused; nascent inflorescence bracts appressed; fruit glabrous; s Cascade Range Foothills, High Cascade Range (near Paradise), n Sierra Nevada Foothills <a href="/cgi-bin/get_IJM.pl?tid=76565">.....&nbsp;A. mewukka subsp. truei</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR55.">55'</a><a name="QR55'"> </a> Stones fused; nascent inflorescence bracts spreading; fruit glabrous or sticky; San Francisco Bay Area, South Coast Ranges, Transverse Ranges, Peninsular Ranges, sw Desert Mountains (Little San Bernardino Mtns)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR56'">56.</a><a name="QR56."> </a> Petiole 1&ndash;4 mm; leaf glabrous or generally short-nonglandular-hairy, base lobed; ovary, fruit glabrous, not sticky; n Inner South Coast Ranges (n&c Gabilan Range, San Benito, Monterey cos.) <a href="/cgi-bin/get_IJM.pl?tid=80888">.....&nbsp;A. gabilanensis</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR56.">56'</a><a name="QR56'"> </a> Petiole 7&ndash;15 mm; leaf glabrous, base rounded, truncate, or &plusmn; lobed; ovary, fruit glandular-sticky; San Francisco Bay Area, South Coast Ranges, Transverse Ranges, Peninsular Ranges, sw Desert Mountains (Little San Bernardino Mtns) <a href="/cgi-bin/get_IJM.pl?tid=13926">.....&nbsp;A. glauca</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR54.">54'</a><a name="QR54'"> </a> Fruit 6&ndash;12 mm wide, depressed-spheric
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR57'">57.</a><a name="QR57."> </a> Nascent inflorescence bracts nonglandular; Klamath Ranges, North Coast Ranges, Cascade Range Foothills, Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=13995">.....&nbsp;A. viscida</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR58'">58.</a><a name="QR58."> </a> Twig densely glandular-hairy; leaf sparsely short-glandular-hairy, ciliate, papillate, scabrous; Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=49228">.....&nbsp;subsp. mariposa</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR58.">58'</a><a name="QR58'"> </a> Twig glabrous to sparsely short-nonglandular-hairy; leaf glabrous
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#QR59'">59.</a><a name="QR59."> </a> Ovary, fruit rough, sticky-glandular; Klamath Ranges, North Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=49229">.....&nbsp;subsp. pulchella</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#QR59.">59'</a><a name="QR59'"> </a> Ovary, fruit smooth, glabrous, not sticky; Klamath Ranges, Inner North Coast Ranges, Cascade Range Foothills, Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=49230">.....&nbsp;subsp. viscida</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR57.">57'</a><a name="QR57'"> </a> Nascent inflorescence bracts glabrous or nonglandular- or glandular-hairy; Klamath Ranges, Inner North Coast Ranges (Sonoma, Colusa, Shasta, Trinity cos.), c&s Outer North Coast Ranges
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR60'">60.</a><a name="QR60."> </a> Leaf blade glaucous, canescent or densely white-tomentose, in age glabrous; ovary densely nonglandular-hairy; Klamath Ranges, Inner North Coast Ranges (Sonoma, Colusa, Shasta, Trinity cos.) <a href="/cgi-bin/get_IJM.pl?tid=76563">.....&nbsp;A. malloryi</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR60.">60'</a><a name="QR60'"> </a> Leaf &plusmn; glaucous, glabrous or scabrous; ovary glabrous (minutely glandular-hairy); c&s Outer North Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=49184">.....&nbsp;A. manzanita subsp. glaucescens</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#QR53.">53'</a><a name="QR53'"> </a> Leaf blade green, shiny or dull both surfaces, not &plusmn; white or &plusmn; gray due to &plusmn; glaucous or hairy surfaces
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR61'">61.</a><a name="QR61."> </a> Twig glandular
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR62'">62.</a><a name="QR62."> </a> Nascent inflorescence spreading to erect, axes &lt; 1 mm wide; bracts appressed, &plusmn; = buds; buds appearing as scattered beads
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR63'">63.</a><a name="QR63."> </a> Leaf blade 1.5&ndash;3 cm, dull green; corolla white; twig finely glandular-hairy; Klamath Ranges, Outer North Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=13929">.....&nbsp;A. hispidula</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR63.">63'</a><a name="QR63'"> </a> Leaf blade 3&ndash;5 cm, bright green to &plusmn; glaucous; corolla white to pink; twig short-glandular-hairy; s Inner North Coast Ranges (s Mendocino, w Lake cos.) <a href="/cgi-bin/get_IJM.pl?tid=49209">.....&nbsp;A. stanfordiana subsp. raichei</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR62.">62'</a><a name="QR62'"> </a> Nascent inflorescence pendent, axes generally > 1 mm wide; bracts generally &plusmn; appressed, > buds, buds not appearing as beads
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR64'">64.</a><a name="QR64."> </a> Leaf blade generally 2&ndash;6 cm, at least some > 3 cm, round to widely ovate or oblong
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#QR65'">65.</a><a name="QR65."> </a> Glands of twig, nascent inflorescences dark or clear; leaf dull green, scabrous, glandular; High North Coast Ranges, Cascade Range Foothills (Shasta, Tehama cos.) <a href="/cgi-bin/get_IJM.pl?tid=49188">.....&nbsp;A. manzanita subsp. wieslanderi</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#QR65.">65'</a><a name="QR65'"> </a> Glands of twig, nascent inflorescences gold or 0; leaf bright green, glabrous; High North Coast Ranges, High Cascade Range, High Sierra Nevada, San Gabriel Mountains, San Bernardino Mountains, San Jacinto Mountains <a href="/cgi-bin/get_IJM.pl?tid=13965">.....&nbsp;A. patula</a> (3)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR64.">64'</a><a name="QR64'"> </a> Leaf blade 1.5&ndash;3 cm, elliptic to ovate
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#QR66'">66.</a><a name="QR66."> </a> Twig with occasionally long glandular hairs; siliceous shale, sw San Francisco Bay Area (n Ben Lomond Mtn, nw Santa Cruz Co.) <a href="/cgi-bin/get_IJM.pl?tid=88878">.....&nbsp;A. ohloneana</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#QR66.">66'</a><a name="QR66'"> </a> Twig with glandular hairs or sessile glands; serpentine, s Outer North Coast Ranges (Sonoma Co.) <a href="/cgi-bin/get_IJM.pl?tid=13906">.....&nbsp;A. bakeri</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#QR67'">67.</a><a name="QR67."> </a> Twig with glandular hairs; s Outer North Coast Ranges (central Sonoma Co. s of Guerneville) <a href="/cgi-bin/get_IJM.pl?tid=49161">.....&nbsp;subsp. bakeri</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#QR67.">67'</a><a name="QR67'"> </a> Twig with sessile glands; s Outer North Coast Ranges (Sonoma Co. from The Cedars to Healdsburg) <a href="/cgi-bin/get_IJM.pl?tid=49162">.....&nbsp;subsp. sublaevis</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR61.">61'</a><a name="QR61'"> </a> Twig nonglandular
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR68'">68.</a><a name="QR68."> </a> Nascent inflorescence axis generally &lt; 1 mm wide
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR69'">69.</a><a name="QR69."> </a> Leaf blade 1&ndash;2.5 cm; bracts > buds; buds not appearing as beads; plant mounded to erect; s Outer North Coast Ranges (Vine Hill near Forestville, Sonoma Co.) <a href="/cgi-bin/get_IJM.pl?tid=13922">.....&nbsp;A. densiflora</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR69.">69'</a><a name="QR69'"> </a> Leaf blades 3&ndash;5 cm; bracts &plusmn; = buds; buds appearing as scattered beads; plant erect; Outer North Coast Ranges, c&s Inner North Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=49210">.....&nbsp;A. stanfordiana subsp. stanfordiana</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR68.">68'</a><a name="QR68'"> </a> Nascent inflorescence axis > 1 mm wide
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR70'">70.</a><a name="QR70."> </a> Leaf blade 1&ndash;2.5 cm <a href="/cgi-bin/get_IJM.pl?tid=89194">.....&nbsp;A. montana subsp. montana</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR70.">70'</a><a name="QR70'"> </a> Leaf blade 1.5&ndash;5 cm
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#QR71'">71.</a><a name="QR71."> </a> Ovary, fruit minutely glandular-hairy; plant erect; Klamath Ranges, North Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=76564">.....&nbsp;A. manzanita subsp. elegans</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#QR71.">71'</a><a name="QR71'"> </a> Ovary, fruit glabrous; plant mounded or erect; Klamath Ranges, Outer North Coast Ranges, Inner North Coast Ranges, s Cascade Range Foothills, n&c Sierra Nevada Foothills, n High Sierra Nevada, Sacramento Valley, n&e San Francisco Bay Area, Transverse Ranges
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#QR72'">72.</a><a name="QR72."> </a> Fruit spheric, stones fused; Transverse Ranges <a href="/cgi-bin/get_IJM.pl?tid=80196">.....&nbsp;A. parryana subsp. parryana</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#QR72.">72'</a><a name="QR72'"> </a> Fruit depressed-spheric, stones free; Klamath Ranges, Outer North Coast Ranges, Inner North Coast Ranges, s Cascade Range Foothills, n&c Sierra Nevada Foothills, n High Sierra Nevada, Sacramento Valley, n&e San Francisco Bay Area <a href="/cgi-bin/get_IJM.pl?tid=13942">.....&nbsp;A. manzanita</a> (in part)
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#QR73'">73.</a><a name="QR73."> </a> Leaf blade bright green; inflorescence 2&ndash;4-branched, axis > 1 mm wide; nascent inflorescence branches to 15 mm; s Inner North Coast Ranges (Vaca Mtns), e San Francisco Bay Area (Mount Diablo) <a href="/cgi-bin/get_IJM.pl?tid=49185">.....&nbsp;subsp. laevigata</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#QR73.">73'</a><a name="QR73'"> </a> Leaf blade dull to bright green; inflorescence 4&ndash;7-branched, axis &plusmn; 1 mm wide; nascent inflorescence branches generally 15&ndash;25 mm; Klamath Ranges, Outer North Coast Ranges, Inner North Coast Ranges, s Cascade Range Foothills, n&c Sierra Nevada Foothills, n High Sierra Nevada, Sacramento Valley, n San Francisco Bay Area <a href="/cgi-bin/get_IJM.pl?tid=49186">.....&nbsp;subsp. manzanita</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#QR48.">48'</a><a name="QR48'"> </a> Nascent inflorescence bracts generally leaf-like, flat
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#QR74'">74.</a><a name="QR74."> </a> Old stem bark persistent, gray, shredding (except occasionally smooth on <I>Arctostaphylos osoensis</I>)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#QR75'">75.</a><a name="QR75."> </a> Leaf gray, dull, sparsely appressed-puberulent, in age glabrous, base rounded to wedge-shaped, not clasping; n Sierra Nevada (Placer, El Dorado cos.), c Sierra Nevada Foothills (Tuolumne Co.) <a href="/cgi-bin/get_IJM.pl?tid=13955">.....&nbsp;A. nissenana</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#QR75.">75'</a><a name="QR75'"> </a> Leaf dark green, &plusmn; shiny, sparsely short-nonglandular-hairy or glabrous, base lobed, clasping; s Central Coast (w Los Osos Valley, San Luis Obispo Co.) <a href="/cgi-bin/get_IJM.pl?tid=74486">.....&nbsp;A. osoensis</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#QR74.">74'</a><a name="QR74'"> </a> Old stem bark smooth, &plusmn; red
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#QR76'">76.</a><a name="QR76."> </a> Leaf gray-canescent in youth, glabrous in age
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR77'">77.</a><a name="QR77."> </a> Leaf base lobed, clasping; petiole to 4 mm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR78'">78.</a><a name="QR78."> </a> Ovary, fruit glabrous; Outer South Coast Ranges (se of Cuesta Pass, San Luis Obispo Co.) <a href="/cgi-bin/get_IJM.pl?tid=13941">.....&nbsp;A. luciana</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR78.">78'</a><a name="QR78'"> </a> Ovary, fruit nonglandular-hairy or glandular- and nonglandular-hairy; eastern and southwestern San Francisco Bay Area
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR79'">79.</a><a name="QR79."> </a> Ovary, fruit nonglandular-hairy; e San Francisco Bay Area (Mount Diablo and vicinity) <a href="/cgi-bin/get_IJM.pl?tid=13905">.....&nbsp;A. auriculata</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR79.">79'</a><a name="QR79'"> </a> Ovary, fruit glandular- and nonglandular-hairy; sw San Francisco Bay Area (n Ben Lomond Mtn, nw Santa Cruz Co.) <a href="/cgi-bin/get_IJM.pl?tid=13927">.....&nbsp;A. glutinosa</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR77.">77'</a><a name="QR77'"> </a> Leaf base wedge-shaped, rounded, truncate, or &plusmn; lobed, not clasping; petiole 3&ndash;10 mm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR80'">80.</a><a name="QR80."> </a> Ovary glabrous; corolla white
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR81'">81.</a><a name="QR81."> </a> Inflorescence 2&ndash;4-branched panicle; pedicel 8&ndash;10 mm; Outer South Coast Ranges (c&s Santa Lucia Range) <a href="/cgi-bin/get_IJM.pl?tid=13958">.....&nbsp;A. obispoensis</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR81.">81'</a><a name="QR81'"> </a> Inflorescence 0&ndash;1-branched, &plusmn; raceme; pedicel 5&ndash;7 mm; sw San Francisco Bay Area (s Santa Cruz Mtns) <a href="/cgi-bin/get_IJM.pl?tid=76569">.....&nbsp;A. silvicola</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR80.">80'</a><a name="QR80'"> </a> Ovary glandular- or nonglandular-hairy; corolla pink or white <a href="/cgi-bin/get_IJM.pl?tid=13909">.....&nbsp;A. canescens</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR82'">82.</a><a name="QR82."> </a> Ovary nonglandular-hairy; Klamath Ranges, North Coast Ranges, n Central Coast (Tassajara, Santa Lucia Range), w San Francisco Bay Area (Mount Tamalpais; s Santa Cruz Mtns) <a href="/cgi-bin/get_IJM.pl?tid=49163">.....&nbsp;subsp. canescens</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR82.">82'</a><a name="QR82'"> </a> Ovary glandular-hairy; w Klamath Ranges, Outer North Coast Ranges, w San Francisco Bay Area (Shasta-Santa Cruz cos.) <a href="/cgi-bin/get_IJM.pl?tid=49165">.....&nbsp;subsp. sonomensis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#QR76.">76'</a><a name="QR76'"> </a> Leaf green to glaucous, glabrous to variously hairy but not gray-canescent
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR83'">83.</a><a name="QR83."> </a> Leaf base lobed (truncate to lobed in <I>Arctostaphylos viridissima</I>), often clasping (except <I>Arctostaphylos hooveri</I> with longer petiole)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR84'">84.</a><a name="QR84."> </a> Nascent inflorescence nonglandular-hairy
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR85'">85.</a><a name="QR85."> </a> Pedicel nonglandular-hairy; n Channel Islands (e Santa Cruz Island) <a href="/cgi-bin/get_IJM.pl?tid=13994">.....&nbsp;A. viridissima</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR85.">85'</a><a name="QR85'"> </a> Pedicel glabrous or sparsely nonglandular-hairy; s Central Coast, s Outer South Coast Ranges/Western Transverse Ranges
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#QR86'">86.</a><a name="QR86."> </a> Leaf blade 2&ndash;5 cm; fruit 8&ndash;12 mm wide; stones generally fused; s Central Coast (Morro Bay to Avila Beach, San Luis Obispo Co.) <a href="/cgi-bin/get_IJM.pl?tid=13967">.....&nbsp;A. pechoensis</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#QR86.">86'</a><a name="QR86'"> </a> Leaf blade 1&ndash;2.5 cm; fruit 5&ndash;8 mm wide; stones free; s Central Coast, s Outer South Coast Ranges/Western Transverse Ranges (w Santa Barbara Co.) <a href="/cgi-bin/get_IJM.pl?tid=13976">.....&nbsp;A. purissima</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR84.">84'</a><a name="QR84'"> </a> Nascent inflorescence glandular-hairy
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR87'">87.</a><a name="QR87."> </a> Fruit 10&ndash;15 mm wide, spheric; stones fused; s Outer South Coast Ranges/w Western Transverse Ranges (Santa Ynez Mtns) <a href="/cgi-bin/get_IJM.pl?tid=13977">.....&nbsp;A. refugioensis</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR87.">87'</a><a name="QR87'"> </a> Fruit 6&ndash;10(15) mm wide, depressed-spheric; stones free; Central Coast, San Francisco Bay Area, Outer South Coast Ranges
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#QR88'">88.</a><a name="QR88."> </a> Leaf blade generally ovate, 2.5&ndash;4.5 cm, not boat-shaped, sparsely glandular or not but not sticky
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#QR89'">89.</a><a name="QR89."> </a> Leaf blade bright green, not glaucous; twig long-glandular-hairy; Central Coast (San Bruno Mtn), w San Francisco Bay Area (Montara Mtn) <a href="/cgi-bin/get_IJM.pl?tid=13936">.....&nbsp;A. montaraensis</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#QR89.">89'</a><a name="QR89'"> </a> Leaf blade green, glaucous; twig short- and long-nonglandular-hairy; e San Francisco Bay Area (Sobrante, Huckleberry ridges; Alameda, Contra Costa cos.) <a href="/cgi-bin/get_IJM.pl?tid=13962">.....&nbsp;A. pallida</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#QR88.">88'</a><a name="QR88'"> </a> Leaf blade oblong-ovate, 3&ndash;6 cm, boat-shaped, glandular-sticky in youth, glabrous but possibly still sticky in age
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#QR90'">90.</a><a name="QR90."> </a> Petiole 3&ndash;6 mm; leaves not clasping; Outer South Coast Ranges (Santa Lucia Range) <a href="/cgi-bin/get_IJM.pl?tid=13934">.....&nbsp;A. hooveri</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#QR90.">90'</a><a name="QR90'"> </a> Petiole &lt; 3 mm; leaves clasping; w San Francisco Bay Area (n Santa Cruz Mtns) <a href="/cgi-bin/get_IJM.pl?tid=13978">.....&nbsp;A. regismontana</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#QR83.">83'</a><a name="QR83'"> </a> Leaf base rounded, truncate, wedge-shaped, or &plusmn; lobed, not clasping (except occasionally in suspected hybrids of <I>Arctostaphylos montereyensis</I> and <I>Arctostaphylos pajaroensis</I>)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR91'">91.</a><a name="QR91."> </a> Lf-like bracts deep pink, glandular, deciduous after flower; San Bernardino Mountains, Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=49195">.....&nbsp;A. pringlei subsp. drupacea</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#QR91.">91'</a><a name="QR91'"> </a> Lf-like bracts green, glandular or not, persistent after flower; North Coast, nw&w Klamath Ranges, Outer North Coast Ranges, Central Coast, nw San Francisco Bay Area, Outer South Coast Ranges, Channel Islands, sw Peninsular Ranges
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR92'">92.</a><a name="QR92."> </a> Fruit spheric; stones free or fused
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#QR93'">93.</a><a name="QR93."> </a> Fruit 8&ndash;15 mm wide; leaf papillate, scabrous, base truncate to &plusmn; lobed; s Channel Islands (Santa Catalina Island) <a href="/cgi-bin/get_IJM.pl?tid=13912">.....&nbsp;A. catalinae</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#QR93.">93'</a><a name="QR93'"> </a> Fruit 6&ndash;8 mm wide; leaf not papillate, not scabrous, base wedge-shaped, rounded, or truncate; sw Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=13959">.....&nbsp;A. otayensis</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#QR92.">92'</a><a name="QR92'"> </a> Fruit depressed-spheric; stones free
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#QR94'">94.</a><a name="QR94."> </a> Inflorescence &plusmn; raceme, 0&ndash;1-branched
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#QR95'">95.</a><a name="QR95."> </a> Twig, inflorescence axes, bracts glandular; n Central Coast, nw San Francisco Bay Area (Marin Co.) <a href="/cgi-bin/get_IJM.pl?tid=13993">.....&nbsp;A. virgata</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#QR95.">95'</a><a name="QR95'"> </a> Twig, inflorescence axes, bracts nonglandular (except occasionally minutely glandular in <I>Arctostaphylos nortensis</I>); nw Klamath Ranges, s Central Coast, s Outer South Coast Ranges
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#QR96'">96.</a><a name="QR96."> </a> Pedicel, ovary, fruit nonglandular-hairy; 500&ndash;940 m, nw Klamath Ranges (n Del Norte Co.) <a href="/cgi-bin/get_IJM.pl?tid=76566">.....&nbsp;A. nortensis</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#QR96.">96'</a><a name="QR96'"> </a> Pedicel, ovary, fruit glabrous; 30&ndash;1250 m, s Central Coast (Pismo Beach vicinity), s Outer South Coast Ranges (s Santa Lucia, La Panza ranges and s) <a href="/cgi-bin/get_IJM.pl?tid=76567">.....&nbsp;A. pilosula</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#QR94.">94'</a><a name="QR94'"> </a> Inflorescence panicle, 3&ndash;10-branched
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#QR97'">97.</a><a name="QR97."> </a> Leaves overlapped; plant shrub, prostrate to mounded or erect, 0.1&ndash;2 m; n Channel Islands (Santa Rosa Island) <a href="/cgi-bin/get_IJM.pl?tid=13920">.....&nbsp;A. confertiflora</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#QR97.">97'</a><a name="QR97'"> </a> Leaves not overlapped; plant shrub or tree, erect, 1&ndash;5 m; North Coast, w Klamath Ranges, Outer North Coast Ranges, c Central Coast, n Outer South Coast Ranges
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#QR98'">98.</a><a name="QR98."> </a> Leaf lanceolate to ovate, dark green; nascent inflorescence generally short- and long-nonglandular-hairy, occasionally glandular-hairy; North Coast, w Klamath Ranges, Outer North Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=13918">.....&nbsp;A. columbiana</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#QR98.">98'</a><a name="QR98'"> </a> Leaf round to oblong-ovate, bright green or &plusmn; glaucous; nascent inflorescence glandular-hairy; c Central Coast (Fort Ord), n Outer South Coast Ranges (Mount Toro, nw Monterey Co.) <a href="/cgi-bin/get_IJM.pl?tid=13950">.....&nbsp;A. montereyensis</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

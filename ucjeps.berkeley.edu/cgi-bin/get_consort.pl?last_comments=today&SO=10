@@ -1,0 +1,172 @@
+<html>
+<head>
+<Meta NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>UC/JEPS: Consortium Search Results</title>
+<link href="http://ucjeps.berkeley.edu/consortium/style_consortium.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+
+
+
+
+<!-- COMMON HEADER -->
+<table width="100%" class="banner" border="0" cellpadding="0" cellspacing="0">
+  <tr><td width="80" align="center"><a href="/consortium/"><img src="/consortium/images/CCH_logo_02_80.png" width="80" height="82"></a></td>
+  <td>
+        <table class="banner" width="100%" border="0">
+        <tr>
+        <td align="center">Consortium of California Herbaria</td>
+        </tr>
+        <tr><td>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                <td height="21" width="640" align="center">
+                <a href="http://ucjeps.berkeley.edu/consortium/participants.html" class="horizMenuActive">Participants</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/consortium/news.html" class="horizMenuActive">News</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/consortium/" class="horizMenuActive">Search</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/consortium/about.html" class="horizMenuActive">About</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/detail_help.html" class="horizMenuActive">Help</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://give.berkeley.edu/fund/?f=FU1259000" class="horizMenuActive">Donate</a>
+                    </td></tr>
+                </table>
+        </td></tr>
+        </table>
+</td></tr>
+</table>
+<!-- COMMON HEADER ENDS -->
+
+
+
+
+<br />
+<table width="100%" cellpadding="5" class="bodyText"><tr><td>
+<span class="pageName">Search Results</span>
+<span class="pageSubheading"> &mdash; 3 specimen records retrieved (2 records with coordinates)</span>
+<br />
+<span class="bodyText">Results for search:  &nbsp;&nbsp;</span>
+
+<table width="100%" cellpadding="5" class="bodyText"><tr><td width="50%" valign="top">
+<span class="pageSubheading"><br>Mapping Options:</span>
+<br>
+<a href="http://berkeleymapper.berkeley.edu/index.html?ViewResults=tab&tabfile=http://ucjeps.berkeley.edu/BerkeleyMapper/CHC_059124687.txt&configfile=http%3A%2F%2Fucjeps.berkeley.edu%2Fucjeps.xml&sourcename=Consortium+of+California+Herbaria+result+set&maptype=Terrain">BerkeleyMapper with county and bioregion layers</a> <br>
+<a href="http://berkeleymapper.berkeley.edu/index.html?ViewResults=tab&tabfile=http://ucjeps.berkeley.edu/BerkeleyMapper/CHC_059124687.txt&configfile=http%3A%2F%2Fucjeps.berkeley.edu%2Fucjeps_nolayers.xml&sourcename=Consortium+of+California+Herbaria+result">BerkeleyMapper without layers.</a> <br>
+<a href="/cgi-bin/x_to_k.pl?tabfile=http://ucjeps.berkeley.edu/BerkeleyMapper/CHC_059124687.txt"> KML export</a> <br>
+(Note: only records with coordinates are mappable)
+</td>
+
+</span>
+<td width = "50%" valign="top">
+<span class="pageSubheading"><br>Download Options:</span>
+<form method="post" action="/cgi-bin/get_consort.pl">
+
+<a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=today&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;check_all=1&amp;SO=10">Select all records</a>
+&middot;
+<a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=today&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;georef_only=1">Select records with coordinates</a><br>
+<input type="submit" value="Retrieve selected records as tab-separated list"> <br>
+<input type="checkbox" name="DL" value="UCR">Include annotations and voucher information
+</td></tr>
+</td></tr></table>
+
+<hr>
+<table width="100%" cellpadding="0" cellspacing="0" class="bodyText">
+<tr><td>&nbsp;</td><td>Please cite data retrieved from this page: Data provided by the participants of the Consortium of California Herbaria (ucjeps.berkeley.edu/consortium/).
+</td></tr>
+<tr><td>&nbsp;</td><td>Records are made available under the <a href="http://ucjeps.berkeley.edu/consortium/data_use_terms.html">CCH Data Use Terms</a>.</td></tr>
+</table>
+<hr>
+
+<table width="100%" cellpadding="5" cellspacing="0" class="bodyText">
+<tr><td colspan="11">
+Click on column header to sort data (* sorts by family); click in leftmost checkbox to select record. <a href="http://ucjeps.berkeley.edu/detail_help.html">CCH Help Page</a>.
+<br>
+<a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=today&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=1&amp;VTM=0">Turn on yellow flags</a> to show possible range discrepancies.
+<a href="http://ucjeps.berkeley.edu/consortium/about_yellow.html">Read more ... </a>
+</td>
+</tr>
+<tr bgcolor="#cccccc">
+<th></th>
+<th bgcolor=#eeeeee><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=today&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=21">?</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=today&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=10-">Specimen ID</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=today&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=0">Determination</a><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=today&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=11"> *</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=today&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=1">Collector</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=today&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=5">Collection Date</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=today&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=3">Collection Number</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=today&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=8">County</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=today&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=20">Locality</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=today&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=9">Elevation in meters</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=today&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=25">Feedback</a></th>
+</tr>
+
+
+<!-- CHSC1030 --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CHSC1030 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CHSC1030&YF=0">CHSC1030</a>&nbsp;</td>
+<td>Horsfordia alata</td>
+<td>V. Holt</td>
+<td>04 16 1935</td>
+<td></td>
+<td>Riverside</td>
+<td>West Colorado Desert near San Jacinto</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CHSC1030">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=CHSC1030"><br>Read comments</a> Mar 10  2016
+</td>
+</tr>
+<!-- RSA706398 --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=RSA706398 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA706398&YF=0">RSA706398</a>&nbsp;</td>
+<td>Monardella lanceolata</td>
+<td>Virginia Moran, Amber Inwood</td>
+<td>Jul 15 2003</td>
+<td>s.n.</td>
+<td>San Diego</td>
+<td>Accuracy 5 m</td>
+<td>1074</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA706398">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=RSA706398"><br>Read comments</a> Mar 10  2016
+</td>
+</tr>
+<!-- SD143839 --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD143839 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD143839&YF=0">SD143839</a>&nbsp;</td>
+<td>Phacelia tanacetifolia</td>
+<td>B. Pitzer</td>
+<td>Feb 01, 1998</td>
+<td>3461</td>
+<td>Imperial</td>
+<td>Milpitas Wash, ca. 0.2 miles south of Walter's Camp Road (on Hwy 78), ca. 1 mile west of Highway 78. In wash and on terraces, mostly at bases of shrubs. (IPB 10/07)</td>
+<td>91</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD143839">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=SD143839"><br>Read comments</a> Mar 10  2016
+</td>
+</tr>
+</table></form>
+
+<!-- Footer begins -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="18" bgcolor="9090AA"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  <tr>
+    <td height="20"><span class="copyrightText">&nbsp;&nbsp;Copyright &copy; 2010 Regents of the University of California &mdash; Database extract updated 2/17/2016 
+</span>
+
+
+
+  </tr>
+</table>
+<!-- Footer ends -->
+
+
+1.35 processing seconds
+
+<!-- <a href="/cgi-bin/clone_coords.pl?/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=today&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0">Clone coords view</a>-->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1304595-1";
+urchinTracker();
+</script>
+</body></html>

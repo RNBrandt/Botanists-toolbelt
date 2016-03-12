@@ -1,0 +1,153 @@
+a {
+	color: #0000CC;
+	text-decoration: none;
+	}
+a.bannerHerbs {
+	background-color: #9090AA;
+	text-decoration: none;
+	color: #FEFEFE;
+	}
+a.bannerHerbs:hover {
+	color: #0000FF;
+	text-decoration: underline;
+	}
+a.horizMenuActive:hover {
+	text-decoration: underline;
+	color: #0000FF;
+	}
+body {
+	background-color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin:0px;
+	}
+th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	}
+
+.banner {
+	background-color: #9090AA;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 26px;
+	font-weight: bolder;
+	color: #FEFEFE;
+	}
+.tagList {
+	font-weight: bolder;
+	background-color: #9090AA;
+	font-family:  Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	}
+.bannerHerbs {
+	font-size: 14px;
+	font-style: italic;
+}
+.bodyCloserText {
+	color:#24242F;
+	line-height:14px;
+	margin-top:0px;
+	font-size: 12px;
+    }
+.exampleLinkText {
+	color:#FFFFFF;
+	line-height:normal;
+	margin-top:0px;
+	font-size: 11px;
+	}
+.bodySmallerText {
+	color:#24242F;
+	line-height:normal;
+	margin-top:0px;
+	font-size: 11px;
+	}
+.bodyLargerText {
+        color:#24242F;
+        line-height:normal;
+        margin-top:0px;
+        font-size: 13px;
+        }
+.bodyText {
+	color:#24242F;
+	line-height:18px;
+	margin-top:0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	}
+.bodyRef {
+	color:#24242F;
+	line-height:18px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-indent: -0.5in;
+	margin-left: 0.5in;
+	}
+.caption {
+	font-size: 9px;
+	}
+.copyrightText {
+	color:#24242F;
+	line-height:18px;
+	margin-top:0px;
+	font-size: 11px;
+	}
+.horizMenu {
+	background-color: #CFCFDA;
+}
+.horizMenuActive {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	}
+.horizMenuInactive {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: silver;
+	}
+.oldFont {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+}
+.pageAuthorLine {
+	color: #585872;
+	line-height:16px;
+	letter-spacing:0.05em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	}
+.pageName{
+	color: #585872;
+	line-height:24px;
+	letter-spacing:0.2em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	}
+.pageSubheading {
+	color: #585872;
+	line-height:16px;
+	letter-spacing:0.05em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	}
+.pageSubheading2 {
+	color: #585872;
+	line-height:16px;
+	letter-spacing:0.05em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+
+}
+.mybutton {
+border: 1px solid red;
+font-family: arial, Helvetica, sans-serif;
+font-size: 1em;
+font-weight: bold;
+background-color: #ff00ff;
+color: red;
+padding: 3px;
+}

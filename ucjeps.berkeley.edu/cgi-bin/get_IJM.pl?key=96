@@ -1,0 +1,296 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Chenopodiaceae</h2><a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=96'><h3>View taxon page for Chenopodiaceae</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#OX1'">1.</a><a name="OX1."> </a> Stems jointed, &plusmn; fleshy or succulent; leaves scale-like
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#OX2'">2.</a><a name="OX2."> </a> Leaves alternate; shrub <a href="/cgi-bin/get_IJM.pl?tid=11487">.....&nbsp;ALLENROLFEA</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#OX2.">2'</a><a name="OX2'"> </a> Leaves opposite; annual to subshrub
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#OX3'">3.</a><a name="OX3."> </a> Annual <a href="/cgi-bin/get_IJM.pl?tid=11506">.....&nbsp;SALICORNIA</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#OX3.">3'</a><a name="OX3'"> </a> Subshrub, woody stems sometimes buried by tidal action
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OX4'">4.</a><a name="OX4."> </a> Inflorescence axis bearing flowers to tip, not resuming vegetative growth after flowering; flowers sunken in fleshy tissue of distal internode, adherent to each other and to subtending bracts; seed with hooked hairs <a href="/cgi-bin/get_IJM.pl?tid=11506">.....&nbsp;SALICORNIA</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OX4.">4'</a><a name="OX4'"> </a> Inflorescence axis often distally sterile, &plusmn; abruptly tapered, sometimes resuming vegetative growth after flowering; flowers sunken in axis, free from each other and distal bract; seed glabrous <a href="/cgi-bin/get_IJM.pl?tid=11489">.....&nbsp;ARTHROCNEMUM</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#OX1.">1'</a><a name="OX1'"> </a> Stems not jointed, generally not fleshy; leaves well developed
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#OX5'">5.</a><a name="OX5."> </a> Leaves &plusmn; semicylindric, generally fleshy (except <I>Kochia</I>)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#OX6'">6.</a><a name="OX6."> </a> Leaves or inflorescence bracts bristle- or spine-tipped
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OX7'">7.</a><a name="OX7."> </a> Leaves, inflorescence bracts cylindric or club-shaped, abruptly bristle-tipped; tips of sepals winged in fruit <a href="/cgi-bin/get_IJM.pl?tid=11499">.....&nbsp;HALOGETON</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OX7.">7'</a><a name="OX7'"> </a> Leaves thread-like to &plusmn; cylindric, acute; bracts awl-like to ovate, generally spine-tipped; abaxial faces of sepals generally tubercled or winged in fruit <a href="/cgi-bin/get_IJM.pl?tid=11507">.....&nbsp;SALSOLA</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#OX6.">6'</a><a name="OX6'"> </a> Leaves or inflorescence bracts not spine- or bristle-tipped
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OX8'">8.</a><a name="OX8."> </a> Leaves not or &plusmn; weakly fleshy; sepals in fruit each with horizontal, membranous wing or tubercle on abaxial face <a href="/cgi-bin/get_IJM.pl?tid=11500">.....&nbsp;KOCHIA</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OX8.">8'</a><a name="OX8'"> </a> Leaves fleshy; sepals in fruit each either without wing or tubercle or with distal horn-like appendage and horizontal wing on abaxial face <a href="/cgi-bin/get_IJM.pl?tid=11511">.....&nbsp;SUAEDA</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#OX5.">5'</a><a name="OX5'"> </a> Leaves flattened, not or &plusmn; weakly fleshy
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#OX9'">9.</a><a name="OX9."> </a> Bisexual flowers 0; pistillate flower enclosed by 2, free or fused bracts (except in some pistillate flowers of <I>Atriplex hortensis</I>), these enlarged in fruit, calyx 0 (except in <I>Stutzia</I> and some pistillate flowers of <I>Atriplex hortensis</I>)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OX10'">10.</a><a name="OX10."> </a> Pistillate flower bracts and calyx of staminate flowers densely soft-hairy <a href="/cgi-bin/get_IJM.pl?tid=11501">.....&nbsp;KRASCHENINNIKOVIA</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OX10.">10'</a><a name="OX10'"> </a> Pistillate flower bracts and calyx of staminate flowers glabrous, minutely scaly, or powdery
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OX11'">11.</a><a name="OX11."> </a> Plant glabrous or with minute, soft, branched hairs; fruit bracts &plusmn; round, flat, winged, wholly united, entire, tubercles 0; shrub <a href="/cgi-bin/get_IJM.pl?tid=11498">.....&nbsp;GRAYIA</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OX11.">11'</a><a name="OX11'"> </a> Plant glabrous or generally with sessile, round to club-shaped, 1-celled glands that collapse and become mealy or scale-like; fruit bracts &plusmn; triangular to round, generally &plusmn; thickened, at least tips free, tubercles and/or marginal teeth present or 0; annual to shrub
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OX12'">12.</a><a name="OX12."> </a> Pistillate flower with calyx that is enclosed between and concealed by much longer bracts <a href="/cgi-bin/get_IJM.pl?tid=95036">.....&nbsp;STUTZIA</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OX12.">12'</a><a name="OX12'"> </a> Pistillate flower without calyx (except in bractless pistillate flowers of <I>Atriplex hortensis</I>)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OX13'">13.</a><a name="OX13."> </a> Leaf anatomy Kranz (see note under <I>Atriplex</I>); herbs to shrubs <a href="/cgi-bin/get_IJM.pl?tid=11490">.....&nbsp;ATRIPLEX</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OX13.">13'</a><a name="OX13'"> </a> Leaf anatomy non-Kranz; herbs
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OX14'">14.</a><a name="OX14."> </a> Calyx lobes of staminate flower 4; seeds of 1 kind (dark brown-black); annual or perennial herb <a href="/cgi-bin/get_IJM.pl?tid=95360">.....&nbsp;EXTRIPLEX</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OX14.">14'</a><a name="OX14'"> </a> Calyx lobes of staminate flower 3&ndash;5; seeds of 2 kinds (smaller black, larger brown); annual <a href="/cgi-bin/get_IJM.pl?tid=11490">.....&nbsp;ATRIPLEX</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#OX9.">9'</a><a name="OX9'"> </a> Bisexual flowers present or 0; pistillate flower (if present) not enclosed by 2 bracts, generally with 1&ndash;5 sepals (0 in <I>Monolepis spathulata</I>)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OX15'">15.</a><a name="OX15."> </a> Calyx horizontally winged in fruit
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OX16'">16.</a><a name="OX16."> </a> Leaf wavy-dentate; plant long-shaggy-hairy to tomentose, generally glabrous in age <a href="/cgi-bin/get_IJM.pl?tid=11496">.....&nbsp;CYCLOLOMA</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OX16.">16'</a><a name="OX16'"> </a> Leaf entire; plant generally glabrous, occasionally &plusmn; hairy <a href="/cgi-bin/get_IJM.pl?tid=11500">.....&nbsp;KOCHIA</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#OX15.">15'</a><a name="OX15'"> </a> Calyx not horizontally winged in fruit
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OX17'">17.</a><a name="OX17."> </a> Fruiting calyx tubercled or with curved to hooked appendages
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OX18'">18.</a><a name="OX18."> </a> Calyx densely hairy, in fruit bearing 5 incurved to hooked spines <a href="/cgi-bin/get_IJM.pl?tid=11492">.....&nbsp;BASSIA</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OX18.">18'</a><a name="OX18'"> </a> Calyx glabrous to ciliate, in fruit tubercled, without spines
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OX19'">19.</a><a name="OX19."> </a> Leaf ovate; ovary 1/2-inferior, embedded in receptacle; fruits clustered, 2+ often falling in a group together with hardened calyces <a href="/cgi-bin/get_IJM.pl?tid=11493">.....&nbsp;BETA</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OX19.">19'</a><a name="OX19'"> </a> Leaf linear; ovary superior, not embedded in receptacle; fruits falling individually <a href="/cgi-bin/get_IJM.pl?tid=29943">.....&nbsp;Kochia scoparia</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#OX17.">17'</a><a name="OX17'"> </a> Fruiting calyx not tubercled or with appendages
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OX20'">20.</a><a name="OX20."> </a> Ovary 1/2-inferior, embedded in receptacle; calyx thick, hard in fruit; fruits clustered <a href="/cgi-bin/get_IJM.pl?tid=11493">.....&nbsp;BETA</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#OX20.">20'</a><a name="OX20'"> </a> Ovary superior; calyx thin in fruit; fruits not adherent
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OX21'">21.</a><a name="OX21."> </a> Distal leaves cordate-clasping; style branches 3 <a href="/cgi-bin/get_IJM.pl?tid=11488">.....&nbsp;APHANISMA</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#OX21.">21'</a><a name="OX21'"> </a> Distal leaves not clasping; style branches generally 2
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OX22'">22.</a><a name="OX22."> </a> Sepals, stamens (1&ndash;)5; plant glandular-puberulent or not
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OX23'">23.</a><a name="OX23."> </a> Plant glandular-puberulent, sometimes also long-hairy <a href="/cgi-bin/get_IJM.pl?tid=11497">.....&nbsp;DYSPHANIA</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OX23.">23'</a><a name="OX23'"> </a> Plant &plusmn; glabrous or with sessile, 1-celled, bead-like glands that generally collapse and become mealy or scale-like, not hairy <a href="/cgi-bin/get_IJM.pl?tid=11494">.....&nbsp;CHENOPODIUM</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#OX22.">22'</a><a name="OX22'"> </a> Sepals (0)1&ndash;3, stamens 1&ndash;3(5); plant not glandular-puberulent
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OX24'">24.</a><a name="OX24."> </a> Inflorescence a bracted terminal spike; leaves generally linear to lance-linear or thread-like; sepal 1, adaxial; stamens generally 3 <a href="/cgi-bin/get_IJM.pl?tid=11495">.....&nbsp;CORISPERMUM</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#OX24.">24'</a><a name="OX24'"> </a> Inflorescence of axillary clusters of flowers or flowers solitary at stem tips or in axils; leaves elliptic, &plusmn; oblong, triangular-lanceolate, oblanceolate or spoon-shaped; sepals 0 or 1&ndash;3; stamens 1&ndash;2
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#OX25'">25.</a><a name="OX25."> </a> Stem many-branched throughout, ultimate branches thread-like; flowers 1&ndash;3 at stem tips or in axils <a href="/cgi-bin/get_IJM.pl?tid=82506">.....&nbsp;MICROMONOLEPIS</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#OX25.">25'</a><a name="OX25'"> </a> Stem simple or branched from base, not branched distally, ultimate branches not thread-like; flowers 4&ndash;15+ per axillary cluster <a href="/cgi-bin/get_IJM.pl?tid=11502">.....&nbsp;MONOLEPIS</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

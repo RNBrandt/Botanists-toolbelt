@@ -1,0 +1,372 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Apiaceae</h2><a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=49'><h3>View taxon page for Apiaceae</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#CL1'">1.</a><a name="CL1."> </a> Flowers in simple umbels or heads (spikes or racemes); fruit central axis not obvious
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#CL2'">2.</a><a name="CL2."> </a> Leaf base not sheathing but stipules present, occasionally &plusmn; fused distal to node when leaves opposite
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#CL3'">3.</a><a name="CL3."> </a> Herbage hairs stellate; fruit not or &plusmn; compressed front-to-back, inflated <a href="/cgi-bin/get_IJM.pl?tid=10364">.....&nbsp;BOWLESIA</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#CL3.">3'</a><a name="CL3'"> </a> Herbage hairs simple or 0; fruit very compressed side-to-side <a href="/cgi-bin/get_IJM.pl?tid=10193">.....&nbsp;HYDROCOTYLE</a> (treated in Araliaceae)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#CL2.">2'</a><a name="CL2'"> </a> Leaf conspicuously sheathing at base, stipules 0
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#CL4'">4.</a><a name="CL4."> </a> Flowers in open umbels; fruit glabrous, with well-defined, thickened ribs or not <a href="/cgi-bin/get_IJM.pl?tid=10196">.....&nbsp;LILAEOPSIS</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#CL4.">4'</a><a name="CL4'"> </a> Flowers in dense umbels or heads; fruit with scales, prickles, or tubercles, without distinct ribs
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#CL5'">5.</a><a name="CL5."> </a> Flowers bisexual, sessile, each with 1 bract <a href="/cgi-bin/get_IJM.pl?tid=10186">.....&nbsp;ERYNGIUM</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#CL5.">5'</a><a name="CL5'"> </a> Flowers bisexual and staminate in same umbel or head (staminate only), staminate generally long-pedicelled; flowers not each with 1 bract <a href="/cgi-bin/get_IJM.pl?tid=10218">.....&nbsp;SANICULA</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#CL1.">1'</a><a name="CL1'"> </a> Flowers in compound or occasionally simple umbels, occasionally compound and head-like; fruit central axis generally obvious, separate (except <I>Podistera</I>)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#CL6'">6.</a><a name="CL6."> </a> Annual or biennial, slender-taprooted or roots fibrous, reproducing only from seed
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#CL7'">7.</a><a name="CL7."> </a> Corolla yellow <a href="/cgi-bin/get_IJM.pl?tid=10357">.....&nbsp;ANETHUM</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#CL7.">7'</a><a name="CL7'"> </a> Corolla generally white
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#CL8'">8.</a><a name="CL8."> </a> Fruit generally elongate, much longer than wide, beaked or long-tapered to tip
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#CL9'">9.</a><a name="CL9."> </a> Bractlets entire; fruit ribs 0 or obscure, sterile beak &lt;&lt; fertile body <a href="/cgi-bin/get_IJM.pl?tid=10359">.....&nbsp;ANTHRISCUS</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#CL9.">9'</a><a name="CL9'"> </a> Bractlets entire to lobed or dissected; fruit ribs prominent, sterile beak > fertile body <a href="/cgi-bin/get_IJM.pl?tid=10219">.....&nbsp;SCANDIX</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#CL8.">8'</a><a name="CL8'"> </a> Fruit &plusmn; round to oblong or elliptic, not or only &plusmn; longer than wide, not beaked, not long-tapered to tip
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#CL10'">10.</a><a name="CL10."> </a> Fruit &plusmn; round, not compressed, halves not separating readily <a href="/cgi-bin/get_IJM.pl?tid=10178">.....&nbsp;CORIANDRUM</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#CL10.">10'</a><a name="CL10'"> </a> Fruit ovate or cordate to oblong or elliptic, compressed either side-to-side or front-to-back, halves separating readily
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#CL11'">11.</a><a name="CL11."> </a> Bracts leaf-like, generally dissected
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CL12'">12.</a><a name="CL12."> </a> Herbage, fruit glabrous <a href="/cgi-bin/get_IJM.pl?tid=10355">.....&nbsp;AMMI</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CL12.">12'</a><a name="CL12'"> </a> Herbage hairy; fruit conspicuously bristly
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CL13'">13.</a><a name="CL13."> </a> Fruit very compressed front-to-back; rays generally many; umbel dense, nest-like in fruit <a href="/cgi-bin/get_IJM.pl?tid=10184">.....&nbsp;DAUCUS</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CL13.">13'</a><a name="CL13'"> </a> Fruit compressed side-to-side; rays few (1&ndash;9); umbel open, not nest-like in fruit <a href="/cgi-bin/get_IJM.pl?tid=9984">.....&nbsp;YABEA</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#CL11.">11'</a><a name="CL11'"> </a> Bracts 0 or inconspicuous, not leaf-like
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CL14'">14.</a><a name="CL14."> </a> Leaves generally opposite; rays 2&ndash;3; fruit elliptic-cordate <a href="/cgi-bin/get_IJM.pl?tid=10360">.....&nbsp;APIASTRUM</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CL14.">14'</a><a name="CL14'"> </a> Leaves generally alternate; rays 0&ndash;14; fruit elliptic to narrowly ovate
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CL15'">15.</a><a name="CL15."> </a> Petal tips narrowed, incurved; fruit prickly throughout or only on outer half; herbage hairy <a href="/cgi-bin/get_IJM.pl?tid=10232">.....&nbsp;TORILIS</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CL15.">15'</a><a name="CL15'"> </a> Petal tips not narrowed, not incurved; fruit prickly throughout, tubercled, sharply scabrous, or glabrous; herbage glabrous or &plusmn; scabrous, not hairy
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#CL16'">16.</a><a name="CL16."> </a> Involucel 0; fruit glabrous <a href="/cgi-bin/get_IJM.pl?tid=82495">.....&nbsp;CYCLOSPERMUM</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#CL16.">16'</a><a name="CL16'"> </a> Involucel present; fruit conspicuously bristly or sharply scabrous, at least on ribs
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#CL17'">17.</a><a name="CL17."> </a> Inflorescence except fruits puberulent; fruit oblong-ovate <a href="/cgi-bin/get_IJM.pl?tid=10356">.....&nbsp;AMMOSELINUM</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#CL17.">17'</a><a name="CL17'"> </a> Inflorescence except fruits glabrous; fruit wide-ovate <a href="/cgi-bin/get_IJM.pl?tid=100782">.....&nbsp;SPERMOLEPIS</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#CL6.">6'</a><a name="CL6'"> </a> Perennial herb or biennial, from taproot or from persistent underground structures, not reproducing only from seed
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#CL18'">18.</a><a name="CL18."> </a> Plant glabrous; generally in flooded to wet or moist (dry) soil
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#CL19'">19.</a><a name="CL19."> </a> Stem generally conspicuously purple-spotted or -streaked; herbage musty-scented; fruit oil tubes not apparent <a href="/cgi-bin/get_IJM.pl?tid=10177">.....&nbsp;CONIUM</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#CL19.">19'</a><a name="CL19'"> </a> Stem green or occasionally &plusmn; purple, unspotted; herbage not musty-scented; fruit oil tubes apparent
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#CL20'">20.</a><a name="CL20."> </a> Stem from well-developed single or clustered tubers, or clustered, fibrous roots, generally not rooting at proximal nodes
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#CL21'">21.</a><a name="CL21."> </a> Plant rhizomatous; sap from rhizome becoming &plusmn; red-brown in air <a href="/cgi-bin/get_IJM.pl?tid=10174">.....&nbsp;CICUTA</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#CL21.">21'</a><a name="CL21'"> </a> Plant not rhizomatous; sap from rhizome not changing color in air
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CL22'">22.</a><a name="CL22."> </a> Calyx lobes a persistent crown on fruit; fruit corky; fruit central axis not obvious <a href="/cgi-bin/get_IJM.pl?tid=10202">.....&nbsp;OENANTHE</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CL22.">22'</a><a name="CL22'"> </a> Calyx lobes evident but not a persistent crown on fruit; fruit not evidently corky; fruit central axis an apparent, separate structure
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CL23'">23.</a><a name="CL23."> </a> Fruit very compressed front-to-back, marginal ribs wide, thin-winged <a href="/cgi-bin/get_IJM.pl?tid=10207">.....&nbsp;OXYPOLIS</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CL23.">23'</a><a name="CL23'"> </a> Fruit &plusmn; or not compressed side-to-side, ribs &plusmn; equal, thread-like to prominent but not clearly winged <a href="/cgi-bin/get_IJM.pl?tid=10209">.....&nbsp;PERIDERIDIA</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#CL20.">20'</a><a name="CL20'"> </a> Stem generally from stout taproot, or generally rooting at proximal nodes or along rhizomes, stolons
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#CL24'">24.</a><a name="CL24."> </a> Calyx lobes a persistent crown on fruit; fruit central axis not obvious <a href="/cgi-bin/get_IJM.pl?tid=10202">.....&nbsp;OENANTHE</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#CL24.">24'</a><a name="CL24'"> </a> Calyx lobes 0 or minute, generally not a persistent crown on fruit; fruit central axis an apparent, separate structure
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CL25'">25.</a><a name="CL25."> </a> Fruit halves not adhering to central axis; bracts, bractlets conspicuous to 0 <a href="/cgi-bin/get_IJM.pl?tid=10361">.....&nbsp;APIUM</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CL25.">25'</a><a name="CL25'"> </a> Fruit halves generally adhering to central axis; bracts, bractlets conspicuous
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CL26'">26.</a><a name="CL26."> </a> Fruit ribs thread-like, inconspicuous in corky fruit wall <a href="/cgi-bin/get_IJM.pl?tid=10362">.....&nbsp;BERULA</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CL26.">26'</a><a name="CL26'"> </a> Fruit ribs prominent, corky <a href="/cgi-bin/get_IJM.pl?tid=10223">.....&nbsp;SIUM</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#CL18.">18'</a><a name="CL18'"> </a> Plant glabrous or variously hairy; wet to dry soil
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#CL27'">27.</a><a name="CL27."> </a> Herbage anise- or licorice-scented; leaf segments thread-like <a href="/cgi-bin/get_IJM.pl?tid=10189">.....&nbsp;FOENICULUM</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#CL27.">27'</a><a name="CL27'"> </a> Herbage scented or not, but not anise-scented; leaf segments wider than thread-like
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#CL28'">28.</a><a name="CL28."> </a> Fruit ribs &plusmn; equal, none expanded as wings
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#CL29'">29.</a><a name="CL29."> </a> Biennial of disturbed or cultivated places
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CL30'">30.</a><a name="CL30."> </a> Stems generally purple-spotted; cauline leaves like basal; fruit ribs prominent, wavy <a href="/cgi-bin/get_IJM.pl?tid=10177">.....&nbsp;CONIUM</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CL30.">30'</a><a name="CL30'"> </a> Stems unspotted; cauline leaves with more, narrower segments than basal; fruit ribs thread-like, not wavy <a href="/cgi-bin/get_IJM.pl?tid=10210">.....&nbsp;[PETROSELINUM]</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#CL29.">29'</a><a name="CL29'"> </a> Perennial herb of generally undisturbed places
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CL31'">31.</a><a name="CL31."> </a> Plant dwarfed, 2&ndash;15 cm; leaf segments not sharply serrate
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CL32'">32.</a><a name="CL32."> </a> Umbels not head-like; involucel inconspicuous, not 1-sided, bractlets 0 or free; calyx lobes 0; styles cylindric; plant erect or spreading, not cushion-forming; leaves loosely recurved or occasionally spreading at soil surface <a href="/cgi-bin/get_IJM.pl?tid=10205">.....&nbsp;OROGENIA</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CL32.">32'</a><a name="CL32'"> </a> Involucel conspicuous, 1-sided, bractlets generally partly fused; calyx lobes conspicuous or not; styles compressed, flattened; plants cushion-forming or leaves spreading at soil surface; umbels head-like
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#CL33'">33.</a><a name="CL33."> </a> Herbage coarsely hairy to tomentose; sterile pedicels many, > fruit <a href="/cgi-bin/get_IJM.pl?tid=10203">.....&nbsp;OREONANA</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#CL33.">33'</a><a name="CL33'"> </a> Herbage thinly to densely puberulent; sterile pedicels 0&ndash;few, &lt;&lt; fruit <a href="/cgi-bin/get_IJM.pl?tid=10213">.....&nbsp;PODISTERA</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CL31.">31'</a><a name="CL31'"> </a> Plant not dwarfed, 10&ndash;120 cm, if &lt; 20 cm, leaf segments sharply serrate
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CL34'">34.</a><a name="CL34."> </a> Fruit linear to oblong, 8&ndash;22 mm; fruit oil tubes obscure; roots licorice-scented <a href="/cgi-bin/get_IJM.pl?tid=10206">.....&nbsp;OSMORHIZA</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CL34.">34'</a><a name="CL34'"> </a> Fruit oblong to round, 2&ndash;9 mm; fruit oil tubes evident, 1&ndash;5 per rib-interval; roots not licorice-scented
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#CL35'">35.</a><a name="CL35."> </a> Corolla white; involucel generally 0, or &lt; pedicels <a href="/cgi-bin/get_IJM.pl?tid=10195">.....&nbsp;LIGUSTICUM</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#CL35.">35'</a><a name="CL35'"> </a> Corolla yellow; involucel present, generally > pedicels <a href="/cgi-bin/get_IJM.pl?tid=10228">.....&nbsp;TAUSCHIA</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#CL28.">28'</a><a name="CL28'"> </a> Fruit ribs equal or not, some expanded as definite wings
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#CL36'">36.</a><a name="CL36."> </a> Ribs winged at margins of fruit halves, others not or more narrowly so; fruit compressed front-to-back
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CL37'">37.</a><a name="CL37."> </a> Plant robust, 1&ndash;3 m; outer petals of marginal flowers > others; oil tubes extending part-way to base of fruit <a href="/cgi-bin/get_IJM.pl?tid=10192">.....&nbsp;HERACLEUM</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CL37.">37'</a><a name="CL37'"> </a> Plant not robust, generally &lt; 1 m; outer petals of marginal flowers = others; oil tubes extending to base of fruit
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CL38'">38.</a><a name="CL38."> </a> Projection at ovary tip small, conic, persistent on fruit
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#CL39'">39.</a><a name="CL39."> </a> Leaf 1&ndash;4-pinnately or -ternate-pinnately dissected or compound; corolla white; perennial herb <a href="/cgi-bin/get_IJM.pl?tid=10176">.....&nbsp;CONIOSELINUM</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#CL39.">39'</a><a name="CL39'"> </a> Leaf 1-pinnate; corolla yellow or orange; generally biennial, or perennial herb <a href="/cgi-bin/get_IJM.pl?tid=10208">.....&nbsp;PASTINACA</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CL38.">38'</a><a name="CL38'"> </a> Projection at ovary tip 0
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#CL40'">40.</a><a name="CL40."> </a> Marginal fruit wings thin or corky, not incurved; fruit axis divided to base <a href="/cgi-bin/get_IJM.pl?tid=10198">.....&nbsp;LOMATIUM</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#CL40.">40'</a><a name="CL40'"> </a> Marginal fruit wings very corky, incurved; fruit axis a corky ridge along middle of each fruit half <a href="/cgi-bin/get_IJM.pl?tid=10205">.....&nbsp;OROGENIA</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#CL36.">36'</a><a name="CL36'"> </a> Ribs winged at margins of fruit halves, some others &plusmn; winged; fruit cylindric to &plusmn; compressed front-to-back or side-to-side (strongly compressed)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CL41'">41.</a><a name="CL41."> </a> Plant low, generally spreading, stem generally 0; rays well developed or not; ovary tip projection 0
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CL42'">42.</a><a name="CL42."> </a> Plant erect or &plusmn; spreading; leaf adaxial surface generally glaucous, glabrous to scabrous or finely hairy, abaxial surface not tomentose; inland, generally dry places <a href="/cgi-bin/get_IJM.pl?tid=10181">.....&nbsp;CYMOPTERUS</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CL42.">42'</a><a name="CL42'"> </a> Plant prostrate or &plusmn; spreading; leaf adaxial surface green, abaxial tomentose; seashore <a href="/cgi-bin/get_IJM.pl?tid=10190">.....&nbsp;GLEHNIA</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#CL41.">41'</a><a name="CL41'"> </a> Plant erect, stem generally present; rays well developed; ovary tip projection conic
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CL43'">43.</a><a name="CL43."> </a> Pedicels reduced to a disk; 2&deg; umbels head-like <a href="/cgi-bin/get_IJM.pl?tid=10225">.....&nbsp;SPHENOSCIADIUM</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#CL43.">43'</a><a name="CL43'"> </a> Pedicels distinct or &plusmn; webbed at base, not reduced to a disk; 2&deg; umbels open, not head-like
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#CL44'">44.</a><a name="CL44."> </a> Stem base not fibrous; leaf segments generally coarse; fruit generally compressed front-to-back (&plusmn; compressed to cylindric) <a href="/cgi-bin/get_IJM.pl?tid=10358">.....&nbsp;ANGELICA</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#CL44.">44'</a><a name="CL44'"> </a> Stem base conspicuously fibrous; leaf segments generally fine; fruit compressed side-to-side <a href="/cgi-bin/get_IJM.pl?tid=10195">.....&nbsp;LIGUSTICUM</a> (2)</blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

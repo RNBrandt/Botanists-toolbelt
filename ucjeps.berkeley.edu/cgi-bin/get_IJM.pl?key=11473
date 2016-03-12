@@ -1,0 +1,355 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Calystegia</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Calystegia
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49538">Calystegia atriplicifolia subsp. buttensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76608">Calystegia collina
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49541">Calystegia collina subsp. collina
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49542">Calystegia collina subsp. oxyphylla
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49543">Calystegia collina subsp. tridactylosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49544">Calystegia collina subsp. venusta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16861">Calystegia longipes
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16863">Calystegia macrostegia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49548">Calystegia macrostegia subsp. amplissima
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49549">Calystegia macrostegia subsp. arida
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49550">Calystegia macrostegia subsp. cyclostegia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49551">Calystegia macrostegia subsp. intermedia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49553">Calystegia macrostegia subsp. macrostegia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49554">Calystegia macrostegia subsp. tenuifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76594">Calystegia malacophylla
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76597">Calystegia malacophylla subsp. malacophylla
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76596">Calystegia malacophylla subsp. pedicellata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16865">Calystegia occidentalis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49558">Calystegia occidentalis subsp. fulcrata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49559">Calystegia occidentalis subsp. occidentalis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16868">Calystegia peirsonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16871">Calystegia purpurata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49560">Calystegia purpurata subsp. purpurata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49561">Calystegia purpurata subsp. saxicola
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16872">Calystegia sepium
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49566">Calystegia sepium subsp. binghamiae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49568">Calystegia sepium subsp. limnophila
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=78991">Calystegia silvatica subsp. disjuncta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16876">Calystegia soldanella
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16878">Calystegia stebbinsii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=16879">Calystegia subacaulis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49575">Calystegia subacaulis subsp. episcopalis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49576">Calystegia subacaulis subsp. subacaulis
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=11473'><h3>View taxon page for Calystegia</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#PP1'">1.</a><a name="PP1."> </a> Bracts > 1 mm below calyx, not hiding it, &lt;= 5 mm wide or variously toothed or lobed like leaves
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#PP2'">2.</a><a name="PP2."> </a> Plant glabrous or nearly so
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#PP3'">3.</a><a name="PP3."> </a> Bracts elliptic to widely elliptic-oblong, entire <a href="/cgi-bin/get_IJM.pl?tid=16868">.....&nbsp;C. peirsonii</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#PP3.">3'</a><a name="PP3'"> </a> Bracts generally linear, entire or lobes basal
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#PP4'">4.</a><a name="PP4."> </a> Stem &plusmn; stiffly erect, intertwined; leaf linear to narrowly triangular, lobes 0 or &plusmn; linear, sinus rounded <a href="/cgi-bin/get_IJM.pl?tid=16861">.....&nbsp;C. longipes</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#PP4.">4'</a><a name="PP4'"> </a> Stem trailing to strongly climbing, &plusmn; not intertwined; leaf triangular to reniform, lobes wider than linear, 2(3)-tipped, sinus V-shaped or &plusmn; closed <a href="/cgi-bin/get_IJM.pl?tid=16871">.....&nbsp;C. purpurata</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#PP5'">5.</a><a name="PP5."> </a> Stem strongly climbing, > 1 m; leaf triangular, tip acute, sinus V-shaped, bracts rarely lobed <a href="/cgi-bin/get_IJM.pl?tid=49560">.....&nbsp;subsp. purpurata</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#PP5.">5'</a><a name="PP5'"> </a> Stem trailing to weakly climbing, generally &lt; 1 m; leaf ovate-triangular to reniform, tip generally rounded to notched, sinus generally &plusmn; closed; bracts generally with small lobes <a href="/cgi-bin/get_IJM.pl?tid=49561">.....&nbsp;subsp. saxicola</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#PP2.">2'</a><a name="PP2'"> </a> Plant puberulent to tomentose at least around leaf sinus or at peduncle tip
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#PP6'">6.</a><a name="PP6."> </a> Bracts entire, not lobed like leaves, &plusmn; sessile <a href="/cgi-bin/get_IJM.pl?tid=49559">.....&nbsp;C. occidentalis subsp. occidentalis</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#PP6.">6'</a><a name="PP6'"> </a> Bracts toothed or lobed like leaves, stalked
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#PP7'">7.</a><a name="PP7."> </a> Leaf lobes 7&ndash;9, linear, finger-like <a href="/cgi-bin/get_IJM.pl?tid=16878">.....&nbsp;C. stebbinsii</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#PP7.">7'</a><a name="PP7'"> </a> Leaf &plusmn; entire or lobes 2, not linear, not finger-like
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#PP8'">8.</a><a name="PP8."> </a> Leaf blade widely triangular to &plusmn; reniform, tip acute to acuminate or notched, lobes generally 2-tipped; hairs &plusmn; densely spreading <a href="/cgi-bin/get_IJM.pl?tid=76597">.....&nbsp;C. malacophylla subsp. malacophylla</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#PP8.">8'</a><a name="PP8'"> </a> Leaf blade generally narrowly triangular, tip &plusmn; acute, lobes generally 1-tipped; hairs minute or fine <a href="/cgi-bin/get_IJM.pl?tid=49558">.....&nbsp;C. occidentalis subsp. fulcrata</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#PP1.">1'</a><a name="PP1'"> </a> Bracts &lt; 1 mm below calyx, &plusmn; hiding it, often > 4 mm wide, not lobed like leaves
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#PP9'">9.</a><a name="PP9."> </a> Bracts &lt; 4 mm wide
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#PP10'">10.</a><a name="PP10."> </a> Plant hairs dense, not appressed <a href="/cgi-bin/get_IJM.pl?tid=49543">.....&nbsp;C. collina subsp. tridactylosa</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#PP10.">10'</a><a name="PP10'"> </a> Plant hairs 0 or minutely appressed
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#PP11'">11.</a><a name="PP11."> </a> Leaf blade narrowly triangular, lobes clearly defined, directed &plusmn; basally, base with deep sinus <a href="/cgi-bin/get_IJM.pl?tid=16868">.....&nbsp;C. peirsonii</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#PP11.">11'</a><a name="PP11'"> </a> Leaf blade generally triangular-hastate to reniform, lobes not clearly defined, directed &plusmn; laterally, base truncate to wedge-shaped or widely rounded, occasionally with shallow sinus
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#PP12'">12.</a><a name="PP12."> </a> Bracts &plusmn; obtuse; plant glabrous <a href="/cgi-bin/get_IJM.pl?tid=49538">.....&nbsp;C. atriplicifolia subsp. buttensis</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#PP12.">12'</a><a name="PP12'"> </a> Bracts acute; plant hairs generally minutely appressed <a href="/cgi-bin/get_IJM.pl?tid=49575">.....&nbsp;C. subacaulis subsp. episcopalis</a> (2)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#PP9.">9'</a><a name="PP9'"> </a> Bracts > 4 mm wide
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#PP13'">13.</a><a name="PP13."> </a> Stem trailing or weakly to strongly climbing, >= 1 m
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#PP14'">14.</a><a name="PP14."> </a> Plant from rhizomes, stem not woody; peduncle 1-flowered; marshes, riverbanks, or disturbed areas
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#PP15'">15.</a><a name="PP15."> </a> Bracts strongly sac-like at base, margins overlapped; corolla generally 55&ndash;75 mm <a href="/cgi-bin/get_IJM.pl?tid=78991">.....&nbsp;C. silvatica subsp. disjuncta</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#PP15.">15'</a><a name="PP15'"> </a> Bracts not strongly sac-like at base, margins not overlapped; corolla 30&ndash;58 mm <a href="/cgi-bin/get_IJM.pl?tid=16872">.....&nbsp;C. sepium</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#PP16'">16.</a><a name="PP16."> </a> Bracts &lt; sepals; corolla generally &plusmn; 40 mm <a href="/cgi-bin/get_IJM.pl?tid=49566">.....&nbsp;subsp. binghamiae</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#PP16.">16'</a><a name="PP16'"> </a> Bracts generally > sepals; corolla 30&ndash;58 mm <a href="/cgi-bin/get_IJM.pl?tid=49568">.....&nbsp;subsp. limnophila</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#PP14.">14'</a><a name="PP14'"> </a> Plant from woody caudex, lower stem often woody; peduncle often > 1-flowered; generally dry places <a href="/cgi-bin/get_IJM.pl?tid=16863">.....&nbsp;C. macrostegia</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#PP17'">17.</a><a name="PP17."> </a> Bracts 16&ndash;30 mm wide, strongly keeled to &plusmn; sac-like at base
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#PP18'">18.</a><a name="PP18."> </a> Bracts 19&ndash;37 mm; calyx 16&ndash;25 mm; corolla 47&ndash;68 mm; stamens 23&ndash;35 mm; s Channel Islands <a href="/cgi-bin/get_IJM.pl?tid=49548">.....&nbsp;subsp. amplissima</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#PP18.">18'</a><a name="PP18'"> </a> Bracts 13&ndash;26 mm; calyx 10&ndash;22 mm; corolla 36&ndash;60 mm; stamens 17&ndash;26 mm; n Channel Islands <a href="/cgi-bin/get_IJM.pl?tid=49553">.....&nbsp;subsp. macrostegia</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#PP17.">17'</a><a name="PP17'"> </a> Bracts 4&ndash;16 mm wide, flat or &plusmn; keeled
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#PP19'">19.</a><a name="PP19."> </a> Bracts obtuse <a href="/cgi-bin/get_IJM.pl?tid=49550">.....&nbsp;subsp. cyclostegia</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#PP19.">19'</a><a name="PP19'"> </a> Bracts acute
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#PP20'">20.</a><a name="PP20."> </a> Leaves hairy <a href="/cgi-bin/get_IJM.pl?tid=49549">.....&nbsp;subsp. arida</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#PP20.">20'</a><a name="PP20'"> </a> Leaves glabrous to puberulent
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#PP21'">21.</a><a name="PP21."> </a> Leaf blade triangular, > 7 mm wide except basal lobes <a href="/cgi-bin/get_IJM.pl?tid=49551">.....&nbsp;subsp. intermedia</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#PP21.">21'</a><a name="PP21'"> </a> Leaf blade linear to narrowly triangular, &lt; 7 mm wide except basal lobes <a href="/cgi-bin/get_IJM.pl?tid=49554">.....&nbsp;subsp. tenuifolia</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#PP13.">13'</a><a name="PP13'"> </a> Stem not or only weakly climbing, &lt; 1 m
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#PP22'">22.</a><a name="PP22."> </a> Plant hairs 0 or sparsely appressed-minute and leaf triangular-hastate to reniform
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#PP23'">23.</a><a name="PP23."> </a> Corolla deep pink or &plusmn; purple; leaf reniform, glabrous, &plusmn; fleshy; ocean beaches, dunes <a href="/cgi-bin/get_IJM.pl?tid=16876">.....&nbsp;C. soldanella</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#PP23.">23'</a><a name="PP23'"> </a> Corolla white or &plusmn; yellow (pink- or purple-tinged); leaf &plusmn; reniform or not, glabrous or not, not fleshy; inland
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#PP24'">24.</a><a name="PP24."> </a> Bracts obtuse; plant generally glabrous <a href="/cgi-bin/get_IJM.pl?tid=49538">.....&nbsp;C. atriplicifolia subsp. buttensis</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#PP24.">24'</a><a name="PP24'"> </a> Bracts acute; plant generally minutely appressed-hairy <a href="/cgi-bin/get_IJM.pl?tid=49575">.....&nbsp;C. subacaulis subsp. episcopalis</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#PP22.">22'</a><a name="PP22'"> </a> Plant tomentose or hairs densely spreading, or leaf not triangular-hastate to reniform
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#PP25'">25.</a><a name="PP25."> </a> Stem well developed, &lt; 100 cm, without basal rosette of leaves
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#PP26'">26.</a><a name="PP26."> </a> Plant tomentose; leaf margin wavy <a href="/cgi-bin/get_IJM.pl?tid=49544">.....&nbsp;C. collina subsp. venusta</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#PP26.">26'</a><a name="PP26'"> </a> Plant tomentose or hairs densely spreading; leaf margin not wavy <a href="/cgi-bin/get_IJM.pl?tid=76594">.....&nbsp;C. malacophylla</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#PP27'">27.</a><a name="PP27."> </a> Leaf widely triangular to &plusmn; reniform, tip generally obtuse to notched, lobes generally 2-tipped; hairs brown or golden-brown (&plusmn; gray); Cascade Range, Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=76597">.....&nbsp;subsp. malacophylla</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#PP27.">27'</a><a name="PP27'"> </a> Leaf &plusmn; narrowly triangular, tip generally acute, lobes generally 1-tipped (2nd tip 0 or poorly developed); hairs &plusmn; gray (&plusmn; brown); San Francisco Bay Area, South Coast Ranges, Western Transverse Ranges <a href="/cgi-bin/get_IJM.pl?tid=76596">.....&nbsp;subsp. pedicellata</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#PP25.">25'</a><a name="PP25'"> </a> Stem poorly developed, &lt; 30 cm, &lt;= basal rosette of leaves
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#PP28'">28.</a><a name="PP28."> </a> Plant hairs sparse to &plusmn; dense, short, spreading to reflexed; leaf margin not or &plusmn; wavy <a href="/cgi-bin/get_IJM.pl?tid=49576">.....&nbsp;C. subacaulis subsp. subacaulis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#PP28.">28'</a><a name="PP28'"> </a> Plant &plusmn; tomentose; leaf margin wavy <a href="/cgi-bin/get_IJM.pl?tid=76608">.....&nbsp;C. collina</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#PP29'">29.</a><a name="PP29."> </a> Sepals tomentose <a href="/cgi-bin/get_IJM.pl?tid=49544">.....&nbsp;subsp. venusta</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#PP29.">29'</a><a name="PP29'"> </a> Sepals glabrous or strigose at center
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#PP30'">30.</a><a name="PP30."> </a> Leaf tip obtuse, lobes generally indistinct, blade triangular to reniform <a href="/cgi-bin/get_IJM.pl?tid=49541">.....&nbsp;subsp. collina</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#PP30.">30'</a><a name="PP30'"> </a> Leaf tip acute, lobes distinct, blade triangular <a href="/cgi-bin/get_IJM.pl?tid=49542">.....&nbsp;subsp. oxyphylla</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

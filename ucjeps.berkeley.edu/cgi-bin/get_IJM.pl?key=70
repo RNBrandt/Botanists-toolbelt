@@ -1,0 +1,1011 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Brassicaceae</h2><a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=70'><h3>View taxon page for Brassicaceae</h3></a><blockquote><h3>Key to Groups Based Primarily on Flowering Material</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#LN1'">1.</a><a name="LN1."> </a> Hairs simple or 0
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LN2'">2.</a><a name="LN2."> </a> Cauline leaves 0 or at least some basally lobed to clasping <a href="#Group1">.....&nbsp;Group 1</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LN2.">2'</a><a name="LN2'"> </a> Cauline leaves always present, not basally lobed or clasping <a href="#Group2">.....&nbsp;Group 2</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#LN1.">1'</a><a name="LN1'"> </a> At least some hairs branched
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LN3'">3.</a><a name="LN3."> </a> Ovary, young fruit linear <a href="#Group3">.....&nbsp;Group 3</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LN3.">3'</a><a name="LN3'"> </a> Ovary, young fruit variously shaped, not linear <a href="#Group4">.....&nbsp;Group 4</a></blockquote><blockquote><h3><a name=Group1>Group 1</a>:</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#LP1'">1.</a><a name="LP1."> </a> Plant scapose; cauline leaves 0
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LP2'">2.</a><a name="LP2."> </a> All or at least early flowers 1 from basal rosette <a href="/cgi-bin/get_IJM.pl?tid=10592">.....&nbsp;IDAHOA</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LP2.">2'</a><a name="LP2'"> </a> All flowers in racemes
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LP3'">3.</a><a name="LP3."> </a> Flowers yellow <a href="/cgi-bin/get_IJM.pl?tid=10576">.....&nbsp;DIPLOTAXIS</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LP3.">3'</a><a name="LP3'"> </a> Flowers white, lavender, or purple
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LP4'">4.</a><a name="LP4."> </a> Perennial herb; petals 4&ndash;5.5(7) mm <a href="/cgi-bin/get_IJM.pl?tid=10483">.....&nbsp;CARDAMINE</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LP4.">4'</a><a name="LP4'"> </a> Annual; petals 1.2&ndash;1.5 mm <a href="/cgi-bin/get_IJM.pl?tid=10628">.....&nbsp;SUBULARIA</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#LP1.">1'</a><a name="LP1'"> </a> Plant not scapose; cauline leaves present
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LP5'">5.</a><a name="LP5."> </a> Cauline leaves petioled; plant aquatic, rooting from proximal nodes <a href="/cgi-bin/get_IJM.pl?tid=68913">.....&nbsp;NASTURTIUM</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LP5.">5'</a><a name="LP5'"> </a> Cauline leaves sessile; plant terrestrial, not rooting from proximal nodes
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LP6'">6.</a><a name="LP6."> </a> Stamens 2 <a href="/cgi-bin/get_IJM.pl?tid=10597">.....&nbsp;LEPIDIUM</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LP6.">6'</a><a name="LP6'"> </a> Stamens 6(4)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LP7'">7.</a><a name="LP7."> </a> All stamens well exserted beyond petals; ovary stalk above receptacle distinct in flower
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LP8'">8.</a><a name="LP8."> </a> Sepals spreading to reflexed; petals yellow to white, 1.3&ndash;2 cm <a href="/cgi-bin/get_IJM.pl?tid=10624">.....&nbsp;STANLEYA</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LP8.">8'</a><a name="LP8'"> </a> Sepals generally &plusmn; erect; petals purple, lavender, or white, 0.6&ndash;1.2(1.6) cm <a href="/cgi-bin/get_IJM.pl?tid=10011">.....&nbsp;THELYPODIUM</a> (2)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LP7.">7'</a><a name="LP7'"> </a> At least some stamens included; ovary stalk above receptacle 0 in flower
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LP9'">9.</a><a name="LP9."> </a> Stamens in 3 pairs of unequal length; petals crinkled or channeled
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#LP10'">10.</a><a name="LP10."> </a> Fruit cylindric; seed wings 0 <a href="/cgi-bin/get_IJM.pl?tid=10485">.....&nbsp;CAULANTHUS</a> (3)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#LP10.">10'</a><a name="LP10'"> </a> Fruit flattened; seeds generally winged <a href="/cgi-bin/get_IJM.pl?tid=10626">.....&nbsp;STREPTANTHUS</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LP9.">9'</a><a name="LP9'"> </a> Stamens 4 long, 2 short; petals generally not crinkled, not channeled
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#LP11'">11.</a><a name="LP11."> </a> Ovary, young fruit with 1&ndash;2(4) ovules or seeds
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#LP12'">12.</a><a name="LP12."> </a> Young fruit not reflexed <a href="/cgi-bin/get_IJM.pl?tid=10597">.....&nbsp;LEPIDIUM</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#LP12.">12'</a><a name="LP12'"> </a> Young fruit reflexed
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LP13'">13.</a><a name="LP13."> </a> Petals yellow <a href="/cgi-bin/get_IJM.pl?tid=10595">.....&nbsp;ISATIS</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LP13.">13'</a><a name="LP13'"> </a> Petals white or &plusmn; purple-tinged <a href="/cgi-bin/get_IJM.pl?tid=10013">.....&nbsp;THYSANOCARPUS</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#LP11.">11'</a><a name="LP11'"> </a> Ovary, young fruit with (4)6&ndash;300 ovules or seeds
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#LP14'">14.</a><a name="LP14."> </a> Petals yellow
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LP15'">15.</a><a name="LP15."> </a> Young fruit reflexed <a href="/cgi-bin/get_IJM.pl?tid=10485">.....&nbsp;CAULANTHUS</a> (3)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LP15.">15'</a><a name="LP15'"> </a> Young fruit spreading to erect
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#LP16'">16.</a><a name="LP16."> </a> Petals (6)8&ndash;30 mm, clawed <a href="/cgi-bin/get_IJM.pl?tid=8816">.....&nbsp;BRASSICA</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#LP16.">16'</a><a name="LP16'"> </a> Petals 0.5&ndash;9(12) mm (or 0), clawed or not, narrowed to base
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#LP17'">17.</a><a name="LP17."> </a> Cauline leaves cordate-clasping <a href="/cgi-bin/get_IJM.pl?tid=10493">.....&nbsp;CONRINGIA</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#LP17.">17'</a><a name="LP17'"> </a> Cauline leaves basally lobed
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#LP18'">18.</a><a name="LP18."> </a> Ovary, young fruit linear; stem angular distally <a href="/cgi-bin/get_IJM.pl?tid=8814">.....&nbsp;BARBAREA</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#LP18.">18'</a><a name="LP18'"> </a> Ovary, young fruit spheric to ovoid or oblong; stem generally not angular distally <a href="/cgi-bin/get_IJM.pl?tid=10616">.....&nbsp;RORIPPA</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#LP14.">14'</a><a name="LP14'"> </a> Petals white, lavender, pink, purple, or violet
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LP19'">19.</a><a name="LP19."> </a> Ovary, young fruit ovate, round, or cordate
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#LP20'">20.</a><a name="LP20."> </a> Perennial herb; seeds smooth <a href="/cgi-bin/get_IJM.pl?tid=68948">.....&nbsp;NOCCAEA</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#LP20.">20'</a><a name="LP20'"> </a> Annual; seeds striate <a href="/cgi-bin/get_IJM.pl?tid=10012">.....&nbsp;THLASPI</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LP19.">19'</a><a name="LP19'"> </a> Ovary, young fruit linear
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#LP21'">21.</a><a name="LP21."> </a> Petals not clawed, gradually narrowed to base <a href="/cgi-bin/get_IJM.pl?tid=68135">.....&nbsp;BOECHERA</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#LP21.">21'</a><a name="LP21'"> </a> Petals clawed
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#LP22'">22.</a><a name="LP22."> </a> Petals 15&ndash;30 mm <a href="/cgi-bin/get_IJM.pl?tid=8816">.....&nbsp;BRASSICA</a> (2)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#LP22.">22'</a><a name="LP22'"> </a> Petal 4.5&ndash;12(15)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#LP23'">23.</a><a name="LP23."> </a> Young fruit reflexed <a href="/cgi-bin/get_IJM.pl?tid=10485">.....&nbsp;CAULANTHUS</a> (3)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#LP23.">23'</a><a name="LP23'"> </a> Young fruit erect to spreading <a href="/cgi-bin/get_IJM.pl?tid=10011">.....&nbsp;THELYPODIUM</a> (2)</blockquote><blockquote><h3><a name=Group2>Group 2</a>:</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#LR1'">1.</a><a name="LR1."> </a> Flowers bilateral
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LR2'">2.</a><a name="LR2."> </a> Ovary, young fruit linear; ovules or seeds many <a href="/cgi-bin/get_IJM.pl?tid=10626">.....&nbsp;STREPTANTHUS</a> (2)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LR2.">2'</a><a name="LR2'"> </a> Ovary, young fruit ovate to obcordate; ovules or seeds 2 <a href="/cgi-bin/get_IJM.pl?tid=10591">.....&nbsp;[IBERIS]</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#LR1.">1'</a><a name="LR1'"> </a> Flowers radial
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LR3'">3.</a><a name="LR3."> </a> Stamens 2 or 4
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LR4'">4.</a><a name="LR4."> </a> Ovary linear <a href="/cgi-bin/get_IJM.pl?tid=10483">.....&nbsp;CARDAMINE</a> (4)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LR4.">4'</a><a name="LR4'"> </a> Ovary broader, not linear
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LR5'">5.</a><a name="LR5."> </a> Ovary, young fruit with 10&ndash;24 ovules or seeds <a href="/cgi-bin/get_IJM.pl?tid=81332">.....&nbsp;HORNUNGIA</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LR5.">5'</a><a name="LR5'"> </a> Ovary, young fruit with 2&ndash;4 ovules or seeds <a href="/cgi-bin/get_IJM.pl?tid=10597">.....&nbsp;LEPIDIUM</a> (2)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LR3.">3'</a><a name="LR3'"> </a> Stamens 6
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LR6'">6.</a><a name="LR6."> </a> Ovary, young fruit ovate to ovoid, obovate, round, spheric, oblong, or elliptic, occasionally of 2 segments of such shapes
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LR7'">7.</a><a name="LR7."> </a> Petals 15&ndash;30 mm, purple to lavender (white); style, stalk above receptacle well developed <a href="/cgi-bin/get_IJM.pl?tid=10600">.....&nbsp;LUNARIA</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LR7.">7'</a><a name="LR7'"> </a> Petals 0.5&ndash;12(15) mm, yellow to cream or white (lavender); style, stalk above receptacle generally 0
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LR8'">8.</a><a name="LR8."> </a> Ovary, young fruit with 24&ndash;80 ovules or seeds <a href="/cgi-bin/get_IJM.pl?tid=10616">.....&nbsp;RORIPPA</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LR8.">8'</a><a name="LR8'"> </a> Ovary, young fruit with 1&ndash;12(14) ovules or seeds
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#LR9'">9.</a><a name="LR9."> </a> Ovary, young fruit 2-segmented
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#LR10'">10.</a><a name="LR10."> </a> Petals cream or pale yellow, veins dark brown or purple; ovules 4&ndash;6 <a href="/cgi-bin/get_IJM.pl?tid=82302">.....&nbsp;[CARRICHTERA]</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#LR10.">10'</a><a name="LR10'"> </a> Petals white, lavender, or yellow, dark veins 0; ovules 1 or 2(4)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LR11'">11.</a><a name="LR11."> </a> Plant stiff-hairy below; style distinct; petals yellow <a href="/cgi-bin/get_IJM.pl?tid=10615">.....&nbsp;RAPISTRUM</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LR11.">11'</a><a name="LR11'"> </a> Plant glabrous; style 0; petals white to lavender <a href="/cgi-bin/get_IJM.pl?tid=10479">.....&nbsp;CAKILE</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#LR9.">9'</a><a name="LR9'"> </a> Ovary, young fruit unsegmented
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#LR12'">12.</a><a name="LR12."> </a> Ovules or seeds 1&ndash;2
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LR13'">13.</a><a name="LR13."> </a> Young fruit erect to spreading <a href="/cgi-bin/get_IJM.pl?tid=10597">.....&nbsp;LEPIDIUM</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LR13.">13'</a><a name="LR13'"> </a> Young fruit reflexed <a href="/cgi-bin/get_IJM.pl?tid=10013">.....&nbsp;THYSANOCARPUS</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#LR12.">12'</a><a name="LR12'"> </a> Ovules or seeds 6&ndash;14
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LR14'">14.</a><a name="LR14."> </a> Perennial herb, roots fleshy; stem 5&ndash;12(20) dm; basal leaves 1.5&ndash;12 dm <a href="/cgi-bin/get_IJM.pl?tid=8810">.....&nbsp;ARMORACIA</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LR14.">14'</a><a name="LR14'"> </a> Biennial or perennial herb, fleshy roots 0; stem (0.1)0.5&ndash;3(4) dm; basal leaves 0.1&ndash;1 dm <a href="/cgi-bin/get_IJM.pl?tid=10490">.....&nbsp;COCHLEARIA</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LR6.">6'</a><a name="LR6'"> </a> Ovary, young fruit linear (narrowly lanceolate or awl-shaped)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LR15'">15.</a><a name="LR15."> </a> Cauline leaves compound
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LR16'">16.</a><a name="LR16."> </a> Plant aquatic, rooting from proximal stem nodes <a href="/cgi-bin/get_IJM.pl?tid=68913">.....&nbsp;NASTURTIUM</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LR16.">16'</a><a name="LR16'"> </a> Plant terrestrial, not rooting from proximal stem nodes <a href="/cgi-bin/get_IJM.pl?tid=10483">.....&nbsp;CARDAMINE</a> (4)
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LR15.">15'</a><a name="LR15'"> </a> Cauline leaves simple, occasionally shallowly divided
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LR17'">17.</a><a name="LR17."> </a> Plant with multicellular stalked glands <a href="/cgi-bin/get_IJM.pl?tid=10488">.....&nbsp;CHORISPORA</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LR17.">17'</a><a name="LR17'"> </a> Glands 0
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#LR18'">18.</a><a name="LR18."> </a> Stamens &plusmn; equal in length, well-exserted beyond petals or all flower parts spreading
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#LR19'">19.</a><a name="LR19."> </a> Petals yellow to white; filament bases hairy or papillate <a href="/cgi-bin/get_IJM.pl?tid=10624">.....&nbsp;STANLEYA</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#LR19.">19'</a><a name="LR19'"> </a> Petals white, lavender, or purple; filaments glabrous
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LR20'">20.</a><a name="LR20."> </a> Fruit &plusmn; sessile on receptacle <a href="/cgi-bin/get_IJM.pl?tid=10485">.....&nbsp;CAULANTHUS</a> (3)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LR20.">20'</a><a name="LR20'"> </a> Fruit stalked above receptacle <a href="/cgi-bin/get_IJM.pl?tid=10011">.....&nbsp;THELYPODIUM</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#LR18.">18'</a><a name="LR18'"> </a> Stamens 4 long, 2 short, or in 3 pairs of unequal length
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#LR21'">21.</a><a name="LR21."> </a> Stamens in 3 pairs of unequal length
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LR22'">22.</a><a name="LR22."> </a> Fruit cylindric; seeds wingless <a href="/cgi-bin/get_IJM.pl?tid=10485">.....&nbsp;CAULANTHUS</a> (3)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LR22.">22'</a><a name="LR22'"> </a> Fruit distinctly to &plusmn; flattened; seeds generally winged at least at tip
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#LR23'">23.</a><a name="LR23."> </a> Sepals 4&ndash;8 mm; stems (0.7)1&ndash;8 dm <a href="/cgi-bin/get_IJM.pl?tid=10626">.....&nbsp;STREPTANTHUS</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#LR23.">23'</a><a name="LR23'"> </a> Sepals 2.8&ndash;3.2 mm; stem 0.5&ndash;2 dm
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#LR24'">24.</a><a name="LR24."> </a> Longest stamens with fused filaments and sterile anthers <a href="/cgi-bin/get_IJM.pl?tid=77419">.....&nbsp;SIBAROPSIS</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#LR24.">24'</a><a name="LR24'"> </a> Longest stamens with free filaments and fertile anthers <a href="/cgi-bin/get_IJM.pl?tid=10625">.....&nbsp;STREPTANTHELLA</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#LR21.">21'</a><a name="LR21'"> </a> Stamens 4 long, 2 short
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LR25'">25.</a><a name="LR25."> </a> Petals dark-veined
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#LR26'">26.</a><a name="LR26."> </a> Perennial herb or subshrub, glabrous; leaves entire or dentate <a href="/cgi-bin/get_IJM.pl?tid=68619">.....&nbsp;HESPERIDANTHUS</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#LR26.">26'</a><a name="LR26'"> </a> Annual, generally hairy; leaves generally pinnately lobed
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#LR27'">27.</a><a name="LR27."> </a> Fruit corky, indehiscent, lower segment rudimentary, seedless <a href="/cgi-bin/get_IJM.pl?tid=10614">.....&nbsp;RAPHANUS</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#LR27.">27'</a><a name="LR27'"> </a> Fruit not corky, dehiscent, lower segment well developed, seeded
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#LR28'">28.</a><a name="LR28."> </a> Fruit valve 3-veined; terminal segment (0)1&ndash;6-seeded <a href="/cgi-bin/get_IJM.pl?tid=10492">.....&nbsp;COINCYA</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#LR28.">28'</a><a name="LR28'"> </a> Fruit valve 1-veined; terminal segment seedless <a href="/cgi-bin/get_IJM.pl?tid=10580">.....&nbsp;ERUCA</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LR25.">25'</a><a name="LR25'"> </a> Petals not dark-veined
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#LR29'">29.</a><a name="LR29."> </a> Cauline leaves entire
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#LR30'">30.</a><a name="LR30."> </a> Biennial or perennial herb with caudex; ovules 28&ndash;90 per ovary <a href="/cgi-bin/get_IJM.pl?tid=68135">.....&nbsp;BOECHERA</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#LR30.">30'</a><a name="LR30'"> </a> Perennial herb with rhizomes or tubers; ovules 6&ndash;28 per ovary <a href="/cgi-bin/get_IJM.pl?tid=10483">.....&nbsp;CARDAMINE</a> (4)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#LR29.">29'</a><a name="LR29'"> </a> At least proximal cauline leaves pinnately divided, lobed, wavy, or dentate
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#LR31'">31.</a><a name="LR31."> </a> Petals white, pink, lavender, or purple
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#LR32'">32.</a><a name="LR32."> </a> Ovules or seeds (1)2(4) <a href="/cgi-bin/get_IJM.pl?tid=10479">.....&nbsp;CAKILE</a> (2)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#LR32.">32'</a><a name="LR32'"> </a> Ovules or seeds many
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#LR33'">33.</a><a name="LR33."> </a> Leaf lateral lobes linear to thread-like, entire <a href="/cgi-bin/get_IJM.pl?tid=10619">.....&nbsp;SIBARA</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#LR33.">33'</a><a name="LR33'"> </a> Leaf lateral lobes not linear to thread-like, generally dentate
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#LR34'">34.</a><a name="LR34."> </a> At least most distal leaves entire or dentate <a href="/cgi-bin/get_IJM.pl?tid=10485">.....&nbsp;CAULANTHUS</a> (3)
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#LR34.">34'</a><a name="LR34'"> </a> All leaves pinnately lobed, divided or dissected
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#LR35'">35.</a><a name="LR35."> </a> Seeds wingless <a href="/cgi-bin/get_IJM.pl?tid=10483">.....&nbsp;CARDAMINE</a> (4)
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#LR35.">35'</a><a name="LR35'"> </a> Seeds winged <a href="/cgi-bin/get_IJM.pl?tid=82456">.....&nbsp;PLANODES</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#LR31.">31'</a><a name="LR31'"> </a> Petals generally yellow
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#LR36'">36.</a><a name="LR36."> </a> Inflorescence bracted at least below <a href="/cgi-bin/get_IJM.pl?tid=10581">.....&nbsp;[ERUCASTRUM]</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#LR36.">36'</a><a name="LR36'"> </a> Inflorescence generally not bracted
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#LR37'">37.</a><a name="LR37."> </a> Ovary, young fruit 2-segmented
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#LR38'">38.</a><a name="LR38."> </a> Sepals generally erect to ascending; fruit valves 1-veined <a href="/cgi-bin/get_IJM.pl?tid=8816">.....&nbsp;BRASSICA</a>
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#LR38.">38'</a><a name="LR38'"> </a> Sepals spreading to reflexed; fruit valves 3&ndash;7-veined
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#LR39'">39.</a><a name="LR39."> </a> Stigma entire; seeds ovoid <a href="/cgi-bin/get_IJM.pl?tid=10589">.....&nbsp;HIRSCHFELDIA</a>
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#LR39.">39'</a><a name="LR39'"> </a> Stigma 2-lobed; seeds spheric <a href="/cgi-bin/get_IJM.pl?tid=10620">.....&nbsp;SINAPIS</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#LR37.">37'</a><a name="LR37'"> </a> Ovary, young fruit unsegmented
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#LR40'">40.</a><a name="LR40."> </a> Stigma entire <a href="/cgi-bin/get_IJM.pl?tid=10616">.....&nbsp;RORIPPA</a> (2)
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#LR40.">40'</a><a name="LR40'"> </a> Stigma 2-lobed
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#LR41'">41.</a><a name="LR41."> </a> Seeds in 2 rows; fruit valves 1-veined <a href="/cgi-bin/get_IJM.pl?tid=10576">.....&nbsp;DIPLOTAXIS</a>
+
+<P class="keyText" style="padding-left : 91 ;"><a href="#LR41.">41'</a><a name="LR41'"> </a> Seeds in 1 row; fruit valves 3-veined <a href="/cgi-bin/get_IJM.pl?tid=10621">.....&nbsp;SISYMBRIUM</a></blockquote><blockquote><h3><a name=Group3>Group 3</a>:</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#LT1'">1.</a><a name="LT1."> </a> Inflorescence bracted throughout <a href="/cgi-bin/get_IJM.pl?tid=10014">.....&nbsp;TROPIDOCARPUM</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#LT1.">1'</a><a name="LT1'"> </a> Inflorescence not bracted or only most proximal few flowers bracted
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LT2'">2.</a><a name="LT2."> </a> Plant scapose; cauline leaves 0
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LT3'">3.</a><a name="LT3."> </a> Sepals 4&ndash;5 mm; petioles of previous year persistent <a href="/cgi-bin/get_IJM.pl?tid=8806">.....&nbsp;ANELSONIA</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LT3.">3'</a><a name="LT3'"> </a> Sepals 1.5&ndash;2.5 mm; petioles of previous year not persistent <a href="/cgi-bin/get_IJM.pl?tid=10578">.....&nbsp;DRABA</a> (3)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LT2.">2'</a><a name="LT2'"> </a> Plant not scapose; at least 1 cauline leaf present
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LT4'">4.</a><a name="LT4."> </a> Cauline leaves sessile, basally lobed to sagittate or clasping
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LT5'">5.</a><a name="LT5."> </a> All hairs tree-like <a href="/cgi-bin/get_IJM.pl?tid=10611">.....&nbsp;PHOENICAULIS</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LT5.">5'</a><a name="LT5'"> </a> Hairs various, not all tree-like
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LT6'">6.</a><a name="LT6."> </a> Hairs stalked, stellate (few simple) <a href="/cgi-bin/get_IJM.pl?tid=8809">.....&nbsp;ARABIS</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LT6.">6'</a><a name="LT6'"> </a> Hairs sessile, or if stalked then not stellate, or a mixture of > 1 type
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#LT7'">7.</a><a name="LT7."> </a> Annual; stigma 2-lobed; petals dark-veined <a href="/cgi-bin/get_IJM.pl?tid=10485">.....&nbsp;CAULANTHUS</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#LT7.">7'</a><a name="LT7'"> </a> Biennial or perennial herb; stigma entire; petals not dark-veined
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#LT8'">8.</a><a name="LT8."> </a> Petals &plusmn; white (pink or purple); young fruit appressed to rachis; plants glaucous distally <a href="/cgi-bin/get_IJM.pl?tid=69402">.....&nbsp;TURRITIS</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#LT8.">8'</a><a name="LT8'"> </a> Petals white, pink, lavender, or purple; young fruit variously oriented (appressed); plants not glaucous distally
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LT9'">9.</a><a name="LT9."> </a> Fruit flattened <a href="/cgi-bin/get_IJM.pl?tid=68135">.....&nbsp;BOECHERA</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LT9.">9'</a><a name="LT9'"> </a> Fruit cylindric <a href="/cgi-bin/get_IJM.pl?tid=91795">.....&nbsp;TRANSBERINGIA</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LT4.">4'</a><a name="LT4'"> </a> Cauline leaves petioled, if sessile not basally lobed, sagittate, or clasping
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LT10'">10.</a><a name="LT10."> </a> All hairs sessile <a href="/cgi-bin/get_IJM.pl?tid=10582">.....&nbsp;ERYSIMUM</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LT10.">10'</a><a name="LT10'"> </a> Hairs simple or stalked and branched
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LT11'">11.</a><a name="LT11."> </a> Stigma 2-lobed
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#LT12'">12.</a><a name="LT12."> </a> Petals (6.5)8&ndash;10(12) mm <a href="/cgi-bin/get_IJM.pl?tid=91794">.....&nbsp;STRIGOSELLA</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#LT12.">12'</a><a name="LT12'"> </a> Petals (13)15&ndash;30 mm
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#LT13'">13.</a><a name="LT13."> </a> Sepals 5&ndash;8 mm; hairs simple, stalked-forked <a href="/cgi-bin/get_IJM.pl?tid=10587">.....&nbsp;HESPERIS</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#LT13.">13'</a><a name="LT13'"> </a> Sepals 10&ndash;15 mm; hairs many-branched <a href="/cgi-bin/get_IJM.pl?tid=10604">.....&nbsp;MATTHIOLA</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LT11.">11'</a><a name="LT11'"> </a> Stigma entire
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#LT14'">14.</a><a name="LT14."> </a> Cauline leaves 1&ndash;3-pinnately divided to dissected or comb-like
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#LT15'">15.</a><a name="LT15."> </a> Petals yellow; hairs many-branched <a href="/cgi-bin/get_IJM.pl?tid=10574">.....&nbsp;DESCURAINIA</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#LT15.">15'</a><a name="LT15'"> </a> Petals white to &plusmn; purple; hairs generally a mixture of simple, 2-forked, many-branched
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LT16'">16.</a><a name="LT16."> </a> Perennial herb; leaves rigid <a href="/cgi-bin/get_IJM.pl?tid=10613">.....&nbsp;POLYCTENIUM</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LT16.">16'</a><a name="LT16'"> </a> Annual; leaves not rigid <a href="/cgi-bin/get_IJM.pl?tid=10619">.....&nbsp;SIBARA</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#LT14.">14'</a><a name="LT14'"> </a> Cauline leaves entire, dentate, wavy (lobed)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#LT17'">17.</a><a name="LT17."> </a> At least some leaves lobed or wavy <a href="/cgi-bin/get_IJM.pl?tid=10586">.....&nbsp;HALIMOLOBOS</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#LT17.">17'</a><a name="LT17'"> </a> All leaves entire or dentate
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LT18'">18.</a><a name="LT18."> </a> Petals yellow <a href="/cgi-bin/get_IJM.pl?tid=10578">.....&nbsp;DRABA</a> (3)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LT18.">18'</a><a name="LT18'"> </a> Petals white, lavender, pink, or purple.
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#LT19'">19.</a><a name="LT19."> </a> Petals (4)5&ndash;20 mm; seeds winged
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#LT20'">20.</a><a name="LT20."> </a> Fruit erect or ascending, generally &lt; 2.5 mm wide; branched hairs on leaf surface generally 2&ndash;4-rayed <a href="/cgi-bin/get_IJM.pl?tid=8809">.....&nbsp;ARABIS</a> (2)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#LT20.">20'</a><a name="LT20'"> </a> Fruit generally reflexed, occasionally erect or ascending, >= 2 mm wide; branched hairs on leaf surface 2&ndash;12-rayed <a href="/cgi-bin/get_IJM.pl?tid=68135">.....&nbsp;BOECHERA</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#LT19.">19'</a><a name="LT19'"> </a> Petals 2&ndash;4(5) mm; seeds wingless
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#LT21'">21.</a><a name="LT21."> </a> Fruit cylindric; seeds in 1 row <a href="/cgi-bin/get_IJM.pl?tid=8808">.....&nbsp;ARABIDOPSIS</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#LT21.">21'</a><a name="LT21'"> </a> Fruit flat; seeds in 2 rows <a href="/cgi-bin/get_IJM.pl?tid=10578">.....&nbsp;DRABA</a> (3)</blockquote><blockquote><h3><a name=Group4>Group 4</a>:</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#LV1'">1.</a><a name="LV1."> </a> Plant scapose; cauline leaves 0
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LV2'">2.</a><a name="LV2."> </a> Ovules or seeds 1&ndash;4 <a href="/cgi-bin/get_IJM.pl?tid=10496">.....&nbsp;CUSICKIELLA</a> (2)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LV2.">2'</a><a name="LV2'"> </a> Ovules or seeds >= 10
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LV3'">3.</a><a name="LV3."> </a> Petals yellow to orange <a href="/cgi-bin/get_IJM.pl?tid=10578">.....&nbsp;DRABA</a> (3)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LV3.">3'</a><a name="LV3'"> </a> Petals white, lavender, rose, or purple
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LV4'">4.</a><a name="LV4."> </a> Sepals 4&ndash;5 mm; petioles of previous year persistent <a href="/cgi-bin/get_IJM.pl?tid=8806">.....&nbsp;ANELSONIA</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LV4.">4'</a><a name="LV4'"> </a> Sepals 1.5&ndash;3 mm; petioles of previous year not persistent <a href="/cgi-bin/get_IJM.pl?tid=10578">.....&nbsp;DRABA</a> (3)
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#LV1.">1'</a><a name="LV1'"> </a> Plant not scapose; at least 1 cauline leaf present
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LV5'">5.</a><a name="LV5."> </a> Cauline leaves sessile, basally lobed, sagittate, or clasping
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LV6'">6.</a><a name="LV6."> </a> Perennial herb with well-developed woody caudex; hairs many-branched <a href="/cgi-bin/get_IJM.pl?tid=10611">.....&nbsp;PHOENICAULIS</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LV6.">6'</a><a name="LV6'"> </a> Annual or biennial (perennial herb), woody caudex 0; hairs a mixture of different types
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LV7'">7.</a><a name="LV7."> </a> Petals white (pink); at least some branched hairs sessile, stellate <a href="/cgi-bin/get_IJM.pl?tid=10482">.....&nbsp;CAPSELLA</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LV7.">7'</a><a name="LV7'"> </a> Petals yellow (white); branched hairs stalked, not stellate <a href="/cgi-bin/get_IJM.pl?tid=10481">.....&nbsp;CAMELINA</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LV5.">5'</a><a name="LV5'"> </a> Cauline leaves petioled, if sessile then not basally lobed or clasping
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LV8'">8.</a><a name="LV8."> </a> Inflorescence bracted throughout <a href="/cgi-bin/get_IJM.pl?tid=10014">.....&nbsp;TROPIDOCARPUM</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LV8.">8'</a><a name="LV8'"> </a> Inflorescence not bracted or occasionally most proximal flowers bracted
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LV9'">9.</a><a name="LV9."> </a> Petals strongly 2-lobed <a href="/cgi-bin/get_IJM.pl?tid=8815">.....&nbsp;BERTEROA</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LV9.">9'</a><a name="LV9'"> </a> Petals entire or notched
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LV10'">10.</a><a name="LV10."> </a> Inflorescence 1-sided; young fruit reflexed; annual <a href="/cgi-bin/get_IJM.pl?tid=8811">.....&nbsp;ATHYSANUS</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LV10.">10'</a><a name="LV10'"> </a> Inflorescence not 1-sided; young fruit not reflexed; annual to subshrub
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#LV11'">11.</a><a name="LV11."> </a> Cauline leaves only with sessile, 2-rayed hairs <a href="/cgi-bin/get_IJM.pl?tid=10599">.....&nbsp;LOBULARIA</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#LV11.">11'</a><a name="LV11'"> </a> Cauline leaves with various hair types but never only as above
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#LV12'">12.</a><a name="LV12."> </a> At least some filaments winged, dentate, or appendaged
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LV13'">13.</a><a name="LV13."> </a> Annual; style 0.3&ndash;1.6 mm <a href="/cgi-bin/get_IJM.pl?tid=8805">.....&nbsp;ALYSSUM</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LV13.">13'</a><a name="LV13'"> </a> Perennial herb; style 4&ndash;12 mm <a href="/cgi-bin/get_IJM.pl?tid=77187">.....&nbsp;[AUBRIETA]</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#LV12.">12'</a><a name="LV12'"> </a> All filaments wingless, not dentate, or unappendaged
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LV14'">14.</a><a name="LV14."> </a> Ovules or seeds 1 or 2, near ovary or fruit tip
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#LV15'">15.</a><a name="LV15."> </a> Petals (10)12&ndash;15 mm <a href="/cgi-bin/get_IJM.pl?tid=10577">.....&nbsp;DITHYREA</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#LV15.">15'</a><a name="LV15'"> </a> Petals 0.9&ndash;3(4) mm
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#LV16'">16.</a><a name="LV16."> </a> Petals 0.9&ndash;1.3 mm; ovaries, young fruit ovoid <a href="/cgi-bin/get_IJM.pl?tid=10583">.....&nbsp;EUCLIDIUM</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#LV16.">16'</a><a name="LV16'"> </a> Petals 1.5&ndash;3(4) mm; ovaries, young fruit round to obovate, flat <a href="/cgi-bin/get_IJM.pl?tid=8805">.....&nbsp;ALYSSUM</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#LV14.">14'</a><a name="LV14'"> </a> Ovules or seeds 4&ndash;100, parietal
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#LV17'">17.</a><a name="LV17."> </a> Sepals linear to oblong-linear, erect; petals narrowly oblanceolate to linear <a href="/cgi-bin/get_IJM.pl?tid=10601">.....&nbsp;LYROCARPA</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#LV17.">17'</a><a name="LV17'"> </a> Sepals oblong to ovate, erect to reflexed; petals ovate, obovate, spoon-shaped, oblong, or oblanceolate
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#LV18'">18.</a><a name="LV18."> </a> Cauline leaves entire or dentate (wavy)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#LV19'">19.</a><a name="LV19."> </a> Leaf hairs stellate, &plusmn; sessile, webbed or not <a href="/cgi-bin/get_IJM.pl?tid=10612">.....&nbsp;PHYSARIA</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#LV19.">19'</a><a name="LV19'"> </a> Leaf hairs simple, forked, cross-shaped, tree-like, or a mixture of 2 or more of types, never only sessile-stellate
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#LV20'">20.</a><a name="LV20."> </a> Young fruit with 1&ndash;4 seeds <a href="/cgi-bin/get_IJM.pl?tid=10496">.....&nbsp;CUSICKIELLA</a> (2)
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#LV20.">20'</a><a name="LV20'"> </a> Young fruit with > 4 seeds <a href="/cgi-bin/get_IJM.pl?tid=10578">.....&nbsp;DRABA</a> (3)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#LV18.">18'</a><a name="LV18'"> </a> Cauline leaves 1&ndash;3-pinnately divided or comb-like
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#LV21'">21.</a><a name="LV21."> </a> Perennial herb with well-developed caudex
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#LV22'">22.</a><a name="LV22."> </a> Leaves rigid, lobes linear <a href="/cgi-bin/get_IJM.pl?tid=10613">.....&nbsp;POLYCTENIUM</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#LV22.">22'</a><a name="LV22'"> </a> Leaves not rigid, lobes obovate or oblong <a href="/cgi-bin/get_IJM.pl?tid=10622">.....&nbsp;SMELOWSKIA</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#LV21.">21'</a><a name="LV21'"> </a> Annual or biennial
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#LV23'">23.</a><a name="LV23."> </a> Petals yellow; most or all hairs many-branched <a href="/cgi-bin/get_IJM.pl?tid=10574">.....&nbsp;DESCURAINIA</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#LV23.">23'</a><a name="LV23'"> </a> Petals white; hairs simple or forked <a href="/cgi-bin/get_IJM.pl?tid=81332">.....&nbsp;HORNUNGIA</a></blockquote><blockquote><h3>Key to Groups Based on Fruiting Material</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#LX1'">1.</a><a name="LX1."> </a> Fruit silicle
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LX2'">2.</a><a name="LX2."> </a> Hairs simple or 0 <a href="#Group5">.....&nbsp;Group 5</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LX2.">2'</a><a name="LX2'"> </a> At least some hairs branched <a href="#Group6">.....&nbsp;Group 6</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#LX1.">1'</a><a name="LX1'"> </a> Fruit silique
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LX3'">3.</a><a name="LX3."> </a> At least some hairs branched <a href="#Group7">.....&nbsp;Group 7</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LX3.">3'</a><a name="LX3'"> </a> Hairs simple or 0 <a href="#Group8">.....&nbsp;Group 8</a></blockquote><blockquote><h3><a name=Group5>Group 5</a>:</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#LZ1'">1.</a><a name="LZ1."> </a> Fruit transversely 2-segmented
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LZ2'">2.</a><a name="LZ2."> </a> Fruit corky; glabrous; coastal, especially beaches <a href="/cgi-bin/get_IJM.pl?tid=10479">.....&nbsp;CAKILE</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LZ2.">2'</a><a name="LZ2'"> </a> Fruit not corky; hairy; inland habitats
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LZ3'">3.</a><a name="LZ3."> </a> Cauline leaves 1- or 2-pinnately divided; fruit pedicels strongly recurved; terminal segment seedless, flattened <a href="/cgi-bin/get_IJM.pl?tid=82302">.....&nbsp;[CARRICHTERA]</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LZ3.">3'</a><a name="LZ3'"> </a> Cauline leaves dentate; fruit pedicels erect to ascending, straight; terminal segment 1(3)-seeded, spheric or ovoid <a href="/cgi-bin/get_IJM.pl?tid=10615">.....&nbsp;RAPISTRUM</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#LZ1.">1'</a><a name="LZ1'"> </a> Fruit unsegmented
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LZ4'">4.</a><a name="LZ4."> </a> Fruit flat parallel to septum, cylindric, or weakly flat perpendicular to septum
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LZ5'">5.</a><a name="LZ5."> </a> Cauline leaves 0
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LZ6'">6.</a><a name="LZ6."> </a> Fruit pedicel 1 from basal rosette; seeds winged; plants terrestrial <a href="/cgi-bin/get_IJM.pl?tid=10592">.....&nbsp;IDAHOA</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LZ6.">6'</a><a name="LZ6'"> </a> Fruits in racemes; seeds wingless; plants aquatic <a href="/cgi-bin/get_IJM.pl?tid=10628">.....&nbsp;SUBULARIA</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LZ5.">5'</a><a name="LZ5'"> </a> Cauline leaves 1&ndash;many
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LZ7'">7.</a><a name="LZ7."> </a> Fruit 3&ndash;5 cm, 2&ndash;3.5 cm wide; stalk above receptacle 0.7&ndash;1.8 cm <a href="/cgi-bin/get_IJM.pl?tid=10600">.....&nbsp;LUNARIA</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LZ7.">7'</a><a name="LZ7'"> </a> Fruit &lt;= 1.2 cm, &lt;= 0.5 cm wide; stalk above receptacle 0(0.5) mm
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LZ8'">8.</a><a name="LZ8."> </a> Fruit dehiscent; ovules or seeds 5&ndash;90 per fruit
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#LZ9'">9.</a><a name="LZ9."> </a> Fruit valve midveins distinct; ovules, seeds 8&ndash;14 per fruit; petals white <a href="/cgi-bin/get_IJM.pl?tid=10490">.....&nbsp;COCHLEARIA</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#LZ9.">9'</a><a name="LZ9'"> </a> Fruit valve midveins obscure; ovules, seeds 18&ndash;90 per fruit; petals yellow <a href="/cgi-bin/get_IJM.pl?tid=10616">.....&nbsp;RORIPPA</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LZ8.">8'</a><a name="LZ8'"> </a> Fruit indehiscent; ovules or seeds 1&ndash;2(4) per fruit
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#LZ10'">10.</a><a name="LZ10."> </a> Fruit ascending to spreading, cylindric, wings 0, radiating veins 0 <a href="/cgi-bin/get_IJM.pl?tid=10597">.....&nbsp;LEPIDIUM</a> (3)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#LZ10.">10'</a><a name="LZ10'"> </a> Fruit reflexed, flat parallel to septum, winged, veins generally radiating <a href="/cgi-bin/get_IJM.pl?tid=10013">.....&nbsp;THYSANOCARPUS</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#LZ4.">4'</a><a name="LZ4'"> </a> Fruit clearly flat perpendicular to septum
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LZ11'">11.</a><a name="LZ11."> </a> Cauline leaves sessile, basally lobed, sagittate, or clasping
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LZ12'">12.</a><a name="LZ12."> </a> Fruit indehiscent, reflexed, winged, with 1 seed at &plusmn; middle <a href="/cgi-bin/get_IJM.pl?tid=10595">.....&nbsp;ISATIS</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LZ12.">12'</a><a name="LZ12'"> </a> Fruit generally dehiscent, erect to spreading to descending, not winged, 2&ndash;16-seeded
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LZ13'">13.</a><a name="LZ13."> </a> Seeds 2 per fruit <a href="/cgi-bin/get_IJM.pl?tid=10597">.....&nbsp;LEPIDIUM</a> (3)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LZ13.">13'</a><a name="LZ13'"> </a> Seeds 2&ndash;16 per fruit
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#LZ14'">14.</a><a name="LZ14."> </a> Seeds smooth (minutely net-like), yellow-brown to brown <a href="/cgi-bin/get_IJM.pl?tid=68948">.....&nbsp;NOCCAEA</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#LZ14.">14'</a><a name="LZ14'"> </a> Seeds concentrically striate, &plusmn; black-brown <a href="/cgi-bin/get_IJM.pl?tid=10012">.....&nbsp;THLASPI</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#LZ11.">11'</a><a name="LZ11'"> </a> Cauline leaves petioled (0), if sessile then not basally lobed, sagittate, or clasping
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LZ15'">15.</a><a name="LZ15."> </a> Ovules or seeds 8&ndash;24 per fruit
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LZ16'">16.</a><a name="LZ16."> </a> Perennial herb 5&ndash;12(20) dm, roots fleshy <a href="/cgi-bin/get_IJM.pl?tid=8810">.....&nbsp;ARMORACIA</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LZ16.">16'</a><a name="LZ16'"> </a> Annual 0.2&ndash;3 dm, fleshy roots 0 <a href="/cgi-bin/get_IJM.pl?tid=81332">.....&nbsp;HORNUNGIA</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#LZ15.">15'</a><a name="LZ15'"> </a> Ovules or seeds 2(4) per fruit
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LZ17'">17.</a><a name="LZ17."> </a> Raceme not elongated in fruit; seeds winged <a href="/cgi-bin/get_IJM.pl?tid=10591">.....&nbsp;[IBERIS]</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#LZ17.">17'</a><a name="LZ17'"> </a> Racemes elongated in fruit; seeds wingless <a href="/cgi-bin/get_IJM.pl?tid=10597">.....&nbsp;LEPIDIUM</a> (3)</blockquote><blockquote><h3><a name=Group6>Group 6</a>:</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#MB1'">1.</a><a name="MB1."> </a> Plant scapose; cauline leaves 0
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#MB2'">2.</a><a name="MB2."> </a> Seed, ovules to 4 per fruit <a href="/cgi-bin/get_IJM.pl?tid=10496">.....&nbsp;CUSICKIELLA</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#MB2.">2'</a><a name="MB2'"> </a> Seed, ovules >= 10 per fruit
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MB3'">3.</a><a name="MB3."> </a> Seed with club-shaped hairs; fruit valves with distinct net-like lateral veins <a href="/cgi-bin/get_IJM.pl?tid=8806">.....&nbsp;ANELSONIA</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MB3.">3'</a><a name="MB3'"> </a> Seed surface minutely net-like; fruit valves obscurely lateral-veined <a href="/cgi-bin/get_IJM.pl?tid=10578">.....&nbsp;DRABA</a> (2)
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#MB1.">1'</a><a name="MB1'"> </a> Plant not scapose; at least 1 cauline leaf present
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#MB4'">4.</a><a name="MB4."> </a> Cauline leaves sessile, basally lobed, sagittate, or clasping
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MB5'">5.</a><a name="MB5."> </a> Fruit obtriangular-obcordate, flat perpendicular to septum; style 0.2&ndash;0.7 mm <a href="/cgi-bin/get_IJM.pl?tid=10482">.....&nbsp;CAPSELLA</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MB5.">5'</a><a name="MB5'"> </a> Fruit pear-shaped to obovoid, flat parallel to septum; style 1&ndash;3.5 mm <a href="/cgi-bin/get_IJM.pl?tid=10481">.....&nbsp;CAMELINA</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#MB4.">4'</a><a name="MB4'"> </a> Cauline leaves petioled, if sessile then not basally lobed, sagittate, or clasping
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MB6'">6.</a><a name="MB6."> </a> Fruit flat perpendicular to septum, or 4-valved and septum 0
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MB7'">7.</a><a name="MB7."> </a> Inflorescence bracted throughout <a href="/cgi-bin/get_IJM.pl?tid=10014">.....&nbsp;TROPIDOCARPUM</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MB7.">7'</a><a name="MB7'"> </a> Inflorescence not or only basally bracted
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MB8'">8.</a><a name="MB8."> </a> Seeds 2 per fruit; fruit spectacle-shaped <a href="/cgi-bin/get_IJM.pl?tid=10577">.....&nbsp;DITHYREA</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MB8.">8'</a><a name="MB8'"> </a> Seeds 4&ndash;100 per fruit; fruit not spectacle-shaped
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MB9'">9.</a><a name="MB9."> </a> Leaves generally comb-like, rigid <a href="/cgi-bin/get_IJM.pl?tid=10613">.....&nbsp;POLYCTENIUM</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MB9.">9'</a><a name="MB9'"> </a> Leaves entire or variously divided, not comb-like or rigid
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MB10'">10.</a><a name="MB10."> </a> Fruit obcordate; stigma prominently 2-lobed <a href="/cgi-bin/get_IJM.pl?tid=10601">.....&nbsp;LYROCARPA</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MB10.">10'</a><a name="MB10'"> </a> Fruit not obcordate; stigma entire
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MB11'">11.</a><a name="MB11."> </a> Style 2&ndash;9 mm; perennial herb <a href="/cgi-bin/get_IJM.pl?tid=10612">.....&nbsp;PHYSARIA</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MB11.">11'</a><a name="MB11'"> </a> Style &lt;= 0.1 mm; annual <a href="/cgi-bin/get_IJM.pl?tid=81332">.....&nbsp;HORNUNGIA</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MB6.">6'</a><a name="MB6'"> </a> Fruit flat parallel to septum, cylindric, ovoid, or 4-angled
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MB12'">12.</a><a name="MB12."> </a> Inflorescence 1-sided; fruit reflexed <a href="/cgi-bin/get_IJM.pl?tid=8811">.....&nbsp;ATHYSANUS</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MB12.">12'</a><a name="MB12'"> </a> Inflorescence not 1-sided; fruit not reflexed
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MB13'">13.</a><a name="MB13."> </a> Cauline leaves 1&ndash;3-pinnately divided
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MB14'">14.</a><a name="MB14."> </a> Annual or biennial; petals yellow <a href="/cgi-bin/get_IJM.pl?tid=10574">.....&nbsp;DESCURAINIA</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MB14.">14'</a><a name="MB14'"> </a> Perennial herb; petals white, lavender, or purple <a href="/cgi-bin/get_IJM.pl?tid=10622">.....&nbsp;SMELOWSKIA</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MB13.">13'</a><a name="MB13'"> </a> Cauline leaves entire, crenate, dentate, or wavy
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MB15'">15.</a><a name="MB15."> </a> Seeds 1&ndash;2(4) per fruit
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MB16'">16.</a><a name="MB16."> </a> Fruit indehiscent, ovoid, occasionally 4-sided <a href="/cgi-bin/get_IJM.pl?tid=10583">.....&nbsp;EUCLIDIUM</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MB16.">16'</a><a name="MB16'"> </a> Fruit dehiscent, flat parallel to septum
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MB17'">17.</a><a name="MB17."> </a> Hairs stellate, occasionally also simple; petals yellow <a href="/cgi-bin/get_IJM.pl?tid=8805">.....&nbsp;ALYSSUM</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MB17.">17'</a><a name="MB17'"> </a> Hairs 2-rayed only; petals white to purple <a href="/cgi-bin/get_IJM.pl?tid=10599">.....&nbsp;LOBULARIA</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MB15.">15'</a><a name="MB15'"> </a> Seeds (4)6&ndash;many per fruit
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MB18'">18.</a><a name="MB18."> </a> Filaments appendaged; petals deeply 2-lobed <a href="/cgi-bin/get_IJM.pl?tid=8815">.....&nbsp;BERTEROA</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MB18.">18'</a><a name="MB18'"> </a> Filaments not appendaged; petals entire to notched
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MB19'">19.</a><a name="MB19."> </a> Hairs &plusmn; sessile, stellate; fruit septum tip generally with midvein <a href="/cgi-bin/get_IJM.pl?tid=10612">.....&nbsp;PHYSARIA</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MB19.">19'</a><a name="MB19'"> </a> Some hairs stalked, generally of > 1 type; fruit septum tip without midvein <a href="/cgi-bin/get_IJM.pl?tid=10578">.....&nbsp;DRABA</a> (2)</blockquote><blockquote><h3><a name=Group7>Group 7</a>:</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#MD1'">1.</a><a name="MD1."> </a> Plant scapose; cauline leaves 0
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#MD2'">2.</a><a name="MD2."> </a> Seeds with club-shaped hairs; fruit valves with distinct net-like lateral veins <a href="/cgi-bin/get_IJM.pl?tid=8806">.....&nbsp;ANELSONIA</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#MD2.">2'</a><a name="MD2'"> </a> Seed surface minutely net-like; fruit valves obscurely lateral-veined <a href="/cgi-bin/get_IJM.pl?tid=10578">.....&nbsp;DRABA</a> (2)
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#MD1.">1'</a><a name="MD1'"> </a> Plant not scapose; cauline leaves 1 to many
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#MD3'">3.</a><a name="MD3."> </a> Cauline leaves sessile, basally lobed to sagittate or clasping
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MD4'">4.</a><a name="MD4."> </a> Fruit flat parallel to septum
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MD5'">5.</a><a name="MD5."> </a> Plant with many-branched, small, tree-like hairs; ovules or seeds (6)8&ndash;16(18) per fruit <a href="/cgi-bin/get_IJM.pl?tid=10611">.....&nbsp;PHOENICAULIS</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MD5.">5'</a><a name="MD5'"> </a> Plant with stellate, forked, or few-rayed hairs, if hairs tree-like then ovules > 24
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MD6'">6.</a><a name="MD6."> </a> Branched hairs stellate, 3&ndash;5-rayed; fruit straight, erect, appressed to rachis or diverging, 0.6&ndash;2 mm wide <a href="/cgi-bin/get_IJM.pl?tid=8809">.....&nbsp;ARABIS</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MD6.">6'</a><a name="MD6'"> </a> Branched hairs forked, few- to many-rayed, or tree-like; fruit arc-shaped to straight, reflexed to pendent or spreading (erect), 1&ndash;6 mm wide <a href="/cgi-bin/get_IJM.pl?tid=68135">.....&nbsp;BOECHERA</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MD4.">4'</a><a name="MD4'"> </a> Fruit cylindric or 4-angled
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MD7'">7.</a><a name="MD7."> </a> Seeds in 1 row; stigma 2-lobed; branched hairs 2-rayed <a href="/cgi-bin/get_IJM.pl?tid=10485">.....&nbsp;CAULANTHUS</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MD7.">7'</a><a name="MD7'"> </a> Seeds in 2 rows; stigma entire; branched hairs tree-like or stellate
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MD8'">8.</a><a name="MD8."> </a> Fruit pedicels ascending; fruit cylindric, not appressed to rachis <a href="/cgi-bin/get_IJM.pl?tid=91795">.....&nbsp;TRANSBERINGIA</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MD8.">8'</a><a name="MD8'"> </a> Fruit pedicels erect; fruit &plusmn; 4-angled, appressed to rachis <a href="/cgi-bin/get_IJM.pl?tid=69402">.....&nbsp;TURRITIS</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#MD3.">3'</a><a name="MD3'"> </a> Cauline leaves petioled, if sessile then not basally lobed, sagittate, or clasping
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MD9'">9.</a><a name="MD9."> </a> Inflorescence bracted throughout <a href="/cgi-bin/get_IJM.pl?tid=10014">.....&nbsp;TROPIDOCARPUM</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MD9.">9'</a><a name="MD9'"> </a> Inflorescence not or only basally bracted
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MD10'">10.</a><a name="MD10."> </a> Plant hairs sessile, stellate and 2&ndash;5(8)-rayed, simple hairs 0 <a href="/cgi-bin/get_IJM.pl?tid=10582">.....&nbsp;ERYSIMUM</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MD10.">10'</a><a name="MD10'"> </a> Plant with other types of branched hairs, simple hairs generally present
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MD11'">11.</a><a name="MD11."> </a> Stigma conic, prominently 2-lobed, lobes generally decurrent
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MD12'">12.</a><a name="MD12."> </a> Seeds winged <a href="/cgi-bin/get_IJM.pl?tid=10604">.....&nbsp;MATTHIOLA</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MD12.">12'</a><a name="MD12'"> </a> Seed wings 0
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MD13'">13.</a><a name="MD13."> </a> Fruit glabrous, constricted between seeds; hairs simple, forked <a href="/cgi-bin/get_IJM.pl?tid=10587">.....&nbsp;HESPERIS</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MD13.">13'</a><a name="MD13'"> </a> Fruit hairy, not constricted between seeds; plants with at least some many-branched hairs <a href="/cgi-bin/get_IJM.pl?tid=91794">.....&nbsp;STRIGOSELLA</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MD11.">11'</a><a name="MD11'"> </a> Stigma capitate, entire, if &plusmn; 2-lobed then lobes not decurrent
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MD14'">14.</a><a name="MD14."> </a> Cauline leaves pinnately divided to dissected or comb-like
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MD15'">15.</a><a name="MD15."> </a> Fruit flat parallel to septum <a href="/cgi-bin/get_IJM.pl?tid=10619">.....&nbsp;SIBARA</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MD15.">15'</a><a name="MD15'"> </a> Fruit cylindric or flat perpendicular to septum
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MD16'">16.</a><a name="MD16."> </a> Leaves pinnately lobed or dissected, not rigid; fruit cylindric <a href="/cgi-bin/get_IJM.pl?tid=10574">.....&nbsp;DESCURAINIA</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MD16.">16'</a><a name="MD16'"> </a> Leaves generally comb-like, rigid; fruit &plusmn; flat perpendicular to septum <a href="/cgi-bin/get_IJM.pl?tid=10613">.....&nbsp;POLYCTENIUM</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MD14.">14'</a><a name="MD14'"> </a> Cauline leaves entire or dentate (wavy)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MD17'">17.</a><a name="MD17."> </a> Fruit cylindric; seeds in 1 row
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MD18'">18.</a><a name="MD18."> </a> Fruit glabrous; cauline leaves entire <a href="/cgi-bin/get_IJM.pl?tid=8808">.....&nbsp;ARABIDOPSIS</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MD18.">18'</a><a name="MD18'"> </a> Fruit hairy; at least some cauline leaves dentate to wavy <a href="/cgi-bin/get_IJM.pl?tid=10586">.....&nbsp;HALIMOLOBOS</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MD17.">17'</a><a name="MD17'"> </a> Fruit generally flat parallel to septum; seeds in (1)2 rows
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MD19'">19.</a><a name="MD19."> </a> Fruit valves with elongate simple hairs mixed with stalked-forked or smaller stellate ones <a href="/cgi-bin/get_IJM.pl?tid=77187">.....&nbsp;[AUBRIETA]</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MD19.">19'</a><a name="MD19'"> </a> Fruit valves glabrous or with hairs of 1 size or type
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MD20'">20.</a><a name="MD20."> </a> Fruit narrowly linear; seeds winged (wing 0) <a href="/cgi-bin/get_IJM.pl?tid=68135">.....&nbsp;BOECHERA</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MD20.">20'</a><a name="MD20'"> </a> Fruit lanceolate to oblong (linear); seeds wingless &mdash; if winged then cauline leaves 1 <a href="/cgi-bin/get_IJM.pl?tid=10578">.....&nbsp;DRABA</a> (2)</blockquote><blockquote><h3><a name=Group8>Group 8</a>:</h3></blockquote><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#MF1'">1.</a><a name="MF1."> </a> Plant scapose; cauline leaves 0
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#MF2'">2.</a><a name="MF2."> </a> Perennial herb, cespitose; ovules or seeds 8&ndash;18 per fruit; petals white <a href="/cgi-bin/get_IJM.pl?tid=10483">.....&nbsp;CARDAMINE</a> (2)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#MF2.">2'</a><a name="MF2'"> </a> Annual (short-lived perennial herb); ovules or seeds 20&ndash;36 per fruit; petals yellow <a href="/cgi-bin/get_IJM.pl?tid=10576">.....&nbsp;DIPLOTAXIS</a> (2)
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#MF1.">1'</a><a name="MF1'"> </a> Plant not scapose; at least 1 cauline leaf present
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#MF3'">3.</a><a name="MF3."> </a> Plant glandular <a href="/cgi-bin/get_IJM.pl?tid=10488">.....&nbsp;CHORISPORA</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#MF3.">3'</a><a name="MF3'"> </a> Plant not glandular
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MF4'">4.</a><a name="MF4."> </a> Fruit indehiscent
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MF5'">5.</a><a name="MF5."> </a> Fruit winged, flat, lanceolate, not segmented, 1-seeded <a href="/cgi-bin/get_IJM.pl?tid=10595">.....&nbsp;ISATIS</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MF5.">5'</a><a name="MF5'"> </a> Fruit wings 0, cylindric or angled, segmented, seeds generally >= 1
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MF6'">6.</a><a name="MF6."> </a> Style &plusmn; absent; plant glabrous <a href="/cgi-bin/get_IJM.pl?tid=10479">.....&nbsp;CAKILE</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MF6.">6'</a><a name="MF6'"> </a> Style 1&ndash;5 mm; plant hairy <a href="/cgi-bin/get_IJM.pl?tid=10614">.....&nbsp;RAPHANUS</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#MF4.">4'</a><a name="MF4'"> </a> Fruit dehiscent
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MF7'">7.</a><a name="MF7."> </a> Fruit segmented
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MF8'">8.</a><a name="MF8."> </a> Seeds in 2 rows
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MF9'">9.</a><a name="MF9."> </a> Terminal fruit segment not flattened; petal veins same color as blade <a href="/cgi-bin/get_IJM.pl?tid=10576">.....&nbsp;DIPLOTAXIS</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MF9.">9'</a><a name="MF9'"> </a> Terminal fruit segment flattened; petal veins darker than blade <a href="/cgi-bin/get_IJM.pl?tid=10580">.....&nbsp;ERUCA</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MF8.">8'</a><a name="MF8'"> </a> Seeds in 1 row
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MF10'">10.</a><a name="MF10."> </a> Fruit valves prominently 3&ndash;7-veined
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MF11'">11.</a><a name="MF11."> </a> Fruit (30)40&ndash;150-seeded; sepals erect <a href="/cgi-bin/get_IJM.pl?tid=10492">.....&nbsp;COINCYA</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MF11.">11'</a><a name="MF11'"> </a> Fruit 4&ndash;16(24)-seeded; sepals spreading or reflexed <a href="/cgi-bin/get_IJM.pl?tid=10620">.....&nbsp;SINAPIS</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MF10.">10'</a><a name="MF10'"> </a> Fruit valves obscurely veined or only midvein prominent
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MF12'">12.</a><a name="MF12."> </a> Inflorescence bracted <a href="/cgi-bin/get_IJM.pl?tid=10581">.....&nbsp;[ERUCASTRUM]</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MF12.">12'</a><a name="MF12'"> </a> Inflorescence not bracted
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MF13'">13.</a><a name="MF13."> </a> Fruit spreading to erect, not appressed to rachis, terminal segment seedless or 1- or 2-seeded, if appressed then terminal segment seedless <a href="/cgi-bin/get_IJM.pl?tid=8816">.....&nbsp;BRASSICA</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MF13.">13'</a><a name="MF13'"> </a> Fruit erect, appressed to rachis, terminal segment 1- or 2-seeded <a href="/cgi-bin/get_IJM.pl?tid=10589">.....&nbsp;HIRSCHFELDIA</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#MF7.">7'</a><a name="MF7'"> </a> Fruit unsegmented
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MF14'">14.</a><a name="MF14."> </a> Fruit flat parallel to septum
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MF15'">15.</a><a name="MF15."> </a> Placenta margin flat in fruit; fruit valves coiled when dehiscent <a href="/cgi-bin/get_IJM.pl?tid=10483">.....&nbsp;CARDAMINE</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MF15.">15'</a><a name="MF15'"> </a> Placenta margin not flat in fruit; fruit valves not coiled when dehiscent
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MF16'">16.</a><a name="MF16."> </a> Seed wings 0
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MF17'">17.</a><a name="MF17."> </a> Stalk above receptacle 6&ndash;28 mm <a href="/cgi-bin/get_IJM.pl?tid=10624">.....&nbsp;STANLEYA</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MF17.">17'</a><a name="MF17'"> </a> Stalk above receptacle 1&ndash;4(5) mm
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MF18'">18.</a><a name="MF18."> </a> All cauline leaves pinnately dissected, segments thread-like or linear <a href="/cgi-bin/get_IJM.pl?tid=10619">.....&nbsp;SIBARA</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MF18.">18'</a><a name="MF18'"> </a> At least some cauline leaves entire to dentate or pinnately lobed, segments not thread-like or linear
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MF19'">19.</a><a name="MF19."> </a> Most distal leaves entire &mdash; stamens generally in 3 pairs of unequal length <a href="/cgi-bin/get_IJM.pl?tid=10626">.....&nbsp;STREPTANTHUS</a> (2)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MF19.">19'</a><a name="MF19'"> </a> Most distal leaves dentate or lobed
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#MF20'">20.</a><a name="MF20."> </a> Cauline leaves sessile, basally lobed or clasping; petals yellow <a href="/cgi-bin/get_IJM.pl?tid=8814">.....&nbsp;BARBAREA</a> (2)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#MF20.">20'</a><a name="MF20'"> </a> Cauline leaves petioled, not basally lobed or clasping; petals white to purple <a href="/cgi-bin/get_IJM.pl?tid=10011">.....&nbsp;THELYPODIUM</a> (3)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MF16.">16'</a><a name="MF16'"> </a> Seeds winged at least at tip
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MF21'">21.</a><a name="MF21."> </a> Stamens 4 long, 2 short; petals clawed
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MF22'">22.</a><a name="MF22."> </a> At least some cauline leaves entire or dentate <a href="/cgi-bin/get_IJM.pl?tid=68135">.....&nbsp;BOECHERA</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MF22.">22'</a><a name="MF22'"> </a> All cauline leaves pinnately lobed <a href="/cgi-bin/get_IJM.pl?tid=82456">.....&nbsp;PLANODES</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MF21.">21'</a><a name="MF21'"> </a> Stamens in 3 pairs of unequal length; petals generally not clawed
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MF23'">23.</a><a name="MF23."> </a> Fruit strongly reflexed, tip indehiscent, forming a beak <a href="/cgi-bin/get_IJM.pl?tid=10625">.....&nbsp;STREPTANTHELLA</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MF23.">23'</a><a name="MF23'"> </a> Fruit generally erect to spreading (reflexed), dehiscent throughout, beak 0.
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MF24'">24.</a><a name="MF24."> </a> Sepals 2.8&ndash;3.2 mm; stem 0.5&ndash;2 dm <a href="/cgi-bin/get_IJM.pl?tid=77419">.....&nbsp;SIBAROPSIS</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MF24.">24'</a><a name="MF24'"> </a> Sepals 4&ndash;8 mm; stem (0.7)1&ndash;8 dm <a href="/cgi-bin/get_IJM.pl?tid=10626">.....&nbsp;STREPTANTHUS</a> (2)
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#MF14.">14'</a><a name="MF14'"> </a> Fruit cylindric or 4-angled
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MF25'">25.</a><a name="MF25."> </a> Cauline leaves pinnately compound; proximal nodes rooting <a href="/cgi-bin/get_IJM.pl?tid=68913">.....&nbsp;NASTURTIUM</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#MF25.">25'</a><a name="MF25'"> </a> Cauline leaves simple; proximal nodes not rooting
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MF26'">26.</a><a name="MF26."> </a> Stalk above receptacle 6&ndash;28 mm <a href="/cgi-bin/get_IJM.pl?tid=10624">.....&nbsp;STANLEYA</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#MF26.">26'</a><a name="MF26'"> </a> Stalk above receptacle 0&ndash;4(5) mm
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MF27'">27.</a><a name="MF27."> </a> Cauline leaves basally lobed, sagittate, or clasping
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MF28'">28.</a><a name="MF28."> </a> Cauline leaves dentate to pinnately lobed
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MF29'">29.</a><a name="MF29."> </a> Seeds in 2 rows <a href="/cgi-bin/get_IJM.pl?tid=10616">.....&nbsp;RORIPPA</a> (2)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MF29.">29'</a><a name="MF29'"> </a> Seeds in 1 row
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#MF30'">30.</a><a name="MF30."> </a> Biennial or perennial herb; petals not crinkled <a href="/cgi-bin/get_IJM.pl?tid=8814">.....&nbsp;BARBAREA</a> (2)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#MF30.">30'</a><a name="MF30'"> </a> Annual; petals generally crinkled <a href="/cgi-bin/get_IJM.pl?tid=10485">.....&nbsp;CAULANTHUS</a> (3)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MF28.">28'</a><a name="MF28'"> </a> Cauline leaves entire or wavy
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MF31'">31.</a><a name="MF31."> </a> Fruit 4-angled; petals yellow <a href="/cgi-bin/get_IJM.pl?tid=10493">.....&nbsp;CONRINGIA</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MF31.">31'</a><a name="MF31'"> </a> Fruit cylindric; petals white to purple <a href="/cgi-bin/get_IJM.pl?tid=10011">.....&nbsp;THELYPODIUM</a> (3)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#MF27.">27'</a><a name="MF27'"> </a> Cauline leaves not basally lobed, sagittate, or clasping
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MF32'">32.</a><a name="MF32."> </a> Stigma prominently 2-lobed
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MF33'">33.</a><a name="MF33."> </a> Fruit valves 1-veined; petals purple to white <a href="/cgi-bin/get_IJM.pl?tid=10485">.....&nbsp;CAULANTHUS</a> (3)
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MF33.">33'</a><a name="MF33'"> </a> Fruit valves distinctly 3-veined; petals yellow <a href="/cgi-bin/get_IJM.pl?tid=10621">.....&nbsp;SISYMBRIUM</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#MF32.">32'</a><a name="MF32'"> </a> Stigma entire
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MF34'">34.</a><a name="MF34."> </a> Perennial herb, occasionally subshrub, caudex woody <a href="/cgi-bin/get_IJM.pl?tid=68619">.....&nbsp;HESPERIDANTHUS</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#MF34.">34'</a><a name="MF34'"> </a> Annual or biennial
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#MF35'">35.</a><a name="MF35."> </a> Stalk above receptacle slender, 1&ndash;5 mm; inflorescence spike-like <a href="/cgi-bin/get_IJM.pl?tid=10011">.....&nbsp;THELYPODIUM</a> (3)
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#MF35.">35'</a><a name="MF35'"> </a> Stalk above receptacle stout, 0&ndash;1 mm; inflorescence not spike-like
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#MF36'">36.</a><a name="MF36."> </a> Seeds in 1 row; petals (2.5)4&ndash;17 mm <a href="/cgi-bin/get_IJM.pl?tid=10485">.....&nbsp;CAULANTHUS</a> (3)
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#MF36.">36'</a><a name="MF36'"> </a> Seeds in 2 rows; petals 0.5&ndash;0.8 mm <a href="/cgi-bin/get_IJM.pl?tid=10616">.....&nbsp;RORIPPA</a> (2)</blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

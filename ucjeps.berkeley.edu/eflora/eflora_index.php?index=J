@@ -1,0 +1,230 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Search</title>
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<!-- Google analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+      <td colspan="5" align="center" valign="middle">&nbsp;</td>
+    </tr>
+
+  <tr>
+      <td rowspan="4" width="12" align="center" valign="middle"></td>
+      <td rowspan="3" width="120" align="center" valign="middle">
+        <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/logo_jeps_80.png" alt="Jepson Herbarium (JEPS)" width="80" height="79" border="0" /></a></td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle"></td>
+    <td rowspan="4" width="12" align="center" valign="middle"></td>
+  </tr>
+    <tr>
+
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+    <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+   </tr>
+
+     <tr>
+     <td colspan="3" align="center"></td>
+
+   </tr>
+     
+   <tr>
+       <td height="8" colspan="5" align="center">&nbsp;</td>
+     </tr>
+   <tr class="bannerBottomBorder">
+     	<td colspan="6" height="3"></td>
+  </tr>
+
+    <tr>
+
+    <td colspan="6"><img src="http://ucjeps.berkeley.edu/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  </table>
+<!-- End banner -->
+
+<!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+            	<li><a href="http://ucjeps.berkeley.edu/images/">UC/JEPS Image Collection</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+<table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora:</a> Search page</span>
+		<br>
+			<span class="pageAuthorLine">
+				<a href="http://ucjeps.berkeley.edu/IJM_fam_key.html">Key to families</a>
+				<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+			</span>	  
+		</td>
+	</tr>
+</table>
+
+<table align="center" width="100%"><tr><td>
+&nbsp;
+</td>
+<td width=90%">
+<!--eFlora index-->
+<span class="pageAuthorLine">Index to accepted names and synonyms:</span><br>
+| 	<a href="eflora_index.php?index=A">A</a> | 
+	<a href="eflora_index.php?index=B">B</a> | 
+	<a href="eflora_index.php?index=C">C</a> | 
+	<a href="eflora_index.php?index=D">D</a> | 
+	<a href="eflora_index.php?index=E">E</a> | 
+	<a href="eflora_index.php?index=F">F</a> | 
+	<a href="eflora_index.php?index=G">G</a> | 
+	<a href="eflora_index.php?index=H">H</a> | 
+	<a href="eflora_index.php?index=I">I</a> | 
+	<a href="eflora_index.php?index=J">J</a> | 
+	<a href="eflora_index.php?index=K">K</a> | 
+	<a href="eflora_index.php?index=L">L</a> | 
+	<a href="eflora_index.php?index=M">M</a> | 
+	<a href="eflora_index.php?index=N">N</a> | 
+	<a href="eflora_index.php?index=O">O</a> | 
+	<a href="eflora_index.php?index=P">P</a> | 
+	<a href="eflora_index.php?index=Q">Q</a> | 
+	<a href="eflora_index.php?index=R">R</a> | 
+	<a href="eflora_index.php?index=S">S</a> | 
+	<a href="eflora_index.php?index=T">T</a> | 
+	<a href="eflora_index.php?index=U">U</a> | 
+	<a href="eflora_index.php?index=V">V</a> | 
+	<a href="eflora_index.php?index=W">W</a> | 
+	<a href="eflora_index.php?index=X">X</a> | 
+	<a href="eflora_index.php?index=Y">Y</a> | 
+	<a href="eflora_index.php?index=Z">Z</a> |
+<hr width="10%">
+</td>
+
+<td align="right">
+&nbsp;
+</td></tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+<form action="search_eflora.php" method="POST">
+<b>Scientific Name<br></b>		<input type="text" id="query_text" name="query"></input>
+		<input type="submit" value="Submit Name" />
+</form>
+
+<p class="bodyText">Index Page: J<p><div class="eFloraTable"><table border="1"><tr><td>Scientific Name</td><td>Common Name</td><td></td></tr><tr><td><a href="eflora_display.php?tid=10507">Jacaranda</a></td><td>JACARANDA</td><td></td><tr><td><a href="eflora_display.php?tid=29483">Jacaranda mimosifolia</a></td><td>BLUE JACARANDA</td><td>Urban weed</td><tr><td><a href="eflora_display.php?tid=4770">Jacobaea vulgaris</a><br>(Under Senecio jacobaea)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=9630">Jamesia</a></td><td>CLIFFBUSH</td><td></td><tr><td><a href="eflora_display.php?tid=60290">Jamesia americana subsp. californica</a><br>(Under Jamesia americana var. rosea)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=60290">Jamesia americana var. californica</a><br>(Under Jamesia americana var. rosea)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=60290">Jamesia americana var. rosea</a></td><td>ROSY-PETALLED CLIFFBUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=60290">Jamesia californica</a><br>(Under Jamesia americana var. rosea)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=11182">Jarava plumosa</a><br>(Under Stipa)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=45686">Jarava speciosa</a><br>(Under Stipa speciosa)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=491">Jaumea</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=3667">Jaumea carnosa</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=77564">Jensia</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=77564">&#x21b3;&nbsp;&nbsp;Key to Jensia</td><td>TARWEED, TARPLANT</td><td></td><tr><td><a href="eflora_display.php?tid=77565">Jensia rammii</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=77566">Jensia yosemitana</a></td><td>YOSEMITE TARPLANT</td><td>Native</td><tr><td><a href="eflora_display.php?tid=11334">Jepsonia</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=11334">&#x21b3;&nbsp;&nbsp;Key to Jepsonia</td><td></td><td></td><tr><td><a href="eflora_display.php?tid=29557">Jepsonia heterandra</a></td><td>FOOTHILL JEPSONIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29558">Jepsonia malvifolia</a></td><td>ISLAND JEPSONIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29559">Jepsonia parryi</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=29557">Jepsonia parryi var. heterandra</a><br>(Under Jepsonia heterandra)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=82508">Johanneshowellia</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=89024">Johanneshowellia puberula</a></td><td>DOWNY BUCKWHEAT</td><td>Native</td><tr><td><a href="eflora_display.php?tid=21244">Johnstonella inaequata</a><br>(Under Cryptantha inaequata)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=21263">Johnstonella micromeres</a><br>(Under Cryptantha micromeres)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=21285">Johnstonella racemosa</a><br>(Under Cryptantha racemosa)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=162">Juglandaceae</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=162">&#x21b3;&nbsp;&nbsp;Key to Juglandaceae</td><td>WALNUT FAMILY</td><td></td><tr><td><a href="eflora_display.php?tid=9146">Juglans</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9146">&#x21b3;&nbsp;&nbsp;Key to Juglans</td><td>WALNUT</td><td></td><tr><td><a href="eflora_display.php?tid=29566">Juglans californica</a></td><td>SOUTHERN CALIFORNIA BLACK WALNUT</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29566">Juglans californica var. californica</a><br>(Under Juglans californica)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29568">Juglans californica var. hindsii</a><br>(Under Juglans hindsii)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29568">Juglans hindsii</a></td><td>NORTHERN CALIFORNIA BLACK WALNUT</td><td>Native</td><tr><td><a href="eflora_display.php?tid=9146">Juglans nigra</a><br>(Under Juglans)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=29576">Juglans regia</a></td><td>PERSIAN or ENGLISH WALNUT</td><td>Waif</td><tr><td><a href="eflora_display.php?tid=163">Juncaceae</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=163">&#x21b3;&nbsp;&nbsp;Key to Juncaceae</td><td>RUSH FAMILY</td><td></td><tr><td><a href="eflora_display.php?tid=164">Juncaginaceae</a></td><td>ARROW-GRASS FAMILY</td><td></td><tr><td><a href="eflora_display.php?tid=9148">Juncus</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9148">&#x21b3;&nbsp;&nbsp;Key to Juncus</td><td>RUSH</td><td></td><tr><td><a href="eflora_display.php?tid=29592">Juncus acuminatus</a></td><td>TAPERED RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=51088">Juncus acutus subsp. leopoldii</a></td><td>SOUTHWESTERN SPINY RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=51088">Juncus acutus var. sphaerocarpus</a><br>(Under Juncus acutus subsp. leopoldii)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29601">Juncus ambiguus</a></td><td>FROG RUSH</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=60334">Juncus amuricus</a><br>(Under Juncus bufonius var. occidentalis)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=89025">Juncus anthelatus</a></td><td>KENTUCKY or POVERTY RUSH</td><td>Waif</td><tr><td><a href="eflora_display.php?tid=81588">Juncus arcticus var. balticus</a><br>(Under Juncus balticus subsp. ater)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29687">Juncus arcticus var. mexicanus</a><br>(Under Juncus mexicanus)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=91767">Juncus articulatus subsp. articulatus</a></td><td>JOINTED RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=81588">Juncus balticus subsp. ater</a></td><td>BALTIC RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=81588">Juncus balticus var. montanus</a><br>(Under Juncus balticus subsp. ater)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29610">Juncus bolanderi</a></td><td>BOLANDER'S RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=9148">Juncus brachyphyllus</a><br>(Under Juncus)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=98862">Juncus brachyphyllus</a><br>(Under Juncus trilocularis)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=29616">Juncus breweri</a></td><td>SALT or BREWER'S RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29617">Juncus bryoides</a></td><td>MOSS RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29618">Juncus bufonius</a></td><td>TOAD RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=60331">Juncus bufonius var. bufonius</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=60331">Juncus bufonius var. congdonii</a><br>(Under Juncus bufonius var. bufonius)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=60332">Juncus bufonius var. congestus</a></td><td>CLUSTERED TOAD RUSH</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=29601">Juncus bufonius var. halophilus</a><br>(Under Juncus ambiguus)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=60334">Juncus bufonius var. occidentalis</a></td><td>WESTERN TOAD RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29620">Juncus bulbosus</a></td><td>BULBOUS RUSH</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=29624">Juncus capillaris</a></td><td>HAIRSTEMMED RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29625">Juncus capitatus</a></td><td>DWARF RUSH</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=29628">Juncus chlorocephalus</a></td><td>GREENHEADED RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29630">Juncus confusus</a></td><td>COLORADO RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29632">Juncus cooperi</a></td><td>COOPER'S RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29635">Juncus covillei</a></td><td>COVILLE'S RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29635">Juncus covillei var. covillei</a><br>(Under Juncus covillei)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29635">Juncus covillei var. obtusatus</a><br>(Under Juncus covillei)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29637">Juncus cyperoides</a></td><td>BOLIVIAN RUSH</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=29639">Juncus dichotomus</a></td><td>DICHOTOMOUS RUSH</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=29641">Juncus diffusissimus</a></td><td>SLIM-POD RUSH</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=87482">Juncus digitatus</a></td><td>FINGER RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29642">Juncus drummondii</a></td><td>DRUMMOND'S RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29642">Juncus drummondii var. subtriflorus</a><br>(Under Juncus drummondii)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29643">Juncus dubius</a></td><td>MARIPOSA RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29644">Juncus dudleyi</a></td><td>DUDLEY'S RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29645">Juncus duranii</a></td><td>DURAN'S RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29646">Juncus effusus</a></td><td>SOFT or LAMP RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=80232">Juncus effusus subsp. austrocalifornicus</a></td><td>SONORAN or BAJA RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=80232">Juncus effusus subsp. austrocalifornicus</a><br>(Under Juncus effusus subsp. austrocalifornicus)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=75030">Juncus effusus subsp. effusus</a></td><td>COMMON RUSH</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=79529">Juncus effusus subsp. pacificus</a></td><td>PACIFIC RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=51101">Juncus effusus subsp. solutus</a></td><td>EASTERN SOFT RUSH</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=80232">Juncus effusus var. australis</a><br>(Under Juncus effusus subsp. austrocalifornicus)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=79477">Juncus effusus var. brunneus</a><br>(Under Juncus hesperius)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=75030">Juncus effusus var. compactus</a><br>(Under Juncus effusus subsp. effusus)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=80234">Juncus effusus var. exiguus</a><br>(Under Juncus exiguus)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=79530">Juncus effusus var. gracilis</a><br>(Under Juncus laccatus)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=79529">Juncus effusus var. pacificus</a><br>(Under Juncus effusus subsp. pacificus)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=51101">Juncus effusus var. solutus</a><br>(Under Juncus effusus subsp. solutus)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=101077">Juncus elliottii</a></td><td>ELLIOTT'S RUSH</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=29651">Juncus ensifolius</a></td><td>DAGGER RUSH, SWORDLEAVED RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29713">Juncus ensifolius var. montanus</a><br>(Under Juncus saximontanus)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=80234">Juncus exiguus</a></td><td>KLAMATH or WEAK RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29652">Juncus falcatus</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=70299">Juncus falcatus subsp. falcatus</a></td><td>SICKLELEAVED RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=51102">Juncus falcatus subsp. sitchensis</a></td><td>ALASKAN SICKLELEAVED RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=70299">Juncus falcatus var. falcatus</a><br>(Under Juncus falcatus subsp. falcatus)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=51102">Juncus falcatus var. sitchensis</a><br>(Under Juncus falcatus subsp. sitchensis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=91768">Juncus gerardi subsp. gerardi</a></td><td>MUD RUSH</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=29664">Juncus hemiendytus</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=60368">Juncus hemiendytus var. abjectus</a></td><td>CENTER BASIN RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=60369">Juncus hemiendytus var. hemiendytus</a></td><td>HERMANN'S DWARF RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=79477">Juncus hesperius</a></td><td>COAST or BOG RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29666">Juncus howellii</a></td><td>HOWELL'S RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29618">Juncus hybridus</a><br>(Under Juncus bufonius)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=29668">Juncus interior</a></td><td>INLAND RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29668">Juncus interior var. arizonicus</a><br>(Under Juncus interior)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29668">Juncus interior var. neomexicanus</a><br>(Under Juncus interior)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29671">Juncus kelloggii</a></td><td>KELLOGG'S DWARF RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=79530">Juncus laccatus</a></td><td>SHINY RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29673">Juncus leiospermus</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=60373">Juncus leiospermus var. ahartii</a></td><td>AHART'S DWARF RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=60374">Juncus leiospermus var. leiospermus</a></td><td>RED BLUFF DWARF RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29675">Juncus lescurii</a></td><td>SAN FRANCISCO RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29616">Juncus lescurii var. tracyi</a><br>(Under Juncus breweri)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29675">Juncus lesueurii</a><br>(Under Juncus lescurii)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29677">Juncus longistylis</a></td><td>LONG-STYLED RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29678">Juncus luciensis</a></td><td>SANTA LUCIA DWARF RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29679">Juncus macrandrus</a></td><td>LONG-ANTHERED RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29680">Juncus macrophyllus</a></td><td>LONG-LEAVED RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29681">Juncus marginatus</a></td><td>GRASSLEAVED or RED-ANTHERED RUSH</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=29681">Juncus marginatus var. marginatus</a><br>(Under Juncus marginatus)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29733">Juncus megaspermus</a><br>(Under Juncus triformis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29685">Juncus mertensianus</a></td><td>MERTENS' RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=60387">Juncus mertensianus subsp. gracilis</a><br>(Under Juncus nevadensis var. nevadensis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29645">Juncus mertensianus var. duranii</a><br>(Under Juncus duranii)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29687">Juncus mexicanus</a></td><td>MEXICAN RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29689">Juncus nevadensis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=60386">Juncus nevadensis var. inventus</a></td><td>DUNE RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=60387">Juncus nevadensis var. nevadensis</a></td><td>NEVADA or SIERRAN RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29695">Juncus nodosus</a></td><td>KNOTTED RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29695">Juncus nodosus var. nodosus</a><br>(Under Juncus nodosus)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=76520">Juncus occidentalis</a></td><td>WESTERN RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29723">Juncus oreganus</a><br>(Under Juncus supiniformis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29698">Juncus orthophyllus</a></td><td>STRAIGHTLEAVED RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29699">Juncus oxymeris</a></td><td>POINTED RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29700">Juncus parryi</a></td><td>PARRY'S RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29701">Juncus patens</a></td><td>SPREADING RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29703">Juncus phaeocephalus</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=60387">Juncus phaeocephalus var. gracilis</a><br>(Under Juncus nevadensis var. nevadensis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=60392">Juncus phaeocephalus var. paniculatus</a></td><td>PANICLED RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=60393">Juncus phaeocephalus var. phaeocephalus</a></td><td>BROWNHEADED RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29704">Juncus planifolius</a></td><td>NEW ZEALAND or FLAT-LEAVED RUSH</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=29601">Juncus ranarius</a><br>(Under Juncus ambiguus)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29618">Juncus ranarius</a><br>(Under Juncus bufonius)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=29708">Juncus regelii</a></td><td>REGEL'S RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29712">Juncus rugulosus</a></td><td>WRINKLED RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29713">Juncus saximontanus</a></td><td>ROCKY MOUNTAIN RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29713">Juncus saximontanus f. brunnescens</a><br>(Under Juncus saximontanus)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=60334">Juncus sphaerocarpus</a><br>(Under Juncus bufonius var. occidentalis)</td><td></td><td>Mentioned in<br>a note</td></tr><tr><td><a href="eflora_display.php?tid=29723">Juncus supiniformis</a></td><td>HAIR-LEAVED RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29725">Juncus tenuis</a></td><td>POVERTY or SLENDER RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=76520">Juncus tenuis var. congestus</a><br>(Under Juncus occidentalis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29644">Juncus tenuis var. dudleyi</a><br>(Under Juncus dudleyi)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=76520">Juncus tenuis var. occidentalis</a><br>(Under Juncus occidentalis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29728">Juncus textilis</a></td><td>MAT or BASKET RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29729">Juncus tiehmii</a></td><td>TIEHM'S RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29730">Juncus torreyi</a></td><td>TORREY'S RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29733">Juncus triformis</a></td><td>YOSEMITE DWARF RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=98862">Juncus trilocularis</a></td><td>FOOTHILL RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29738">Juncus uncialis</a></td><td>INCH-HIGH RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=80171">Juncus usitatus</a></td><td>AUSTRALIAN RUSH</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=29743">Juncus xiphioides</a></td><td>IRIS-LEAVED RUSH</td><td>Native</td><tr><td><a href="eflora_display.php?tid=9027">Juniperus</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9027">&#x21b3;&nbsp;&nbsp;Key to Juniperus</td><td>JUNIPER</td><td></td><tr><td><a href="eflora_display.php?tid=29749">Juniperus californica</a></td><td>CALIFORNIA JUNIPER</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29753">Juniperus communis</a></td><td>COMMON JUNIPER</td><td>Native</td><tr><td><a href="eflora_display.php?tid=60419">Juniperus communis var. depressa</a></td><td>DEPRESSED JUNIPER</td><td>Native</td><tr><td><a href="eflora_display.php?tid=60424">Juniperus communis var. depressa</a><br>(Under Juniperus communis var. saxatilis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=60423">Juniperus communis var. jackii</a></td><td>JACK'S JUNIPER</td><td>Native</td><tr><td><a href="eflora_display.php?tid=60424">Juniperus communis var. jackii</a><br>(Under Juniperus communis var. saxatilis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=60423">Juniperus communis var. montana</a><br>(Under Juniperus communis var. jackii)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=60424">Juniperus communis var. montana</a><br>(Under Juniperus communis var. saxatilis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=60424">Juniperus communis var. saxatilis</a></td><td>MOUNTAIN JUNIPER</td><td>Native</td><tr><td><a href="eflora_display.php?tid=82091">Juniperus grandis</a></td><td>SIERRA JUNIPER, GRAND JUNIPER</td><td>Native</td><tr><td><a href="eflora_display.php?tid=29773">Juniperus occidentalis</a></td><td>WESTERN JUNIPER</td><td>Native</td><tr><td><a href="eflora_display.php?tid=82091">Juniperus occidentalis var. australis</a><br>(Under Juniperus grandis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29773">Juniperus occidentalis var. occidentalis</a><br>(Under Juniperus occidentalis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=29774">Juniperus osteosperma</a></td><td>UTAH JUNIPER</td><td>Native</td><tr><td><a href="eflora_display.php?tid=51359">Jussiaea californica</a><br>(Under Ludwigia peploides subsp. peploides)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=51359">Jussiaea repens var. californica</a><br>(Under Ludwigia peploides subsp. peploides)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=51358">Jussiaea repens var. montevidensis</a><br>(Under Ludwigia peploides subsp. montevidensis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=51359">Jussiaea repens var. peploides</a><br>(Under Ludwigia peploides subsp. peploides)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=31664">Jussiaea uruguayensis</a><br>(Under Ludwigia grandiflora)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=31665">Jussiaea uruguayensis</a><br>(Under Ludwigia hexapetala)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=10682">Justicia</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=29815">Justicia californica</a></td><td>BELOPERONE, CHUPAROSA</td><td>Native</td></table></div><br>
+<a href="mailto:interchange@lists.berkeley.edu"><span class="feedbackLink">Feedback/Contact<span></a><br>
+</td>
+</tr>
+</table>
+
+
+
+<!--Begin footer-->
+<table width="100%" id="footer">
+  <tr>
+    <td height="18" class="banner"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  <tr>
+    <td height="20"><span class="copyrightText"><a href="http://ucjeps.berkeley.edu/main/copyright.html"> Copyright</a> &copy; 2016  Regents of the University of California
+<br>We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.</span></td>
+  </tr>
+</table>
+<!--End footer-->

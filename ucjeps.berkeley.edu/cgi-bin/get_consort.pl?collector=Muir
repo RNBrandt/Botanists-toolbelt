@@ -1,0 +1,1082 @@
+<html>
+<head>
+<Meta NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>UC/JEPS: Consortium Search Results</title>
+<link href="http://ucjeps.berkeley.edu/consortium/style_consortium.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+
+
+
+
+<!-- COMMON HEADER -->
+<table width="100%" class="banner" border="0" cellpadding="0" cellspacing="0">
+  <tr><td width="80" align="center"><a href="/consortium/"><img src="/consortium/images/CCH_logo_02_80.png" width="80" height="82"></a></td>
+  <td>
+        <table class="banner" width="100%" border="0">
+        <tr>
+        <td align="center">Consortium of California Herbaria</td>
+        </tr>
+        <tr><td>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                <td height="21" width="640" align="center">
+                <a href="http://ucjeps.berkeley.edu/consortium/participants.html" class="horizMenuActive">Participants</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/consortium/news.html" class="horizMenuActive">News</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/consortium/" class="horizMenuActive">Search</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/consortium/about.html" class="horizMenuActive">About</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://ucjeps.berkeley.edu/detail_help.html" class="horizMenuActive">Help</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://give.berkeley.edu/fund/?f=FU1259000" class="horizMenuActive">Donate</a>
+                    </td></tr>
+                </table>
+        </td></tr>
+        </table>
+</td></tr>
+</table>
+<!-- COMMON HEADER ENDS -->
+
+
+
+
+<br />
+<table width="100%" cellpadding="5" class="bodyText"><tr><td>
+<span class="pageName">Search Results</span>
+<span class="pageSubheading"> &mdash; 73 specimen records retrieved (16 records with coordinates)</span>
+<br />
+<span class="bodyText">Results for search: Collector=Muir;  &nbsp;&nbsp;</span>
+
+<table width="100%" cellpadding="5" class="bodyText"><tr><td width="50%" valign="top">
+<span class="pageSubheading"><br>Mapping Options:</span>
+<br>
+<a href="http://berkeleymapper.berkeley.edu/index.html?ViewResults=tab&tabfile=http://ucjeps.berkeley.edu/BerkeleyMapper/CHC_057124668.txt&configfile=http%3A%2F%2Fucjeps.berkeley.edu%2Fucjeps.xml&sourcename=Consortium+of+California+Herbaria+result+set&maptype=Terrain">BerkeleyMapper with county and bioregion layers</a> <br>
+<a href="http://berkeleymapper.berkeley.edu/index.html?ViewResults=tab&tabfile=http://ucjeps.berkeley.edu/BerkeleyMapper/CHC_057124668.txt&configfile=http%3A%2F%2Fucjeps.berkeley.edu%2Fucjeps_nolayers.xml&sourcename=Consortium+of+California+Herbaria+result">BerkeleyMapper without layers.</a> <br>
+<a href="/cgi-bin/x_to_k.pl?tabfile=http://ucjeps.berkeley.edu/BerkeleyMapper/CHC_057124668.txt"> KML export</a> <br>
+(Note: only records with coordinates are mappable)
+</td>
+
+</span>
+<td width = "50%" valign="top">
+<span class="pageSubheading"><br>Download Options:</span>
+<form method="post" action="/cgi-bin/get_consort.pl">
+
+<a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=Muir&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;check_all=1&amp;SO=0">Select all records</a>
+&middot;
+<a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=Muir&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;georef_only=1">Select records with coordinates</a><br>
+<input type="submit" value="Retrieve selected records as tab-separated list"> <br>
+<input type="checkbox" name="DL" value="UCR">Include annotations and voucher information
+</td></tr>
+</td></tr></table>
+
+<hr>
+<table width="100%" cellpadding="0" cellspacing="0" class="bodyText">
+<tr><td>&nbsp;</td><td>Please cite data retrieved from this page: Data provided by the participants of the Consortium of California Herbaria (ucjeps.berkeley.edu/consortium/).
+</td></tr>
+<tr><td>&nbsp;</td><td>Records are made available under the <a href="http://ucjeps.berkeley.edu/consortium/data_use_terms.html">CCH Data Use Terms</a>.</td></tr>
+</table>
+<hr>
+
+<table width="100%" cellpadding="5" cellspacing="0" class="bodyText">
+<tr><td colspan="11">
+Click on column header to sort data (* sorts by family); click in leftmost checkbox to select record. <a href="http://ucjeps.berkeley.edu/detail_help.html">CCH Help Page</a>.
+<br>
+<a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=Muir&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=1&amp;VTM=0">Turn on yellow flags</a> to show possible range discrepancies.
+<a href="http://ucjeps.berkeley.edu/consortium/about_yellow.html">Read more ... </a>
+</td>
+</tr>
+<tr bgcolor="#cccccc">
+<th></th>
+<th bgcolor=#eeeeee><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=Muir&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=21">?</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=Muir&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=10">Specimen ID</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=Muir&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=0-">Determination</a><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=Muir&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=11"> *</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=Muir&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=1">Collector</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=Muir&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=5">Collection Date</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=Muir&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=3">Collection Number</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=Muir&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=8">County</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=Muir&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=20">Locality</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=Muir&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=9">Elevation in meters</a></th>
+<th><a href="/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=Muir&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0&amp;SO=25">Feedback</a></th>
+</tr>
+
+
+<!-- Abies magnifica --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=A355243 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?A355243&YF=0">A355243</a>&nbsp;</td>
+<td>Abies magnifica</td>
+<td>J. Muir</td>
+<td>1898-06-24</td>
+<td></td>
+<td>unknown</td>
+<td>Lake Tahoe</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=A355243">Comment</a> </td>
+</tr>
+<!-- Abies magnifica --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=A355255 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?A355255&YF=0">A355255</a>&nbsp;</td>
+<td>Abies magnifica</td>
+<td>J. Muir</td>
+<td>1898-06-29</td>
+<td></td>
+<td>unknown</td>
+<td>Lake Tahoe</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=A355255">Comment</a> </td>
+</tr>
+<!-- Abies magnifica --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=A355256 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?A355256&YF=0">A355256</a>&nbsp;</td>
+<td>Abies magnifica</td>
+<td>J. Muir</td>
+<td>1898-06-24</td>
+<td></td>
+<td>unknown</td>
+<td>Lake Tahoe</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=A355256">Comment</a> </td>
+</tr>
+<!-- Abies magnifica var. shastensis --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=A22347 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?A22347&YF=0">A22347</a>&nbsp;</td>
+<td>Abies magnifica var. shastensis</td>
+<td>J. Muir</td>
+<td>1897-07-06</td>
+<td></td>
+<td>Siskiyou</td>
+<td>Mt. Shasta</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=A22347">Comment</a> </td>
+</tr>
+<!-- Abies magnifica var. shastensis --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=A355269 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?A355269&YF=0">A355269</a>&nbsp;</td>
+<td>Abies magnifica var. shastensis</td>
+<td>J. Muir</td>
+<td>1897-07-06</td>
+<td></td>
+<td>Siskiyou</td>
+<td>Mt. Shasta</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=A355269">Comment</a> </td>
+</tr>
+<!-- Abies magnifica var. shastensis --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=A355282 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?A355282&YF=0">A355282</a>&nbsp;</td>
+<td>Abies magnifica var. shastensis</td>
+<td>J. Muir</td>
+<td></td>
+<td></td>
+<td>Siskiyou</td>
+<td>Mt. Shasta</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=A355282">Comment</a> </td>
+</tr>
+<!-- Abies magnifica var. shastensis --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=A355277 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?A355277&YF=0">A355277</a>&nbsp;</td>
+<td>Abies magnifica var. shastensis</td>
+<td>J. Muir</td>
+<td>1898-06</td>
+<td></td>
+<td>unknown</td>
+<td>Shasta region</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=A355277">Comment</a> </td>
+</tr>
+<!-- Achillea millefolium --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UCSB18197 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB18197&YF=0">UCSB18197</a>&nbsp;</td>
+<td>Achillea millefolium</td>
+<td>M. Muirhead</td>
+<td>04/17/1964</td>
+<td>41</td>
+<td>San Mateo</td>
+<td>Crocker Estate, Hillsborough</td>
+<td>76</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB18197">Comment</a> </td>
+</tr>
+<!-- Adiantum jordanii --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UCSB18581 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB18581&YF=0">UCSB18581</a>&nbsp;</td>
+<td>Adiantum jordanii</td>
+<td>M. Muirhead</td>
+<td>04/17/1964</td>
+<td>39</td>
+<td>San Mateo</td>
+<td>Crocker Estate, Hillsborough</td>
+<td>91</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB18581">Comment</a> </td>
+</tr>
+<!-- Agrostis variabilis --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UC121790 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC121790&YF=0">UC121790</a>&nbsp;</td>
+<td>Agrostis variabilis</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>near Yosemite; Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC121790">Comment</a> </td>
+</tr>
+<!-- Antennaria rosea --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC177059 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC177059&YF=0">UC177059</a>&nbsp;</td>
+<td>Antennaria rosea</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC177059">Comment</a> </td>
+</tr>
+<!-- Aquilegia eximia --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UCSB18280 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB18280&YF=0">UCSB18280</a>&nbsp;</td>
+<td>Aquilegia eximia</td>
+<td>M. Muirhead</td>
+<td>04/17/1964</td>
+<td>45</td>
+<td>San Mateo</td>
+<td>Crocker Estate, Hillsborough</td>
+<td>60</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB18280">Comment</a> </td>
+</tr>
+<!-- Artemisia biennis --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=POM293902 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?POM293902&YF=0">POM293902</a>&nbsp;</td>
+<td>Artemisia biennis</td>
+<td>Robert M. Muir</td>
+<td>Oct 24 1946</td>
+<td>s.n.</td>
+<td>Orange</td>
+<td>Midway between Corona del Mar and Santa Ana.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=POM293902">Comment</a> </td>
+</tr>
+<!-- Astragalus lentiginosus var. nigricalycis --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=RSA498274 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?RSA498274&YF=0">RSA498274</a>&nbsp;</td>
+<td>Astragalus lentiginosus var. nigricalycis</td>
+<td>J. E. Muir</td>
+<td>Mar 29 1953</td>
+<td>2</td>
+<td>Kern</td>
+<td>About 3.5 miles E of Taft, Kern Co.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=RSA498274">Comment</a> </td>
+</tr>
+<!-- Astragalus purshii var. tinctus --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC134118 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC134118&YF=0">UC134118</a>&nbsp;</td>
+<td>Astragalus purshii var. tinctus</td>
+<td>John Muir</td>
+<td></td>
+<td></td>
+<td>Unknown</td>
+<td>Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC134118">Comment</a> </td>
+</tr>
+<!-- Carex multicaulis --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC115854 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC115854&YF=0">UC115854</a>&nbsp;</td>
+<td>Carex multicaulis</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Mariposa</td>
+<td>near Yosemite Valley</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC115854">Comment</a> </td>
+</tr>
+<!-- Cassiope mertensiana subsp. californica --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC174145 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC174145&YF=0">UC174145</a>&nbsp;</td>
+<td>Cassiope mertensiana subsp. californica</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC174145">Comment</a> </td>
+</tr>
+<!-- Castilleja densiflora subsp. densiflora --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UCSB18232 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB18232&YF=0">UCSB18232</a>&nbsp;</td>
+<td>Castilleja densiflora subsp. densiflora</td>
+<td>M. Muirhead</td>
+<td>04/17/1964</td>
+<td>47</td>
+<td>San Mateo</td>
+<td>Crocker Estate, Hillsborough</td>
+<td>76</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB18232">Comment</a> </td>
+</tr>
+<!-- Ceanothus papillosus --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC338131 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC338131&YF=0">UC338131</a>&nbsp;</td>
+<td>Ceanothus papillosus</td>
+<td>John Muir</td>
+<td>May 2 1889</td>
+<td></td>
+<td>Santa Clara</td>
+<td>Wright's Station</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC338131">Comment</a> </td>
+</tr>
+<!-- Chrysolepis sempervirens --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC119262 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC119262&YF=0">UC119262</a>&nbsp;</td>
+<td>Chrysolepis sempervirens</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Mariposa</td>
+<td>near Yosemite; Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC119262">Comment</a> </td>
+</tr>
+<!-- Chrysothamnus viscidiflorus subsp. viscidiflorus --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC201087 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC201087&YF=0">UC201087</a>&nbsp;</td>
+<td>Chrysothamnus viscidiflorus subsp. viscidiflorus</td>
+<td>John Muir</td>
+<td></td>
+<td></td>
+<td>Unknown</td>
+<td>Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC201087">Comment</a> </td>
+</tr>
+<!-- Clintonia uniflora --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UC119736 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC119736&YF=0">UC119736</a>&nbsp;</td>
+<td>Clintonia uniflora</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Mariposa</td>
+<td>Yosemite; Sierra Nevada, Yosemite</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC119736">Comment</a> </td>
+</tr>
+<!-- Draba crassifolia --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=CAS869228 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS869228&YF=0">CAS869228</a>&nbsp;</td>
+<td>Draba crassifolia</td>
+<td>Fraser Muirhead</td>
+<td>Sept. 1979.</td>
+<td>s.n.</td>
+<td>Mono</td>
+<td>Sierra Nevada. In H.M. Hall Area near Saddlebag Lake.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS869228">Comment</a> </td>
+</tr>
+<!-- Ericameria discoidea --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UC187637 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC187637&YF=0">UC187637</a>&nbsp;</td>
+<td>Ericameria discoidea</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC187637">Comment</a> </td>
+</tr>
+<!-- Erigeron aphanactis var. aphanactis --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC87725 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC87725&YF=0">UC87725</a>&nbsp;</td>
+<td>Erigeron aphanactis var. aphanactis</td>
+<td>John Muir</td>
+<td></td>
+<td></td>
+<td>Unknown</td>
+<td>Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC87725">Comment</a> </td>
+</tr>
+<!-- Erigeron breweri var. breweri --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UC87605 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC87605&YF=0">UC87605</a>&nbsp;</td>
+<td>Erigeron breweri var. breweri</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC87605">Comment</a> </td>
+</tr>
+<!-- Eriophyllum wallacei --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UCSB18337 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB18337&YF=0">UCSB18337</a>&nbsp;</td>
+<td>Eriophyllum wallacei</td>
+<td>M. Muirhead</td>
+<td>05/15/1964</td>
+<td>78</td>
+<td>Los Angeles</td>
+<td>Highway 138, 100 yards west of Pinon Hills city limit</td>
+<td>1219</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB18337">Comment</a> </td>
+</tr>
+<!-- Fritillaria affinis --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UCSB18941 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB18941&YF=0">UCSB18941</a>&nbsp;</td>
+<td>Fritillaria affinis</td>
+<td>M. Muirhead</td>
+<td>04/17/1964</td>
+<td>43</td>
+<td>San Mateo</td>
+<td>Crocker Estate, Hillsborough, California</td>
+<td>91</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB18941">Comment</a> </td>
+</tr>
+<!-- Gentiana newberryi --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC185950 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC185950&YF=0">UC185950</a>&nbsp;</td>
+<td>Gentiana newberryi</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>near Yosemite; Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC185950">Comment</a> </td>
+</tr>
+<!-- Gentiana simplex --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=NY887916 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?NY887916&YF=0">NY887916</a>&nbsp;</td>
+<td>Gentiana simplex</td>
+<td>J. Muir</td>
+<td>07 1870</td>
+<td>s.n.</td>
+<td>unknown</td>
+<td>Summit, Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=NY887916">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=NY887916"><br>Read comments</a> Sep 17  2012
+</td>
+</tr>
+<!-- Horkelia fusca subsp. parviflora --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC114282 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC114282&YF=0">UC114282</a>&nbsp;</td>
+<td>Horkelia fusca subsp. parviflora</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC114282">Comment</a> </td>
+</tr>
+<!-- Iris douglasiana --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UCSB18476 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB18476&YF=0">UCSB18476</a>&nbsp;</td>
+<td>Iris douglasiana</td>
+<td>M. Muirhead</td>
+<td>04/17/1964</td>
+<td>45</td>
+<td>San Mateo</td>
+<td>on Crocker Estate; Hillsborough; California</td>
+<td>91</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB18476">Comment</a> </td>
+</tr>
+<!-- Ivesia lycopodioides subsp. megalopetala --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC114514 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC114514&YF=0">UC114514</a>&nbsp;</td>
+<td>Ivesia lycopodioides subsp. megalopetala</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC114514">Comment</a> </td>
+</tr>
+<!-- Ivesia muirii --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=GH26542 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?GH26542&YF=0">GH26542</a>&nbsp;</td>
+<td>Ivesia muirii</td>
+<td>J. Muir</td>
+<td>1872</td>
+<td></td>
+<td>unknown</td>
+<td>Mount Hoffman, Sierra Nevada, 9500 feet</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=GH26542">Comment</a> </td>
+</tr>
+<!-- Ivesia santolinoides --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC179032 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC179032&YF=0">UC179032</a>&nbsp;</td>
+<td>Ivesia santolinoides</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC179032">Comment</a> </td>
+</tr>
+<!-- Juncus mertensianus --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UC115113 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC115113&YF=0">UC115113</a>&nbsp;</td>
+<td>Juncus mertensianus</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>near Yosemite; Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC115113">Comment</a> </td>
+</tr>
+<!-- Juncus orthophyllus --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC115149 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC115149&YF=0">UC115149</a>&nbsp;</td>
+<td>Juncus orthophyllus</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>near Yosemite; Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC115149">Comment</a> </td>
+</tr>
+<!-- Kalmia polifolia subsp. microphylla --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UC177611 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC177611&YF=0">UC177611</a>&nbsp;</td>
+<td>Kalmia polifolia subsp. microphylla</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC177611">Comment</a> </td>
+</tr>
+<!-- Lathyrus sulphureus --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB18272 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB18272&YF=0">UCSB18272</a>&nbsp;</td>
+<td>Lathyrus sulphureus</td>
+<td>M. Muirhead</td>
+<td>04/17/1964</td>
+<td>54</td>
+<td>San Mateo</td>
+<td>Dry slope on Crocker Estate, Hillsborough</td>
+<td>76</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB18272">Comment</a> </td>
+</tr>
+<!-- Ledum glandulosum --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=NY642901 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?NY642901&YF=0">NY642901</a>&nbsp;</td>
+<td>Ledum glandulosum</td>
+<td>J. Muir</td>
+<td>1872</td>
+<td>s.n.</td>
+<td>unknown</td>
+<td>Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=NY642901">Comment</a> </td>
+</tr>
+<!-- Leptodactylon pungens --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC133796 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC133796&YF=0">UC133796</a>&nbsp;</td>
+<td>Leptodactylon pungens</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>Sierra Nevada, California; Brandegee Herbarium</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC133796">Comment</a> </td>
+</tr>
+<!-- Leptosyne californica --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB18241 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB18241&YF=0">UCSB18241</a>&nbsp;</td>
+<td>Leptosyne californica</td>
+<td>M. Muirhead</td>
+<td>05/15/1964</td>
+<td>83</td>
+<td>Riverside</td>
+<td>Near dry bed of Mojave River; on Deep Creek Road, 5 miles north west of Deep Creek camping area</td>
+<td>914</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB18241">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=UCSB18241"><br>Read comments</a> Mar 30  2014
+</td>
+</tr>
+<!-- Lessingia leptoclada --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC87929 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC87929&YF=0">UC87929</a>&nbsp;</td>
+<td>Lessingia leptoclada</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC87929">Comment</a> </td>
+</tr>
+<!-- Lewisia pygmaea --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=GH518533 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?GH518533&YF=0">GH518533</a>&nbsp;</td>
+<td>Lewisia pygmaea</td>
+<td>J. Muir</td>
+<td>1872</td>
+<td></td>
+<td>Tuolumne</td>
+<td>Foot of Lyell Glacier</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=GH518533">Comment</a> </td>
+</tr>
+<!-- Lilium parvum --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC119799 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC119799&YF=0">UC119799</a>&nbsp;</td>
+<td>Lilium parvum</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>near Yosemite</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC119799">Comment</a> </td>
+</tr>
+<!-- Linanthus pachyphyllus --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UC106657 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC106657&YF=0">UC106657</a>&nbsp;</td>
+<td>Linanthus pachyphyllus</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC106657">Comment</a> </td>
+</tr>
+<!-- Melica stricta --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC120477 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC120477&YF=0">UC120477</a>&nbsp;</td>
+<td>Melica stricta</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Mariposa</td>
+<td>near Yosemite; Sierras</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC120477">Comment</a> </td>
+</tr>
+<!-- Mitella breweri --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UC114938 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC114938&YF=0">UC114938</a>&nbsp;</td>
+<td>Mitella breweri</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC114938">Comment</a> </td>
+</tr>
+<!-- Monardella odoratissima subsp. pallida --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC187649 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC187649&YF=0">UC187649</a>&nbsp;</td>
+<td>Monardella odoratissima subsp. pallida</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC187649">Comment</a> </td>
+</tr>
+<!-- Myrica hartwegii --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=GH33550 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?GH33550&YF=0">GH33550</a>&nbsp;</td>
+<td>Myrica hartwegii</td>
+<td>J. Muir</td>
+<td>1873</td>
+<td>1958</td>
+<td>unknown</td>
+<td>South Fork of Merced River</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=GH33550">Comment</a> </td>
+</tr>
+<!-- Pellaea breweri --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=SD134586 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?SD134586&YF=0">SD134586</a>&nbsp;</td>
+<td>Pellaea breweri</td>
+<td>John Muir, George E. Davenport</td>
+<td>1876</td>
+<td>None</td>
+<td>Mariposa</td>
+<td>Yosemite Valley</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=SD134586">Comment</a> </td>
+</tr>
+<!-- Phacelia bicolor --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=NY1052551 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?NY1052551&YF=0">NY1052551</a>&nbsp;</td>
+<td>Phacelia bicolor</td>
+<td>J. Muir</td>
+<td>1871</td>
+<td>s.n.</td>
+<td>Mono</td>
+<td>Lake Mono</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=NY1052551">Comment</a> </td>
+</tr>
+<!-- Phyllodoce breweri --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC177613 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC177613&YF=0">UC177613</a>&nbsp;</td>
+<td>Phyllodoce breweri</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC177613">Comment</a> </td>
+</tr>
+<!-- Pinus attenuata --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UCSB18163 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB18163&YF=0">UCSB18163</a>&nbsp;</td>
+<td>Pinus attenuata</td>
+<td>M. Muirhead</td>
+<td>03/10/1964</td>
+<td>9</td>
+<td>Santa Barbara</td>
+<td>0.1 mile W of East Camino Cielo Road, 1.5 miles E of intersection with State Highway 154</td>
+<td>838</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB18163">Comment</a> </td>
+</tr>
+<!-- Piperia unalascensis --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC117036 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC117036&YF=0">UC117036</a>&nbsp;</td>
+<td>Piperia unalascensis</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>near Yosemite; Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC117036">Comment</a> </td>
+</tr>
+<!-- Plantago lanceolata --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UCSB18574 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB18574&YF=0">UCSB18574</a>&nbsp;</td>
+<td>Plantago lanceolata</td>
+<td>M. Muirhead</td>
+<td>04/17/1964</td>
+<td>39</td>
+<td>San Mateo</td>
+<td>Crocker Estate, Hillsborough</td>
+<td>76</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB18574">Comment</a> </td>
+</tr>
+<!-- Polemonium eximium --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=GH443201 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?GH443201&YF=0">GH443201</a>&nbsp;</td>
+<td>Polemonium eximium</td>
+<td>J. Muir</td>
+<td></td>
+<td></td>
+<td>Mariposa</td>
+<td>Yosemite National Park Top of Mt. Lyell</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=GH443201">Comment</a> </td>
+</tr>
+<!-- Polypodium californicum --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UCSB18478 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB18478&YF=0">UCSB18478</a>&nbsp;</td>
+<td>Polypodium californicum</td>
+<td>M. Muirhead</td>
+<td>03/10/1964</td>
+<td>6</td>
+<td>Santa Barbara</td>
+<td>Near Painted Cave, 2.1 mi N of intersection of San Marcos Rd and Painted Cave Road</td>
+<td>731</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB18478">Comment</a> </td>
+</tr>
+<!-- Potentilla grayi --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC114356 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC114356&YF=0">UC114356</a>&nbsp;</td>
+<td>Potentilla grayi</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC114356">Comment</a> </td>
+</tr>
+<!-- Pseudognaphalium biolettii --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UCSB23000 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB23000&YF=0">UCSB23000</a>&nbsp;</td>
+<td>Pseudognaphalium biolettii</td>
+<td>M. Muirhead</td>
+<td>03/10/1964</td>
+<td>8</td>
+<td>Santa Barbara</td>
+<td>On Painted Cave Road, 0.1 mile north of intersection with San Marcos Road, Santa Ynez Mountains</td>
+<td>454</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB23000">Comment</a> </td>
+</tr>
+<!-- Pseudognaphalium californicum --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UCSB22926 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB22926&YF=0">UCSB22926</a>&nbsp;</td>
+<td>Pseudognaphalium californicum</td>
+<td>M. Muirhead</td>
+<td>03/18/1964</td>
+<td>13</td>
+<td>Santa Barbara</td>
+<td>0.1 mile east of Devereux Point</td>
+<td>1</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB22926">Comment</a> </td>
+</tr>
+<!-- Raillardella muirii --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=CAS1039 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?CAS1039&YF=0">CAS1039</a>&nbsp;</td>
+<td>Raillardella muirii</td>
+<td>John Muir</td>
+<td></td>
+<td>s.n.</td>
+<td>Unknown</td>
+<td>unspecified</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=CAS1039">Comment</a> </td>
+</tr>
+<!-- Raillardella muirii --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=GH11588 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?GH11588&YF=0">GH11588</a>&nbsp;</td>
+<td>Raillardella muirii</td>
+<td>J. Muir</td>
+<td></td>
+<td></td>
+<td>unknown</td>
+<td></td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=GH11588">Comment</a> </td>
+</tr>
+<!-- Senecio fremontii var. occidentalis --><tr bgcolor=#dddddd>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=UC335851 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC335851&YF=0">UC335851</a>&nbsp;</td>
+<td>Senecio fremontii var. occidentalis</td>
+<td>John Muir</td>
+<td>July 1876</td>
+<td>412</td>
+<td>Inyo</td>
+<td>Mount Whitney</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC335851">Comment</a> </td>
+</tr>
+<!-- Sequoia sempervirens --><tr bgcolor=#ffffff>
+<td  bgcolor="#AAffAA"><input type ="checkbox" name="checked_AID" value=A357882 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?A357882&YF=0">A357882</a>&nbsp;</td>
+<td>Sequoia sempervirens</td>
+<td>J. Muir</td>
+<td>1896-06-15</td>
+<td></td>
+<td>Monterey</td>
+<td>Monterey Monterey, Cal</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=A357882">Comment</a> </td>
+</tr>
+<!-- Sequoiadendron giganteum --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=A357791 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?A357791&YF=0">A357791</a>&nbsp;</td>
+<td>Sequoiadendron giganteum</td>
+<td>J. Muir</td>
+<td></td>
+<td></td>
+<td>Contra Costa</td>
+<td>Martinez Martinez, Cal.</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=A357791">Comment</a> <a href="/cgi-bin/display_chc_comment.pl?comment_id=A357791"><br>Read comments</a> Apr  7  2014
+</td>
+</tr>
+<!-- Sidalcea malviflora --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UCSB18185 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB18185&YF=0">UCSB18185</a>&nbsp;</td>
+<td>Sidalcea malviflora</td>
+<td>M. Muirhead</td>
+<td>04/17/1964</td>
+<td>40</td>
+<td>San Mateo</td>
+<td>On Crocker Estate, Hillsborough</td>
+<td>91</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB18185">Comment</a> </td>
+</tr>
+<!-- Sisyrinchium bellum --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UCSB18427 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB18427&YF=0">UCSB18427</a>&nbsp;</td>
+<td>Sisyrinchium bellum</td>
+<td>M. Muirhead</td>
+<td>04/17/1964</td>
+<td>46</td>
+<td>San Mateo</td>
+<td>Crocker Estate; Hillsborough</td>
+<td>76</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB18427">Comment</a> </td>
+</tr>
+<!-- Smilacina stellata --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UC119645 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC119645&YF=0">UC119645</a>&nbsp;</td>
+<td>Smilacina stellata</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>near Yosemite; Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC119645">Comment</a> </td>
+</tr>
+<!-- Spiranthes porrifolia --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UC114865 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UC114865&YF=0">UC114865</a>&nbsp;</td>
+<td>Spiranthes porrifolia</td>
+<td>John Muir</td>
+<td>1875</td>
+<td></td>
+<td>Unknown</td>
+<td>near Yosemite; Sierra Nevada</td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UC114865">Comment</a> </td>
+</tr>
+<!-- Torreya californica --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=GH354122 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?GH354122&YF=0">GH354122</a>&nbsp;</td>
+<td>Torreya californica</td>
+<td>J. Muir</td>
+<td>1872</td>
+<td></td>
+<td>unknown</td>
+<td></td>
+<td></td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=GH354122">Comment</a> </td>
+</tr>
+<!-- Trifolium albopurpureum --><tr bgcolor=#dddddd>
+<td ><input type ="checkbox" name="checked_AID" value=UCSB18282 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB18282&YF=0">UCSB18282</a>&nbsp;</td>
+<td>Trifolium albopurpureum</td>
+<td>M. Muirhead</td>
+<td>04/17/1964</td>
+<td>51</td>
+<td>San Mateo</td>
+<td>Crocker Estate, Hillsborough</td>
+<td>76</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB18282">Comment</a> </td>
+</tr>
+<!-- Trifolium willdenovii --><tr bgcolor=#ffffff>
+<td ><input type ="checkbox" name="checked_AID" value=UCSB18210 ></td>
+<td bgcolor=#eeeeee>&nbsp;</td>
+<td><a href="/cgi-bin/new_detail.pl?UCSB18210&YF=0">UCSB18210</a>&nbsp;</td>
+<td>Trifolium willdenovii</td>
+<td>M. Muirhead</td>
+<td>04/17/1964</td>
+<td>52</td>
+<td>San Mateo</td>
+<td>Crocker Estate, Hillsborough</td>
+<td>76</td>
+<td valign="top"><a href="/cgi-bin/get_consort.pl?sugg=UCSB18210">Comment</a> </td>
+</tr>
+</table></form>
+
+<!-- Footer begins -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="18" bgcolor="9090AA"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  <tr>
+    <td height="20"><span class="copyrightText">&nbsp;&nbsp;Copyright &copy; 2010 Regents of the University of California &mdash; Database extract updated 2/17/2016 
+</span>
+
+
+
+  </tr>
+</table>
+<!-- Footer ends -->
+
+
+0.01 processing seconds
+
+<!-- <a href="/cgi-bin/clone_coords.pl?/cgi-bin/get_consort.pl?county=&amp;source=&amp;taxon_name=&amp;collector=Muir&amp;aid=&amp;year=&amp;month=&amp;day=&amp;loc=&amp;coll_num=&amp;max_rec=2000&amp;make_tax_list=&amp;before_after=&amp;last_comments=&amp;VV=&amp;non_native=0&amp;geo_only=&amp;geo_no=&amp;CNPS_listed=0&amp;weed=0&amp;sugg_loc=&amp;tns=&amp;lo_e=&amp;hi_e=&amp;YF=0&amp;VTM=0">Clone coords view</a>-->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1304595-1";
+urchinTracker();
+</script>
+</body></html>

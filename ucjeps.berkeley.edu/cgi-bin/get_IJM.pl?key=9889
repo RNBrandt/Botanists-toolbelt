@@ -1,0 +1,540 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Allium</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Allium
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76525">Allium abramsii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12504">Allium acuminatum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12506">Allium amplectens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12510">Allium anceps
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12511">Allium atrorubens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=53758">Allium atrorubens var. atrorubens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=53759">Allium atrorubens var. cristatum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12515">Allium bisceptrum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12517">Allium bolanderi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=53763">Allium bolanderi var. bolanderi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76526">Allium bolanderi var. mirabile
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12525">Allium burlewii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12527">Allium campanulatum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12541">Allium cepa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12550">Allium cratericola
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12555">Allium crispum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76527">Allium denticulatum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76528">Allium diabolense
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12559">Allium dichlamydeum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12566">Allium falcifolium
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12570">Allium fimbriatum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=53789">Allium fimbriatum var. fimbriatum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=53790">Allium fimbriatum var. mohavense
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76529">Allium fimbriatum var. purdyi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12584">Allium haematochiton
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12585">Allium hickmanii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12586">Allium hoffmanii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12587">Allium howellii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76530">Allium howellii var. clokeyi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=53800">Allium howellii var. howellii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=53801">Allium howellii var. sanbenitense
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12589">Allium hyalinum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76541">Allium jepsonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12593">Allium lacunosum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=53802">Allium lacunosum var. davisiae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=53803">Allium lacunosum var. kernense
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=53804">Allium lacunosum var. lacunosum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=53805">Allium lacunosum var. micranthum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12595">Allium lemmonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80193">Allium marvinii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76531">Allium membranaceum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12603">Allium monticola
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76532">Allium munzii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12605">Allium neapolitanum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12607">Allium nevadense
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12611">Allium obtusum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=53809">Allium obtusum var. conspicuum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=53810">Allium obtusum var. obtusum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76535">Allium paniculatum var. paniculatum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12615">Allium parishii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12616">Allium parryi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12617">Allium parvum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12620">Allium peninsulare
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=53815">Allium peninsulare var. franciscanum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=53816">Allium peninsulare var. peninsulare
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12622">Allium platycaule
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12626">Allium praecox
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12627">Allium punctum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12631">Allium sanbornii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=53822">Allium sanbornii var. congdonii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=53823">Allium sanbornii var. sanbornii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12633">Allium sativum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12640">Allium serra
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76536">Allium sharsmithiae
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12642">Allium shevockii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76537">Allium siskiyouense
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=53830">Allium tolmiei var. tolmiei
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12653">Allium tribracteatum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12655">Allium triquetrum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76538">Allium tuolumnense
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12657">Allium unifolium
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12658">Allium validum
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12660">Allium vineale
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=12661">Allium yosemitense
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=9889'><h3>View taxon page for Allium</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#AGV1'">1.</a><a name="AGV1."> </a> Bulblets present in inflorescence, present at bulb bases; disturbed places
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AGV2'">2.</a><a name="AGV2."> </a> Bulb 1&ndash;2 cm diam; leaves 20&ndash;60 cm, 2&ndash;4 mm wide, hollow below middle <a href="/cgi-bin/get_IJM.pl?tid=12660">.....&nbsp;A. vineale</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AGV2.">2'</a><a name="AGV2'"> </a> Bulb (1.5)3&ndash;8 cm diam; leaves 20&ndash;100 cm, 5&ndash;20 mm diam, solid <a href="/cgi-bin/get_IJM.pl?tid=12633">.....&nbsp;[A. sativum]</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#AGV1.">1'</a><a name="AGV1'"> </a> Bulblets not present in inflorescence, present at bulb bases or on rhizomes or not; disturbed places or not
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AGV3'">3.</a><a name="AGV3."> </a> Leaves 1 per stem, cylindric; ovary crests 6, obvious, &plusmn; triangular
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AGV4'">4.</a><a name="AGV4."> </a> Stigma lobes &plusmn; 0
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AGV5'">5.</a><a name="AGV5."> </a> Stamens exserted; perianth parts 5&ndash;9 mm, inner > outer, margins &plusmn; irregular to jagged; stem 20&ndash;50 cm <a href="/cgi-bin/get_IJM.pl?tid=53823">.....&nbsp;A. sanbornii var. sanbornii</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AGV5.">5'</a><a name="AGV5'"> </a> Stamens included; perianth parts 8&ndash;20 mm, &plusmn; equal, entire; stem generally &lt; 20 cm
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AGV6'">6.</a><a name="AGV6."> </a> Plants of Desert Mountains, flowers white; outer bulb coat sculpture &plusmn; obvious, cells transversely elongate, intricately contorted; Desert Mountains <a href="/cgi-bin/get_IJM.pl?tid=12607">.....&nbsp;A. nevadense</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AGV6.">6'</a><a name="AGV6'"> </a> Plants not of Desert Mountains or flowers not white; outer bulb coat sculpture 0 or cells &plusmn; square, in 2&ndash;3 rows basally, or obscurely polygonal
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AGV7'">7.</a><a name="AGV7."> </a> Perianth parts 8&ndash;12 mm; pedicels slender, > flowers <a href="/cgi-bin/get_IJM.pl?tid=12511">.....&nbsp;A. atrorubens</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AGV8'">8.</a><a name="AGV8."> </a> Perianth parts generally deep red-purple (white), lanceolate, appearing long-acuminate by inrolled margins <a href="/cgi-bin/get_IJM.pl?tid=53758">.....&nbsp;var. atrorubens</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AGV8.">8'</a><a name="AGV8'"> </a> Perianth parts pale pink, dark-veined, &plusmn; ovate, acute to acuminate <a href="/cgi-bin/get_IJM.pl?tid=53759">.....&nbsp;var. cristatum</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AGV7.">7'</a><a name="AGV7'"> </a> Perianth parts 12&ndash;20 mm; pedicels stout, generally &lt; flowers
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AGV9'">9.</a><a name="AGV9."> </a> Perianth parts lance-linear, long-tapered; bulblets 1&ndash;2, stalked, at bulb base; Transverse Ranges, w Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=12603">.....&nbsp;A. monticola</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AGV9.">9'</a><a name="AGV9'"> </a> Perianth parts lanceolate, acute; bulblets 0; n San Bernardino Mountains, Mojave Desert <a href="/cgi-bin/get_IJM.pl?tid=12615">.....&nbsp;A. parishii</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AGV4.">4'</a><a name="AGV4'"> </a> Stigma lobes 3, often slender, recurved
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AGV10'">10.</a><a name="AGV10."> </a> Stamens exserted or &plusmn; at same level as perianth
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AGV11'">11.</a><a name="AGV11."> </a> Inner perianth parts 1.5 &times; outer; ovary crests entire or notched <a href="/cgi-bin/get_IJM.pl?tid=53822">.....&nbsp;A. sanbornii var. congdonii</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AGV11.">11'</a><a name="AGV11'"> </a> Inner perianth parts &plusmn; = outer; ovary crests irregularly dentate to deeply cut <a href="/cgi-bin/get_IJM.pl?tid=12587">.....&nbsp;A. howellii</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AGV12'">12.</a><a name="AGV12."> </a> Stem (10)&plusmn; 20(35) cm, slender; flowers generally 10&ndash;30; perianth generally pink to lavender (white); ovary crests purple; flower Mar&ndash;Apr; s Sierra Nevada Foothills, Tehachapi Mountain Area, San Joaquin Valley, San Francisco Bay Area, South Coast Ranges, Western Transverse Ranges <a href="/cgi-bin/get_IJM.pl?tid=53800">.....&nbsp;var. howellii</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AGV12.">12'</a><a name="AGV12'"> </a> Stem 20&ndash;60 cm, stout; flowers generally > 50; perianth generally white; ovary crests white or green; flower Apr&ndash;Jun; Inner South Coast Ranges, n Western Transverse Ranges
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AGV13'">13.</a><a name="AGV13."> </a> Stamens exserted 0&ndash;2 mm; n Western Transverse Ranges <a href="/cgi-bin/get_IJM.pl?tid=76530">.....&nbsp;var. clokeyi</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AGV13.">13'</a><a name="AGV13'"> </a> Stamens exserted 2&ndash;4 mm; Inner South Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=53801">.....&nbsp;var. sanbenitense</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AGV10.">10'</a><a name="AGV10'"> </a> Stamens included
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AGV14'">14.</a><a name="AGV14."> </a> Perianth parts (at least inner) dentate or jagged
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AGV15'">15.</a><a name="AGV15."> </a> Stem 25&ndash;40 cm <a href="/cgi-bin/get_IJM.pl?tid=76541">.....&nbsp;A. jepsonii</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AGV15.">15'</a><a name="AGV15'"> </a> Stem 5&ndash;20 cm
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AGV16'">16.</a><a name="AGV16."> </a> Outer bulb coats brown to gray; perianth &plusmn; spreading, tips reflexed, inner parts jagged <a href="/cgi-bin/get_IJM.pl?tid=76525">.....&nbsp;A. abramsii</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AGV16.">16'</a><a name="AGV16'"> </a> Outer bulb coats red-brown; perianth erect, &plusmn; straight, inner parts dentate near tip <a href="/cgi-bin/get_IJM.pl?tid=76527">.....&nbsp;A. denticulatum</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AGV14.">14'</a><a name="AGV14'"> </a> Perianth parts &plusmn; entire
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AGV17'">17.</a><a name="AGV17."> </a> Ovary crests entire, notched, or jagged, not dentate to deeply cut
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AGV18'">18.</a><a name="AGV18."> </a> Perianth 10&ndash;18 mm, maroon or deep red-purple
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AGV19'">19.</a><a name="AGV19."> </a> Perianth deep red-purple, tips &plusmn; spreading to &plusmn; erect; plants of serpentine, se San Francisco Bay Area (Mount Hamilton Range) <a href="/cgi-bin/get_IJM.pl?tid=76536">.....&nbsp;A. sharsmithiae</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AGV19.">19'</a><a name="AGV19'"> </a> Perianth maroon near tips, white or &plusmn; green basally, tips reflexed; plants not of serpentine, s High Sierra Nevada, Tehachapi Mountain Area <a href="/cgi-bin/get_IJM.pl?tid=12642">.....&nbsp;A. shevockii</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AGV18.">18'</a><a name="AGV18'"> </a> Perianth 6&ndash;9 mm, white to pink, in age &plusmn; red
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AGV20'">20.</a><a name="AGV20."> </a> Inflorescence dense, pedicels straight in fruit; perianth parts elliptic to ovate, obtuse to acute <a href="/cgi-bin/get_IJM.pl?tid=76532">.....&nbsp;A. munzii</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AGV20.">20'</a><a name="AGV20'"> </a> Inflorescence open, pedicels curved in fruit; perianth parts lanceolate, acuminate <a href="/cgi-bin/get_IJM.pl?tid=12616">.....&nbsp;A. parryi</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AGV17.">17'</a><a name="AGV17'"> </a> Ovary crests dentate to deeply cut
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AGV21'">21.</a><a name="AGV21."> </a> Perianth dark red-purple, tips generally recurved to spreading <a href="/cgi-bin/get_IJM.pl?tid=53789">.....&nbsp;A. fimbriatum var. fimbriatum</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AGV21.">21'</a><a name="AGV21'"> </a> Perianth white, pink, or lavender, midveins darker, tips erect
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AGV22'">22.</a><a name="AGV22."> </a> Flowers (6)8&ndash;12 mm <a href="/cgi-bin/get_IJM.pl?tid=12570">.....&nbsp;A. fimbriatum</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AGV23'">23.</a><a name="AGV23."> </a> Stem slender, 10&ndash;25 cm; plants not of serpentine; East of Sierra Nevada, Mojave Desert <a href="/cgi-bin/get_IJM.pl?tid=53790">.....&nbsp;var. mohavense</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AGV23.">23'</a><a name="AGV23'"> </a> Stem stout, 10&ndash;37 cm; plants of serpentine; c Inner North Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=76529">.....&nbsp;var. purdyi</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AGV22.">22'</a><a name="AGV22'"> </a> Flowers generally 6&ndash;9 mm
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AGV24'">24.</a><a name="AGV24."> </a> Stem slender, 7&ndash;20 cm; perianth erect; San Francisco Bay Area (Mount Hamilton Range), South Coast Ranges, Western Transverse Ranges <a href="/cgi-bin/get_IJM.pl?tid=76528">.....&nbsp;A. diabolense</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AGV24.">24'</a><a name="AGV24'"> </a> Stem stout, 25&ndash;50 cm; perianth spreading; c Sierra Nevada Foothills (Tuolumne Co.) <a href="/cgi-bin/get_IJM.pl?tid=76538">.....&nbsp;A. tuolumnense</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#AGV3.">3'</a><a name="AGV3'"> </a> Leaves >= 2 per stem (if 1, leaf flat or channeled); ovary crests 6, obvious, &plusmn; triangular, or &plusmn; 0
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AGV25'">25.</a><a name="AGV25."> </a> Stem 3&ndash;30 mm diam, hollow, inflated below middle; bulb generally 5&ndash;10 cm diam; flowers 100&ndash;500 <a href="/cgi-bin/get_IJM.pl?tid=12541">.....&nbsp;[A. cepa]</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#AGV25.">25'</a><a name="AGV25'"> </a> Stem &lt; 3 mm diam unless flattened and/or winged, solid or hollow, not inflated below middle; bulb &lt; 3 cm diam; flowers 5&ndash;150
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AGV26'">26.</a><a name="AGV26."> </a> Bulbs oblong or oblong-ovoid, clustered on stout rhizome
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AGV27'">27.</a><a name="AGV27."> </a> Stem 50&ndash;100 cm; perianth parts narrowly lanceolate, acuminate; stamens exserted <a href="/cgi-bin/get_IJM.pl?tid=12658">.....&nbsp;A. validum</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AGV27.">27'</a><a name="AGV27'"> </a> Stem 10&ndash;40 cm; perianth parts narrowly ovate, acute; stamens including
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AGV28'">28.</a><a name="AGV28."> </a> Ovary topped with a low, papillate cap covering lobes <a href="/cgi-bin/get_IJM.pl?tid=12584">.....&nbsp;A. haematochiton</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AGV28.">28'</a><a name="AGV28'"> </a> Ovary crests 6, obvious, triangular, margins papillate or not <a href="/cgi-bin/get_IJM.pl?tid=80193">.....&nbsp;A. marvinii</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#AGV26.">26'</a><a name="AGV26'"> </a> Bulbs ovoid to &plusmn; spheric, not clustered on short rhizome
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AGV29'">29.</a><a name="AGV29."> </a> Ovary crests 6, obvious, triangular; bulblets > 3, generally &lt;&lt; bulb, generally clustered at bulb base or on rhizome
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AGV30'">30.</a><a name="AGV30."> </a> Leaves generally withered in flower; perianth red-purple, rigid-keeled, &plusmn; shiny in fruit, tip margins inrolled, parts with a purple crescent adaxially just above base <a href="/cgi-bin/get_IJM.pl?tid=12527">.....&nbsp;A. campanulatum</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AGV30.">30'</a><a name="AGV30'"> </a> Leaves generally not withered in flower; perianth white or pink to rose-purple, not keeled, papery in fruit, tip margins &plusmn; flat, parts without darker crescent adaxially
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AGV31'">31.</a><a name="AGV31."> </a> Perianth parts lanceolate, acuminate; High Cascade Range, High Sierra Nevada, Great Basin Floristic Province <a href="/cgi-bin/get_IJM.pl?tid=12515">.....&nbsp;A. bisceptrum</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AGV31.">31'</a><a name="AGV31'"> </a> Perianth parts ovate to elliptic, acute; Klamath Ranges, Cascade Range Foothills, n&c Sierra Nevada Foothills, s High Sierra Nevada <a href="/cgi-bin/get_IJM.pl?tid=76531">.....&nbsp;A. membranaceum</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#AGV29.">29'</a><a name="AGV29'"> </a> Ovary crests 0 or obscure, not triangular; bulblets 1&ndash;3, &plusmn; = bulb, within bulb coats or on rhizome
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AGV32'">32.</a><a name="AGV32."> </a> Leaves flat or widely channeled, &plusmn; sickle-shaped; plant in fruit dry, breaking at ground
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AGV33'">33.</a><a name="AGV33."> </a> Outer bulb coat sculpture &plusmn; net-like throughout
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AGV34'">34.</a><a name="AGV34."> </a> Outer bulb coat cells rectangular, transversely elongate, in &plusmn; regular rows
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AGV35'">35.</a><a name="AGV35."> </a> Perianth parts lance-linear <a href="/cgi-bin/get_IJM.pl?tid=12510">.....&nbsp;A. anceps</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AGV35.">35'</a><a name="AGV35'"> </a> Perianth parts ovate to oblanceolate
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AGV36'">36.</a><a name="AGV36."> </a> Stem 15&ndash;20 cm, inflorescence held well above ground; pedicel > flower <a href="/cgi-bin/get_IJM.pl?tid=12595">.....&nbsp;A. lemmonii</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AGV36.">36'</a><a name="AGV36'"> </a> Stem 3&ndash;10 cm, inflorescence held near ground; pedicel &plusmn; = flower <a href="/cgi-bin/get_IJM.pl?tid=12627">.....&nbsp;A. punctum</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AGV34.">34'</a><a name="AGV34'"> </a> Outer bulb coat cells &plusmn; square or polygonal, if transversely elongate then curved and not in regular rows
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AGV37'">37.</a><a name="AGV37."> </a> Outer bulb coat cells curved, &plusmn; transversely elongate <a href="/cgi-bin/get_IJM.pl?tid=12653">.....&nbsp;A. tribracteatum</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AGV37.">37'</a><a name="AGV37'"> </a> Outer bulb coat cells &plusmn; rectangular, &plusmn; transversely elongate, square, or polygonal <a href="/cgi-bin/get_IJM.pl?tid=12611">.....&nbsp;A. obtusum</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AGV38'">38.</a><a name="AGV38."> </a> Leaves 1 per stem; perianth parts pink, lanceolate, acute <a href="/cgi-bin/get_IJM.pl?tid=53809">.....&nbsp;var. conspicuum</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AGV38.">38'</a><a name="AGV38'"> </a> Leaves 1&ndash;2 per stem; perianth parts white, oblong-elliptic, obtuse <a href="/cgi-bin/get_IJM.pl?tid=53810">.....&nbsp;var. obtusum</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AGV33.">33'</a><a name="AGV33'"> </a> Outer bulb coat sculpture 0 or cells &plusmn; square, in 2&ndash;3 rows basally
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AGV39'">39.</a><a name="AGV39."> </a> Stem cylindric or &plusmn; flat, not winged
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AGV40'">40.</a><a name="AGV40."> </a> Stamens well including
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AGV41'">41.</a><a name="AGV41."> </a> Leaves straight or &plusmn; sickle-shaped; flowers 20&ndash;30; Klamath Ranges, North Coast Ranges, n&c Sierra Nevada Foothills, s High Sierra Nevada, Tehachapi Mountain Area, Inner South Coast Ranges, Western Transverse Ranges, San Jacinto Mountains <a href="/cgi-bin/get_IJM.pl?tid=12550">.....&nbsp;A. cratericola</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AGV41.">41'</a><a name="AGV41'"> </a> Leaves sickle-shaped; flowers generally 5&ndash;10; Klamath Ranges, High Cascade Range, High Sierra Nevada, Great Basin Floristic Province <a href="/cgi-bin/get_IJM.pl?tid=12617">.....&nbsp;A. parvum</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AGV40.">40'</a><a name="AGV40'"> </a> Stamens exserted or &plusmn; at same level as perianth
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AGV42'">42.</a><a name="AGV42."> </a> Leaves 2 per stem <a href="/cgi-bin/get_IJM.pl?tid=12661">.....&nbsp;A. yosemitense</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AGV42.">42'</a><a name="AGV42'"> </a> Leaves 1 per stem
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#AGV43'">43.</a><a name="AGV43."> </a> Filaments smooth <a href="/cgi-bin/get_IJM.pl?tid=12525">.....&nbsp;A. burlewii</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#AGV43.">43'</a><a name="AGV43'"> </a> Filaments bumpy or warty near base <a href="/cgi-bin/get_IJM.pl?tid=12586">.....&nbsp;A. hoffmanii</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AGV39.">39'</a><a name="AGV39'"> </a> Stem &plusmn; flat, generally winged above
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AGV44'">44.</a><a name="AGV44."> </a> Perianth parts lance-linear, long-acuminate; stamens exserted <a href="/cgi-bin/get_IJM.pl?tid=12622">.....&nbsp;A. platycaule</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AGV44.">44'</a><a name="AGV44'"> </a> Perianth parts lanceolate to ovate, obtuse to long-acuminate; stamens including
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AGV45'">45.</a><a name="AGV45."> </a> Leaves generally 6&ndash;8 mm wide; perianth parts 9&ndash;15 mm, long-acuminate <a href="/cgi-bin/get_IJM.pl?tid=12566">.....&nbsp;A. falcifolium</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AGV45.">45'</a><a name="AGV45'"> </a> Leaves &lt; 6 mm wide; perianth parts 6&ndash;10 mm, obtuse to acute
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#AGV46'">46.</a><a name="AGV46."> </a> Perianth parts lanceolate, acute, appearing acuminate by inrolled margins <a href="/cgi-bin/get_IJM.pl?tid=53830">.....&nbsp;A. tolmiei var. tolmiei</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#AGV46.">46'</a><a name="AGV46'"> </a> Perianth parts widely lanceolate to ovate, obtuse (tip margins &plusmn; flat)
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#AGV47'">47.</a><a name="AGV47."> </a> Inner bulb coats white; perianth parts not keeled in fruit <a href="/cgi-bin/get_IJM.pl?tid=12617">.....&nbsp;A. parvum</a> (2)
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#AGV47.">47'</a><a name="AGV47'"> </a> Inner bulb coats generally pink to red; perianth parts keeled in fruit <a href="/cgi-bin/get_IJM.pl?tid=76537">.....&nbsp;A. siskiyouense</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#AGV32.">32'</a><a name="AGV32'"> </a> Leaves narrowly channeled to &plusmn; cylindric, if flat or widely channeled, not sickle-shaped; plant in fruit dry or not, not breaking at ground
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AGV48'">48.</a><a name="AGV48."> </a> Outer bulb coat sculpture 0 or obscure
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AGV49'">49.</a><a name="AGV49."> </a> Bulb symmetric, present at flower; rhizomes 0
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AGV50'">50.</a><a name="AGV50."> </a> Longest inflorescence bracts >> pedicels; flower 4.5&ndash;7 mm <a href="/cgi-bin/get_IJM.pl?tid=76535">.....&nbsp;A. paniculatum var. paniculatum</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AGV50.">50'</a><a name="AGV50'"> </a> Longest inflorescence bracts &lt;= pedicels; flower 7&ndash;18 mm
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AGV51'">51.</a><a name="AGV51."> </a> Inflorescence not &plusmn; 1-sided; flowers erect; perianth parts elliptic, obtuse <a href="/cgi-bin/get_IJM.pl?tid=12605">.....&nbsp;A. neapolitanum</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AGV51.">51'</a><a name="AGV51'"> </a> Inflorescence generally &plusmn; 1-sided; flowers pendent; perianth parts lanceolate, acute <a href="/cgi-bin/get_IJM.pl?tid=12655">.....&nbsp;A. triquetrum</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AGV49.">49'</a><a name="AGV49'"> </a> Bulb symmetric or not, &plusmn; 0 at flower; rhizomes obscure or obvious
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AGV52'">52.</a><a name="AGV52."> </a> Rhizomes obvious, generally 3&ndash;5 cm; leaves widely channeled or &plusmn; flat, keeled; perianth parts ovate to obovate, ascending, entire <a href="/cgi-bin/get_IJM.pl?tid=12657">.....&nbsp;A. unifolium</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AGV52.">52'</a><a name="AGV52'"> </a> Rhizomes obscure, &lt; 2 cm; leaves &plusmn; cylindric; perianth parts &plusmn; lanceolate, erect, at least inner serrate <a href="/cgi-bin/get_IJM.pl?tid=12517">.....&nbsp;A. bolanderi</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AGV53'">53.</a><a name="AGV53."> </a> Bulb oblique-ovoid, not tuber-like, outer coat breaking with serrate edges; perianth parts 8&ndash;12 mm, narrowly ovate <a href="/cgi-bin/get_IJM.pl?tid=53763">.....&nbsp;var. bolanderi</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AGV53.">53'</a><a name="AGV53'"> </a> Bulb oblique-oblong, tuber-like, outer coat breaking with irregular edges; perianth parts 9&ndash;14 mm, narrowly lanceolate <a href="/cgi-bin/get_IJM.pl?tid=76526">.....&nbsp;var. mirabile</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#AGV48.">48'</a><a name="AGV48'"> </a> Outer bulb coat sculpture obvious, &plusmn; net-like
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AGV54'">54.</a><a name="AGV54."> </a> Outer bulb coat cells square, polygonal, in regular rows, not in &plusmn; herringbone pattern, not &plusmn; contorted
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AGV55'">55.</a><a name="AGV55."> </a> Perianth parts 8&ndash;15 mm, spreading (or tips reflexed), inner dentate <a href="/cgi-bin/get_IJM.pl?tid=12504">.....&nbsp;A. acuminatum</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AGV55.">55'</a><a name="AGV55'"> </a> Perianth parts 4&ndash;9 mm, erect or spreading, entire <a href="/cgi-bin/get_IJM.pl?tid=12593">.....&nbsp;A. lacunosum</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AGV56'">56.</a><a name="AGV56."> </a> Stem 10&ndash;25 cm; inflorescence dense, pedicel 0.7&ndash;1.5 &times; flower
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#AGV57'">57.</a><a name="AGV57."> </a> Leaves generally &lt; stem; stem 15&ndash;25 cm; flowers 5&ndash;7 mm; s Sierra Nevada Foothills, Tehachapi Mountain Area, w Mojave Desert <a href="/cgi-bin/get_IJM.pl?tid=53803">.....&nbsp;var. kernense</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#AGV57.">57'</a><a name="AGV57'"> </a> Leaves > stem; stem 10&ndash;20 cm; flowers 6&ndash;9 mm; n Central Coast, s San Joaquin Valley, South Coast Ranges, South Coast, n Channel Islands <a href="/cgi-bin/get_IJM.pl?tid=53804">.....&nbsp;var. lacunosum</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AGV56.">56'</a><a name="AGV56'"> </a> Stem 15&ndash;35 cm; inflorescence open, pedicel 1.5&ndash;3.5 &times; flower
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#AGV58'">58.</a><a name="AGV58."> </a> Bracts 2; flower 6&ndash;8 mm; Western Transverse Ranges, San Bernardino Mountains, East of Sierra Nevada, Mojave Desert <a href="/cgi-bin/get_IJM.pl?tid=53802">.....&nbsp;var. davisiae</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#AGV58.">58'</a><a name="AGV58'"> </a> Bracts 3; flower 4&ndash;6 mm; South Coast Ranges, San Bernardino Mountains, Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=53805">.....&nbsp;var. micranthum</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#AGV54.">54'</a><a name="AGV54'"> </a> Outer bulb coat cells transversely elongate, in &plusmn; herringbone pattern, or &plusmn; contorted
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AGV59'">59.</a><a name="AGV59."> </a> Outer bulb coat cells in obscure, wavy, herringbone pattern; perianth parts spreading, outer &plusmn; = inner
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AGV60'">60.</a><a name="AGV60."> </a> Stem 5&ndash;17 cm; perianth parts erect in fruit; flowers persistent &mdash; c Central Coast <a href="/cgi-bin/get_IJM.pl?tid=12585">.....&nbsp;A. hickmanii</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AGV60.">60'</a><a name="AGV60'"> </a> Stem 15&ndash;50 cm; perianth parts folded over fruit; flowers, pedicels deciduous
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#AGV61'">61.</a><a name="AGV61."> </a> Ovary crests 6, lateral, &plusmn; rectangular; inflorescence dense, pedicels 0.7&ndash;2 &times; flower <a href="/cgi-bin/get_IJM.pl?tid=12506">.....&nbsp;A. amplectens</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#AGV61.">61'</a><a name="AGV61'"> </a> Ovary crests 0 or 3, central, minute; inflorescence open, pedicels 1.5&ndash;4 &times; flower
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#AGV62'">62.</a><a name="AGV62."> </a> Leaves 1&ndash;3(4) mm wide, widely channeled to cylindric, not keeled; inner bulb coats light yellow; perianth translucent in fruit <a href="/cgi-bin/get_IJM.pl?tid=12589">.....&nbsp;A. hyalinum</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#AGV62.">62'</a><a name="AGV62'"> </a> Leaves (3)4&ndash;6 mm wide, widely channeled or flat, keeled; inner bulb coats white; perianth &plusmn; opaque, papery in fruit <a href="/cgi-bin/get_IJM.pl?tid=12626">.....&nbsp;A. praecox</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#AGV59.">59'</a><a name="AGV59'"> </a> Outer bulb coat cells in obvious, not wavy, herringbone pattern; perianth parts &plusmn; erect, outer > inner
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AGV63'">63.</a><a name="AGV63."> </a> Perianth parts folded over ovary in fruit; flowers, pedicels deciduous <a href="/cgi-bin/get_IJM.pl?tid=12640">.....&nbsp;A. serra</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#AGV63.">63'</a><a name="AGV63'"> </a> Perianth parts erect, rigid in fruit; flowers, pedicels persistent
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#AGV64'">64.</a><a name="AGV64."> </a> Leaves 3&ndash;6 per stem, curved to curled; inflorescence dense, pedicels erect, 0.7&ndash;2 &times; flower; on or near sea cliffs <a href="/cgi-bin/get_IJM.pl?tid=12559">.....&nbsp;A. dichlamydeum</a>
+
+<P class="keyText" style="padding-left : 70 ;"><a href="#AGV64.">64'</a><a name="AGV64'"> </a> Leaves 2&ndash;3 per stem, straight to &plusmn; curved; inflorescence open, pedicels spreading, 1&ndash;3 &times; flower; not on or near sea cliffs
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#AGV65'">65.</a><a name="AGV65."> </a> Inner perianth part margins dentate, curled <a href="/cgi-bin/get_IJM.pl?tid=12555">.....&nbsp;A. crispum</a>
+
+<P class="keyText" style="padding-left : 77 ;"><a href="#AGV65.">65'</a><a name="AGV65'"> </a> Inner perianth part margins entire to dentate, not curled <a href="/cgi-bin/get_IJM.pl?tid=12620">.....&nbsp;A. peninsulare</a>
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#AGV66'">66.</a><a name="AGV66."> </a> Leaves curved; flowers 8&ndash;12 mm; stigma minute, entire; Central Coast, San Francisco Bay Area <a href="/cgi-bin/get_IJM.pl?tid=53815">.....&nbsp;var. franciscanum</a>
+
+<P class="keyText" style="padding-left : 84 ;"><a href="#AGV66.">66'</a><a name="AGV66'"> </a> Leaves straight; flowers 10&ndash;15 mm; stigma 3-lobed or head-like; widespread <a href="/cgi-bin/get_IJM.pl?tid=53816">.....&nbsp;var. peninsulare</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

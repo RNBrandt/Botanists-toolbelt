@@ -1,0 +1,284 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Deinandra</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Deinandra
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80188">Deinandra arida
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=77607">Deinandra bacigalupii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=77591">Deinandra clementina
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=77599">Deinandra conjugens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=77598">Deinandra corymbosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=77592">Deinandra fasciculata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80178">Deinandra floribunda
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=77578">Deinandra halliana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=77597">Deinandra increscens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80116">Deinandra increscens subsp. increscens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80115">Deinandra increscens subsp. villosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=79196">Deinandra kelloggii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=77606">Deinandra lobbii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80176">Deinandra minthornii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80199">Deinandra mohavensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=79521">Deinandra pallida
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=80177">Deinandra paniculata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=77600">Deinandra pentactis
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=77577'><h3>View taxon page for Deinandra</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#GA1'">1.</a><a name="GA1."> </a> Subshrub or shrub; paleae in 2 or 3+ series or subtending all or most disk flowers
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#GA2'">2.</a><a name="GA2."> </a> Ray flowers (11)13(20); anthers &plusmn; red to dark purple; paleae in 2 series (1 between ray and disk flowers, 1 between outermost and adjacent disk flowers) <a href="/cgi-bin/get_IJM.pl?tid=77591">.....&nbsp;D. clementina</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#GA2.">2'</a><a name="GA2'"> </a> Ray flowers (4)8; anthers yellow or &plusmn; brown; paleae in 3+ series or throughout receptacle <a href="/cgi-bin/get_IJM.pl?tid=80176">.....&nbsp;D. minthornii</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#GA1.">1'</a><a name="GA1'"> </a> Annual; paleae in 1 series, between ray and disk flowers
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#GA3'">3.</a><a name="GA3."> </a> Ray flowers 3&ndash;5; disk flowers 3&ndash;6; pappus of (4)5&ndash;12 scales
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#GA4'">4.</a><a name="GA4."> </a> Ray flowers 3(4); disk flowers 3(4) <a href="/cgi-bin/get_IJM.pl?tid=77606">.....&nbsp;D. lobbii</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#GA4.">4'</a><a name="GA4'"> </a> Ray flowers 5; disk flowers 6
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#GA5'">5.</a><a name="GA5."> </a> Phyllaries generally sessile-glandular, at least near margins, rarely stalked-glandular, stalks &lt; glands; anthers &plusmn; red to dark purple
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#GA6'">6.</a><a name="GA6."> </a> Phyllaries glandular near margins, sometimes also with slender-based glandless hairs; bracts subtending head generally overlapping at least proximal 1/2 of involucre <a href="/cgi-bin/get_IJM.pl?tid=77592">.....&nbsp;D. fasciculata</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#GA6.">6'</a><a name="GA6'"> </a> Phyllaries &plusmn; evenly glandular and with swollen-based glandless hairs, at least on midribs; bracts subtending head generally overlapping proximal 1/2 or less of involucre <a href="/cgi-bin/get_IJM.pl?tid=77600">.....&nbsp;D. pentactis</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#GA5.">5'</a><a name="GA5'"> </a> Phyllaries stalked-glandular, stalks generally >= glands; anthers yellow or &plusmn; brown (&plusmn; red to dark purple or maroon).
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#GA7'">7.</a><a name="GA7."> </a> Proximal leaves generally pinnately lobed to toothed (entire); heads in open, panicle-like clusters; pappus of linear to oblong, entire or fringed scales <a href="/cgi-bin/get_IJM.pl?tid=79196">.....&nbsp;D. kelloggii</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#GA7.">7'</a><a name="GA7'"> </a> Proximal leaves generally entire, sometimes serrate; heads generally &plusmn; sessile in tight groups; pappus of irregular, awl-shaped to square, deeply cut scales <a href="/cgi-bin/get_IJM.pl?tid=80199">.....&nbsp;D. mohavensis</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#GA3.">3'</a><a name="GA3'"> </a> Ray flowers (4)8&ndash;35; disk flowers 8&ndash;70; pappus 0, or of 1&ndash;14 scales, or crown-like
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#GA8'">8.</a><a name="GA8."> </a> Anthers yellow or &plusmn; brown
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#GA9'">9.</a><a name="GA9."> </a> Disk pappus generally 0, rarely of 1&ndash;5, linear to bristle-like scales 0.1&ndash;0.6 mm or rudimentary; faces of proximal leaves glabrous or hairy and stalked-glandular; disk flowers 17&ndash;60
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#GA10'">10.</a><a name="GA10."> </a> Proximal leaves hairy and stalked-glandular; stem solid; disk flowers 17&ndash;25 <a href="/cgi-bin/get_IJM.pl?tid=80188">.....&nbsp;D. arida</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#GA10.">10'</a><a name="GA10'"> </a> Proximal leaves glabrous, margins and midribs sometimes scabrous or bristly; stem hollow; disk flowers 28&ndash;60 <a href="/cgi-bin/get_IJM.pl?tid=77578">.....&nbsp;D. halliana</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#GA9.">9'</a><a name="GA9'"> </a> Disk pappus generally of 4&ndash;13 scales, sometimes crown-like, rarely 0; faces of proximal leaves &plusmn; hairy and stalked-glandular; disk flowers 10&ndash;21
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#GA11'">11.</a><a name="GA11."> </a> Ray deep yellow, 2&ndash;4 mm <a href="/cgi-bin/get_IJM.pl?tid=77607">.....&nbsp;D. bacigalupii</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#GA11.">11'</a><a name="GA11'"> </a> Ray pale yellow, 6&ndash;12 mm <a href="/cgi-bin/get_IJM.pl?tid=79521">.....&nbsp;D. pallida</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#GA8.">8'</a><a name="GA8'"> </a> Anthers &plusmn; red to dark purple
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#GA12'">12.</a><a name="GA12."> </a> Disk flowers all or mostly bisexual &mdash; pappus scales often maroon or maroon-flecked <a href="/cgi-bin/get_IJM.pl?tid=80178">.....&nbsp;D. floribunda</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#GA12.">12'</a><a name="GA12'"> </a> Disk flowers all or mostly staminate
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#GA13'">13.</a><a name="GA13."> </a> Ray flowers 15&ndash;35; pappus 0 or crown-like, with irregular scales &lt; 1 mm <a href="/cgi-bin/get_IJM.pl?tid=77598">.....&nbsp;D. corymbosa</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#GA13.">13'</a><a name="GA13'"> </a> Ray flowers (7)8&ndash;13; pappus of 4&ndash;14, generally oblong or linear to lanceolate scales 0.5&ndash;2 mm.
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#GA14'">14.</a><a name="GA14."> </a> Phyllaries unevenly sessile- and stalked-glandular, glands highly variable in size; phyllary body 3&ndash;7+ striate; pappus scales 0.5&ndash;1 mm, &lt;&lt; 1/2 corolla length <a href="/cgi-bin/get_IJM.pl?tid=77599">.....&nbsp;D. conjugens</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#GA14.">14'</a><a name="GA14'"> </a> Phyllaries &plusmn; evenly stalked-glandular, glands generally &plusmn; uniform in size; phyllary body not striate; pappus scales 1&ndash;2 mm, often >= 1/2 corolla length
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#GA15'">15.</a><a name="GA15."> </a> Disk flowers 8&ndash;14(15); ray flowers (7)8(10), rays 3&ndash;7.5 mm; phyllaries 5&ndash;6 mm, &lt; peduncle &mdash; basal leaves sometimes persistent in South Coast Ranges <a href="/cgi-bin/get_IJM.pl?tid=80177">.....&nbsp;D. paniculata</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#GA15.">15'</a><a name="GA15'"> </a> Disk flowers (11)13&ndash;32; ray flowers 8&ndash;13(15), rays 5&ndash;9.5 mm; phyllaries 5&ndash;8.5 mm, &lt; or > peduncle <a href="/cgi-bin/get_IJM.pl?tid=77597">.....&nbsp;D. increscens</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#GA16'">16.</a><a name="GA16."> </a> Plants &lt;= 10 dm; heads in panicle-like clusters; peduncle generally > involucre, peduncle bracts generally overlapping &lt; proximal 3/4 of phyllaries; ray flowers 8&ndash;13 <a href="/cgi-bin/get_IJM.pl?tid=80116">.....&nbsp;subsp. increscens</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#GA16.">16'</a><a name="GA16'"> </a> Plants generally &lt;= 4.5 dm; heads in pairs or tight groups; peduncle generally &lt; involucre, peduncle bracts generally overlapping >= proximal 3/4 of phyllaries; ray flowers (8)13(15) <a href="/cgi-bin/get_IJM.pl?tid=80115">.....&nbsp;subsp. villosa</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

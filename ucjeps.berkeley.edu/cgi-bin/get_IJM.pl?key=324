@@ -1,0 +1,353 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Artemisia</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Artemisia
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1162">Artemisia annua
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1163">Artemisia arbuscula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=5754">Artemisia arbuscula subsp. arbuscula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=5756">Artemisia arbuscula subsp. longiloba
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1169">Artemisia biennis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1170">Artemisia bigelovii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=69894">Artemisia borealis subsp. borealis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1171">Artemisia californica
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=5768">Artemisia cana subsp. bolanderi
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1187">Artemisia douglasiana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1188">Artemisia dracunculus
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1209">Artemisia ludoviciana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=5774">Artemisia ludoviciana subsp. albula
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=5775">Artemisia ludoviciana subsp. candicans
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=5777">Artemisia ludoviciana subsp. incompta
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=5778">Artemisia ludoviciana subsp. ludoviciana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1223">Artemisia michauxiana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1225">Artemisia nesiotica
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49293">Artemisia norvegica subsp. saxatilis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1226">Artemisia nova
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1228">Artemisia palmeri
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1235">Artemisia pycnocephala
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1238">Artemisia rothrockii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1250">Artemisia spiciformis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1243">Artemisia spinescens
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1245">Artemisia suksdorfii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=1249">Artemisia tridentata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=5797">Artemisia tridentata subsp. parishii
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=5796">Artemisia tridentata subsp. tridentata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=5798">Artemisia tridentata subsp. vaseyana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=5799">Artemisia tridentata subsp. wyomingensis
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=324'><h3>View taxon page for Artemisia</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#FD1'">1.</a><a name="FD1."> </a> Annual to perennial herb, base sometimes woody; axillary leaf clusters generally 0
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#FD2'">2.</a><a name="FD2."> </a> Rhizome present
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FD3'">3.</a><a name="FD3."> </a> Leaves generally 1&ndash;8 cm wide, &plusmn; glabrous to sparsely tomentose adaxially, glabrous or hairy abaxially; stems 3&ndash;25 dm
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FD4'">4.</a><a name="FD4."> </a> Proximal-most leaves 2-pinnately divided, lateral lobes acute; leaves generally glabrous adaxially, tomentose (or becoming glabrous) abaxially
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FD5'">5.</a><a name="FD5."> </a> Plant sage-scented (not lemony); phyllaries gray-green, densely tomentose <a href="/cgi-bin/get_IJM.pl?tid=5777">.....&nbsp;A. ludoviciana subsp. incompta</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FD5.">5'</a><a name="FD5'"> </a> Plant strongly lemon-scented; phyllaries often &plusmn; purple and dotted with yellow glands, generally &plusmn; glabrous <a href="/cgi-bin/get_IJM.pl?tid=1223">.....&nbsp;A. michauxiana</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FD4.">4'</a><a name="FD4'"> </a> Leaves entire to pinnately lobed, lateral lobes obtuse to acute, glabrous to &plusmn; sparsely tomentose adaxially, densely tomentose abaxially
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FD6'">6.</a><a name="FD6."> </a> Involucre bell-shaped, 2&ndash;4 mm diam; phyllaries gray-hairy, &plusmn; widely (ob)ovate; flowers > 15; leaves green to gray-green adaxially; widespread <a href="/cgi-bin/get_IJM.pl?tid=1187">.....&nbsp;A. douglasiana</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FD6.">6'</a><a name="FD6'"> </a> Involucre narrow, &lt;= 2 mm diam; phyllaries &plusmn; yellow, glabrous to sparsely hairy, oblong to &plusmn; ovate; flowers &lt; 15; leaves dark green adaxially; North Coast, s Channel Islands <a href="/cgi-bin/get_IJM.pl?tid=1245">.....&nbsp;A. suksdorfii</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FD3.">3'</a><a name="FD3'"> </a> Leaves 0.5&ndash;1(4) cm wide, densely gray-hairy (or becoming &plusmn; glabrous adaxially); stems 2&ndash;8(12) dm <a href="/cgi-bin/get_IJM.pl?tid=1209">.....&nbsp;A. ludoviciana</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FD7'">7.</a><a name="FD7."> </a> Inflorescence generally open, occasionally dense and narrow; leaves generally 1&ndash;2 cm <a href="/cgi-bin/get_IJM.pl?tid=5774">.....&nbsp;subsp. albula</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FD7.">7'</a><a name="FD7'"> </a> Inflorescence dense, narrow; leaves generally 2&ndash;11 cm
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FD8'">8.</a><a name="FD8."> </a> Leaves entire to toothed or shallowly lobed <a href="/cgi-bin/get_IJM.pl?tid=5778">.....&nbsp;subsp. ludoviciana</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FD8.">8'</a><a name="FD8'"> </a> Leaves deeply 1&ndash;2-divided into narrow lobes
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FD9'">9.</a><a name="FD9."> </a> Involucre 4&ndash;5 mm, 4&ndash;7 mm diam; leaves gray-white-tomentose <a href="/cgi-bin/get_IJM.pl?tid=5775">.....&nbsp;subsp. candicans</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FD9.">9'</a><a name="FD9'"> </a> Involucre 2.5&ndash;4 mm, 3&ndash;5 mm diam; adaxial leaf face often green <a href="/cgi-bin/get_IJM.pl?tid=5777">.....&nbsp;subsp. incompta</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#FD2.">2'</a><a name="FD2'"> </a> Rhizome 0
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FD10'">10.</a><a name="FD10."> </a> Stem hairy, branched from base, from basal leaf cluster
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FD11'">11.</a><a name="FD11."> </a> Leaves densely hairy; phyllaries densely gray-hairy, margins widely scarious; coastal <a href="/cgi-bin/get_IJM.pl?tid=1235">.....&nbsp;A. pycnocephala</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FD11.">11'</a><a name="FD11'"> </a> Leaves glabrous to densely silky-hairy; phyllaries sparsely hairy, margins dark or scarious; montane
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FD12'">12.</a><a name="FD12."> </a> Phyllary margins scarious; involucre 3.5&ndash;4 mm diam; biennial or perennial herb from taproot; heads generally erect in spike- or narrowly panicle-like clusters <a href="/cgi-bin/get_IJM.pl?tid=69894">.....&nbsp;A. borealis subsp. borealis</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FD12.">12'</a><a name="FD12'"> </a> Phyllary margins &plusmn; black; involucre (4)7&ndash;11 mm diam; perennial herb from branched caudex; heads nodding, slender-peduncled in raceme-like or few-branched, panicle-like cluster <a href="/cgi-bin/get_IJM.pl?tid=49293">.....&nbsp;A. norvegica subsp. saxatilis</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FD10.">10'</a><a name="FD10'"> </a> Stem generally glabrous, simple, basal leaves 0
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FD13'">13.</a><a name="FD13."> </a> Biennial or perennial herb; leaves entire to 1-pinnately lobed
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FD14'">14.</a><a name="FD14."> </a> Leaves linear, entire or with few linear lobes; heads disciform, disk flowers staminate; receptacle epaleate; widespread <a href="/cgi-bin/get_IJM.pl?tid=1188">.....&nbsp;A. dracunculus</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FD14.">14'</a><a name="FD14'"> </a> Leaves deeply and coarsely pinnately 3&ndash;7-lobed; heads discoid; receptacle paleate; South Coast, Peninsular Ranges <a href="/cgi-bin/get_IJM.pl?tid=1228">.....&nbsp;A. palmeri</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FD13.">13'</a><a name="FD13'"> </a> Annual or biennial; stem erect; leaves 2&ndash;3-pinnately divided
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FD15'">15.</a><a name="FD15."> </a> Heads nodding; annual, aromatic; leaves 2&ndash;3-pinnately divided <a href="/cgi-bin/get_IJM.pl?tid=1162">.....&nbsp;[A. annua]</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FD15.">15'</a><a name="FD15'"> </a> Heads erect; annual or biennial, unscented; leaves 2-pinnately divided <a href="/cgi-bin/get_IJM.pl?tid=1169">.....&nbsp;A. biennis</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#FD1.">1'</a><a name="FD1'"> </a> Subshrub or shrub; axillary leaf clusters present
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#FD16'">16.</a><a name="FD16."> </a> Plant spiny, compact; inflorescence short, heads &plusmn; hidden by leaves; leaves palmately 2&ndash;5-divided; flower spring/early summer <a href="/cgi-bin/get_IJM.pl?tid=1243">.....&nbsp;A. spinescens</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#FD16.">16'</a><a name="FD16'"> </a> Plant unarmed, compact to tall; inflorescence long, heads not hidden by leaves; leaf lobes 0&ndash;5; flowering late summer/fall
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FD17'">17.</a><a name="FD17."> </a> Leaves (1)2&ndash;10 cm, linear, often &plusmn; thread-like or lobes &lt;= 3 mm wide, generally > 1 cm
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FD18'">18.</a><a name="FD18."> </a> Leaf segments generally &lt; 1 mm wide, margins curled under; Central Western California, Southwestern California <a href="/cgi-bin/get_IJM.pl?tid=1171">.....&nbsp;A. californica</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FD18.">18'</a><a name="FD18'"> </a> Leaf segments 1&ndash;3 mm wide, flat; s Channel Islands <a href="/cgi-bin/get_IJM.pl?tid=1225">.....&nbsp;A. nesiotica</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#FD17.">17'</a><a name="FD17'"> </a> Leaves 0.3&ndash;2(6) cm, generally oblong or wedge-shaped (to linear), generally > 3 mm wide, entire to shallowly 3-lobed at tip, lobes &lt; 1 cm
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FD19'">19.</a><a name="FD19."> </a> Heads nodding; leaves not clustered, entire or teeth or lobes 3, sharply pointed &mdash; White and Inyo Mountains, Mojave Desert <a href="/cgi-bin/get_IJM.pl?tid=1170">.....&nbsp;A. bigelovii</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#FD19.">19'</a><a name="FD19'"> </a> Heads erect; leaves often in axillary clusters, entire or teeth 3(6), rounded to acute
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FD20'">20.</a><a name="FD20."> </a> Leaves generally linear, entire, winter-deciduous; heads generally > 5 mm wide <a href="/cgi-bin/get_IJM.pl?tid=5768">.....&nbsp;A. cana subsp. bolanderi</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#FD20.">20'</a><a name="FD20'"> </a> Leaves generally wedge-shaped, generally 3-toothed or -lobed (entire or 6-toothed in <I>Artemisia spiciformis</I>), persistent in winter; heads generally &lt; 5 mm wide (4.5&ndash;6 mm in <I>Artemisia spiciformis</I>)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FD21'">21.</a><a name="FD21."> </a> Plant generally &lt; 4 dm; inflorescence narrow, generally &lt; 3 cm wide
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#FD22'">22.</a><a name="FD22."> </a> Heads short-peduncled; involucre generally 1&ndash;2 mm diam
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#FD23'">23.</a><a name="FD23."> </a> Phyllaries shiny-resinous, straw-colored; leaves of flower-stems generally entire <a href="/cgi-bin/get_IJM.pl?tid=1226">.....&nbsp;A. nova</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#FD23.">23'</a><a name="FD23'"> </a> Phyllaries densely gray-tomentose; leaves of flower-stems (at least proximal) lobed <a href="/cgi-bin/get_IJM.pl?tid=5799">.....&nbsp;A. tridentata subsp. wyomingensis</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#FD22.">22'</a><a name="FD22'"> </a> Heads &plusmn; sessile; involucre 2&ndash;4.5 mm diam, gray-hairy <a href="/cgi-bin/get_IJM.pl?tid=1163">.....&nbsp;A. arbuscula</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#FD24'">24.</a><a name="FD24."> </a> Flowers 3&ndash;6 per head
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#FD25'">25.</a><a name="FD25."> </a> Leaves of flower-stem shallowly lobed or distal entire; involucre 3&ndash;4.5 mm diam <a href="/cgi-bin/get_IJM.pl?tid=5754">.....&nbsp;subsp. arbuscula</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#FD25.">25'</a><a name="FD25'"> </a> Leaves of flower-stem deeply lobed; involucre 2&ndash;3 mm diam <a href="/cgi-bin/get_IJM.pl?tid=5756">.....&nbsp;subsp. longiloba</a>
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#FD24.">24'</a><a name="FD24'"> </a> Flowers 8&ndash;23 per head
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#FD26'">26.</a><a name="FD26."> </a> Plant sticky-resinous; leaves evergreen <a href="/cgi-bin/get_IJM.pl?tid=1238">.....&nbsp;A. rothrockii</a> (2)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#FD26.">26'</a><a name="FD26'"> </a> Plant not sticky; leaves &plusmn; winter-deciduous <a href="/cgi-bin/get_IJM.pl?tid=1250">.....&nbsp;A. spiciformis</a> (2)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#FD21.">21'</a><a name="FD21'"> </a> Plant generally > 4 dm; inflorescence generally > 3 cm wide
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#FD27'">27.</a><a name="FD27."> </a> Heads >= 3 mm diam; plant sticky-resinous; meadows, c&s High Sierra Nevada, San Gabriel Mountains, San Bernardino Mountains, n East of Sierra Nevada, White and Inyo Mountains <a href="/cgi-bin/get_IJM.pl?tid=1238">.....&nbsp;A. rothrockii</a> (2)
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#FD27.">27'</a><a name="FD27'"> </a> Heads generally &lt; 3 mm diam (generally 4.5&ndash;6 mm in <I>Artemisia spiciformis</I>); plant not sticky; mtns, dry valleys, widespread
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#FD28'">28.</a><a name="FD28."> </a> Leaves entire to irregularly 3&ndash;6-toothed, partly deciduous; plant sprouting from roots; moist slopes, rocky meadows, High Sierra Nevada, White and Inyo Mountains > 2000 m <a href="/cgi-bin/get_IJM.pl?tid=1250">.....&nbsp;A. spiciformis</a> (2)
+
+<P class="keyText" style="padding-left : 49 ;"><a href="#FD28.">28'</a><a name="FD28'"> </a> Leaves generally regularly 3-lobed or toothed at tip, wedge-shaped, evergreen; plant not root-sprouting; widespread <a href="/cgi-bin/get_IJM.pl?tid=1249">.....&nbsp;A. tridentata</a> (in part)
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#FD29'">29.</a><a name="FD29."> </a> Plants with a flat-topped crown; inflorescence rising above truncate vegetative portion, narrow, branches generally erect <a href="/cgi-bin/get_IJM.pl?tid=5798">.....&nbsp;subsp. vaseyana</a>
+
+<P class="keyText" style="padding-left : 56 ;"><a href="#FD29.">29'</a><a name="FD29'"> </a> Plants with a rounded crown; inflorescence amongst as well as surpassing distal-most vegetative branches, widely branching, branches erect to spreading or drooping
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#FD30'">30.</a><a name="FD30."> </a> Inflorescence branches generally drooping; fruit hairy <a href="/cgi-bin/get_IJM.pl?tid=5797">.....&nbsp;subsp. parishii</a>
+
+<P class="keyText" style="padding-left : 63 ;"><a href="#FD30.">30'</a><a name="FD30'"> </a> Inflorescence branches erect to generally spreading; fruit glandular <a href="/cgi-bin/get_IJM.pl?tid=5796">.....&nbsp;subsp. tridentata</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

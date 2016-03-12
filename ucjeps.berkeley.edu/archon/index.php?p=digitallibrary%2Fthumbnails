@@ -1,0 +1,557 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Image Thumbnails | University and Jepson Herbaria Archives, University of California, Berkeley</title>
+      <link rel="stylesheet" type="text/css" href="themes/herbaria/style.css" />
+      <link rel="stylesheet" type="text/css" href="themes/herbaria/js/cluetip/jquery.cluetip.css" />
+
+      <link rel="icon" type="image/ico" href="themes/herbaria/images/archon.ico"/>
+      <!--[if lte IE 7]>
+        <link rel="stylesheet" type="text/css" href="themes/herbaria/ie.css" />
+        <link rel="stylesheet" type="text/css" href="themes/themes/herbaria/js/cluetip/jquery.cluetip.ie.css" />
+      <![endif]-->
+      <script type='text/javascript' src='packages/core/js/jquery.min.js'></script>
+      <script type='text/javascript' src='packages/core/js/jquery-ui.custom.min.js'></script>
+      <script type='text/javascript' src='packages/core/js/jquery-expander.js'></script>
+      <script type="text/javascript" src="themes/herbaria/js/jquery.hoverIntent.js"></script>
+      <script type="text/javascript" src="themes/herbaria/js/cluetip/jquery.cluetip.js"></script>
+      <script type="text/javascript" src="themes/herbaria/js/jquery.corner.js"></script>
+      <script type="text/javascript" src="themes/herbaria/js/jquery.scrollTo-min.js"></script>
+      <script type='text/javascript' src='packages/core/js/archon.js'></script><script type='text/javascript' src='packages/digitallibrary/js/archon.js'></script>
+      <script type="text/javascript">
+         /* <![CDATA[ */
+         imagePath = 'themes/herbaria/images';
+         $(document).ready(function() {
+            $('div.bground').corner('20px');
+            $('div.mdround').corner('10px');
+            $('div.smround').corner('5px');
+            $('#dlsearchblock').corner('bottom 10px');
+            $('div.listitem:nth-child(even)').addClass('evenlistitem');
+            $('div.listitem:last-child').addClass('lastlistitem');
+            $('#locationtable tr:nth-child(odd)').addClass('oddtablerow');
+            $('.expandable').expander({
+               slicePoint:       600,              // make expandable if over this x chars
+               widow:            100,              // do not make expandable unless total length > slicePoint + widow
+               expandPrefix:     '. . . ',         // text to come before the expand link
+               expandText:         '[read more]',  //text to use for expand link
+               expandEffect:     'fadeIn',         // or slideDown
+               expandSpeed:      700,              // in milliseconds
+               collapseTimer:    0,                // milliseconds before auto collapse; default is 0 (don't re-collape)
+               userCollapseText: '[collapse]'      // text for collaspe link
+            });
+         });
+
+         function js_highlighttoplink(selectedSpan)
+         {
+            $('.currentBrowseLink').toggleClass('browseLink').toggleClass('currentBrowseLink');
+            $(selectedSpan).toggleClass('currentBrowseLink');
+            $(selectedSpan).effect('highlight', {}, 300);
+         }
+
+         $(document).ready(function() {externalLinks();});
+         $(window).unload(function() {});
+         /* ]]> */
+      </script>
+      
+   </head>
+   <body>
+      
+      
+<!-- Beginning of banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/uc/"><img src="http://ucjeps.berkeley.edu/common/images/uclogo_250.png" alt="University Herbarium (UC)" width="100" height="100" border="0" /></a></td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The University and Jepson Herbaria</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/uc/" class="logoText">University&nbsp;Herbarium</a></td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>
+<!-- End of banner -->
+
+<!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+            	<li><a href="http://ucjeps.berkeley.edu/images/">UC/JEPS Image Collection</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+<!-- End of horizontal menu -->
+<!--archives page menu-->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr><td width=100%  colspan=3> <p align="center"> 
+  <span class="style2"><a href="index.html" class="style1">Archives Main Page</a>   |  
+  <a href="archives_overview.html" class="style1">Overview of the Collections</a>  |  
+  <a href="archives_policies.html" class="style1">Archives Policies</a> |  
+  <a href="http://ucjeps.berkeley.edu/archon" class="style1">Searchable Database</a></span> 
+
+ </p> </td></tr>
+
+ 
+</table>
+
+
+<!--end archives page menu-->
+<!-- end Herbarium Banners and Menus here-->
+      <div id="top">
+
+         <div id="logosearchwrapper">
+            <div id="logo"><a href="index.php" ><img src="themes/herbaria/images/logo.png" alt="logo" /></a> </div>
+            <div id="searchblock">
+               <form action="index.php" accept-charset="UTF-8" method="get" onsubmit="if(!this.q.value) { alert('Please enter search terms.'); return false; } else { return true; }">
+                  <div>
+                     <input type="hidden" name="p" value="core/search" />
+                     <label for='qfa'></label><input type="text" size="25" maxlength="150" name="q" id="qfa" value="" tabindex="100" />
+                     <input type="submit" value="Search" tabindex="300" class='button' title="Search" />
+                     
+                     <input type="hidden" name="content" value="1" />
+                        
+                  </div>
+               </form>
+            </div>
+         </div>
+
+
+         <div id="researchblock">
+            <a href='#' onclick='$(window).scrollTo("#archoninfo"); if($("#userlogin").is(":visible")) $("#loginlink").html("Log In"); else $("#loginlink").html("Hide"); $("#userlogin").slideToggle("normal"); $("#ArchonLoginField").focus(); return false;'>Log In</a> | <a href='?p=collections/research&amp;f=email&amp;referer=ucjeps.berkeley.edu%2Farchon%2Findex.php%3Fp%3Ddigitallibrary%2Fthumbnails'>Contact Us</a> | <a href='?p=collections/research&amp;f=cart&amp;referer=ucjeps.berkeley.edu%2Farchon%2Findex.php%3Fp%3Ddigitallibrary%2Fthumbnails'>View Cart (0 items)</a>
+         </div>
+
+
+         
+         <div id="browsebyblock">
+            <span id="browsebyspan">
+               Browse:
+            </span>
+            <span class="browseLink">
+               <a href="?p=collections/collections" onclick="js_highlighttoplink(this.parentNode); return true;">Collections</a>
+            </span>
+            <span class="currentBrowseLink">
+               <a href="?p=digitallibrary/digitallibrary" onclick="js_highlighttoplink(this.parentNode); return true;">Digital Content</a>
+            </span>
+            <span class="browseLink">
+               <a href="?p=subjects/subjects" onclick="js_highlighttoplink(this.parentNode); return true;">Subjects</a>
+            </span>
+            <span class="browseLink">
+               <a href="?p=creators/creators" onclick="js_highlighttoplink(this.parentNode); return true;">Creators</a>
+            </span>
+            <!--
+            <span class="browseLink">
+               <a href="?p=collections/classifications" onclick="js_highlighttoplink(this.parentNode); return true;">Record Groups</a>
+            </span>-->
+         </div>
+      </div>
+      <div id="breadcrumbblock"><span class='bold'>Location: </span><a href='index.php'>Archon</a> <img src='themes/herbaria/images/arrowright.gif' alt='right-pointing arrow' /> <a href='?p=digitallibrary/digitallibrary'>Digital Archives</a> <img src='themes/herbaria/images/arrowright.gif' alt='right-pointing arrow' /> Image Thumbnails</div>
+      <div id="breadcrumbclearblock">.</div>
+      <script type="text/javascript">
+         /* <![CDATA[ */
+         $('#searchblock').corner('5px');
+         $('#browsebyblock').corner('tl 10px');
+         /* ]]> */
+      </script>
+      <div id="main"><h1 id='titleheader'>Image Thumbnails | University and Jepson Herbaria Archives, University of California, Berkeley</h1>
+<script type="text/javascript">
+   /* <![CDATA[ */
+   if(window.jQuery !== undefined && jQuery.cluetip !== undefined)
+   {
+      $(document).ready(function () {
+         $('.thumbnailimg .thumbimglink').cluetip({dropShadow: false, width: 320, tracking: true, showTitle: true, local: true, onActivate: function (e) {
+               var src = $(e).find('img').attr('src');
+        
+               var idExp = /id=(\d+)/;
+               var idMatchArray = idExp.exec(src);
+               if(idMatchArray !== null)
+               {
+                  var id = idMatchArray[1];
+                  $('#mediumPreview img').attr('src', '?p=digitallibrary/getfile&id=' + id + '&preview=long');
+
+                  return true;
+               }
+             
+               if(src.indexOf('ps_') != -1){                  
+                  var newSrc = src.replace('ps_', 'pl_');
+                  $('#mediumPreview img').attr('src', newSrc);
+                  return true;
+               }
+
+               return false;
+            }});
+      })
+
+   }
+   /* ]]> */
+</script>
+   <div id="mediumPreview" style="display: none;">
+      <img id="mediumpreviewimg" src="" alt="Medium Preview" />
+   </div>
+         <div class="thumbnailimg">
+            <div class="thumbnailimgwrapper">
+               <a class="thumbimglink" href="?p=digitallibrary/digitalcontent&amp;id=209" title="Abbott, Isabella A." rel="#mediumPreview">
+                  <img class='digcontentfile' src='index.php?p=digitallibrary/getfile&amp;id=449&amp;preview=short' alt='Abbott, Isabella A.'/>
+               </a>
+            </div>
+            <div class="thumbnailcaption">
+               <a href="?p=digitallibrary/digitalcontent&amp;id=209">Abbott, Isabella A.</a>
+            </div>
+   </div>
+         <div class="thumbnailimg">
+            <div class="thumbnailimgwrapper">
+               <a class="thumbimglink" href="?p=digitallibrary/digitalcontent&amp;id=2332" title="Alaria lanceolata. Amaknak...." rel="#mediumPreview">
+                  <img class='digcontentfile' src='index.php?p=digitallibrary/getfile&amp;id=745&amp;preview=short' alt='1946.01.1219'/>
+               </a>
+            </div>
+            <div class="thumbnailcaption">
+               <a href="?p=digitallibrary/digitalcontent&amp;id=2332">Alaria lanceolata...</a>
+            </div>
+   </div>
+         <div class="thumbnailimg">
+            <div class="thumbnailimgwrapper">
+               <a class="thumbimglink" href="?p=digitallibrary/digitalcontent&amp;id=2335" title="Alaria tennifolia f. typica..." rel="#mediumPreview">
+                  <img class='digcontentfile' src='index.php?p=digitallibrary/getfile&amp;id=748&amp;preview=short' alt='1946.01.1222'/>
+               </a>
+            </div>
+            <div class="thumbnailcaption">
+               <a href="?p=digitallibrary/digitalcontent&amp;id=2335">Alaria tennifolia...</a>
+            </div>
+   </div>
+         <div class="thumbnailimg">
+            <div class="thumbnailimgwrapper">
+               <a class="thumbimglink" href="?p=digitallibrary/digitalcontent&amp;id=149" title="Alava, Aloha" rel="#mediumPreview">
+                  <img class='digcontentfile' src='index.php?p=digitallibrary/getfile&amp;id=450&amp;preview=short' alt='Alava, Aloha'/>
+               </a>
+            </div>
+            <div class="thumbnailcaption">
+               <a href="?p=digitallibrary/digitalcontent&amp;id=149">Alava, Aloha</a>
+            </div>
+   </div>
+         <div class="thumbnailimg">
+            <div class="thumbnailimgwrapper">
+               <a class="thumbimglink" href="?p=digitallibrary/digitalcontent&amp;id=150" title="Alava, Reino Olavi" rel="#mediumPreview">
+                  <img class='digcontentfile' src='index.php?p=digitallibrary/getfile&amp;id=451&amp;preview=short' alt='Alava, Raine'/>
+               </a>
+            </div>
+            <div class="thumbnailcaption">
+               <a href="?p=digitallibrary/digitalcontent&amp;id=150">Alava, Reino Olavi</a>
+            </div>
+   </div>
+         <div class="thumbnailimg">
+            <div class="thumbnailimgwrapper">
+               <a class="thumbimglink" href="?p=digitallibrary/digitalcontent&amp;id=473" title="Ames, Mary E. Pulsifer" rel="#mediumPreview">
+                  <img class='digcontentfile' src='index.php?p=digitallibrary/getfile&amp;id=432&amp;preview=short' alt='Ames, Mary E. Pulsifer'/>
+               </a>
+            </div>
+            <div class="thumbnailcaption">
+               <a href="?p=digitallibrary/digitalcontent&amp;id=473">Ames, Mary E. Pul...</a>
+            </div>
+   </div>
+         <div class="thumbnailimg">
+            <div class="thumbnailimgwrapper">
+               <a class="thumbimglink" href="?p=digitallibrary/digitalcontent&amp;id=151" title="Armas, Hermano Miguel" rel="#mediumPreview">
+                  <img class='digcontentfile' src='index.php?p=digitallibrary/getfile&amp;id=452&amp;preview=short' alt='Armas, Hermano Miguel'/>
+               </a>
+            </div>
+            <div class="thumbnailcaption">
+               <a href="?p=digitallibrary/digitalcontent&amp;id=151">Armas, Hermano Mi...</a>
+            </div>
+   </div>
+         <div class="thumbnailimg">
+            <div class="thumbnailimgwrapper">
+               <a class="thumbimglink" href="?p=digitallibrary/digitalcontent&amp;id=152" title="Arnott, Howard" rel="#mediumPreview">
+                  <img class='digcontentfile' src='index.php?p=digitallibrary/getfile&amp;id=453&amp;preview=short' alt='Arnott, Howard'/>
+               </a>
+            </div>
+            <div class="thumbnailcaption">
+               <a href="?p=digitallibrary/digitalcontent&amp;id=152">Arnott, Howard</a>
+            </div>
+   </div>
+         <div class="thumbnailimg">
+            <div class="thumbnailimgwrapper">
+               <a class="thumbimglink" href="?p=digitallibrary/digitalcontent&amp;id=153" title="Arzee, Tova" rel="#mediumPreview">
+                  <img class='digcontentfile' src='index.php?p=digitallibrary/getfile&amp;id=454&amp;preview=short' alt='Arzee, Tava'/>
+               </a>
+            </div>
+            <div class="thumbnailcaption">
+               <a href="?p=digitallibrary/digitalcontent&amp;id=153">Arzee, Tova</a>
+            </div>
+   </div>
+         <div class="thumbnailimg">
+            <div class="thumbnailimgwrapper">
+               <a class="thumbimglink" href="?p=digitallibrary/digitalcontent&amp;id=2336" title="Asa to Gray to John Lemmon" rel="#mediumPreview">
+                  <img class='digcontentfile' src='index.php?p=digitallibrary/getfile&amp;id=749&amp;preview=short' alt='BuckinghamtoMrsLemmon01301888.jpg'/>
+               </a>
+            </div>
+            <div class="thumbnailcaption">
+               <a href="?p=digitallibrary/digitalcontent&amp;id=2336">Asa to Gray to Jo...</a>
+            </div>
+   </div>
+         <div class="thumbnailimg">
+            <div class="thumbnailimgwrapper">
+               <a class="thumbimglink" href="?p=digitallibrary/digitalcontent&amp;id=210" title="Ashton, Mary Enta" rel="#mediumPreview">
+                  <img class='digcontentfile' src='index.php?p=digitallibrary/getfile&amp;id=455&amp;preview=short' alt='Ashton, Mary Enta'/>
+               </a>
+            </div>
+            <div class="thumbnailcaption">
+               <a href="?p=digitallibrary/digitalcontent&amp;id=210">Ashton, Mary Enta</a>
+            </div>
+   </div>
+         <div class="thumbnailimg">
+            <div class="thumbnailimgwrapper">
+               <a class="thumbimglink" href="?p=digitallibrary/digitalcontent&amp;id=36" title="Bacigalupi, Rimo" rel="#mediumPreview">
+                  <img class='digcontentfile' src='index.php?p=digitallibrary/getfile&amp;id=65&amp;preview=short' alt='Rimo Bacigalupi'/>
+               </a>
+            </div>
+            <div class="thumbnailcaption">
+               <a href="?p=digitallibrary/digitalcontent&amp;id=36">Bacigalupi, Rimo</a>
+            </div>
+   </div>
+         <div class="thumbnailimg">
+            <div class="thumbnailimgwrapper">
+               <a class="thumbimglink" href="?p=digitallibrary/digitalcontent&amp;id=8" title="Bacigalupi, Rimo Images" rel="#mediumPreview">
+                  <img class='digcontentfile' src='index.php?p=digitallibrary/getfile&amp;id=19&amp;preview=short' alt='Rimo Bacigalupi'/>
+               </a>
+            </div>
+            <div class="thumbnailcaption">
+               <a href="?p=digitallibrary/digitalcontent&amp;id=8">Bacigalupi, Rimo ...</a>
+            </div>
+   </div>
+         <div class="thumbnailimg">
+            <div class="thumbnailimgwrapper">
+               <a class="thumbimglink" href="?p=digitallibrary/digitalcontent&amp;id=211" title="Bailey, Virginia and Harold" rel="#mediumPreview">
+                  <img class='digcontentfile' src='index.php?p=digitallibrary/getfile&amp;id=456&amp;preview=short' alt='Bailey, Virginia and Harold'/>
+               </a>
+            </div>
+            <div class="thumbnailcaption">
+               <a href="?p=digitallibrary/digitalcontent&amp;id=211">Bailey, Virginia ...</a>
+            </div>
+   </div>
+         <div class="thumbnailimg">
+            <div class="thumbnailimgwrapper">
+               <a class="thumbimglink" href="?p=digitallibrary/digitalcontent&amp;id=24" title="Baker, Herbert G." rel="#mediumPreview">
+                  <img class='digcontentfile' src='index.php?p=digitallibrary/getfile&amp;id=457&amp;preview=short' alt='Herbert G. Baker'/>
+               </a>
+            </div>
+            <div class="thumbnailcaption">
+               <a href="?p=digitallibrary/digitalcontent&amp;id=24">Baker, Herbert G.</a>
+            </div>
+   </div>
+         <div class="thumbnailimg">
+            <div class="thumbnailimgwrapper">
+               <a class="thumbimglink" href="?p=digitallibrary/digitalcontent&amp;id=33" title="Baker, Irene" rel="#mediumPreview">
+                  <img class='digcontentfile' src='index.php?p=digitallibrary/getfile&amp;id=458&amp;preview=short' alt='Irene Baker'/>
+               </a>
+            </div>
+            <div class="thumbnailcaption">
+               <a href="?p=digitallibrary/digitalcontent&amp;id=33">Baker, Irene</a>
+            </div>
+   </div>
+         <div class="thumbnailimg">
+            <div class="thumbnailimgwrapper">
+               <a class="thumbimglink" href="?p=digitallibrary/digitalcontent&amp;id=154" title="Barlow, Bryan" rel="#mediumPreview">
+                  <img class='digcontentfile' src='index.php?p=digitallibrary/getfile&amp;id=459&amp;preview=short' alt='Bryan Barlow'/>
+               </a>
+            </div>
+            <div class="thumbnailcaption">
+               <a href="?p=digitallibrary/digitalcontent&amp;id=154">Barlow, Bryan</a>
+            </div>
+   </div>
+         <div class="thumbnailimg">
+            <div class="thumbnailimgwrapper">
+               <a class="thumbimglink" href="?p=digitallibrary/digitalcontent&amp;id=212" title="Barnes, Lois" rel="#mediumPreview">
+                  <img class='digcontentfile' src='index.php?p=digitallibrary/getfile&amp;id=460&amp;preview=short' alt='Lois Barnes'/>
+               </a>
+            </div>
+            <div class="thumbnailcaption">
+               <a href="?p=digitallibrary/digitalcontent&amp;id=212">Barnes, Lois</a>
+            </div>
+   </div>
+         <div class="thumbnailimg">
+            <div class="thumbnailimgwrapper">
+               <a class="thumbimglink" href="?p=digitallibrary/digitalcontent&amp;id=213" title="Barrett, Spencer Charles Hi..." rel="#mediumPreview">
+                  <img class='digcontentfile' src='index.php?p=digitallibrary/getfile&amp;id=461&amp;preview=short' alt='Spencer Barrett'/>
+               </a>
+            </div>
+            <div class="thumbnailcaption">
+               <a href="?p=digitallibrary/digitalcontent&amp;id=213">Barrett, Spencer ...</a>
+            </div>
+   </div>
+         <div class="thumbnailimg">
+            <div class="thumbnailimgwrapper">
+               <a class="thumbimglink" href="?p=digitallibrary/digitalcontent&amp;id=34" title="Bartholomew, Bruce" rel="#mediumPreview">
+                  <img class='digcontentfile' src='index.php?p=digitallibrary/getfile&amp;id=462&amp;preview=short' alt='Bruce Bartholomew'/>
+               </a>
+            </div>
+            <div class="thumbnailcaption">
+               <a href="?p=digitallibrary/digitalcontent&amp;id=34">Bartholomew, Bruce</a>
+            </div>
+   </div>
+<div id='thumbnailnav'><span id='thumbnailnextlink'><a href='index.php?p=digitallibrary/thumbnails&amp;thumbnailpage=2'>Next</a></span></div>
+</div>
+<div id="bottom">
+    <br/>
+    <hr id="footerhr" />
+    <div id="userbox" class="smround">
+
+<div id="userlogincontrols">
+  <a id="loginlink" href="index.php?p=admin/core/login&amp;go=" onclick="if($('#userlogin').is(':visible')) {this.innerHTML = 'Log In';} else {this.innerHTML = 'Hide';} $('#userlogin').slideToggle('normal'); return false;">Log In</a>
+  <a href="?p=core/register">Register</a>
+</div>
+<div id="userlogin" style="display:none">&nbsp;
+    <form action="/archon/index.php?p=digitallibrary/thumbnails" accept-charset="UTF-8" method="post">
+    <div class='loginpair'>
+    	<div class='loginlabel'><label for="ArchonLoginField">Login:</label></div>
+      	<div class='logininput'><input id="ArchonLoginField" type="text" name="ArchonLogin" size="20" tabindex="400" /></div>
+    </div>
+    <div class='loginpair'>
+      <div class='loginlabel'><label for="ArchonPasswordField">Password:</label></div>
+      <div class='logininput'><input id="ArchonPasswordField" type="password" name="ArchonPassword" size="20" tabindex="500" /></div>
+    </div>
+      <div id='loginsubmit'>
+	      <input type="submit" value="Log in" class="button" tabindex="700" />&nbsp;&nbsp;<label for="RememberMeField"><input id="RememberMeField" type="checkbox" name="RememberMe" value="1" tabindex="600" />Remember me?</label>
+	  </div>
+    </form>
+</div>
+  </div>
+<div id='contactcontainer'><div id='repositorylink'><a href='http://ucjeps.berkeley.edu/'>University and Jepson Herbaria Archives, University of California, Berkeley</a></div>
+<div id='emaillink'>Contact Us: <a href='?p=core/contact&amp;f=email&amp;referer=ucjeps.berkeley.edu%2Farchon%2Findex.php%3Fp%3Ddigitallibrary%2Fthumbnails'>Email Form</a></div>
+</div></div>
+<!-- Begin footer -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" id="footer">
+
+  <tr>
+    <td height="18" class="banner"><img src="http://ucjeps.berkeley.edu/common/images/common_spacer.gif" 
+		  alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  <tr>
+    <td height="20"><span class="copyrightText">&nbsp;&nbsp;
+		  <a href="http://ucjeps.berkeley.edu/main/copyright.html">Copyright</a> 
+			&copy; 2010 Regents of the University of California &mdash; 
+			Updated 
+			<!-- #BeginDate format:Am1 -->March 8, 2010<!-- #EndDate -->
+
+    </span></td>
+  </tr>
+</table>  
+<!-- End footer -->
+
+<div id="archoninfo">
+   Page Generated in: 0.177 seconds (using 197 queries).<br/>
+
+         Using 8.92MB of memory. (Peak of 9.09MB.)<br/>
+            <br/>
+   Powered by <a href='http://www.archon.org/'>Archon</a> Version 3.21 rev-2.1<br/>
+      Copyright ©2012 <a href="http://www.uiuc.edu/" rel="external">The University of Illinois at Urbana-Champaign</a>   <br/>
+      
+
+</div>
+</body>
+</html>
+   

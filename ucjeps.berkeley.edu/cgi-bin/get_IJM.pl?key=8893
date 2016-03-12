@@ -1,0 +1,311 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Keys</title> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43909100-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/JepsonLogoSmall.png" alt="Jepson Herbarium (JEPS)" width="100" height="100" border="0" /></a></td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td height="14" align="center"></td>
+    <td align="center"><a href="http://ucjeps.berkeley.edu/jeps/" class="logoText">Jepson&nbsp;Herbarium</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>  
+<!-- End banner -->
+
+  <!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+ <table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="/IJM.html">Jepson eFlora</a></span>
+<span class="pageAuthorLine">
+<br>
+<a href="/IJM_fam_key.html">Key to families</a>
+|
+<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+</span>
+   	  
+<P class="bodyText">
+<!--Specimen numbers are hyperlinked to records in the Consortium of California Herbaria data view where possible. Taxa are hyperlinked to entries in the Jepson Interchange via the "[Online Interchange]" link. --> 
+
+</td>
+</tr>
+</table>
+
+<h2>Key to Claytonia</h2>	<FORM>
+	<SELECT WIDTH=20 onChange="window.location=this.value">
+	<OPTION VALUE="None">List of species in Claytonia
+	<OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19618">Claytonia cordifolia
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19640">Claytonia exigua
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76950">Claytonia exigua subsp. exigua
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76949">Claytonia exigua subsp. glauca
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19620">Claytonia gypsophiloides
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19622">Claytonia lanceolata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19625">Claytonia megarhiza
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19628">Claytonia nevadensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19630">Claytonia palustris
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19631">Claytonia parviflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76954">Claytonia parviflora subsp. grandiflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=74695">Claytonia parviflora subsp. parviflora
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=77493">Claytonia parviflora subsp. utahensis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76955">Claytonia parviflora subsp. viridis
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19632">Claytonia perfoliata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76959">Claytonia perfoliata subsp. intermontana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76956">Claytonia perfoliata subsp. mexicana
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=49921">Claytonia perfoliata subsp. perfoliata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19634">Claytonia rubra
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76957">Claytonia rubra subsp. depressa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=74699">Claytonia rubra subsp. rubra
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19636">Claytonia saxosa
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19638">Claytonia sibirica
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=19643">Claytonia umbellata
+ <OPTION VALUE="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?tid=76958">Claytonia washingtoniana
+
+	</SELECT>
+	</FORM>
+<a href='http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=8893'><h3>View taxon page for Claytonia</h3></a><blockquote><h3></h3>
+<P class="keyText" style="padding-left : 0 ;"><a href="#XC1'">1.</a><a name="XC1."> </a> Perennial herb
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#XC2'">2.</a><a name="XC2."> </a> Plant from thick, taprooted caudex or spheric tuberous root
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#XC3'">3.</a><a name="XC3."> </a> Basal leaves many, from caudex; cauline leaves linear to narrowly oblanceolate; alpine; n&c High Sierra Nevada, Warner Mountains <a href="/cgi-bin/get_IJM.pl?tid=19625">.....&nbsp;C. megarhiza</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#XC3.">3'</a><a name="XC3'"> </a> Basal leaves 0 to few, from oblong to spheric tuberous root; cauline leaves &plusmn; linear to ovate or widely elliptic; montane to alpine; widespread, not include High Sierra Nevada, including Warner Mountains
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#XC4'">4.</a><a name="XC4."> </a> Cauline leaves generally &plusmn; sessile, &plusmn; linear to ovate <a href="/cgi-bin/get_IJM.pl?tid=19622">.....&nbsp;C. lanceolata</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#XC4.">4'</a><a name="XC4'"> </a> Cauline leaves petioled, widely elliptic <a href="/cgi-bin/get_IJM.pl?tid=19643">.....&nbsp;C. umbellata</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#XC2.">2'</a><a name="XC2'"> </a> Plant from rhizomes, caudex generally 0 or short, taproot 0 or slender
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#XC5'">5.</a><a name="XC5."> </a> Rhizome short, not branched, without bulb-like winter buds; petals &plusmn; = to >> sepals <a href="/cgi-bin/get_IJM.pl?tid=19638">.....&nbsp;C. sibirica</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#XC5.">5'</a><a name="XC5'"> </a> Rhizome long, generally branched, often with bulb-like winter buds; petals >> sepals
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#XC6'">6.</a><a name="XC6."> </a> Plant &lt; 15 cm; rhizomes fleshy, pale, bulb-like buds 0; bract 1, below lowest flower; petals &plusmn; pink <a href="/cgi-bin/get_IJM.pl?tid=19628">.....&nbsp;C. nevadensis</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#XC6.">6'</a><a name="XC6'"> </a> Plant 15&ndash;60 cm; rhizomes slender, often &plusmn; brown, bulb-like buds at nodes; bracts 0 or 1 below each flower; petals generally white
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#XC7'">7.</a><a name="XC7."> </a> Bracts 0; basal leaf blade widely ovate, base truncate to cordate, petiole distinct, linear; cauline leaves widely ovate, sessile <a href="/cgi-bin/get_IJM.pl?tid=19618">.....&nbsp;C. cordifolia</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#XC7.">7'</a><a name="XC7'"> </a> Bracts 1 below each flower; basal leaf blade narrowly elliptic to oblanceolate, base tapered, petiole &plusmn; indistinct, linear; cauline leaves oblanceolate to widely elliptic, sessile or tapered to winged petiole <a href="/cgi-bin/get_IJM.pl?tid=19630">.....&nbsp;C. palustris</a>
+
+<P class="keyText" style="padding-left : 0 ;"><a href="#XC1.">1'</a><a name="XC1'"> </a> Annual (rarely perennial herb in <I>Claytonia rubra</I> subsp. <I>rubra</I>)
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#XC8'">8.</a><a name="XC8."> </a> Bracts 1 per 1&ndash;4 flowers; petals 4&ndash;12 mm; leaf blades oblanceolate to ovate, if &plusmn; linear, some leaf bases bulb-like
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#XC9'">9.</a><a name="XC9."> </a> Flowers generally 1&ndash;2 per bract; cauline leaves lanceolate to ovate, free; petals 6&ndash;12 mm; stigmas maturing after anthers (cross-pollinated); Northwestern California, High Cascade Range, San Francisco Bay Area <a href="/cgi-bin/get_IJM.pl?tid=19638">.....&nbsp;C. sibirica</a> (2)
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#XC9.">9'</a><a name="XC9'"> </a> Flowers often 2&ndash;4 per bract; cauline leaves widely ovate to &plusmn; round, free or fused &lt; 5 mm on 1 side; petals 4&ndash;5 mm; stigmas maturing &plusmn; with anthers (self-pollinated); North Coast <a href="/cgi-bin/get_IJM.pl?tid=76958">.....&nbsp;C. washingtoniana</a>
+
+<P class="keyText" style="padding-left : 7 ;"><a href="#XC8.">8'</a><a name="XC8'"> </a> Bract generally 1, below lowest flower; petals 1&ndash;8 mm; leaf blades linear elliptic, oblanceolate, diamond-shaped, deltate, or reniform, leaf bases not bulb-like
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#XC10'">10.</a><a name="XC10."> </a> Seeds dull black, &plusmn; tubercled, appendage &plusmn; brown, fleshy or shrunken, filling notch or not
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#XC11'">11.</a><a name="XC11."> </a> Basal leaves &plusmn; prostrate; plant cushion-shaped, &lt; 6 cm wide, generally not glaucous; cauline leaves ovate, free; petals 5&ndash;8 mm, &plusmn; pink; seed appendage filling notch <a href="/cgi-bin/get_IJM.pl?tid=19636">.....&nbsp;C. saxosa</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#XC11.">11'</a><a name="XC11'"> </a> Basal leaves decumbent to erect; plant open or tufted, often > 6 cm wide, generally glaucous; cauline leaves linear if free; petals 1&ndash;8 mm, pink or white; seed appendage not filling notch
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#XC12'">12.</a><a name="XC12."> </a> Petals 5&ndash;8 mm; stigmas maturing after anthers (cross-pollinated); inflorescence 3&ndash;30-flowered, long-stalked above cauline leaves <a href="/cgi-bin/get_IJM.pl?tid=19620">.....&nbsp;C. gypsophiloides</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#XC12.">12'</a><a name="XC12'"> </a> Petals 2&ndash;5 mm; stigmas maturing &plusmn; with anthers (self-pollinated); inflorescence 3&ndash;15-flowered, sessile to long-stalked above cauline leaves <a href="/cgi-bin/get_IJM.pl?tid=19640">.....&nbsp;C. exigua</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#XC13'">13.</a><a name="XC13."> </a> Cauline leaves free or &plusmn; fused on 1 side; petals 2&ndash;5 mm <a href="/cgi-bin/get_IJM.pl?tid=76950">.....&nbsp;subsp. exigua</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#XC13.">13'</a><a name="XC13'"> </a> Cauline leaves fused into &plusmn; disk; petals &plusmn; 2 mm <a href="/cgi-bin/get_IJM.pl?tid=76949">.....&nbsp;subsp. glauca</a>
+
+<P class="keyText" style="padding-left : 14 ;"><a href="#XC10.">10'</a><a name="XC10'"> </a> Seeds shiny black, smooth, appendage white, fleshy, filling notch or &plusmn; exserted from it
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#XC14'">14.</a><a name="XC14."> </a> Basal leaf blades > 3 &times; longer than wide, base tapered gradually to petiole; petals 1&ndash;6 mm <a href="/cgi-bin/get_IJM.pl?tid=19631">.....&nbsp;C. parviflora</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#XC15'">15.</a><a name="XC15."> </a> Petals 4&ndash;6 mm; stigmas maturing after anthers (cross-pollinated); cauline leaves fused into &plusmn; disk (or &plusmn; fused on 1 side) &mdash; Sierra Nevada Foothills, Tehachapi Mountain Area <a href="/cgi-bin/get_IJM.pl?tid=76954">.....&nbsp;subsp. grandiflora</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#XC15.">15'</a><a name="XC15'"> </a> Petals &lt; 4(6) mm; stigmas maturing &plusmn; with anthers (self-pollinated); cauline leaves fused into &plusmn; disk or free (or &plusmn; fused on 1 side)
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#XC16'">16.</a><a name="XC16."> </a> Cauline leaves free (or &plusmn; fused on 1 side) <a href="/cgi-bin/get_IJM.pl?tid=76955">.....&nbsp;subsp. viridis</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#XC16.">16'</a><a name="XC16'"> </a> Cauline leaves fused into &plusmn; disk
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#XC17'">17.</a><a name="XC17."> </a> Basal leaves linear; vernally moist, often disturbed sites <a href="/cgi-bin/get_IJM.pl?tid=74695">.....&nbsp;subsp. parviflora</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#XC17.">17'</a><a name="XC17'"> </a> Basal leaves elliptic; rock crevices, alluvial fans, boulder fields <a href="/cgi-bin/get_IJM.pl?tid=77493">.....&nbsp;subsp. utahensis</a>
+
+<P class="keyText" style="padding-left : 21 ;"><a href="#XC14.">14'</a><a name="XC14'"> </a> Basal leaf blades &lt; 3 &times; longer than wide, base cordate to tapered abruptly to petiole; petals generally &lt; 5 mm
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#XC18'">18.</a><a name="XC18."> </a> Basal leaves generally many, prostrate to spreading, smaller inward; cauline fused or &plusmn; free on 1 side; petals 2&ndash;3.5 mm <a href="/cgi-bin/get_IJM.pl?tid=19634">.....&nbsp;C. rubra</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#XC19'">19.</a><a name="XC19."> </a> Basal leaves elliptic to obovate, base wedge-shaped; petioles but not whole plant often red <a href="/cgi-bin/get_IJM.pl?tid=76957">.....&nbsp;subsp. depressa</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#XC19.">19'</a><a name="XC19'"> </a> Basal leaves diamond-shaped to deltate, base &plusmn; truncate; petioles or whole plant often red <a href="/cgi-bin/get_IJM.pl?tid=74699">.....&nbsp;subsp. rubra</a>
+
+<P class="keyText" style="padding-left : 28 ;"><a href="#XC18.">18'</a><a name="XC18'"> </a> Basal leaves few to many, spreading to erect, &plusmn; equal; cauline leaves fused; petals 2&ndash;6 mm <a href="/cgi-bin/get_IJM.pl?tid=19632">.....&nbsp;C. perfoliata</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#XC20'">20.</a><a name="XC20."> </a> Basal leaf tips mucronate; cauline leaf disk angles generally short-pointed <a href="/cgi-bin/get_IJM.pl?tid=76956">.....&nbsp;subsp. mexicana</a>
+
+<P class="keyText" style="padding-left : 35 ;"><a href="#XC20.">20'</a><a name="XC20'"> </a> Basal leaf tips obtuse to acute; cauline leaf disk angles generally 0 or &plusmn; obtuse
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#XC21'">21.</a><a name="XC21."> </a> Basal leaves elliptic to round-deltate (diamond-shaped); shrubland, woodland, rock crevices, alluvial fans, boulder fields <a href="/cgi-bin/get_IJM.pl?tid=76959">.....&nbsp;subsp. intermontana</a>
+
+<P class="keyText" style="padding-left : 42 ;"><a href="#XC21.">21'</a><a name="XC21'"> </a> Basal leaf blades elliptic to deltate; vernally moist, often shady or disturbed sites <a href="/cgi-bin/get_IJM.pl?tid=49921">.....&nbsp;subsp. perfoliata</a></blockquote><P>
+<a href="&#109;&#97;&#105;&#108;to:rosatti&#064;berkeley.edu?subject=eFlora comment"><font size=3 color="red">Contact/Feedback</font></a>
+<P class=bodyText>
+Citation for the whole project: Jepson Flora Project (eds.) [year] <em>Jepson eFlora</em>,  http://ucjeps.berkeley.edu/IJM.html [accessed on month, day, year]
+<br>
+Citation for an individual treatment:  [Author of taxon treatment] [year]. [Taxon name] in Jepson Flora Project (eds.) <em>Jepson eFlora</em>, [URL for treatment]. Accessed on [month, day, year].
+<br>
+We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.
+
+        
+<hr>
+

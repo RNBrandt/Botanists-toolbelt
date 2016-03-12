@@ -1,0 +1,230 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>Jepson Herbarium: Jepson Flora Project: Jepson eFlora Search</title>
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"> 
+<link href="http://ucjeps.berkeley.edu/common/styles/dropdowns.css" rel="stylesheet" type="text/css" />
+
+<!-- Google analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27128382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body onload="initialize()">
+<!-- Begin banner -->
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+      <td colspan="5" align="center" valign="middle">&nbsp;</td>
+    </tr>
+
+  <tr>
+      <td rowspan="4" width="12" align="center" valign="middle"></td>
+      <td rowspan="3" width="120" align="center" valign="middle">
+        <a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/logo_jeps_80.png" alt="Jepson Herbarium (JEPS)" width="80" height="79" border="0" /></a></td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle"></td>
+    <td rowspan="4" width="12" align="center" valign="middle"></td>
+  </tr>
+    <tr>
+
+    <td align="center" valign="middle"><span class="bannerTitle">The Jepson Herbarium</span><br /></td>
+  </tr>
+
+    <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+   </tr>
+
+     <tr>
+     <td colspan="3" align="center"></td>
+
+   </tr>
+     
+   <tr>
+       <td height="8" colspan="5" align="center">&nbsp;</td>
+     </tr>
+   <tr class="bannerBottomBorder">
+     	<td colspan="6" height="3"></td>
+  </tr>
+
+    <tr>
+
+    <td colspan="6"><img src="http://ucjeps.berkeley.edu/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  </table>
+<!-- End banner -->
+
+<!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="http://ucjeps.berkeley.edu/">Home</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/main/collections.html#UC">About the Collections</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/directory.html">People</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/volunteer.html">Volunteering</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="http://ucjeps.berkeley.edu/history/">History</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/research/">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/CPPP/">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/specimens/">UC/JEPS Specimen Portal</a></li>
+            	<li><a href="http://ucjeps.berkeley.edu/images/">UC/JEPS Image Collection</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/consortium/">Consortium of California Herbaria</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/interchange/">Jepson Online Interchange</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/icpn/">Index of California Plant Names</a></li>
+		
+                <li><a href="http://ucjeps.berkeley.edu/INA.html">Index Nominum Algarum</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/CA_moss_eflora/">California Moss eFlora</a></li>
+				<li><a href="http://ucjeps.berkeley.edu/seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="http://ucjeps.berkeley.edu/efc/">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/workshops/">Public Workshops</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/news/botanylunch/">Botany Lunch Seminar</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/jeps/globe/"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="http://ucjeps.berkeley.edu/main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/archon/">Archives Database</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/main/archives/images.html">Images</a></li>
+                <li><a href="http://ucjeps.berkeley.edu/images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="http://ucjeps.berkeley.edu/main/directory.html">Contact</a></li>
+        <li><a href="http://ucjeps.berkeley.edu/jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+ 
+<!-- End of horizontal menu -->
+
+<table border="0">
+   <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td width="100%"><span class="pageName"><a href="http://ucjeps.berkeley.edu/IJM.html">Jepson eFlora:</a> Search page</span>
+		<br>
+			<span class="pageAuthorLine">
+				<a href="http://ucjeps.berkeley.edu/IJM_fam_key.html">Key to families</a>
+				<a href="http://ucjeps.berkeley.edu/IJM_toc.html">Table of families and genera</a>
+			</span>	  
+		</td>
+	</tr>
+</table>
+
+<table align="center" width="100%"><tr><td>
+&nbsp;
+</td>
+<td width=90%">
+<!--eFlora index-->
+<span class="pageAuthorLine">Index to accepted names and synonyms:</span><br>
+| 	<a href="eflora_index.php?index=A">A</a> | 
+	<a href="eflora_index.php?index=B">B</a> | 
+	<a href="eflora_index.php?index=C">C</a> | 
+	<a href="eflora_index.php?index=D">D</a> | 
+	<a href="eflora_index.php?index=E">E</a> | 
+	<a href="eflora_index.php?index=F">F</a> | 
+	<a href="eflora_index.php?index=G">G</a> | 
+	<a href="eflora_index.php?index=H">H</a> | 
+	<a href="eflora_index.php?index=I">I</a> | 
+	<a href="eflora_index.php?index=J">J</a> | 
+	<a href="eflora_index.php?index=K">K</a> | 
+	<a href="eflora_index.php?index=L">L</a> | 
+	<a href="eflora_index.php?index=M">M</a> | 
+	<a href="eflora_index.php?index=N">N</a> | 
+	<a href="eflora_index.php?index=O">O</a> | 
+	<a href="eflora_index.php?index=P">P</a> | 
+	<a href="eflora_index.php?index=Q">Q</a> | 
+	<a href="eflora_index.php?index=R">R</a> | 
+	<a href="eflora_index.php?index=S">S</a> | 
+	<a href="eflora_index.php?index=T">T</a> | 
+	<a href="eflora_index.php?index=U">U</a> | 
+	<a href="eflora_index.php?index=V">V</a> | 
+	<a href="eflora_index.php?index=W">W</a> | 
+	<a href="eflora_index.php?index=X">X</a> | 
+	<a href="eflora_index.php?index=Y">Y</a> | 
+	<a href="eflora_index.php?index=Z">Z</a> |
+<hr width="10%">
+</td>
+
+<td align="right">
+&nbsp;
+</td></tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+<form action="search_eflora.php" method="POST">
+<b>Scientific Name<br></b>		<input type="text" id="query_text" name="query"></input>
+		<input type="submit" value="Submit Name" />
+</form>
+
+<p class="bodyText">Index Page: W<p><div class="eFloraTable"><table border="1"><tr><td>Scientific Name</td><td>Common Name</td><td></td></tr><tr><td><a href="eflora_display.php?tid=10810">Washingtonia</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=10810">&#x21b3;&nbsp;&nbsp;Key to Washingtonia</td><td>FAN PALM</td><td></td><tr><td><a href="eflora_display.php?tid=48512">Washingtonia filifera</a></td><td>CALIFORNIA FAN PALM</td><td>Native</td><tr><td><a href="eflora_display.php?tid=48514">Washingtonia robusta</a></td><td>MEXICAN FAN PALM</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=9862">Watsonia</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=9862">&#x21b3;&nbsp;&nbsp;Key to Watsonia</td><td></td><td></td><tr><td><a href="eflora_display.php?tid=48519">Watsonia bulbillifera</a><br>(Under Watsonia meriana)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=48518">Watsonia marginata</a></td><td></td><td>Waif</td><tr><td><a href="eflora_display.php?tid=48519">Watsonia meriana</a></td><td></td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=9633">Whipplea</a></td><td>MODESTY</td><td></td><tr><td><a href="eflora_display.php?tid=48534">Whipplea modesta</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=37517">Whitlavia grandiflora</a><br>(Under Phacelia minor)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=37517">Whitlavia minor</a><br>(Under Phacelia minor)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=80293">Whitneya dealbata</a><br>(Under Arnica dealbata)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=10340">Wigandia</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=48535">Wigandia caracasana</a><br>(Under Wigandia urens)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=48535">Wigandia caracasana f. viscosa</a><br>(Under Wigandia urens)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=48535">Wigandia caracasana var. calycina</a><br>(Under Wigandia urens)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=48535">Wigandia caracasana var. macrophylla</a><br>(Under Wigandia urens)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=48535">Wigandia caracasana var. viscosa</a><br>(Under Wigandia urens)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=48535">Wigandia kunthii var. intermedia</a><br>(Under Wigandia urens)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=48535">Wigandia kunthii var. macrophylla</a><br>(Under Wigandia urens)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=48535">Wigandia kunthii var. viscosa</a><br>(Under Wigandia urens)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=48535">Wigandia macrophylla</a><br>(Under Wigandia urens)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=48535">Wigandia peruviana</a><br>(Under Wigandia urens)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=48535">Wigandia scorpioides</a><br>(Under Wigandia urens)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=48535">Wigandia urens</a></td><td>STINGING WIGANDIA</td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=48535">Wigandia urens var. caracasana</a><br>(Under Wigandia urens)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=10314">Wislizenia</a></td><td></td><td></td><tr><td><a href="eflora_display.php?tid=53418">Wislizenia californica</a><br>(Under Wislizenia refracta subsp. californica)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=53419">Wislizenia palmeri</a><br>(Under Wislizenia refracta subsp. palmeri)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=48570">Wislizenia refracta</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=48570">&#x21b3;&nbsp;&nbsp;Key to Wislizenia refracta</td><td>JACKASS-CLOVER</td><td>Native</td><tr><td><a href="eflora_display.php?tid=53418">Wislizenia refracta subsp. californica</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=53419">Wislizenia refracta subsp. palmeri</a></td><td>PALMER'S JACKASS-CLOVER</td><td>Native</td><tr><td><a href="eflora_display.php?tid=53420">Wislizenia refracta subsp. refracta</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=10565">Wolffia</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=10565">&#x21b3;&nbsp;&nbsp;Key to Wolffia</td><td>WATERMEAL</td><td></td><tr><td><a href="eflora_display.php?tid=48584">Wolffia arrhiza</a></td><td></td><td>Naturalized</td><tr><td><a href="eflora_display.php?tid=48585">Wolffia borealis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=48587">Wolffia brasiliensis</a></td><td>BRAZILIAN WATERMEAL</td><td>Native</td><tr><td><a href="eflora_display.php?tid=48590">Wolffia columbiana</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=48591">Wolffia cylindracea</a><br>(Under Wolffia globosa)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=48591">Wolffia globosa</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=48585">Wolffia punctata</a><br>(Under Wolffia borealis)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=10566">Wolffiella</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=10566">&#x21b3;&nbsp;&nbsp;Key to Wolffiella</td><td>MUD-MIDGET</td><td></td><tr><td><a href="eflora_display.php?tid=48598">Wolffiella lingulata</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=48599">Wolffiella oblonga</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=10787">Woodsia</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=10787">&#x21b3;&nbsp;&nbsp;Key to Woodsia</td><td>CLIFF FERN</td><td></td><tr><td><a href="eflora_display.php?tid=48612">Woodsia oregana</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=48615">Woodsia plummerae</a></td><td>PLUMMER'S WOODSIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=48616">Woodsia scopulina</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=93775">Woodsiaceae</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=93775">&#x21b3;&nbsp;&nbsp;Key to Woodsiaceae</td><td>CLIFF FERN FAMILY</td><td></td><tr><td><a href="eflora_display.php?tid=10333">Woodwardia</a></td><td>CHAIN FERN</td><td></td><tr><td><a href="eflora_display.php?tid=48619">Woodwardia chamissoi</a><br>(Under Woodwardia fimbriata)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=48619">Woodwardia fimbriata</a></td><td>GIANT CHAIN FERN</td><td>Native</td><tr><td><a href="eflora_display.php?tid=48619">Woodwardia radicans</a><br>(Under Woodwardia fimbriata)</td><td></td><td>Synonym</td></tr><tr><td><a href="eflora_display.php?tid=659">Wyethia</a><br>&nbsp;&nbsp;<a href="http://ucjeps.berkeley.edu/cgi-bin/get_IJM.pl?key=659">&#x21b3;&nbsp;&nbsp;Key to Wyethia</td><td>MULE'S EARS</td><td></td><tr><td><a href="eflora_display.php?tid=5572">Wyethia angustifolia</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=5574">Wyethia bolanderi</a></td><td>BOLANDER'S MULE'S EARS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=5577">Wyethia elata</a></td><td>HALL'S WYETHIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=5578">Wyethia glabra</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=5579">Wyethia helenioides</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=5581">Wyethia invenusta</a></td><td>RAYLESS MULE'S EARS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=5582">Wyethia longicaulis</a></td><td>HUMBOLDT COUNTY WYETHIA</td><td>Native</td><tr><td><a href="eflora_display.php?tid=5584">Wyethia mollis</a></td><td></td><td>Native</td><tr><td><a href="eflora_display.php?tid=5585">Wyethia ovata</a></td><td>SOUTHERN MULE'S EARS</td><td>Native</td><tr><td><a href="eflora_display.php?tid=5586">Wyethia reticulata</a></td><td>EL DORADO COUNTY MULE EARS</td><td>Native</td></table></div><br>
+<a href="mailto:interchange@lists.berkeley.edu"><span class="feedbackLink">Feedback/Contact<span></a><br>
+</td>
+</tr>
+</table>
+
+
+
+<!--Begin footer-->
+<table width="100%" id="footer">
+  <tr>
+    <td height="18" class="banner"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  <tr>
+    <td height="20"><span class="copyrightText"><a href="http://ucjeps.berkeley.edu/main/copyright.html"> Copyright</a> &copy; 2016  Regents of the University of California
+<br>We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The Jepson Herbarium.</span></td>
+  </tr>
+</table>
+<!--End footer-->

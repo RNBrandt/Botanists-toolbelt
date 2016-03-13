@@ -1,0 +1,31 @@
+  <div class="row">
+    <div class="medium-12 large-12 columns">
+      <h2 class="text-center">2. <small>How does option two work, briefly talk about it here...</small></h2>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="large-12 columns">&nbsp;</div>
+  </div>
+
+  <!-- Search Form Starts Here -->
+  <form method="GET" action="/family/">
+    <div class="row">
+      <div class="medium-2 large-2 columns">&nbsp;</div>
+      <div class="medium-5 large-5 columns">
+        <%# Smart Search Starts Here  %>
+        <div style="position: relative; height: 80px;">
+          <input type="text" name="search_key" id="autocomplete-ajax" style="position: absolute; z-index: 2; background: transparent;"/>
+          <input type="text" name="search_key" id="autocomplete-ajax-x" disabled="disabled" style="color: #CCC; position: absolute; background: transparent; z-index: 1;"/>
+        </div>
+        <div id="selction-ajax"></div>
+
+        <%# Smart Search Ends Here  %>
+      </div>
+      <div class="medium-3 large-3 columns">
+        <button type="submit" class="button radius alert" value="Submit">Search</button>
+      </div>
+      <div class="medium-2 large-2 columns">&nbsp;</div>
+    </div>
+  </form>
+  <!-- Search Form Ends Here -->

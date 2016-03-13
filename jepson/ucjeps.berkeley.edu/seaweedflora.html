@@ -1,0 +1,391 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<head>
+<title>California Seaweed eFlora: Front Page</title> 
+<meta name="keywords">
+<link href="common/styles/dropdowns.css" rel="stylesheet" type="text/css">
+</head>
+
+<!-- jQuery UI stuff-->
+<script src="../ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="../ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+<link rel="stylesheet" href="../code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+<link rel="stylesheet" href="common/styles/sw-custom-jquery-ui.css">
+
+ <script>
+  $(function() {
+    $( "#accordion" ).accordion({
+      heightStyle: "fill"
+    });
+  });
+  </script>
+
+<style>
+#accordion .ui-accordion-content {
+    max-height: 250px;
+}
+</style>
+<!-- end jQuery -->
+
+
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript">
+function initialize() {
+  var myOptions = {
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  }
+
+  var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+
+var pmlLayer = new google.maps.KmlLayer("http://herbaria4.herb.berkeley.edu/swl.kml?33639", { });
+  pmlLayer.setMap(map);
+
+
+}
+
+function JumpToIt(list) {
+    var newPage = list.options[list.selectedIndex].value
+    if (newPage != "None") {
+        location=newPage
+    }
+}
+</script>
+
+<body onLoad="initialize()">
+
+<!-- Begin banner -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "../connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="5" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+    <td rowspan="3" width="120" align="center" valign="middle">
+      <a href="uc/index.html"><img src="common/images/uclogo_250.png" alt="University Herbarium (UC)" width="100" height="100" border="0" /></a></td>
+    <td align="center">&nbsp;</td>
+    <td rowspan="3" width="120" align="center" valign="middle">&nbsp;</td>
+    <td rowspan="5" width="12" align="center" valign="middle"></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><span class="bannerTitle">The University Herbarium</span><br /></td>
+  </tr>
+
+  <tr>
+     <td align="center" valign="top"><a href="http://www.berkeley.edu/" class="bannerTagLine">University of California, Berkeley</a></td>
+  </tr>
+
+  <tr>
+    <td align="center"><a href="uc/index.html" class="logoText">University&nbsp;Herbarium</a></td>
+    <td height="14" align="center"></td>
+    <td align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"></td>
+  </tr>
+  
+  <tr>
+    <td height="8" colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr class="bannerBottomBorder">
+  	<td colspan="6" height="3"></td>
+  </tr>
+
+  <tr>
+    <td colspan="6"><img src="common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+</table>
+  
+<!-- End banner -->
+
+<!-- Beginning of horizontal menu -->
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<nav>
+	<ul>
+    	<li><a href="index.html">Home</a></li>
+        <li><a href="main/collections.html">About &#x25BE;</a>
+        	<ul>
+            	<!--<li><a href="#">University Herbarium</a></li>
+                <li><a href="#">Jepson Herbarium</a></li></li>-->
+                <li><a href="main/collections.html#UC">About the Collections</a></li>
+                <li><a href="main/directory.html">People</a></li>
+                <li><a href="main/guidelines.html">Visiting the Herbaria</a></li>
+                <li><a href="main/volunteer.html">Volunteering</a></li>
+                <li><a href="main/policies.html">Policies</a></li>
+               <!-- <li><a href="http://ucjeps.berkeley.edu/main/questions.html">Herbaria FAQs</a></li>-->
+                <li><a href="history/index.html">History</a></li>
+            </ul>
+        </li>
+        <li><a href="main/research/index.html">Research &#x25BE;</a>
+        	<ul>
+            	<li><a href="main/research/faculty.html">Faculty Research Programs</a></li>
+                <li><a href="Herb_Pubs.html">Herbarium Publications</a></li>
+                <li><a href="jepsonflora/index.html">Jepson Flora Project</a></li>
+                <li><a href="CPD/algal_research.html">Silva Center for Phycological <br />Documentation</a></li>
+                <li><a href="bryolab/CPPP/index.html">California Plant Phylodiversity Project</a></li>
+                <!--<li><a href="http://ucjeps.berkeley.edu/bryolab/Bryolab.html">Mishler Lab</a></li>-->
+                <!--<li><a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a></li>-->
+                <!--<li><a href="#">American-Iranian<br /> Botanical Program</a></li>-->
+            </ul>
+        </li>
+        <li><a href="main/databases.html">Databases &#x25BE;</a>
+        	<ul>
+            	<li><a href="specimens/index.html">UC/JEPS Specimen Portal</a></li>
+            	<li><a href="images/index.html">UC/JEPS Image Collection</a></li>
+                <li><a href="consortium/index.html">Consortium of California Herbaria</a></li>
+                <li><a href="bryolab/UC_bryophytes.html">Bryophyte Specimen Database</a></li>
+                <li><a href="interchange/index.html">Jepson Online Interchange</a></li>
+                <li><a href="db/icpn/index.html">Index of California Plant Names</a></li>
+		
+                <li><a href="INA.html">Index Nominum Algarum</a></li>
+                <li><a href="db/JPNI.html">Jepson Place Name Index</a></li>
+            </ul>
+        </li>
+        <li><a href="efloras.html">eFloras &#x25BE;</a>
+        	<ul>
+            	<li><a href="eflora/index.html">Jepson eFlora</a></li>
+                <li><a href="CA_moss_eflora/index.html">California Moss eFlora</a></li>
+				<li><a href="seaweedflora.html">Seaweed Flora of California<br />(Upcoming)</a></li>
+              <li><a href="efc/index.html">Ecological Flora of California</a></li>
+            </ul>
+        </li>
+        <li><a href="main/education.html">Education &amp; Outreach &#x25BE;</a>
+        	<ul>
+            	<li><a href="workshops/index.html">Public Workshops</a></li>
+                <li><a href="main/opportunities.html">Academic Opportunities</a></li>
+                <li><a href="news/botanylunch/index.html">Botany Lunch Seminar</a></li>
+                <li><a href="jeps/globe/index.html"><i>The Jepson Globe</i></a></li>
+            </ul>
+        </li>
+        <li><a href="main/archives/index.html">Archives &#x25BE;</a>
+        	<ul>
+            	<li><a href="main/archives/archives_overview.html">Collections Overview</a></li>
+                <li><a href="archon/index.html">Archives Database</a></li>
+                <li><a href="main/archives/images.html">Images</a></li>
+                <li><a href="images/fieldbooks/jepson_fieldbooks.html">Jepson Field Books</a></li>
+<!--                <li><a href="#">Inventory Report</a></li>
+                <li><a href="#">Archives Policies</a></li>
+                <li><a href="#">Library Collection</a></li> -->
+            </ul>
+        </li>
+        <li><a href="main/directory.html">Contact</a></li>
+        <li><a href="jeps/friends/index.html">Donate</a></li>
+    </ul>
+</nav>
+</td>
+</tr>
+</table>
+<!-- End of horizontal menu -->
+
+<center>
+<p>
+       <span class="pageName"><font size="5">California Seaweeds: Our Upcoming eFlora</font></span></p>
+<p>&nbsp;
+</p></center>
+
+
+
+
+<table align="center" width="100%">
+<tbody><tr>
+<!--<td align="center"><a href="/cgi-bin/get_moss_treatment.pl?taxon=Campylopus%20introflexus"><img border="1" src="Campylopus_introflexus.jpeg" alt="Campylopus introflexus" height="190"></a></td>
+<td ><a href="/cgi-bin/get_moss_treatment.pl?taxon=Bartramia%20ithyphylla"><img src="BartramiaIthyphylla.jpeg" alt="Bartramia ithyphlla" height="190"></a></td>-->
+<td width="50%" valign="top">
+<div class="pageLargeHeading">Now Available: The Kelps of California</div>
+<br><br><br>
+<table><tr>
+<td width="25%" align="center">
+<a href="http://datareact.com/algae7/"><img src="common/images/pelagophycus.jpg" alt="Pelagophycus porra seaweed photograph" height="200"></a>
+<br><h5 class="bodyText"><a href="http://datareact.com/algae7/">Interactive Photo Key to California Kelps</a></h5>
+</td>
+<td width="25%" valign="top">
+<div class="pageSubHeading">For more information:</div>
+<FORM><SELECT WIDTH=20 onChange="JumpToIt(this)"><OPTION VALUE="None">Select a species
+<OPTION VALUE="http://herbaria4.herb.berkeley.edu/seaweedflora/eflora_display.php?tid=1">Agarum fimbriatum
+<OPTION VALUE="http://herbaria4.herb.berkeley.edu/seaweedflora/eflora_display.php?tid=2">Alaria marginata
+<OPTION VALUE="http://herbaria4.herb.berkeley.edu/seaweedflora/eflora_display.php?tid=3">Costaria costata
+<OPTION VALUE="http://herbaria4.herb.berkeley.edu/seaweedflora/eflora_display.php?tid=4">Egregia menziesii
+<OPTION VALUE="http://herbaria4.herb.berkeley.edu/seaweedflora/eflora_display.php?tid=5">Eisenia arborea
+<OPTION VALUE="http://herbaria4.herb.berkeley.edu/seaweedflora/eflora_display.php?tid=6">Laminaria ephemera
+<OPTION VALUE="http://herbaria4.herb.berkeley.edu/seaweedflora/eflora_display.php?tid=7">Laminaria farlowii
+<OPTION VALUE="http://herbaria4.herb.berkeley.edu/seaweedflora/eflora_display.php?tid=8">Laminaria setchellii
+<OPTION VALUE="http://herbaria4.herb.berkeley.edu/seaweedflora/eflora_display.php?tid=9">Laminaria sinclairii
+<OPTION VALUE="http://herbaria4.herb.berkeley.edu/seaweedflora/eflora_display.php?tid=10">Lessoniopsis littoralis
+<OPTION VALUE="http://herbaria4.herb.berkeley.edu/seaweedflora/eflora_display.php?tid=11">Macrocystis pyrifera
+<OPTION VALUE="http://herbaria4.herb.berkeley.edu/seaweedflora/eflora_display.php?tid=12">Nereocystis luetkeana
+<OPTION VALUE="http://herbaria4.herb.berkeley.edu/seaweedflora/eflora_display.php?tid=13">Pelagophycus porra
+<OPTION VALUE="http://herbaria4.herb.berkeley.edu/seaweedflora/eflora_display.php?tid=14">Pleurophycus gardneri
+<OPTION VALUE="http://herbaria4.herb.berkeley.edu/seaweedflora/eflora_display.php?tid=15">Pterygophora californica
+<OPTION VALUE="http://herbaria4.herb.berkeley.edu/seaweedflora/eflora_display.php?tid=16">Postelsia palmaeformis
+<OPTION VALUE="http://herbaria4.herb.berkeley.edu/seaweedflora/eflora_display.php?tid=17">Saccharina sessilis
+<OPTION VALUE="http://herbaria4.herb.berkeley.edu/seaweedflora/eflora_display.php?tid=18">Undaria pinnatifida
+</SELECT></FORM>
+
+</td></tr></table>
+<td width="50%" align="center" valign="top">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AC9tMGMKyTs" frameborder="0" allowfullscreen></iframe>
+</td>
+<!--<td ><a href="/cgi-bin/get_moss_treatment.pl?taxon=Fontinalis%20hypnoides"><img src="Fontinalis_hypnoides.jpeg" alt="Fontinalis hypnoides, photo John C. Game" height="190"></a></td>
+<td ><a href="/cgi-bin/get_moss_treatment.pl?taxon=Hookeria%20lucens"><img src="Hookeria_lucens.jpeg" alt="Hookeria lucens" height="190"></a></td>-->
+</tr>
+</tbody></table>
+
+<!--<table border="0">
+<tbody><tr>
+<td>
+  <p class="pageSubheading">
+  <a href="#plan">Our Plan</a><br>
+      <a href="#objectives">Key Objectives</a><br>
+      <a href="#history">History of UC and the Silva Center</a> </p>
+</td>
+</tr>
+</tbody>
+</table>-->
+<hr>
+<table>
+<tr >
+    <td valign="top">
+    
+<h4 class="pageMajorHeading"><a id="plan"></a>Our Plan</h4> 
+<span class="bodyText">
+We are designing and will soon host our <em>California Seaweed eFlora</em>, a web-based update of Abbott &amp; Hollenberg (1976) <em>Marine Algae of California</em>. The website will include:
+<ul>
+<li>Current <strong>nomenclature</strong></li>
+<li><strong>New taxa</strong> for California</li>
+<li>Voucher-based range <strong>maps</strong></li>
+<li>Focus on <strong>field identification</strong>, with field photos, scans of specimens and visual keys for common species</li>
+<li>Information on whether a species can be confidently identified</li>
+<li>Notes on taxa that need <strong>new, critical study</strong></li>
+<li>Links to genetic data <strong>(DNA sequences)</strong> in GenBank</li>
+</ul>
+</span>
+<br><br>
+<center>	<table>
+    <tr>
+    <td><a href="https://ucjeps.cspace.berkeley.edu/ucjeps_project/public/publicsearch/?majorgroup=Algae&amp;displayType=list&amp;maxresults=1000"><img height="200px" src="common/images/UC651624thumb.jpg"></a><br><br>
+    <center><a href="https://ucjeps.cspace.berkeley.edu/ucjeps_project/public/publicsearch/?majorgroup=Algae&amp;displayType=list&amp;maxresults=1000">Portal to our <br>specimen database</a></center>
+    </td>
+    <td width="150px">
+    </td>
+    <td><a href="californiaseaweeds.html"><img height="200px" src="common/images/MAC.png"></a><br><br>
+    <center><a href="californiaseaweeds.html">Updates to <em>Marine <br>Algae of California</em></a></center>
+    </td>
+    </tr>
+    </table>
+   </center>
+     
+</td>
+<td valign="top" width="50%" style="padding-left:25px">
+<h4 class="pageMajorHeading">About the Project</h4> 
+  <div id="accordion">
+    <h3>Goals for this website</h3>
+    <div>
+    <p>Here I will present a consensus of our knowledge of California seaweeds.  I have not attempted to solve taxonomic and nomenclatural problems for the nearly 800 species reported for California.  Rather, I want to point out what we know – and what we need to find out – to understand the California seaweeds and their relationships in time and space, much of which can only be understood as historical and cultural, and much of which will change with new information.</p>
+<p>My goal is to present information on the seaweeds of California, based on the authority of publications from around the world and herbarium specimens in UC and other herbaria.  Biogeography provides invaluable clues to species' identities.  The ranges of seaweeds included here are based on herbarium collections rather than published endpoints; thus, the basis for this critical information can be checked or tested by looking at the scanned specimen and label information, or by visiting herbaria to ground truth a geographic assertion.  Maps derived from UC's database of 50,000 California specimens are provided, as are links to other seaweed databases.  I hope this approach encourages people who discover range extensions to contribute vouchers to UC or other herbaria.</p>
+<p>This eFlora will provide species pages for the 250 more or less conspicuous, common species in California, accessed from intuitive, visual keys.  Rare and microscopic species will be treated in a second wave.</p>
+<p>I draw on my own experience and on what I've learned from my many teachers and colleagues, to offer an appreciation of these fabulous marine creatures for everyone – casual observer, coastal ecologist or manager, dedicated professional – whose life or work intersects with California's coast.  </p>
+    </div>
+    <h3>The Setting: Coastal California</h3>
+    <div>
+<p>The magnificent diversity and abundance of seaweed populations along the coast of California reflect the dramatic sweep of this rich coastal environment, embracing rocky shores and reefs, sandy beaches, and offshore islands.  Only the floras of Australia and Japan (both with significantly longer coastlines) are more diverse.  </p>
+<p>California straddles the junction of two great biogeographic provinces: the cold temperate Oregonian Province roughly to the north of the northern Channel Islands and Point Conception, and the warmer temperate to subtropical Panamanian Province to the south.  </p>
+<p>The cold California Current, a branch of the Kuroshio Current, runs south along the coast with temperatures from ~9-16° C , shifting offshore near Point Conception, where the coastline veers abruptly east.  In the southern California Bight, the warm Davidson Current flows northward in the late summer and autumn, bringing warmer temperatures of ~20° C, but is depressed during spring and early summer months when upwelling brings cold nutrient-rich water to the surface at headlands throughout California and Baja California, Mexico. The iconic kelps of California, those huge, brown, forest-forming seaweeds so unique to our coast, could not survive as far south without these upwelled subsidies.  The eight California Channel Islands, in the southern California Bight, are particularly interesting because they are relatively free of coastal development and lie in this mixture of warm and cold currents. </p>
+	</div>
+    <h3>History and Herbaria: Our knowledge of California Seaweeds</h3>
+    <div>
+<p>Our scientific knowledge of California seaweeds began with the expeditions of Alessandro Malaspina (Spain) and George Vancouver (Britain) in the 1790s, grew through the long-distance taxonomic efforts of European (e.g., D. Turner, C.A. Agardh, J.G. Agardh, W.H. Harvey, F.J. Ruprecht) and American botanists on the east coast (e.g., A. Gray, W.G. Farlow), and came of age, at the beginning of the 20th century, with the collected works of W.A. Setchell and N.L. Gardner at the University of California at Berkeley (UC).  </p>
+<p>The heart of this story of discovery lies in the herbaria of the world — museums that preserve plant, fungal and algal specimens for botanical research.  Herbaria grew out of the “cabinets of curiosities” of earlier centuries, where collectors assembled enduring, beautiful and compelling specimens of natural history — rocks, plants, shells and bones.  </p>
+<p>Today, the world’s herbaria house millions of plant specimens, representing the history of our environment and the collective efforts of botanists (and students of botany) to understand and order the plant universe.  Particularly valuable are the type specimens.  Every time a plant is described, a preserved specimen is designated as the exemplar of that species, and the name is forever associated with that specimen.</p>
+<p>But because a single specimen cannot encompass the spectrum of expression of that species throughout its life and its geographic range, additional specimens are essential for understanding a species.  Herbaria are treasure houses of information, not just about plants, but about people, too — when and where they explored, what they found, and with whom they collaborated.  </p>
+    </div>
+    <h3>Benchmarks for the California Flora</h3>
+    <div>
+<p>Marine Algae of California (Abbott & Hollenberg 1976) based on and expanding the range of G.M. Smith's Marine Algae of the Monterey Peninsula (1944), was the first complete seaweed flora for California. MAC, a collaboration between two great students of the flora, Isabella A. Abbott and George J. Hollenberg, with contributions by others, including William Johansen, Susan Loiseaux and Elise Wollaston, drew upon the previous works of W.A. Setchell, N.L. Gardner, E.Y. Dawson and R.F. Scagel, among many others.  </p>
+<p>MAC lists 669 species of red, brown and green seaweeds, of which 15% are endemic to California (found nowhere else), 45% are restricted to the Pacific coast of North America, 20% are restricted to southern California and adjacent Baja California and 20% are so-called “cosmopolitan” species, with global distributions, that were described from other parts of the world. </p>
+<p>Since the publication of this landmark book, we’ve added more than 100 species to California's seaweed flora.  ~Twenty are non-native.</p>
+<p>T.C. DeCew and P.C. Silva assembled information about species from Washington, Oregon and northern California, with special reference to phenology (patterns of reproduction) as a function of latitudinal range.  Their treatments of green and brown algae are online, while their studies of red algae are part of the archives at UC.  For this website, I have drawn on the field and nomenclatural wisdom embodied in these treatments and now present their illustrations of red algae for the first time.</p>
+    </div>
+    <h3>Biogeography and Species Ranges</h3>
+    <div>
+<p>Because the native ranges of many of the "cosmopolitan" species in California are unknown, they are known as “cryptogenic”, with hidden origins. Many may be ancient introductions to California. The ships that brought early explorers to our coast (and eager gold miners in the 1840s) were wooden reefs supporting organisms from many ports visited over multi-year voyages, and were probably significant sources of introductions, long before scientists established a baseline for what is indigenous. Organisms from our coast have been introduced to other oceans by the same mechanism. </p>
+<p>That said, there is evidence that we share genera and species with the western Pacific, especially Japan and Korea, and others with the Atlantic Ocean. At the last glacial maximum, when ice reached as far south as Cape Mendocino, ocean temperature, sea levels and current patterns were very different than they are today, and the Arctic Ocean has opened and closed repeatedly, allowing species to “travel” along the boreal "north coast".  The geographic distributions of our seaweed species through time are clues to where they evolved, how they have dispersed (naturally or via human intervention) and whether their ranges are currently changing as ocean temperatures, sea levels and current patterns continue to shift.  </p>
+    </div>
+    <h3>New Frontiers in Seaweed Taxonomy</h3>
+    <div>
+<p>Seaweed systematists are critically revisiting nomenclatural history, species identity and geographic ranges.  Trends and paradigms in science have determined our interpretations of what we see — and these, like climate, shift.  We began in an age of "splitting" during which diversity was described in all its expressions.  Later, during the exciting explosion of information during the 1960s and 1970s, we entered a time of "lumping", when we realized that individuals could look different due to ecological interactions or life history phase, but were in fact the same species.  This trend dominates MAC.</p>
+<p>The well-known propensity of seaweeds to change their form depending on the environment — temperature, wave action, interactions with herbivores — is one of the reasons that it is difficult to distinguish species identity and relationships from form alone.  Advanced microscopy has allowed us to look deep into cells and to use minute, internal structures as characters to distinguish algal groups.  Growing spores in culture to trace the life history of a species — its mode of reproduction and transition between diploid and haploid phases — has been a powerful method for understanding how a species occupies time and space and has provided clues to relationships.  </p>
+<p>But the revolution in species concepts ignited by using molecular methods to “read” DNA as a set of characters independent of form and environment has opened up a world of new information about species and uncovered “cryptic” species (those that look like others but are genetically distinct) that have never before been recognized.  Analyses of DNA sequences from type specimens, housed in the world's herbaria, permit the assignment of names and identities with explicit reference to nomenclatural history – and link contemporary collections to archival specimens.</p>
+<p>Still, the delineation of species within our most common genera poses daunting challenges to phycologists, who continue to pursue field, culture and molecular studies to determine relationships at every taxonomic level.  </p>
+    </div>
+  </div>
+</td>
+</tr>
+</table>
+
+<hr>
+<center><p class="bodyText"><a href="CPD/algal_research.html">I dedicate this work to Paul C. Silva, with love</a></p></center>
+
+
+
+<!--
+<hr>
+<table>
+<tr>
+<td>
+<h4 class="pageMajorHeading"><a id="objectives"></a>Key Objectives</h4> 
+<span class="bodyText">
+
+<li><strong>Understanding the consequences of global climate change and anthropogenic alteration of the marine environment</strong> </li>
+
+<p>The California coastal environment has suffered from the consequences of rapid population growth: alteration or degradation as the result of development, pollution, overfishing, oil drilling, mariculture and global marine transportation.  Habitats for seaweeds, especially in southern California, are vastly different than they were 100 years ago. </p>
+<p>We know that biological consequences of global climate changes in the Pacific marine environment will be broad-reaching.  Species ranges will expand or contract, depending on physiological tolerances and capacities to adapt to new conditions.  Shifts in geographic ranges have proceeded more rapidly in marine vs. terrestrial systems, with a high potential for community-level changes. The majority of non-native seaweed species reported from California have been discovered in the last 40 years, suggesting a link between climate change and species spread, yet many of these are under the radar of managers and policy makers.</p>
+
+<li><strong>Updating taxonomic concepts and biogeography</strong> </li>
+
+<p>Our understanding of the California's seaweed flora has changed dramatically since the publication of Marine Algae of California (1976). New collections and new techniques, including culture studies, electron microscopy and DNA sequencing, have contributed to a revolution in algal taxonomy during the last three decades.</p>
+<p>Since 1976, 105 taxa have been added to the flora and 300 names have changed.  Many taxonomic problems at the genus and species level need to be acknowledged and solved; strategic molecular investigations are critical.  Our most common species can be the most difficult to identify with confidence; new field and lab characters, with detailed illustrations, are required as aids.  Geographic range data must be updated based on comparisons of historical and recent collections. </p>
+
+<li><strong>Fostering education</strong> </li>
+<p>There is a pressing need for assistance in identifying California seaweeds.  Only a handful of specialists focus on the Pacific coast flora.  Fewer courses that include seaweed identification are available as faculty compositions change in our colleges and universities.  Seaweed courses at marine labs are languishing.  Educators at all levels as well as dedicated amateurs and coastal managers need a reliable, well-illustrated and accessible reference for identifying, understanding and appreciating our seaweed flora. </p>
+</span>
+<hr>
+<h4 class="pageMajorHeading"><a id="history"></a>History of the University Herbarium and the Silva Center for Phycological Documentation</h4> 
+<span class="bodyText">
+<img src="http://ucjeps.berkeley.edu/common/images/setchell.gif" alt="photo of W.A. Setchell in a library" height="200px" style="float:right; padding-left:20px">
+<p>UC has emphasized marine algae from its inception, primarily due to the interests of its founder, W.A. Setchell, who specialized in several groups of seaweeds and in marine biogeography.  As a result of Setchell's efforts and those of his successors, G.F. Papenfuss and P.C. Silva, UC's seaweed collection is exemplary.  Over the years, it has developed an emphasis on Pacific Coast algae, beginning with Setchell's unrealized goal of producing a seaweed flora of the Pacific Coast.</p>
+<p>When Setchell arrived in 1895, he inherited a small collection of seaweeds collected by Marshall Avery Howe from Monterey Bay. Setchell collected extensively with the help of amateurs and the collections grew in size and geographic scope.  Setchell procured a large number of type specimens and established contacts worldwide.  His students, including Nathaniel Lyon Gardner, became well known phycologists.  One of Setchell's earliest accomplishments was the <em>Phycotheca Boreali-Americana</em>, the Algae of North America.  This 46 volume set of exsiccatae, including many type specimens, was distributed in 80 sets to major institutions and represents one of the most important historical collections in North America (<a href="http://ucjeps.berkeley.edu/ina/pba/pba_main.html">http://ucjeps.berkeley.edu/ina/pba/pba_main.html</a>).</p>
+<p>George F. Papenfuss succeeded Setchell as Curator of Algae and brought with him extensive collections from South Africa and Hawaii. He added collections from east Africa resulting from an expedition funded by the National Science Foundation in the 1960's. Papenfuss supervised 14 dissertations on the morphology and taxonomy of marine algae, maintaining UC's eminence in phycology. Paul C. Silva came to Berkeley in 1948 as a graduate student and returned as Curator of Algae in 1960. He collected extensively on the Pacific coast of North America.</p>
+<p>UC has ~180,000 seaweed specimens with ~50,000 from California.  The collections represent voucher material for regionally and internationally important studies and include approximately 2000 type specimens.  With the recent addition of 40,000 specimens from the Los Angeles County Museum (including those formerly housed at the Allan Hancock Foundation) plus many gifts from orphaned collections, our holdings of California seaweeds are extraordinary.</p>
+<img src="http://ucjeps.berkeley.edu/common/images/PCS.jpg" alt="bust photograph of Paul Silva" height="200px" style="float:right; padding-left:20px">
+<p>The <a href="http://ucjeps.berkeley.edu/CPD/algal_research.html">Silva Center for Phycological Documentation</a> was established in 2004 with a generous endowment gift from Paul C. Silva, Curator Emeritus of Algae.  The primary mission of the Center is to develop, maintain, and promulgate documentation in the field of algal systematics.  Its heart is the Index Nominum Algarum (INA) and Bibliographia Phycologica Universalis (BPU), card files available in electronic formats (<a href="http://ucjeps.berkeley.edu/INA.html">http://ucjeps.berkeley.edu/INA.html</a>).  The INA contains nearly 200,000 names of algae (in the broad sense); the BPU contains bibliographic references pertaining to algal taxonomy.</p>
+</span></td></tr></tbody></table>
+-->
+<!-- Begin footer --> 
+<table width="100%" id="footer">
+  <tr>
+    <td height="18" class="banner"><img src="common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  </tr>
+  <tr>
+    <td height="20"><span class="copyrightText"><a href="main/copyright.html"> Copyright</a> &copy; 2016  Regents of the University of California
+<br>If you have questions or comments about the California Seaweed eFlora, please contact Kathy Ann Miller, University Herbarium, University of California at Berkeley. <a href="mailto:kathyannmiller@berkeley.edu">kathyannmiller@berkeley.edu</a>
+<br>We encourage links to these pages, but the content may not be downloaded for reposting, repackaging, redistributing, or sale in any form, without written permission from The University Herbarium.
+</span></td>
+  </tr>
+</table>
+<!-- End footer -->
+</body></html>
+

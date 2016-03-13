@@ -1,0 +1,19 @@
+<div id="view_index">
+  <div class="medium-2 columns text-right">
+    <%= image_tag 'logo.png' %>
+  </div>
+  <div class="medium-10 large-10 columns">
+    <h3>welcome to <b>Botanist Toolbelt</b></h3>
+    <p>Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in.</p>
+  </div>
+
+  <div class="column row"><hr></div>
+
+  <%= render partial: "layouts/carousel", locals: {options: @options} %>
+
+  <div class="column row"><hr></div>
+
+
+  <%= render partial: "layouts/info_tabs" %>
+  <%# render partial: "layouts/search" %>
+</div>

@@ -1,5 +1,3 @@
-# This class represents each option in the dichotemous key.
-#It represents the majority of the data
 class Option
   include Mongoid::Document
   include Mongoid::Tree

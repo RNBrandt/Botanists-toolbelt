@@ -4,7 +4,7 @@ require_relative "../app/helpers/link_helpers"
 Option.destroy_all
 Glossary.destroy_all
 
-BASE_URL = '/Users/apprentice/Desktop/pete/Jepson-2/ucjeps.berkeley.edu'
+BASE_URL = "http://ucjeps.berkeley.edu"
 
 @current_href = "/IJM_fam_key.html"
 
@@ -12,10 +12,11 @@ BASE_URL = '/Users/apprentice/Desktop/pete/Jepson-2/ucjeps.berkeley.edu'
 
 
 
-def scrape_and_find_links(url)
+def scrape_and_find_links(current_href, parent_page=nil, parent_key=nil)
+  url = BASE_URL + current_href
   dichotomies = scrape(url)
-  make_first_nodes(dichotomies)
-  fill_tree(dichotomies)
+  make_first_nodes(dichotomies, parent_page, parent_key, current_href)
+  fill_tree(dichotomies, current_href)
   return find_links(url)
 end
 
@@ -28,24 +29,21 @@ def create_link_objs (url)
   return link_objs
 end
 
-def recursive_scrape(href, parent_href)
+def recursive_scrape( href, parent_page=nil,parent_key=nil )
+  p BASE_URL
+  p href
+  url = BASE_URL + href
   p_tags = scrape(url)
   if tags_with_links = p_tags.select { |txt| txt.match(/(?<=\.\.\.\.\.).*/)} == []
     return "done"
   end
-  #if page has no links with .....
-  #return
 
-  url = BASE_URL + href
-  scrape_and_find_links(url)
-  links = create_link_objs(url)
+  scrape_and_find_links(href, parent_page, parent_key)
+  p links = create_link_objs(url)
 
-  links.each do |key, link|
-    recursive_scrape(link, href)
+  links.each do |link|
+    recursive_scrape(link.href, link.parent_href, link.parent_key)
   end
-
 end
 
- url = BASE_URL + @current_href
-p create_link_objs(url)
-
+recursive_scrape("/IJM_fam_key.html")

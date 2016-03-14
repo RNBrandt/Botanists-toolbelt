@@ -1,0 +1,20 @@
+<% tweets.each do |twit| %>
+  <div class="row">
+    <div class="medium-8 large-8 columns panel callout radius" id="panel-left">
+      <div class="medium-2 large-2 columns">
+        <img class="th" src="<%= twit.user.profile_image_url %>">
+      </div>
+      <div class="medium-10 large-10 columns">
+        <b><%= twit.user.name %></b>
+        - <span style="font-size: 0.7rem; color: #333"><%= twit.created_at.httpdate %></span>
+        <hr>
+        <%= twit.text %>
+        <br/>
+        <br/>
+        <% twit.media.each do |media| %>
+          <img class="th" src="<%= media.media_url %>">
+        <% end %>
+      </div>
+    </div>
+  </div>
+<% end %>

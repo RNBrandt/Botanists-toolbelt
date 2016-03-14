@@ -1,0 +1,67 @@
+// Site Color Palette
+$color-orange: #f04124;
+$color-blue: #008CBA;
+$color-gray: #DDDDDD;
+$color-text: black;
+$color-header-white: white;
+$radius-border: 6px;
+$panel-height: 240px;
+
+p {
+  color: $color-text;
+}
+
+.header-text {
+  color: $color-header-white;
+}
+#view_index {
+  background-image: url('background.png');
+  background-size: 800px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: -80% 0%; 
+  background-color: $color-gray;
+  border-radius: $radius-border;
+}
+
+#logo {
+  margin-top: 60px;
+}
+
+#view_index h1 {
+  color: #d54d7b;
+  font-family: "Great Vibes", cursive;
+  font-size: 65px;
+  line-height: 60px;
+  font-weight: normal;
+  margin-bottom: 0px;
+  margin-top: 30px;
+  text-align: center;
+  text-shadow: 0 1px 1px gray;
+}
+
+
+p {
+  color: #7a7c7f;
+  font-size: 16px;
+  font-family: "Libre Baskerville", serif;
+  line-height: 28px;
+  text-align: center;
+  text-shadow: 0 1px 1px #fff;
+  padding-top: 20px;
+  }
+
+
+p.byline { font-style: italic;
+  color: #B6B6B6;
+  font-size: 24px;
+  margin-top: 20px;
+  text-align: center;
+  text-shadow: 0 1px 1px #fff;
+}
+
+.panel {
+  height: $panel-height;
+
+}
+

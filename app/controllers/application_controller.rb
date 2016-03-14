@@ -1,3 +1,4 @@
+# This is the controller required for rails to function
 class ApplicationController < ActionController::Base
   # Prevent CSRF attacks by raising an exception.
   # For APIs, you may want to use :null_session instead.

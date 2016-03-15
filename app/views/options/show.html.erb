@@ -1,0 +1,7 @@
+<h1>Options#index</h1>
+
+<ul>
+<%@children.each do |option|%>
+  <li><a href="/options/<%=option.id%>"><%=option.text%></a></li>
+  <%end%>
+</ul>

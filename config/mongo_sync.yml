@@ -1,0 +1,19 @@
+# MongoSync Configurations
+
+local:
+  db: 'toolbelt_development'
+
+remote:
+  db: 'heroku_ttq3fpb1'
+  host:
+    url: 'ds011389.mlab.com'
+    port: 11389
+  access:
+    username: 'heroku_ttq3fpb1'
+    password: 'd7imm8pnoab5qarh91oeli5hq'
+
+# For now :local only accepts DB name
+# Assumes DB is at localhost:27017
+
+# All of the parameters above are required,
+# without them the tasks will fail

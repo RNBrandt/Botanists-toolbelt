@@ -1,0 +1,28 @@
+<div class="row radius" id="view_index">
+
+  <div class="medium-3 large-3 columns text-right" id="logo">&nbsp;</div>
+  <div class="medium-8 large-8 columns">
+    <h1 class="header-text">welcome to <b>Botanist Toolbelt</b></h1>
+    
+    <p>Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in.</p>
+
+    <p><span data-tooltip aria-haspopup="true" data-keyword="angiosperm" class="has-tip tip-top" title="Tooltips are awesome, you should totally use them!"><a href="#div-tabs">Angiosperm</a></span> &nbsp;
+    <span data-tooltip aria-haspopup="true" data-keyword="ephedra" class="has-tip tip-top" title="Tooltips are awesome, you should totally use them!"><a href="#div-tabs">Ephedra</a></span>
+    <span data-tooltip aria-haspopup="true" data-keyword="THELYPTERIDACEAE Thelypteris Family" class="has-tip tip-top" title="Tooltips are awesome, you should totally use them!"><a href="#div-tabs">THELYPTERIDACEAE Thelypteris Family</a></span></p>
+  </div>
+  <div class="medium-1 large-1 columns">&nbsp;</div>
+</div>
+
+<!-- hr begins -->
+<div class="row"><div class="medium-12 large-12 columns"><hr></div></div>
+<!-- hr ends -->
+
+<%= render partial: "layouts/carousel", locals: {options: @options} %>
+
+<!-- hr begins -->
+<div class="row"><div class="medium-12 large-12 columns"><hr></div></div>
+<!-- hr ends -->
+<br>
+<%= render partial: "layouts/search" %>
+<%= render partial: "layouts/info_tabs" %>
+<br>

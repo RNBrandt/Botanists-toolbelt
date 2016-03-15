@@ -1,0 +1,17 @@
+<h1><%= @genus.scientific_name %></h1>
+<h2><%= @genus.common_name %></h2>
+<!-- hr begins -->
+<div class="row"><div class="medium-12 large-12 columns"><hr></div></div>
+<!-- hr ends -->
+<div>
+  <!-- <ul> -->
+    <% @genus.description.split('. ').each do |attr| %>
+      <p><%= attr %></p>
+    <% end %>
+  <!-- </ul> -->
+</div>
+
+
+
+<!-- sample url for testing: -->
+<!-- genera/56e6f03cc3b5a009e51bf24d -->

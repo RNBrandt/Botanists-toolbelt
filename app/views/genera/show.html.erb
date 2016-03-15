@@ -1,17 +1,36 @@
-<h1><%= @genus.scientific_name %></h1>
-<h2><%= @genus.common_name %></h2>
-<!-- hr begins -->
-<div class="row"><div class="medium-12 large-12 columns"><hr></div></div>
-<!-- hr ends -->
-<div>
-  <!-- <ul> -->
-    <% @genus.description.split('. ').each do |attr| %>
-      <p><%= attr %></p>
-    <% end %>
-  <!-- </ul> -->
-</div>
+<section id="content">
+  <div class="content-wrap">
+    <div class="container clearfix">
 
+      <div class="title-block">
+        <h1><span><%= @genus.scientific_name %></span></h1>
+        <span><%= @genus.common_name %></span>
+      </div>
 
+      <div class="col-md-6">
+        <div class="fancy-title title-border bottommargin-sm"><h4><span>Flower</span></h4></div>
+        Flower: generally radial; hypanthium free or +- fused to ovary; petals 5, white, sometimes with yellow spots at base; stamens 10, filaments flat or variously inflated; pistils 1 (chambers 2, placentas 2, axile or occasionally proximally axile and distally marginal) or 2, ovary superior to +- inferior (sometimes more superior in fruit), styles free throughout
+      </div>
 
-<!-- sample url for testing: -->
-<!-- genera/56e6f03cc3b5a009e51bf24d -->
+      <div class="col-md-6">
+        <div class="fancy-title title-border bottommargin-sm"><h4><span>Flower</span></h4></div>
+        Flower: generally radial; hypanthium free or +- fused to ovary; petals 5, white, sometimes with yellow spots at base; stamens 10, filaments flat or variously inflated; pistils 1 (chambers 2, placentas 2, axile or occasionally proximally axile and distally marginal) or 2, ovary superior to +- inferior (sometimes more superior in fruit), styles free throughout
+      </div>
+
+      <div class="col-md-6 divider divider-center"><i class="icon-cloud"></i></div>
+
+      <div class="col-md-6">
+        <div class="fancy-title title-border bottommargin-sm"><h4><span>Flower</span></h4></div>
+        Flower: generally radial; hypanthium free or +- fused to ovary; petals 5, white, sometimes with yellow spots at base; stamens 10, filaments flat or variously inflated; pistils 1 (chambers 2, placentas 2, axile or occasionally proximally axile and distally marginal) or 2, ovary superior to +- inferior (sometimes more superior in fruit), styles free throughout
+      </div>
+
+      <div class="col-md-6">
+        <div class="fancy-title title-border bottommargin-sm"><h4><span>Flower</span></h4></div>
+        Flower: generally radial; hypanthium free or +- fused to ovary; petals 5, white, sometimes with yellow spots at base; stamens 10, filaments flat or variously inflated; pistils 1 (chambers 2, placentas 2, axile or occasionally proximally axile and distally marginal) or 2, ovary superior to +- inferior (sometimes more superior in fruit), styles free throughout
+      </div>
+
+      <div class="col-md-6 divider divider-center"><i class="icon-cloud"></i></div>
+
+    </div>
+  </div>
+</section>

@@ -1,20 +1,19 @@
-<% tweets.each do |twit| %>
-  <div class="row">
-    <div class="medium-8 large-8 columns panel callout radius" id="panel-left">
-      <div class="medium-2 large-2 columns">
-        <img class="th" src="<%= twit.user.profile_image_url %>">
-      </div>
-      <div class="medium-10 large-10 columns">
-        <b><%= twit.user.name %></b>
-        - <span style="font-size: 0.7rem; color: #333"><%= twit.created_at.httpdate %></span>
-        <hr>
+<ul class="statuses">
+  <% tweets.each do |twit| %>
+    <li>
+      <a href="https://twitter.com/<%= twit.user.name %>/status/<%= twit.id %>"><img class="avatar" src="<%= twit.user.profile_image_url %>" width="48" height="48" alt="avatar"></a>
+      <div class="tweetTxt">
+        <strong><a href="https://twitter.com/<%= twit.user.name %>/status/<%= twit.id %>"><%= twit.user.name %></a></strong> <div class="date"><%= twit.user.screen_name %></div>
         <%= twit.text %>
-        <br/>
-        <br/>
+        <div class="date"><%= twit.created_at.httpdate %></div>
+      </div>
+      <div>
         <% twit.media.each do |media| %>
-          <img class="th" src="<%= media.media_url %>">
+        <div class="clear"></div>
+          <a href="https://twitter.com/<%= twit.user.name %>/status/<%= twit.id %>"><img class="th" src="<%= media.media_url %>"></a>
         <% end %>
       </div>
-    </div>
-  </div>
-<% end %>
+      <div class="clear"></div>
+    </li>
+  <% end %>
+</ul>

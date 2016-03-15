@@ -3,13 +3,13 @@
 class Option
   include Mongoid::Document
   include Mongoid::Tree
-  include Mongoid::Tree::Ordering
   field :text, type: String
   field :head, type: String
   field :page, type: String
   field :key, type: String
-  has_many :species
-  has_many :genera, class_name: "Genus"
-  has_many :families
+  field :child_obj, type: Hash
+  # has_many :species
+  # has_many :genera, class_name: "Genus"
+  # has_many :families
 end
 

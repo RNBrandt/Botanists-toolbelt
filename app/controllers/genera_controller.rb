@@ -6,5 +6,6 @@ class GeneraController < ApplicationController
 
   def show
     @genus = Genus.find(params[:id])
+    render layout: "detail"
   end
 end

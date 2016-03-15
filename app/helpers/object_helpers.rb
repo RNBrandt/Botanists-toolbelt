@@ -21,6 +21,13 @@ def create_obj(url, klass)
   doc = Nokogiri.parse(Net::HTTP.get(uri))
   scientific_name = doc.css("span.pageLargeHeading").inner_text
   common_name = doc.css("span.pageMajorHeading").inner_text
+  if klass == Species
+    image_grab = doc.css("img")[4].attr('src')
+    if image_grab.match(/^[^\/].*\.\w{1,4}$/)
+      image_url = image_grab
+      p image_url
+    end
+  end
   if doc.css("div.bodyText").inner_text == ''
     p "BROKEN!!!!!!!!!!!!"
     return Family.create(description: "Sorry this link is broken")
@@ -29,8 +36,12 @@ def create_obj(url, klass)
   end
 
   if klass.where(scientific_name: scientific_name) == []
-
-    return klass.create(scientific_name: scientific_name, common_name: common_name, description: add_tool_tip_span(description))
+    if klass == Species
+      return klass.create(scientific_name: scientific_name, common_name: common_name, description: add_tool_tip_span(description),
+        image_url: image_url)
+    else
+      return klass.create(scientific_name: scientific_name, common_name: common_name, description: add_tool_tip_span(description))
+    end
   else
     return klass.find_by(scientific_name: scientific_name)
   end

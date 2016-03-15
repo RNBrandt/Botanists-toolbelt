@@ -6,50 +6,46 @@
     <title><%= content_for?(:title) ? yield(:title) : "Botanist Toolbelt" %></title>
     
     <%= javascript_include_tag "application", 'data-turbolinks-track' => true %>
-    
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/css/foundation.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/css/normalize.min.css">
     <%= stylesheet_link_tag    "application" %>
-    <link href='https://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Libre+Baskerville' rel='stylesheet' type='text/css'>
     <%= csrf_meta_tags %>
+  <link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="/assets/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="/assets/style.css" type="text/css" />
+  <link rel="stylesheet" href="/assets/dark.css" type="text/css" />
+  <link rel="stylesheet" href="/assets/font-icons.css" type="text/css" />
+  <link rel="stylesheet" href="/assets/animate.css" type="text/css" />
+  <link rel="stylesheet" href="/assets/magnific-popup.css" type="text/css" />
+  <link rel="stylesheet" href="/assets/responsive.css" type="text/css" />
   </head>
 
-  <body>
+<body class="stretched">
+  <div id="wrapper" class="clearfix">
     <%= render '/layouts/nav' %>
-    <div class="container"><%= yield %></div>
+    <%= yield %>
     <%= render '/layouts/footer' %>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/vendor/modernizr.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.tooltip.js"></script>
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.clearing.min.js"></script> -->
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.abide.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.accordion.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.alert.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.clearing.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.dropdown.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.equalizer.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.interchange.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.joyride.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.magellan.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.offcanvas.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.orbit.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.reveal.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.slider.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.tab.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.tooltip.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.topbar.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/vendor/fastclick.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/vendor/jquery.cookie.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/vendor/jquery.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/vendor/modernizr.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/vendor/placeholder.js"></script> -->
+  </div>
 
 
-  </body>
+
+   
+
+  <!-- External JavaScripts
+  ============================================= -->
+  <script type="text/javascript" src="/assets/jquery.infinitescroll.js"></script>
+  <script type="text/javascript" src="/assets/plugins.js"></script>
+  
+
+  <!-- Footer Scripts
+  ============================================= -->
+  <script type="text/javascript" src="/assets/functions.js"></script>
+  <script type="text/javascript" src="/assets/typeahead.js"></script>
+  <script type="text/javascript" src="/assets/app.js"></script>
+
+  <script type="text/javascript">
+    $(function() {
+      $( "#side-navigation" ).tabs({ show: { effect: "fade", duration: 400 } });
+    });
+  </script>
+
+</body>
 </html>

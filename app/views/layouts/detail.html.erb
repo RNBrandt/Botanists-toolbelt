@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%= content_for?(:title) ? yield(:title) : "Botanist Toolbelt" %></title>
+    
+    <%= javascript_include_tag "application", 'data-turbolinks-track' => true %>
+    <%= stylesheet_link_tag    "application" %>
+    <%= csrf_meta_tags %>
+  <link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="/assets/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="/assets/style.css" type="text/css" />
+  <link rel="stylesheet" href="/assets/dark.css" type="text/css" />
+  <link rel="stylesheet" href="/assets/font-icons.css" type="text/css" />
+  <link rel="stylesheet" href="/assets/animate.css" type="text/css" />
+  <link rel="stylesheet" href="/assets/magnific-popup.css" type="text/css" />
+  <link rel="stylesheet" href="/assets/responsive.css" type="text/css" />
+  </head>
+
+<body class="stretched">
+  <div id="wrapper" class="clearfix">
+    <%= render '/layouts/detail_nav' %>
+    <%= yield %>
+    <%= render '/layouts/footer' %>
+  </div>
+
+
+
+   
+
+  <!-- External JavaScripts
+  ============================================= -->
+  <script type="text/javascript" src="/assets/jquery.infinitescroll.js"></script>
+  <script type="text/javascript" src="/assets/plugins.js"></script>
+  
+
+  <!-- Footer Scripts
+  ============================================= -->
+  <script type="text/javascript" src="/assets/functions.js"></script>
+  <script type="text/javascript" src="/assets/typeahead.js"></script>
+  <script type="text/javascript" src="/assets/app.js"></script>
+
+  <script type="text/javascript">
+    $(function() {
+      $( "#side-navigation" ).tabs({ show: { effect: "fade", duration: 400 } });
+    });
+  </script>
+
+</body>
+</html>

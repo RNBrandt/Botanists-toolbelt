@@ -12,13 +12,10 @@
  *
  *= require_tree .
  *= require_self
+ *= require_twitter
 
  */
 
- /* Panels */
- body {
-  /*background-color: $body-color;*/
- }
 .panel {
   border-style: solid;
   border-width: 1px;

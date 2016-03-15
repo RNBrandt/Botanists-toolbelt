@@ -1,31 +1,65 @@
-<nav class="top-bar" data-topbar role="navigation">
-  <ul class="title-area">
-    <li class="name">
-      <h1><a href="#">Botanist Toolbelt</a></h1>
-    </li>
-    <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
-    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-  </ul>
+<header id="header" class="transparent-header page-section dark">
+  <div id="header-wrap">
+    <div class="container clearfix">
+      <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+      
+      <div id="logo">
+        <a href="index.html" class="standard-logo" data-dark-logo="/assets/logo-dark.png"><img src="/assets/logo.png" alt="Botanist Toolbelt"></a>
+        <a href="index.html" class="retina-logo" data-dark-logo="/assets/logo-dark@2x.png"><img src="/assets/logo@2x.png" alt="Botanist Toolbelt"></a>
+      </div>
 
-  <section class="top-bar-section">
-    <!-- Right Nav Section -->
-    <ul class="right">
-      <li class="active"><a href="#">Right Button Active</a></li>
-      <li class="has-dropdown">
-        <a href="#">Right Button Dropdown</a>
-        <ul class="dropdown">
-          <li><a href="#">First link in dropdown</a></li>
-          <li class="active"><a href="#">Active link in dropdown</a></li>
+      <nav id="primary-menu">
+        <ul class="one-page-menu">
+          <li class="current"><a href="#" data-href="#header"><div>Home</div></a></li>
+          <li><a href="#" data-href="#section-features"><div>About</div></a></li>
+          <li><a href="#" data-href="#section-pricing"><div>Contact</div></a></li>
         </ul>
-      </li>
-    </ul>
+      </nav>
+    </div>
+  </div>
 
-    <!-- Left Nav Section -->
-    <ul class="left">
-      <li><a href="/">Home</a></li>
-    </ul>
-  </section>
-</nav>
+</header>
 
+<section id="slider" class="slider-parallax full-screen dark" style="background: url(/assets/landing/static.jpg) center center no-repeat; background-size: cover">
+  <div class="slider-parallax-inner">
+    <div class="container vertical-middle clearfix">
+      <div class="heading-block title-center nobottomborder">
+        <h2>
+          <div class="text-rotater" data-separator="|" data-rotate="bounceIn" data-speed="2500">
+            Be a  <span class="t-rotate color">Superb|Marvelous|Remarkable|Magnificient</span> Botanist
+          </div>
+        </h2>
 
-<br>
+        <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, consectetur officia, consequatur voluptate alias tenetur earum voluptates cum</span>
+
+        <div class="allmargin">
+        </div>
+        <a href="#" class="button button-3d button-teal button-xlarge nobottommargin"><i class="icon-star3"></i> Start   Dichotomy Tree</a>  - OR - 
+      </div>
+
+      <div class="contact-widget col_half divcenter">
+        <div class="contact-form-result">
+        </div>
+          
+        <form class="nobottommargin" id="template-contactform" name="template-contactform" action="include/sendemail.php" method="post" novalidate="novalidate">
+        
+          <div class="form-process">
+          </div>
+
+          <div class="col_full">
+            <div class="col-md-10">
+              <input class="sm-form-control tt-input" id="typeahead" type="text" placeholder="Search for families, species and plants" autocomplete="off" spellcheck="false" dir="auto">
+            </div>
+
+            <div class="col-md-2">
+              <button class="button button-3d nomargin" type="submit" id="template-contactform-submit" name="template-contactform-submit" value="submit">Search</button>
+            </div>
+          </div>
+        </form>
+      </div>
+
+      <div class="clear topmargin-sm">
+      </div>
+    </div>
+  </div>
+</section>

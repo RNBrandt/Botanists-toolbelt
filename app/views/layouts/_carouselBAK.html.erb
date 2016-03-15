@@ -1,0 +1,76 @@
+  <% child_left = options[0] %>
+  <% child_right = options[1] %>
+  <h4>Child Left  <%= child_left.id %></h4>
+  <h4>Child Right <%= child_right.id %></h4>
+<% if @children.class != NilClass %>
+  <% current = @children[1].parent.id %>
+  <% parent = Option.find(current).parent_id %>
+  <h4>Current <%= current %></h4>
+<% end %>
+<hr>
+
+<div id="dataCarousel" class="row">
+
+  <div class="row">
+    <div class="medium-12 large-12 columns">
+      <h2 class="text-center">1. <small>How does option one work, briefly talk about it here...</small></h2>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="large-12 columns">&nbsp;</div>
+  </div>
+
+
+  <div class="row border" id="panels-div">
+  
+    <div class="medium-1 large-1 columns">&nbsp;</div>
+
+    <a href="#" id="arrowLeft" data-id="<%= child_left.id %>">
+      <div class="medium-4 large-4 columns panel callout radius" id="panel-left">
+        <p><%= child_left.text %></p>
+      </div>
+    </a>
+
+    <div class="medium-1 large-2 columns text-center"><%= image_tag 'arrow.png' %></div>
+
+    <a href="#" id="arrowRight" data-id="<%= child_right.id %>">
+      <div class="medium-4 large-4 columns panel callout radius" id="panel-right">
+        <p><%= child_right.text %></p>
+      </div>
+    </a>
+    <div class="medium-1 large-1 columns">&nbsp;</div>
+  </div>
+
+
+  <!-- Buttons Start Here -->
+  <div class="row border" id="panels-div">
+
+    <div class="medium-1 large-1 columns">&nbsp;</div>
+
+    <div class="medium-4 large-4 columns text-center">
+      <a href="#" data-id="<%= child_left.id %>" id="arrowLeft" class="button small radius alert">◀ Continue Here</a>
+    </div>
+
+    <div class="medium-1 large-2 columns text-center">&nbsp; &nbsp; &nbsp;</div>
+
+    <div class="medium-4 large-4 columns text-center">
+      <a href="#" data-id="<%= child_right.id %>" id="arrowRight" class="button small radius alert">
+        Continue Here <%= child_right.id %> ▶
+      </a>
+
+      <% if @children.class != NilClass %>
+        <a href="#" data-id="<%= parent %>" id="arrowStepRight" class="button small radius alert">
+          ◀ Step Back - <%= parent %>
+        </a>
+      <% else %>
+        <a href="#" id="arrowParent" class="button small radius alert">Back</a>
+      <% end %>
+    </div>
+
+    <div class="medium-1 large-1 columns">&nbsp;</div>
+  </div>
+
+  <!-- Buttons End Here -->
+  <div class="medium-1 large-1 columns">&nbsp;</div>
+</div>

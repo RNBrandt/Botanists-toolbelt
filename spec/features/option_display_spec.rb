@@ -28,9 +28,19 @@ describe Option, :js => true do
         expect(page.find("#dataCarousel")).to have_content("Bulblets")
       end
 
+      it "does not render incorrect children options on left navigation" do
+        click_on('◀ Continue Here')
+        expect(page.find("#dataCarousel")).to_not have_content("cleistogamous")
+      end
+
       it "renders the option template on right navigation" do
         click_on('Continue Here ▶')
         expect(page.find("#dataCarousel")).to have_content("Specimens")
+      end
+
+      it "does not render incorrect children options on right navigation" do
+        click_on('Continue Here ▶')
+        expect(page.find("#dataCarousel")).to_not have_content("Bulblets")
       end
     end
 

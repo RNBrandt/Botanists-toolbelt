@@ -1,0 +1,15 @@
+<h1><%= @species.scientific_name %></h1>
+<h2><%= @species.common_name %></h2>
+<div class="row"><div class="medium-12 large-12 columns"><hr></div></div>
+<!-- hr ends -->
+<div>
+  <!-- <ul> -->
+    <% @species.description.split('. ').each do |attr| %>
+      <p><%= attr %></p>
+    <% end %>
+  <!-- </ul> -->
+</div>
+
+
+<!-- sample url for testing: -->
+<!-- species/56e6f01bc3b5a009e51bf1e5 -->

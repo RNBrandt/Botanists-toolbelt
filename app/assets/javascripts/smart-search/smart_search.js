@@ -45,7 +45,7 @@ $(function () {
       })
       .done(function(data) {
         console.log(data);
-        $('#view_index').html(data);
+        $('#selction-ajax').html(data.common_name);
       })
 
       .fail(function() {

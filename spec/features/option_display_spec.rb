@@ -35,7 +35,7 @@ describe Option, :js => true do
 
       it "renders the option template on right navigation" do
         click_on('Continue Here ▶')
-        expect(page.find("#dataCarousel")).to have_content("Specimens")
+        expect(page.find("#dataCarousel")).to have_content("cleistogamous")
       end
 
       it "does not render incorrect children options on right navigation" do
@@ -69,12 +69,20 @@ describe Option, :js => true do
     end
 
     describe 'smart search' do
-      before(:each) do
-        fill_in 'autocomplete-ajax', with: 'ly'
-      end
+      # before(:each) do
+      #   fill_in 'autocomplete-ajax', with: 'ly'
+      # end
 
       it 'displays dropdown of auto-complete options' do
+        fill_in 'autocomplete-ajax', with: 'ly'
         expect(page).to have_content('Lycopodiaceae')
+      end
+
+      it 'retrieves family information asynchronously' do
+        fill_in 'autocomplete-ajax', with: 'Lycopodiaceae'
+        # click_on('Lycopodiaceae')
+        click_on('Search')
+        expect(page).to have_content('CLUB-MOSS FAMILY')
       end
 
       # it 'allows user to navigate to associated page' do

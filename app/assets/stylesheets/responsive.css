@@ -1712,18 +1712,19 @@ only screen and (                min-resolution: 2dppx) {
 	#logo a.standard-logo { display: none; }
 	#logo a.retina-logo { display: block; }
 
-	.owl-carousel.owl-loading,
+	/*.owl-carousel.owl-loading,
 	.preloader,
 	.preloader2,
 	.form-process {
-		background-image: url('../images/preloader@2x.gif');
+		background-image: url('preloader.gif');
 		background-size: 24px 24px;
-	}
+	}*/
+	/*image didn't exist, so added a preloader from internet - Dave*/
 
 	.dark .owl-carousel.owl-loading,
 	.dark .preloader,
 	.dark .preloader2,
-	.dark .form-process { background-image: url('../images/preloader-dark@2x.gif'); }
+	.dark .form-process { background-image: url('preloader-dark.gif'); }
 
 	.widget_recent_comments li {
 		background-image: url("../images/icons/widget-comment@2x.png");
@@ -1739,7 +1740,7 @@ only screen and (                min-resolution: 2dppx) {
 	.widget_pages li a,
 	.widget_rss li a,
 	.widget_recent_comments li a {
-		background-image: url("../images/icons/widget-link@2x.png");
+		background-image: url("icons/widget-link@2x.png");
 		background-size: 4px 20px;
 	}
 

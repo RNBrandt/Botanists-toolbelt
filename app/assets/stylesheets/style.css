@@ -10070,11 +10070,12 @@ blockquote.pull-right {
 
 .owl-carousel.owl-loaded { display:block }
 
-.owl-carousel.owl-loading {
+/*.owl-carousel.owl-loading {
 	display:block;
 	min-height: 100px;
 	background: url('images/preloader.gif') no-repeat center center
-}
+}*/
+/*Took this out - Dave*/
 
 .owl-carousel .owl-refresh .owl-item { display:none }
 
@@ -11180,14 +11181,14 @@ body:not(.device-touch) #gotoTop {
 -----------------------------------------------------------------*/
 
 
-.preloader,
+/*.preloader,
 .preloader2,
 .form-process {
 	display: block;
 	width: 100%;
 	height: 100%;
 	background: url("images/preloader.gif") center center no-repeat #FFF;
-}
+}*/
 
 .preloader2 { background-color: transparent; }
 

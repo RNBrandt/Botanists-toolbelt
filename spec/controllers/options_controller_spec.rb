@@ -6,8 +6,8 @@ describe OptionsController, type: :controller do
   # let!(:option) { Option.create(text: 'Is it a plant?', head: 'root') }
   # let!(:child) { option.children.create(text: 'Bulblets') }
   # let!(:child_prime) { option.children.create(text: "That's right, Bulblets") }
-  let!(:option) { Option.first }
-  let!(:options) { Option.where(head: 'root') }
+  let!(:options) { Option.where(head: 'root', page:"/IJM_fam_key.html") }
+  let!(:option) { options.first }
 
   describe 'get #index' do
     it 'renders question display' do

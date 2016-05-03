@@ -1,4 +1,5 @@
-# Controller for all Options objects
+require_relative "../helpers/species_helpers"
+
 class OptionsController < ApplicationController
 
   def index
@@ -8,12 +9,9 @@ class OptionsController < ApplicationController
       render partial: 'layouts/carousel', locals: { options: @options }, layout: false
     end
 
-    @family_count = 118
-    # @family_count = Family.all.count
-    @species_count = 7342
-    # @species_count = Species.all.count
-    @genera_count = 971
-    # @genera_count = Genus.all.count
+    @family_count = Family.all.count
+    @species_count = Species.all.count
+    @genera_count = Genus.all.count
 
   end
 
@@ -39,30 +37,14 @@ class OptionsController < ApplicationController
     if @option.parent
       @parent = @option.parent.id
     end
-    @col_width = 6
-    @image = ''
-    @credit = nil
 
     if @option.child_obj != {}
 
       obj_type = @option.child_obj.keys[0]
       obj_id = @option.child_obj[obj_type]
       if obj_type == "Species"
-        @child_obj = Species.find(obj_id)
-        @description = @child_obj.description
-        if @child_obj.image_url
-          @image = @child_obj.image_url
-          @credit = @child_obj.image_credit
-          @col_width = 4
-        end
-
-        caps = @description.match(/^[A-Z]+/).to_s
-
-        if caps
-          @status = "Status: " + @description[0...(caps.length-1)]
-          @description = @description[(caps.length-1)..-1]
-        end
-
+        get_species(obj_id)
+        # method found in species_helpers.rb
       elsif obj_type == "Family"
         @child_obj = Family.find(obj_id)
         @description = @child_obj.description
@@ -71,6 +53,10 @@ class OptionsController < ApplicationController
         @description = @child_obj.description
       end
     end
+
+    @col_width ||= 6
+    @image ||= ''
+    @credit ||= nil
 
     if request.xhr?
       if @child_obj
@@ -107,8 +93,6 @@ class OptionsController < ApplicationController
   def contact
     render layout: "detail"
   end
-
-
 
 end
 
